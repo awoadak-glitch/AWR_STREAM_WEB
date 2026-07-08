@@ -1,37 +1,44 @@
-/* إخفاء شريط التمرير للأقسام الأفقية لتبدو مثل تطبيقات الهواتف */
-.scrollbar-hide::-webkit-scrollbar {
-    display: none;
+/* إخفاء شريط التمرير الافتراضي للمتصفح بالكامل لتجربة تطبيقية */
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; 
 }
-.scrollbar-hide {
+
+body {
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
 
-/* تعديل ألوان أزرار مكتبة Swiper لتناسب الموقع */
-.swiper-button-next::after, .swiper-button-prev::after {
-    font-size: 1.5rem !important;
-    font-weight: bold;
+/* حركة ظهور المودال من الأسفل */
+@keyframes slideUp {
+    from { transform: translateY(50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
 }
-.swiper-pagination-bullet {
-    background-color: #ffffff !important;
-    opacity: 0.5;
-}
-.swiper-pagination-bullet-active {
-    background-color: #3b82f6 !important;
-    opacity: 1;
+.animate-slide-up {
+    animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-/* تنسيق شريط التمرير الرئيسي للصفحة */
-::-webkit-scrollbar {
-    width: 8px;
+/* تنسيق نقاط السويبر (الـ Pagination) في الهيرو */
+.swiper-pagination-bullet {
+    background: #fff !important;
+    opacity: 0.3 !important;
+    width: 8px !important;
+    height: 8px !important;
+    transition: all 0.3s ease !important;
 }
-::-webkit-scrollbar-track {
-    background: #020617; 
+.swiper-pagination-bullet-active {
+    opacity: 1 !important;
+    background: #e50914 !important; /* لون البراند */
+    width: 24px !important;
+    border-radius: 4px !important;
 }
-::-webkit-scrollbar-thumb {
-    background: #1e293b; 
-    border-radius: 10px;
+
+/* إضافة ظل خفيف للنصوص فوق الصور */
+.text-shadow {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
 }
-::-webkit-scrollbar-thumb:hover {
-    background: #3b82f6; 
+
+/* ضبط السويبر الداخلي للكروت (المسافات) */
+.contentSwiper .swiper-slide {
+    width: auto; /* يسمح للعرض بأن يُحدد من الـ Tailwind */
 }
