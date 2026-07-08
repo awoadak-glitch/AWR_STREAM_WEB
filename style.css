@@ -1,4 +1,27 @@
-/* تنسيق شريط التمرير (Scrollbar) ليناسب المظهر المظلم */
+/* إخفاء شريط التمرير للأقسام الأفقية لتبدو مثل تطبيقات الهواتف */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* تعديل ألوان أزرار مكتبة Swiper لتناسب الموقع */
+.swiper-button-next::after, .swiper-button-prev::after {
+    font-size: 1.5rem !important;
+    font-weight: bold;
+}
+.swiper-pagination-bullet {
+    background-color: #ffffff !important;
+    opacity: 0.5;
+}
+.swiper-pagination-bullet-active {
+    background-color: #3b82f6 !important;
+    opacity: 1;
+}
+
+/* تنسيق شريط التمرير الرئيسي للصفحة */
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -6,19 +29,9 @@
     background: #020617; 
 }
 ::-webkit-scrollbar-thumb {
-    background: #334155; 
+    background: #1e293b; 
     border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
     background: #3b82f6; 
-}
-
-/* حركة الظهور البسيطة (Animation) */
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-.animate-fade-in {
-    animation: fadeIn 0.3s ease-out forwards;
 }
