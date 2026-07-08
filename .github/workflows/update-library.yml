@@ -1,0 +1,40 @@
+name: Auto Update TMDB Library
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # ⏱️ أمر التشغيل الدوري: ينطلق السيرفر تلقائياً كل 30 دقيقة بدون توقف
+  workflow_dispatch:      # أمر التشغيل الفوري المباشر: يستدعى فوراً عند ضغط زر الريكوست في الموقع
+    inputs:
+      request_title:
+        description: 'اسم المحتوى المطلوب حقنه فوراً'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run Strict 100 Scraper
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          REQUEST_TITLE: ${{ github.event.inputs.request_title }}
+        run: node update_library.js
+
+      - name: Commit and Push Library Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add library.json
+          git commit -m "سحب دوري تلقائي لـ 100 عنصر لكل نوع [skip ci]" || echo "لا توجد تعديلات جديدة لرفعها"
+          git push
