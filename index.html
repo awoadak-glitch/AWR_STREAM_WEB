@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>AWR Stream Hub | Live API</title>
+    <title>AWR Stream Hub | نظام الأتمتة المباشر</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -24,101 +24,118 @@
 </head>
 <body class="bg-darkBg text-white min-h-screen font-sans overflow-x-hidden pb-16 md:pb-0">
 
-    <!-- Navbar -->
     <nav id="navbar" class="fixed w-full z-40 transition-all duration-500 bg-gradient-to-b from-black/90 to-transparent py-4">
         <div class="max-w-[1400px] mx-auto px-4 flex items-center justify-between">
             <div class="flex items-center gap-6">
                 <div class="flex items-center gap-2 text-brand font-black text-2xl uppercase cursor-pointer" onclick="switchTab('home')">
                     <i class="fa-solid fa-play"></i> AWR Hub
                 </div>
-                <!-- زر الطلبات للشاشات الكبيرة -->
                 <button onclick="openRequestModal()" class="hidden md:flex items-center gap-2 bg-gray-800 hover:bg-gray-700 text-sm px-4 py-2 rounded-full transition border border-gray-700">
-                    <i class="fa-solid fa-code-pull-request text-brand"></i> طلب إضافة
+                    <i class="fa-solid fa-bolt text-brand"></i> ريكوست فوري ومباشر
                 </button>
             </div>
             <div class="flex items-center gap-5">
                 <button onclick="switchTab('search')" class="text-gray-300 hover:text-white text-xl"><i class="fa-solid fa-magnifying-glass"></i></button>
+                <button onclick="switchTab('settings')" class="text-gray-300 hover:text-white text-xl"><i class="fa-solid fa-gear"></i></button>
                 <div class="w-8 h-8 rounded-md bg-gradient-to-tr from-brand to-purple-600"></div>
             </div>
         </div>
     </nav>
 
-    <!-- المحتوى الرئيسي (Home) -->
     <div id="homeView" class="view-section block">
         <header class="relative w-full h-[60vh] md:h-[80vh]">
             <div class="absolute inset-0 bg-gradient-to-t from-darkBg via-darkBg/20 to-transparent z-10"></div>
             <img id="heroImage" src="" class="w-full h-full object-cover opacity-60" alt="Hero">
             <div class="absolute bottom-10 right-4 md:right-10 z-20 max-w-2xl">
-                <h1 id="heroTitle" class="text-4xl md:text-6xl font-black mb-4 drop-shadow-2xl">جاري التحميل...</h1>
+                <h1 id="heroTitle" class="text-4xl md:text-6xl font-black mb-4 drop-shadow-2xl">جاري الاتصال بالمستودع...</h1>
                 <p id="heroDesc" class="text-gray-300 mb-6 line-clamp-3 text-sm md:text-base"></p>
                 <button class="bg-white text-black px-8 py-3 rounded font-bold hover:bg-gray-300 transition flex items-center gap-2">
-                    <i class="fa-solid fa-play"></i> استكشف الآن
+                    <i class="fa-solid fa-play"></i> شاهد الآن
                 </button>
             </div>
         </header>
 
         <main class="max-w-[1400px] mx-auto px-4 -mt-10 relative z-20 space-y-8 pb-10">
             <section>
-                <h2 class="text-xl font-bold mb-4">أحدث الإضافات <i class="fa-solid fa-fire text-brand text-sm"></i></h2>
+                <h2 class="text-xl font-bold mb-4">أحدث الإضافات والتريند <i class="fa-solid fa-fire text-brand text-sm"></i></h2>
                 <div class="swiper contentSwiper"><div class="swiper-wrapper" id="trendingContainer"></div></div>
             </section>
             <section>
-                <h2 class="text-xl font-bold mb-4">أفلام مميزة</h2>
+                <h2 class="text-xl font-bold mb-4">أفلام سينمائية مميزة</h2>
                 <div class="swiper contentSwiper"><div class="swiper-wrapper" id="moviesContainer"></div></div>
             </section>
             <section>
                 <h2 class="text-xl font-bold mb-4">مسلسلات حصرية</h2>
                 <div class="swiper contentSwiper"><div class="swiper-wrapper" id="seriesContainer"></div></div>
             </section>
+            <section>
+                <h2 class="text-xl font-bold mb-4">مسلسلات كورية K-Drama</h2>
+                <div class="swiper contentSwiper"><div class="swiper-wrapper" id="kdramaContainer"></div></div>
+            </section>
+            <section>
+                <h2 class="text-xl font-bold mb-4">عالم الأنمي Anime</h2>
+                <div class="swiper contentSwiper"><div class="swiper-wrapper" id="animeContainer"></div></div>
+            </section>
         </main>
     </div>
 
-    <!-- شاشة البحث (Search) -->
     <div id="searchView" class="view-section hidden pt-24 px-4 max-w-[1400px] mx-auto min-h-screen">
         <div class="relative max-w-2xl mx-auto mb-8">
             <i class="fa-solid fa-magnifying-glass absolute right-4 top-4 text-gray-400"></i>
-            <input type="text" id="searchInput" placeholder="ابحث عن فيلم أو مسلسل..." class="w-full bg-gray-800 text-white border border-gray-700 rounded-full py-3 pr-12 pl-4 focus:outline-none focus:border-brand transition">
+            <input type="text" id="searchInput" placeholder="ابحث فوري داخل ملف المكتبة..." class="w-full bg-gray-800 text-white border border-gray-700 rounded-full py-3 pr-12 pl-4 focus:outline-none focus:border-brand transition">
         </div>
-        <div id="searchResults" class="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-3 md:gap-4">
-            <!-- نتائج البحث تظهر هنا -->
+        <div id="searchResults" class="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-3 md:gap-4"></div>
+    </div>
+
+    <div id="settingsView" class="view-section hidden pt-24 px-4 max-w-[1400px] mx-auto min-h-screen">
+        <div class="max-w-md mx-auto bg-cardBg p-6 rounded-xl border border-gray-700 shadow-xl">
+            <h2 class="text-xl font-bold mb-6 text-white flex items-center gap-2">
+                <i class="fa-solid fa-gear text-brand"></i> إعدادات تشغيل زر الريكوست الفوري
+            </h2>
+            <div class="space-y-4">
+                <div>
+                    <label class="block text-sm text-gray-400 mb-2">GitHub Personal Access Token:</label>
+                    <input type="password" id="githubTokenInput" placeholder="ghp_XXXXXXXXXXXXXXXXXXXX" class="w-full bg-gray-900 border border-gray-700 rounded-lg p-3 text-white focus:border-brand focus:outline-none text-sm">
+                    <small class="text-gray-500 block mt-1">تأكد أن التوكن يمتلك صلاحية `repo` و `actions` لتشغيل السيرفر.</small>
+                </div>
+                <div>
+                    <label class="block text-sm text-gray-400 mb-2">مسار المستودع الحالي (username/repo):</label>
+                    <input type="text" id="githubRepoInput" placeholder="مثال: myusername/stream-hub" class="w-full bg-gray-900 border border-gray-700 rounded-lg p-3 text-white focus:border-brand focus:outline-none text-sm">
+                </div>
+                <button onclick="saveSettings()" class="w-full bg-brand hover:bg-red-700 text-white font-bold py-3 rounded-lg transition text-sm">
+                    حفظ وإعداد الريكوست المباشر
+                </button>
+            </div>
         </div>
     </div>
 
-    <!-- القائمة السفلية للجوال -->
-    <div class="md:hidden fixed bottom-0 w-full bg-[#0a0a0a]/95 backdrop-blur-lg border-t border-gray-800 z-50 flex justify-around items-center py-2 px-1">
-        <button onclick="switchTab('home')" class="nav-btn text-white flex flex-col items-center gap-1 p-2 w-16" data-target="home">
+    <div class="md:hidden fixed bottom-0 w-full bg-[#0a0a0a]/95 backdrop-blur-lg border-t border-gray-800 z-50 flex justify-around items-center py-2">
+        <button onclick="switchTab('home')" class="nav-btn text-white flex flex-col items-center gap-1 p-2 w-16">
             <i class="fa-solid fa-house text-xl"></i><span class="text-[10px]">الرئيسية</span>
         </button>
-        <button onclick="switchTab('search')" class="nav-btn text-gray-500 hover:text-white flex flex-col items-center gap-1 p-2 w-16" data-target="search">
+        <button onclick="switchTab('search')" class="nav-btn text-gray-500 flex flex-col items-center gap-1 p-2 w-16">
             <i class="fa-solid fa-magnifying-glass text-xl"></i><span class="text-[10px]">بحث</span>
         </button>
-        <button onclick="openRequestModal()" class="nav-btn text-gray-500 hover:text-white flex flex-col items-center gap-1 p-2 w-16">
-            <i class="fa-solid fa-code-pull-request text-xl"></i><span class="text-[10px]">طلب</span>
+        <button onclick="openRequestModal()" class="nav-btn text-gray-500 flex flex-col items-center gap-1 p-2 w-16">
+            <i class="fa-solid fa-bolt text-xl"></i><span class="text-[10px]">طلب فوري</span>
         </button>
-        <button class="nav-btn text-gray-500 hover:text-white flex flex-col items-center gap-1 p-2 w-16">
-            <i class="fa-solid fa-bookmark text-xl"></i><span class="text-[10px]">قائمتي</span>
+        <button onclick="switchTab('settings')" class="nav-btn text-gray-500 flex flex-col items-center gap-1 p-2 w-16">
+            <i class="fa-solid fa-gear text-xl"></i><span class="text-[10px]">الإعدادات</span>
         </button>
     </div>
 
-    <!-- نافذة التفاصيل والمشغل (Modal) -->
     <div id="detailsModal" class="fixed inset-0 z-[100] hidden items-center justify-center bg-black/90 backdrop-blur-sm">
         <div class="relative bg-cardBg w-full max-w-5xl h-full md:h-[85vh] md:rounded-xl shadow-2xl flex flex-col overflow-hidden">
             <button onclick="closeModal()" class="absolute top-4 right-4 z-50 bg-black/50 hover:bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center transition">
                 <i class="fa-solid fa-xmark text-xl"></i>
             </button>
-            
-            <!-- حاوية مشغل الفيديو (VidAPI) -->
             <div id="videoContainer" class="w-full aspect-video bg-black relative">
-                <!-- صورة الغلاف تظهر قبل التشغيل -->
                 <img id="modalBackdrop" src="" class="w-full h-full object-cover opacity-50" alt="Backdrop">
                 <button id="playBtn" class="absolute inset-0 m-auto w-20 h-20 bg-brand/90 hover:bg-brand text-white rounded-full flex items-center justify-center transition hover:scale-110 shadow-[0_0_30px_rgba(229,9,20,0.5)] z-20">
                     <i class="fa-solid fa-play text-3xl ml-1"></i>
                 </button>
-                <!-- سيتم حقن الـ iframe هنا -->
                 <div id="iframeWrapper" class="absolute inset-0 hidden z-30 bg-black"></div>
             </div>
-
-            <!-- تفاصيل المحتوى -->
             <div class="p-6 overflow-y-auto flex-1">
                 <h2 id="modalTitle" class="text-3xl font-bold mb-2"></h2>
                 <div class="flex gap-4 text-sm text-gray-400 mb-4 font-bold">
@@ -127,23 +144,24 @@
                     <span class="border border-gray-600 px-1 text-xs">HD</span>
                 </div>
                 <p id="modalDesc" class="text-gray-300 leading-relaxed"></p>
-                
-                <!-- أزرار إضافية للحلقات (للمسلسلات مستقبلاً) -->
-                <div id="tvControls" class="hidden mt-6 p-4 bg-gray-800/50 rounded-lg border border-gray-700">
-                    <p class="text-sm text-gray-400 mb-2">ملاحظة: التشغيل الافتراضي للموسم 1 الحلقة 1.</p>
-                </div>
+                <div id="tvControls" class="hidden mt-6 p-4 bg-gray-800/50 rounded-lg border border-gray-700"></div>
             </div>
         </div>
     </div>
 
-    <!-- نافذة طلب محتوى -->
     <div id="requestModal" class="fixed inset-0 z-[110] hidden items-center justify-center bg-black/80 backdrop-blur-sm">
         <div class="bg-cardBg w-full max-w-md p-6 rounded-xl border border-gray-700 relative">
             <button onclick="document.getElementById('requestModal').classList.add('hidden')" class="absolute top-4 right-4 text-gray-400 hover:text-white"><i class="fa-solid fa-xmark text-xl"></i></button>
-            <h3 class="text-xl font-bold mb-4 text-white">طلب إضافة محتوى</h3>
-            <p class="text-sm text-gray-400 mb-4">هل تبحث عن فيلم أو مسلسل غير موجود؟ أرسل لنا اسمه وسنقوم بإضافته.</p>
-            <input type="text" placeholder="اسم الفيلم أو المسلسل..." class="w-full bg-gray-900 border border-gray-700 rounded-lg p-3 text-white mb-4 focus:border-brand focus:outline-none">
-            <button class="w-full bg-brand hover:bg-red-700 text-white font-bold py-3 rounded-lg transition">إرسال الطلب</button>
+            <h3 class="text-xl font-bold mb-2 text-white">طلب إضافة محتوى فوري</h3>
+            <p class="text-sm text-gray-400 mb-4">عند الضغط على إرسال، سيقوم الموقع بالاتصال المباشر بـ GitHub لبدء الفحص وحقن العنصر ومواسمه تلقائياً داخل ملف library.json.</p>
+            <input type="text" id="requestTitleInput" placeholder="اكتب اسم الفيلم أو المسلسل بدقة..." class="w-full bg-gray-900 border border-gray-700 rounded-lg p-3 text-white mb-4 focus:border-brand focus:outline-none">
+            
+            <div id="requestLoading" class="hidden items-center justify-center gap-3 bg-black/50 p-4 rounded-lg mb-4 text-brand font-bold text-sm border border-brand/30">
+                <i class="fa-solid fa-circle-notch animate-spin text-2xl"></i> 
+                <span>جاري إطلاق سيرفر GitHub وإرسال المتغيرات...</span>
+            </div>
+
+            <button id="submitRequestBtn" onclick="submitContentRequest()" class="w-full bg-brand hover:bg-red-700 text-white font-bold py-3 rounded-lg transition">تفعيل السحب المباشر الفوري</button>
         </div>
     </div>
 
