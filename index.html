@@ -9,12 +9,13 @@
         tailwind.config = {
             theme: {
                 extend: {
-                    colors: { darkBg: '#0f0f11', cardBg: '#1a1a1f', brand: '#e50914', brandGlow: 'rgba(229, 9, 20, 0.4)' },
+                    colors: { darkBg: '#0b0b0e', cardBg: '#15151a', brand: '#e50914', brandGlow: 'rgba(229, 9, 20, 0.4)' },
                     fontFamily: { sans: ['Segoe UI', 'Tahoma', 'sans-serif'] },
                     animation: {
-                        'fade-in': 'fadeIn 0.5s ease-out forwards',
-                        'slide-up': 'slideUp 0.4s ease-out forwards',
+                        'fade-in': 'fadeIn 0.5s cubic-bezier(0.4, 0, 0.2, 1) forwards',
+                        'slide-up': 'slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards',
                         'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'scale-in': 'scaleIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards',
                     }
                 }
             }
@@ -24,173 +25,168 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-darkBg text-white min-h-screen font-sans overflow-x-hidden pb-16 md:pb-0 transition-colors duration-300">
+<body class="bg-darkBg text-white min-h-screen font-sans overflow-x-hidden pb-20 md:pb-0 transition-colors duration-300 selection:bg-brand selection:text-white">
 
-    <!-- شريط التنقل مع تأثير زجاجي -->
-    <nav id="navbar" class="fixed w-full z-40 transition-all duration-500 bg-black/60 backdrop-blur-md border-b border-white/5 py-4">
+    <!-- شريط التنقل -->
+    <nav id="navbar" class="fixed w-full z-40 transition-all duration-500 bg-black/40 backdrop-blur-xl border-b border-white/5 py-4">
         <div class="max-w-[1400px] mx-auto px-4 flex items-center justify-between">
             <div class="flex items-center gap-6">
-                <div class="flex items-center gap-2 text-brand font-black text-2xl uppercase cursor-pointer hover:scale-105 transition-transform" onclick="switchTab('home')">
-                    <i class="fa-solid fa-play bg-brand text-white p-2 rounded-lg shadow-[0_0_15px_rgba(229,9,20,0.5)]"></i> AWR Hub
+                <div class="flex items-center gap-3 text-white font-black text-2xl uppercase cursor-pointer hover:scale-105 transition-transform duration-300" onclick="switchTab('home')">
+                    <div class="relative w-10 h-10 flex items-center justify-center bg-gradient-to-br from-brand to-red-800 rounded-xl shadow-[0_0_20px_rgba(229,9,20,0.5)]">
+                        <i class="fa-solid fa-play text-white text-lg ml-1"></i>
+                    </div>
+                    <span class="tracking-wider">AWR Hub</span>
                 </div>
-                <button onclick="openRequestModal()" class="hidden md:flex items-center gap-2 bg-white/5 hover:bg-white/10 text-sm px-5 py-2.5 rounded-full transition-all border border-white/10 hover:border-brand/50 hover:shadow-[0_0_15px_rgba(229,9,20,0.3)] group">
-                    <i class="fa-solid fa-bolt text-brand group-hover:animate-pulse"></i> ريكوست فوري ومباشر
+                <button onclick="openRequestModal()" class="hidden md:flex items-center gap-2 bg-white/5 hover:bg-white/10 text-sm px-6 py-2.5 rounded-full transition-all duration-300 border border-white/10 hover:border-brand/50 hover:shadow-[0_0_20px_rgba(229,9,20,0.3)] group">
+                    <i class="fa-solid fa-bolt text-brand group-hover:animate-pulse"></i> ريكوست فوري
                 </button>
             </div>
             <div class="flex items-center gap-5">
-                <button onclick="switchTab('search')" class="text-gray-300 hover:text-white hover:scale-110 transition-transform text-xl"><i class="fa-solid fa-magnifying-glass"></i></button>
-                <button onclick="switchTab('settings')" class="text-gray-300 hover:text-white hover:scale-110 transition-transform text-xl"><i class="fa-solid fa-gear"></i></button>
-                <div class="w-9 h-9 rounded-full bg-gradient-to-tr from-brand to-purple-600 ring-2 ring-white/20 shadow-lg cursor-pointer hover:ring-brand transition-all"></div>
+                <button onclick="switchTab('search')" class="text-gray-400 hover:text-white hover:scale-110 transition-all duration-300 text-xl bg-white/5 w-10 h-10 rounded-full flex items-center justify-center border border-white/5"><i class="fa-solid fa-magnifying-glass"></i></button>
+                <button onclick="switchTab('settings')" class="text-gray-400 hover:text-white hover:scale-110 transition-all duration-300 text-xl bg-white/5 w-10 h-10 rounded-full flex items-center justify-center border border-white/5"><i class="fa-solid fa-gear"></i></button>
             </div>
         </div>
     </nav>
 
-    <div id="homeView" class="view-section block animate-fade-in">
-        <header class="relative w-full h-[70vh] md:h-[85vh] overflow-hidden group">
-            <div class="absolute inset-0 bg-gradient-to-t from-darkBg via-darkBg/50 to-transparent z-10"></div>
-            <div class="absolute inset-0 bg-gradient-to-r from-darkBg via-transparent to-transparent z-10"></div>
-            <img id="heroImage" src="" class="w-full h-full object-cover opacity-70 transform group-hover:scale-105 transition-transform duration-1000 ease-out" alt="Hero">
-            <div class="absolute bottom-16 right-4 md:right-12 z-20 max-w-2xl animate-slide-up text-shadow-lg">
-                <span class="bg-brand/20 text-brand border border-brand/30 px-3 py-1 rounded-full text-xs font-bold mb-4 inline-block backdrop-blur-sm shadow-[0_0_10px_rgba(229,9,20,0.2)]">🔥 حصرياً الآن</span>
-                <h1 id="heroTitle" class="text-4xl md:text-7xl font-black mb-4 drop-shadow-2xl tracking-tight">جاري الاتصال بالمستودع...</h1>
-                <p id="heroDesc" class="text-gray-300 mb-8 line-clamp-3 text-sm md:text-lg leading-relaxed text-shadow-md"></p>
-                <button class="bg-white text-black px-8 py-3.5 rounded-full font-bold hover:bg-brand hover:text-white transition-all duration-300 flex items-center gap-3 shadow-lg hover:shadow-[0_0_20px_rgba(229,9,20,0.6)] transform hover:-translate-y-1">
+    <div id="homeView" class="view-section block">
+        <header class="relative w-full h-[75vh] md:h-[85vh] overflow-hidden group">
+            <div class="absolute inset-0 bg-gradient-to-t from-darkBg via-darkBg/60 to-transparent z-10"></div>
+            <div class="absolute inset-0 bg-gradient-to-r from-darkBg via-darkBg/40 to-transparent z-10"></div>
+            <img id="heroImage" src="" class="w-full h-full object-cover opacity-80 transform group-hover:scale-105 transition-transform duration-[2s] ease-out" alt="Hero">
+            <div class="absolute bottom-20 right-4 md:right-12 z-20 max-w-3xl animate-slide-up text-shadow-lg">
+                <span class="bg-brand text-white border border-red-400/50 px-4 py-1.5 rounded-full text-xs font-bold mb-5 inline-block shadow-[0_0_15px_rgba(229,9,20,0.5)]"><i class="fa-solid fa-fire mr-1"></i> حصرياً الآن</span>
+                <h1 id="heroTitle" class="text-4xl md:text-6xl lg:text-7xl font-black mb-5 drop-shadow-2xl tracking-tight leading-tight">جاري الاتصال...</h1>
+                <p id="heroDesc" class="text-gray-300 mb-8 line-clamp-3 text-sm md:text-lg leading-relaxed text-shadow-md max-w-2xl"></p>
+                <button class="bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-brand hover:text-white transition-all duration-300 flex items-center gap-3 shadow-xl hover:shadow-[0_0_30px_rgba(229,9,20,0.6)] transform hover:-translate-y-1">
                     <i class="fa-solid fa-play text-xl"></i> شاهد الآن
                 </button>
             </div>
         </header>
 
-        <main class="max-w-[1400px] mx-auto px-4 -mt-20 relative z-20 space-y-10 pb-10">
+        <main class="max-w-[1400px] mx-auto px-4 -mt-24 relative z-20 space-y-12 pb-10">
             <section class="animate-slide-up" style="animation-delay: 0.1s;">
-                <h2 class="text-2xl font-bold mb-4 flex items-center gap-2 text-shadow-sm">أحدث الإضافات والتريند <i class="fa-solid fa-fire text-brand animate-pulse"></i></h2>
-                <div class="swiper contentSwiper pb-4"><div class="swiper-wrapper" id="trendingContainer"></div></div>
+                <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-arrow-trend-up text-brand"></i> أحدث الإضافات والتريند</h2>
+                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="trendingContainer"></div></div>
             </section>
             <section class="animate-slide-up" style="animation-delay: 0.2s;">
-                <h2 class="text-2xl font-bold mb-4 flex items-center gap-2 text-shadow-sm">أفلام سينمائية مميزة <i class="fa-solid fa-film text-gray-400 text-sm"></i></h2>
-                <div class="swiper contentSwiper pb-4"><div class="swiper-wrapper" id="moviesContainer"></div></div>
+                <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-film text-gray-400"></i> أفلام سينمائية مميزة</h2>
+                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="moviesContainer"></div></div>
             </section>
             <section class="animate-slide-up" style="animation-delay: 0.3s;">
-                <h2 class="text-2xl font-bold mb-4 flex items-center gap-2 text-shadow-sm">مسلسلات حصرية <i class="fa-solid fa-tv text-gray-400 text-sm"></i></h2>
-                <div class="swiper contentSwiper pb-4"><div class="swiper-wrapper" id="seriesContainer"></div></div>
+                <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-tv text-gray-400"></i> مسلسلات حصرية</h2>
+                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="seriesContainer"></div></div>
             </section>
             <section class="animate-slide-up" style="animation-delay: 0.4s;">
-                <h2 class="text-2xl font-bold mb-4 flex items-center gap-2 text-shadow-sm">مسلسلات كورية K-Drama <i class="fa-solid fa-heart text-pink-500 text-sm"></i></h2>
-                <div class="swiper contentSwiper pb-4"><div class="swiper-wrapper" id="kdramaContainer"></div></div>
+                <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-heart text-pink-500"></i> مسلسلات كورية K-Drama</h2>
+                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="kdramaContainer"></div></div>
             </section>
             <section class="animate-slide-up" style="animation-delay: 0.5s;">
-                <h2 class="text-2xl font-bold mb-4 flex items-center gap-2 text-shadow-sm">عالم الأنمي Anime <i class="fa-solid fa-meteor text-yellow-500 text-sm"></i></h2>
-                <div class="swiper contentSwiper pb-4"><div class="swiper-wrapper" id="animeContainer"></div></div>
+                <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-meteor text-yellow-500"></i> عالم الأنمي Anime</h2>
+                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="animeContainer"></div></div>
             </section>
         </main>
     </div>
 
-    <div id="searchView" class="view-section hidden pt-28 px-4 max-w-[1400px] mx-auto min-h-screen animate-fade-in">
-        <div class="relative max-w-3xl mx-auto mb-10 group">
-            <div class="absolute inset-0 bg-brand opacity-0 group-hover:opacity-20 blur-xl transition-opacity duration-500 rounded-full"></div>
-            <i class="fa-solid fa-magnifying-glass absolute right-6 top-4 text-gray-400 text-xl transition-colors group-focus-within:text-brand"></i>
-            <input type="text" id="searchInput" placeholder="ابحث فوري داخل ملف المكتبة المذهلة..." class="w-full bg-cardBg/80 backdrop-blur-md text-white border border-gray-700 rounded-full py-4 pr-14 pl-6 focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand transition-all shadow-xl text-lg relative z-10">
+    <!-- نافذة البحث -->
+    <div id="searchView" class="view-section hidden pt-32 px-4 max-w-[1400px] mx-auto min-h-screen">
+        <div class="relative max-w-3xl mx-auto mb-12 group">
+            <div class="absolute inset-0 bg-brand opacity-0 group-focus-within:opacity-20 blur-2xl transition-opacity duration-500 rounded-full"></div>
+            <i class="fa-solid fa-magnifying-glass absolute right-6 top-1/2 -translate-y-1/2 text-gray-400 text-xl transition-colors group-focus-within:text-brand z-20"></i>
+            <input type="text" id="searchInput" placeholder="ابحث فوري داخل ملف المكتبة..." class="w-full bg-cardBg/90 backdrop-blur-xl text-white border border-gray-700/50 rounded-full py-5 pr-14 pl-6 focus:outline-none focus:border-brand/50 focus:ring-1 focus:ring-brand transition-all shadow-2xl text-lg relative z-10">
         </div>
         <div id="searchResults" class="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-4 md:gap-6"></div>
     </div>
 
-    <div id="settingsView" class="view-section hidden pt-28 px-4 max-w-[1400px] mx-auto min-h-screen animate-fade-in">
-        <div class="max-w-lg mx-auto bg-cardBg/80 backdrop-blur-xl p-8 rounded-2xl border border-white/10 shadow-[0_0_40px_rgba(0,0,0,0.5)] relative overflow-hidden">
-            <div class="absolute top-0 right-0 w-32 h-32 bg-brand/10 blur-3xl rounded-full"></div>
+    <!-- نافذة الإعدادات -->
+    <div id="settingsView" class="view-section hidden pt-32 px-4 max-w-[1400px] mx-auto min-h-screen">
+        <div class="max-w-lg mx-auto bg-cardBg/90 backdrop-blur-2xl p-8 rounded-3xl border border-white/5 shadow-[0_0_50px_rgba(0,0,0,0.4)] relative overflow-hidden">
+            <div class="absolute top-0 right-0 w-40 h-40 bg-brand/20 blur-[50px] rounded-full pointer-events-none"></div>
             <h2 class="text-2xl font-bold mb-8 text-white flex items-center gap-3 relative z-10">
-                <div class="p-2 bg-white/5 rounded-lg border border-white/10"><i class="fa-solid fa-gear text-brand"></i></div>
-                إعدادات تشغيل الريكوست الفوري
+                <div class="p-3 bg-white/5 rounded-xl border border-white/10 shadow-inner"><i class="fa-solid fa-gear text-brand"></i></div>
+                إعدادات التشغيل
             </h2>
             <div class="space-y-6 relative z-10">
                 <div>
                     <label class="block text-sm font-semibold text-gray-300 mb-2">GitHub Personal Access Token:</label>
-                    <input type="password" id="githubTokenInput" placeholder="ghp_XXXXXXXXXXXXXXXXXXXX" class="w-full bg-black/50 border border-gray-700 rounded-xl p-4 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none text-sm transition-all shadow-inner">
-                    <small class="text-gray-500 block mt-2 flex items-center gap-1"><i class="fa-solid fa-circle-info text-xs"></i> تأكد أن التوكن يمتلك صلاحية `repo` و `actions`.</small>
+                    <input type="password" id="githubTokenInput" placeholder="ghp_XXXXXXXXXXXXXXXXXXXX" class="w-full bg-black/60 border border-white/10 rounded-xl p-4 text-white focus:border-brand/50 focus:ring-1 focus:ring-brand focus:outline-none text-sm transition-all shadow-inner">
                 </div>
                 <div>
-                    <label class="block text-sm font-semibold text-gray-300 mb-2">مسار المستودع الحالي (username/repo):</label>
-                    <input type="text" id="githubRepoInput" placeholder="مثال: myusername/stream-hub" class="w-full bg-black/50 border border-gray-700 rounded-xl p-4 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none text-sm transition-all shadow-inner">
+                    <label class="block text-sm font-semibold text-gray-300 mb-2">مسار المستودع (username/repo):</label>
+                    <input type="text" id="githubRepoInput" placeholder="مثال: myusername/stream-hub" class="w-full bg-black/60 border border-white/10 rounded-xl p-4 text-white focus:border-brand/50 focus:ring-1 focus:ring-brand focus:outline-none text-sm transition-all shadow-inner">
                 </div>
-                <button onclick="saveSettings()" class="w-full bg-gradient-to-r from-brand to-red-800 hover:from-red-600 hover:to-red-900 text-white font-bold py-4 rounded-xl transition-all shadow-[0_0_20px_rgba(229,9,20,0.3)] hover:shadow-[0_0_30px_rgba(229,9,20,0.6)] transform hover:-translate-y-1">
-                    حفظ الإعدادات بنجاح
+                <button onclick="saveSettings()" class="w-full bg-gradient-to-r from-brand to-red-800 hover:from-red-600 hover:to-red-900 text-white font-bold py-4 rounded-xl transition-all duration-300 shadow-[0_0_20px_rgba(229,9,20,0.3)] hover:shadow-[0_0_30px_rgba(229,9,20,0.5)] transform hover:-translate-y-1">
+                    حفظ الإعدادات
                 </button>
             </div>
         </div>
     </div>
 
-    <!-- القائمة السفلية للجوال (محدثة بتأثير زجاجي) -->
-    <div class="md:hidden fixed bottom-0 w-full bg-black/80 backdrop-blur-xl border-t border-white/10 z-50 flex justify-around items-center py-2 pb-safe shadow-[0_-10px_30px_rgba(0,0,0,0.5)]">
-        <button onclick="switchTab('home')" class="nav-btn text-brand flex flex-col items-center gap-1 p-2 w-16 transition-colors">
-            <i class="fa-solid fa-house text-xl mb-0.5"></i><span class="text-[10px] font-bold">الرئيسية</span>
+    <!-- القائمة السفلية للجوال -->
+    <div class="md:hidden fixed bottom-0 w-full bg-black/70 backdrop-blur-2xl border-t border-white/5 z-50 flex justify-around items-center py-2 pb-safe shadow-[0_-10px_40px_rgba(0,0,0,0.5)]">
+        <button onclick="switchTab('home')" class="nav-btn text-brand flex flex-col items-center gap-1.5 p-2 w-16 transition-all duration-300 hover:scale-110">
+            <i class="fa-solid fa-house text-xl"></i><span class="text-[10px] font-bold">الرئيسية</span>
         </button>
-        <button onclick="switchTab('search')" class="nav-btn text-gray-400 hover:text-white flex flex-col items-center gap-1 p-2 w-16 transition-colors">
-            <i class="fa-solid fa-magnifying-glass text-xl mb-0.5"></i><span class="text-[10px] font-bold">بحث</span>
+        <button onclick="switchTab('search')" class="nav-btn text-gray-400 hover:text-white flex flex-col items-center gap-1.5 p-2 w-16 transition-all duration-300 hover:scale-110">
+            <i class="fa-solid fa-magnifying-glass text-xl"></i><span class="text-[10px] font-bold">بحث</span>
         </button>
-        <button onclick="openRequestModal()" class="nav-btn text-gray-400 hover:text-white flex flex-col items-center gap-1 p-2 w-16 transition-colors relative">
-            <div class="absolute -top-4 bg-brand rounded-full p-3 shadow-[0_0_15px_rgba(229,9,20,0.5)] border-2 border-black animate-bounce"><i class="fa-solid fa-bolt text-white"></i></div>
-            <span class="text-[10px] font-bold mt-5">طلب</span>
+        <button onclick="openRequestModal()" class="nav-btn text-gray-400 hover:text-white flex flex-col items-center gap-1 p-2 w-16 transition-all relative">
+            <div class="absolute -top-6 bg-gradient-to-br from-brand to-red-700 rounded-full p-3.5 shadow-[0_0_20px_rgba(229,9,20,0.6)] border-[3px] border-darkBg transform hover:scale-110 transition-transform"><i class="fa-solid fa-bolt text-white"></i></div>
+            <span class="text-[10px] font-bold mt-7">طلب</span>
         </button>
-        <button onclick="switchTab('settings')" class="nav-btn text-gray-400 hover:text-white flex flex-col items-center gap-1 p-2 w-16 transition-colors">
-            <i class="fa-solid fa-gear text-xl mb-0.5"></i><span class="text-[10px] font-bold">الإعدادات</span>
+        <button onclick="switchTab('settings')" class="nav-btn text-gray-400 hover:text-white flex flex-col items-center gap-1.5 p-2 w-16 transition-all duration-300 hover:scale-110">
+            <i class="fa-solid fa-gear text-xl"></i><span class="text-[10px] font-bold">إعدادات</span>
         </button>
     </div>
 
-    <!-- نافذة عرض التفاصيل (محدثة بشكل سينمائي) -->
-    <div id="detailsModal" class="fixed inset-0 z-[100] hidden items-center justify-center bg-black/95 backdrop-blur-md opacity-0 transition-opacity duration-300">
-        <div class="relative bg-cardBg w-full max-w-5xl h-full md:h-[85vh] md:rounded-2xl shadow-[0_0_50px_rgba(0,0,0,0.8)] flex flex-col overflow-hidden border border-white/5 transform scale-95 transition-transform duration-300 details-content">
-            <button onclick="closeModal()" class="absolute top-4 right-4 z-50 bg-black/60 hover:bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center transition-all backdrop-blur-md hover:rotate-90">
+    <!-- نافذة عرض التفاصيل السينمائية -->
+    <div id="detailsModal" class="fixed inset-0 z-[100] hidden items-center justify-center bg-black/95 backdrop-blur-xl opacity-0 transition-opacity duration-300">
+        <div class="relative bg-cardBg w-full max-w-5xl h-full md:h-[85vh] md:rounded-3xl shadow-[0_0_60px_rgba(0,0,0,0.8)] flex flex-col overflow-hidden border border-white/5 transform scale-95 transition-transform duration-500 cubic-bezier(0.175, 0.885, 0.32, 1.275) details-content">
+            <button onclick="closeModal()" class="absolute top-4 right-4 z-50 bg-black/50 hover:bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300 backdrop-blur-md hover:rotate-90 border border-white/10 hover:border-brand">
                 <i class="fa-solid fa-xmark text-xl"></i>
             </button>
             <div id="videoContainer" class="w-full aspect-video bg-black relative group">
                 <div class="absolute inset-0 bg-gradient-to-t from-cardBg via-transparent to-transparent z-10"></div>
-                <img id="modalBackdrop" src="" class="w-full h-full object-cover opacity-60 transition-opacity duration-500 group-hover:opacity-40" alt="Backdrop">
-                <button id="playBtn" class="absolute inset-0 m-auto w-24 h-24 bg-brand/90 hover:bg-brand text-white rounded-full flex items-center justify-center transition-all hover:scale-110 shadow-[0_0_40px_rgba(229,9,20,0.6)] z-20 pulse-btn">
-                    <i class="fa-solid fa-play text-4xl ml-2"></i>
+                <img id="modalBackdrop" src="" class="w-full h-full object-cover opacity-70 transition-opacity duration-700 group-hover:opacity-40" alt="Backdrop">
+                <button id="playBtn" class="absolute inset-0 m-auto w-20 h-20 md:w-24 md:h-24 bg-brand/90 hover:bg-brand text-white rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 shadow-[0_0_40px_rgba(229,9,20,0.6)] z-20 pulse-btn backdrop-blur-sm border border-white/20">
+                    <i class="fa-solid fa-play text-3xl md:text-4xl ml-2"></i>
                 </button>
-                <div id="iframeWrapper" class="absolute inset-0 hidden z-30 bg-black rounded-t-2xl md:rounded-none overflow-hidden"></div>
+                <div id="iframeWrapper" class="absolute inset-0 hidden z-30 bg-black rounded-t-3xl md:rounded-none overflow-hidden"></div>
             </div>
-            <div class="p-6 md:p-8 overflow-y-auto flex-1 relative z-20 -mt-16 md:-mt-10 bg-gradient-to-b from-transparent to-cardBg">
-                <h2 id="modalTitle" class="text-3xl md:text-5xl font-black mb-3 text-shadow-lg drop-shadow-md"></h2>
-                <div class="flex flex-wrap gap-3 items-center text-sm text-gray-300 mb-6 font-bold">
-                    <span id="modalRating" class="text-green-400 bg-green-400/10 px-2 py-1 rounded border border-green-400/20"></span>
-                    <span id="modalDate" class="bg-white/10 px-2 py-1 rounded border border-white/10"></span>
-                    <span class="bg-white/10 px-2 py-1 rounded border border-white/10 text-xs tracking-wider">HD</span>
+            <div class="p-6 md:p-10 overflow-y-auto flex-1 relative z-20 -mt-20 md:-mt-16 bg-gradient-to-b from-transparent to-cardBg">
+                <h2 id="modalTitle" class="text-3xl md:text-5xl font-black mb-4 text-shadow-lg drop-shadow-md leading-tight"></h2>
+                <div class="flex flex-wrap gap-3 items-center text-sm text-gray-200 mb-6 font-bold">
+                    <span id="modalRating" class="bg-black/50 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 flex items-center gap-1 shadow-inner"></span>
+                    <span id="modalDate" class="bg-black/50 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 shadow-inner"></span>
+                    <span class="bg-brand/20 text-brand px-3 py-1.5 rounded-lg border border-brand/30 shadow-inner tracking-widest">FHD</span>
                 </div>
-                <p id="modalDesc" class="text-gray-300 leading-relaxed text-base md:text-lg opacity-90 max-w-3xl"></p>
-                <div id="tvControls" class="hidden mt-8 p-5 bg-black/40 backdrop-blur-md rounded-xl border border-white/10 shadow-inner"></div>
+                <p id="modalDesc" class="text-gray-300 leading-relaxed text-base md:text-lg opacity-90 max-w-4xl font-medium"></p>
+                <div id="tvControls" class="hidden mt-8 p-6 bg-black/40 backdrop-blur-xl rounded-2xl border border-white/10 shadow-2xl"></div>
             </div>
         </div>
     </div>
 
-    <!-- نافذة الريكوست الفوري (محدثة مع حقول ID و Type) -->
-    <div id="requestModal" class="fixed inset-0 z-[110] hidden items-center justify-center bg-black/90 backdrop-blur-md opacity-0 transition-opacity duration-300">
-        <div class="bg-cardBg/90 backdrop-blur-xl w-full max-w-md p-8 rounded-2xl border border-white/10 shadow-[0_0_50px_rgba(0,0,0,0.6)] relative transform scale-95 transition-transform duration-300 request-content">
-            <button onclick="closeRequestModal()" class="absolute top-5 right-5 text-gray-400 hover:text-brand hover:rotate-90 transition-all"><i class="fa-solid fa-xmark text-2xl"></i></button>
-            
-            <div class="w-12 h-12 bg-brand/20 rounded-full flex items-center justify-center mb-4 border border-brand/30 shadow-[0_0_15px_rgba(229,9,20,0.3)]">
-                <i class="fa-solid fa-bolt text-brand text-xl"></i>
+    <!-- نافذة الريكوست الفوري -->
+    <div id="requestModal" class="fixed inset-0 z-[110] hidden items-center justify-center bg-black/90 backdrop-blur-xl opacity-0 transition-opacity duration-300">
+        <div class="bg-cardBg/90 backdrop-blur-2xl w-full max-w-md p-8 rounded-3xl border border-white/10 shadow-[0_0_60px_rgba(0,0,0,0.6)] relative transform scale-95 transition-transform duration-300 request-content">
+            <button onclick="closeRequestModal()" class="absolute top-5 right-5 text-gray-400 hover:text-brand hover:rotate-90 transition-all duration-300"><i class="fa-solid fa-xmark text-2xl"></i></button>
+            <div class="w-14 h-14 bg-gradient-to-br from-brand/20 to-red-900/20 rounded-2xl flex items-center justify-center mb-5 border border-brand/30 shadow-[0_0_20px_rgba(229,9,20,0.2)]">
+                <i class="fa-solid fa-bolt text-brand text-2xl"></i>
             </div>
-            
-            <h3 class="text-2xl font-bold mb-2 text-white">طلب إضافة محتوى فوري</h3>
-            <p class="text-sm text-gray-400 mb-6 leading-relaxed">عند الإرسال، سيتم الاتصال المباشر بخوادم GitHub وسحب العمل (وجميع مواسمه) وإضافته للمكتبة بأعلى جودة ترجمة متوفرة.</p>
-            
-            <div class="space-y-4 mb-6">
-                <!-- حقل الاسم (موجود مسبقاً) -->
+            <h3 class="text-2xl font-black mb-2 text-white">طلب محتوى فوري</h3>
+            <p class="text-sm text-gray-400 mb-8 leading-relaxed">سيتم سحب العمل بأعلى جودة ترجمة متوفرة وإضافته فوراً للمكتبة.</p>
+            <div class="space-y-5 mb-8">
                 <div>
-                    <label class="block text-xs text-gray-400 mb-1 ml-1">اسم العمل (إنجليزي أو عربي):</label>
-                    <input type="text" id="requestTitleInput" placeholder="اكتب اسم الفيلم أو المسلسل بدقة..." class="w-full bg-black/50 border border-gray-700 rounded-xl p-3.5 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner">
+                    <label class="block text-xs font-bold text-gray-400 mb-1.5 ml-1">اسم العمل:</label>
+                    <input type="text" id="requestTitleInput" placeholder="اكتب اسم الفيلم أو المسلسل..." class="w-full bg-black/50 border border-white/10 rounded-xl p-4 text-white focus:border-brand/50 focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner">
                 </div>
-                
                 <div class="flex gap-4">
-                    <!-- حقل الـ ID (جديد) -->
                     <div class="flex-1">
-                        <label class="block text-xs text-brand mb-1 ml-1 font-bold">رقم TMDB ID (لضمان الدقة):</label>
-                        <input type="number" id="requestIdInput" placeholder="مثال: 1100782" class="w-full bg-black/50 border border-brand/30 rounded-xl p-3.5 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner placeholder-gray-600">
+                        <label class="block text-xs font-bold text-brand mb-1.5 ml-1">رقم TMDB ID:</label>
+                        <input type="number" id="requestIdInput" placeholder="مثال: 1100782" class="w-full bg-brand/5 border border-brand/30 rounded-xl p-4 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner placeholder-brand/30">
                     </div>
-                    
-                    <!-- حقل النوع (جديد) -->
                     <div class="w-1/3">
-                        <label class="block text-xs text-gray-400 mb-1 ml-1">النوع:</label>
-                        <select id="requestTypeSelect" class="w-full bg-black/50 border border-gray-700 rounded-xl p-3.5 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner appearance-none text-sm">
+                        <label class="block text-xs font-bold text-gray-400 mb-1.5 ml-1">النوع:</label>
+                        <select id="requestTypeSelect" class="w-full bg-black/50 border border-white/10 rounded-xl p-4 text-white focus:border-brand/50 focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner appearance-none">
                             <option value="">تلقائي</option>
                             <option value="movie">فيلم</option>
                             <option value="tv">مسلسل</option>
@@ -199,18 +195,50 @@
                 </div>
             </div>
             
-            <!-- نافذة التحميل المتحركة -->
-            <div id="requestLoading" class="hidden flex-col items-center justify-center gap-3 bg-black/60 p-5 rounded-xl mb-6 text-brand font-bold text-sm border border-brand/30 backdrop-blur-md shadow-[0_0_20px_rgba(229,9,20,0.2)]">
-                <div class="relative w-10 h-10 flex items-center justify-center">
-                    <i class="fa-solid fa-circle-notch animate-spin text-3xl absolute"></i>
-                    <i class="fa-solid fa-bolt text-xs absolute animate-pulse text-white"></i>
+            <div id="requestLoading" class="hidden flex-col items-center justify-center gap-3 bg-black/40 p-5 rounded-xl mb-6 text-brand font-bold text-sm border border-brand/20 backdrop-blur-md">
+                <div class="relative w-12 h-12 flex items-center justify-center">
+                    <i class="fa-solid fa-circle-notch animate-spin text-4xl absolute text-brand/30"></i>
+                    <i class="fa-solid fa-circle-notch animate-spin text-4xl absolute border-t-brand rounded-full"></i>
+                    <i class="fa-solid fa-bolt text-sm absolute animate-pulse text-white"></i>
                 </div>
-                <span class="text-center">جاري إطلاق سيرفر GitHub<br><span class="text-xs text-gray-400 font-normal">يرجى الانتظار لحين تأكيد الإرسال...</span></span>
+                <span class="text-center mt-2">جاري إطلاق السيرفر...</span>
             </div>
 
-            <button id="submitRequestBtn" onclick="submitContentRequest()" class="w-full bg-gradient-to-r from-brand to-red-700 hover:from-red-600 hover:to-red-800 text-white font-bold py-4 rounded-xl transition-all shadow-[0_0_20px_rgba(229,9,20,0.4)] hover:shadow-[0_0_30px_rgba(229,9,20,0.6)] transform hover:-translate-y-1">
-                تفعيل السحب المباشر الفوري <i class="fa-solid fa-rocket mr-2"></i>
+            <button id="submitRequestBtn" onclick="submitContentRequest()" class="w-full bg-gradient-to-r from-brand to-red-700 hover:from-red-600 hover:to-red-800 text-white font-bold py-4 rounded-xl transition-all duration-300 shadow-[0_0_20px_rgba(229,9,20,0.4)] hover:shadow-[0_0_30px_rgba(229,9,20,0.6)] transform hover:-translate-y-1">
+                تفعيل السحب المباشر <i class="fa-solid fa-rocket mr-2"></i>
             </button>
+        </div>
+    </div>
+
+    <!-- نافذة الإصلاح عبر الضغط المطول -->
+    <div id="repairModal" class="fixed inset-0 z-[120] hidden items-center justify-center bg-black/90 backdrop-blur-xl opacity-0 transition-opacity duration-300">
+        <div class="bg-cardBg/95 backdrop-blur-2xl w-full max-w-sm p-8 rounded-3xl border border-yellow-500/30 shadow-[0_0_60px_rgba(234,179,8,0.2)] relative transform scale-95 transition-transform duration-300 repair-content text-center">
+            <div class="w-16 h-16 bg-yellow-500/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-yellow-500/30">
+                <i class="fa-solid fa-wrench text-yellow-500 text-2xl"></i>
+            </div>
+            <h3 class="text-xl font-bold mb-1 text-white">إصلاح عنصر معطوب</h3>
+            <p id="repairOldTitle" class="text-sm text-gray-400 mb-6 truncate px-4"></p>
+            
+            <input type="hidden" id="repairOldIdInput">
+            
+            <div class="space-y-4 text-right mb-6">
+                <div>
+                    <label class="block text-xs font-bold text-gray-400 mb-1.5 ml-1">المعرف الصحيح (TMDB ID):</label>
+                    <input type="number" id="repairNewIdInput" placeholder="أدخل ID الجديد..." class="w-full bg-black/50 border border-white/10 rounded-xl p-3.5 text-white focus:border-yellow-500/50 focus:ring-1 focus:ring-yellow-500 focus:outline-none transition-all shadow-inner text-center text-lg tracking-widest">
+                </div>
+                <div>
+                    <label class="block text-xs font-bold text-gray-400 mb-1.5 ml-1">النوع الصحيح:</label>
+                    <select id="repairNewTypeSelect" class="w-full bg-black/50 border border-white/10 rounded-xl p-3.5 text-white focus:border-yellow-500/50 focus:ring-1 focus:ring-yellow-500 focus:outline-none transition-all shadow-inner text-center text-base">
+                        <option value="movie">فيلم (Movie)</option>
+                        <option value="tv">مسلسل (TV)</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="flex gap-3">
+                <button onclick="submitRepairRequest()" class="flex-1 bg-yellow-600 hover:bg-yellow-500 text-white font-bold py-3.5 rounded-xl transition-all shadow-[0_0_15px_rgba(234,179,8,0.3)]">إصلاح الآن</button>
+                <button onclick="closeRepairModal()" class="flex-1 bg-white/10 hover:bg-white/20 text-white font-bold py-3.5 rounded-xl transition-all border border-white/10">إلغاء</button>
+            </div>
         </div>
     </div>
 
