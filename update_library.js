@@ -5,8 +5,9 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const REQUEST_TITLE = process.env.REQUEST_TITLE; 
 const REQUEST_ID = process.env.REQUEST_ID; 
 const REQUEST_TYPE = process.env.REQUEST_TYPE;
-const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb'; // استقبال نوع المعرف (IMDb أو TMDB)
+const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb'; 
 const OLD_ID = process.env.OLD_ID; 
+const SEASONS_SPLIT = process.env.SEASONS_SPLIT; // استقبال متغير التقسيم اليدوي للمواسم
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 function sanitizeText(text) {
@@ -14,10 +15,45 @@ function sanitizeText(text) {
     return text.replace(/[\p{P}\p{S}]/gu, " ").replace(/\s+/g, " ").trim();
 }
 
-function injectTranslations(item, details) {
+// دالة ذكية لحقن اللغتين العربية والإنجليزية معاً دون تكرار الطلبات
+function injectDualLanguages(item, details) {
     if (!details) return;
-    item.title_en = sanitizeText(details.title || details.name || "");
-    item.overview_en = sanitizeText(details.overview || "");
+    
+    // تعيين البيانات العربية الأساسية
+    item.title = sanitizeText(details.title || details.name || item.title || item.name || "");
+    item.overview = sanitizeText(details.overview || item.overview || "");
+    
+    // البحث عن الترجمة الإنجليزية وحقنها في المتغيرات المخصصة
+    if (details.translations && details.translations.translations) {
+        const enTrans = details.translations.translations.find(t => t.iso_639_1 === 'en');
+        if (enTrans && enTrans.data) {
+            item.title_en = sanitizeText(enTrans.data.title || enTrans.data.name || "");
+            item.overview_en = sanitizeText(enTrans.data.overview || "");
+        }
+    }
+    
+    // حلول بديلة في حال عدم وجود ترجمة إنجليزية منفصلة
+    if (!item.title_en) item.title_en = item.title;
+    if (!item.overview_en) item.overview_en = item.overview;
+}
+
+// دالة لتطبيق التقسيم اليدوي للمواسم في حال تفعيله من واجهة الإصلاح
+function applyManualSeasonsSplit(item) {
+    if (!SEASONS_SPLIT || item.media_type !== 'tv') return;
+
+    console.log(`⚙️ جاري تطبيق التقسيم اليدوي للمواسم للمسلسل: [${SEASONS_SPLIT}]`);
+    const episodeCounts = SEASONS_SPLIT.split(',').map(num => parseInt(num.trim())).filter(num => !isNaN(num) && num > 0);
+    
+    if (episodeCounts.length > 0) {
+        item.seasons = episodeCounts.map((count, index) => {
+            return {
+                season_number: index + 1,
+                episode_count: count,
+                name: `الموسم ${index + 1}`
+            };
+        });
+        console.log(`✅ تم تقسيم المسلسل بنجاح إلى ${episodeCounts.length} مواسم يدوياً.`);
+    }
 }
 
 function filterValidSeasons(seasons) {
@@ -39,21 +75,13 @@ async function fetchTmdbIdFromImdb(imdbId) {
     return null;
 }
 
-async function fetchTvDetails(tvId) {
-    try {
-        const url = `${BASE_URL}/tv/${tvId}?api_key=${TMDB_API_KEY}&language=en-US`;
-        const res = await fetch(url);
-        if (res.ok) return await res.json();
-    } catch (e) { console.error(`فشل جلب تفاصيل المسلسل: ${tvId}`); }
-    return null;
-}
-
+// دالة موحدة لجلب التفاصيل باللغة العربية مع جلب التراجم المتاحة للأجنبي بطلب واحد
 async function fetchMediaDetails(id, mediaType) {
     try {
-        const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=en-US`;
+        const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=ar-SA&append_to_response=translations`;
         const res = await fetch(url);
         if (res.ok) return await res.json();
-    } catch (e) { console.error(`فشل جلب التفاصيل: ${id}`); }
+    } catch (e) { console.error(`فشل جلب التفاصيل للعنصر: ${id}`); }
     return null;
 }
 
@@ -61,20 +89,21 @@ async function saveMediaItem(libraryData, item, mediaType) {
     const isTv = mediaType === 'tv';
     item.media_type = mediaType;
 
-    injectTranslations(item, item);
-
-    if (isTv) {
-        const tvDetails = await fetchTvDetails(item.id);
-        if (tvDetails) {
-            if (tvDetails.seasons) item.seasons = filterValidSeasons(tvDetails.seasons);
-            injectTranslations(item, tvDetails);
-        }
+    const details = await fetchMediaDetails(item.id, mediaType);
+    if (details) {
+        if (isTv && details.seasons) item.seasons = filterValidSeasons(details.seasons);
+        injectDualLanguages(item, details);
+    } else {
+        item.overview = sanitizeText(item.overview);
+        item.title = sanitizeText(item.title || item.name);
+        item.title_en = item.title;
+        item.overview_en = item.overview;
     }
 
-    item.overview = sanitizeText(item.overview);
-    item.title = sanitizeText(item.title);
-    item.name = sanitizeText(item.name);
     if (item.original_title) item.original_title = sanitizeText(item.original_title);
+    
+    // تطبيق ميزة تقسيم المواسم يدويًا إن وجدت
+    applyManualSeasonsSplit(item);
 
     let targetCategory = 'trending';
     if (isTv) {
@@ -106,7 +135,7 @@ async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
     while (categoryResults.length < 100 && page <= 20) {
         try {
             const separator = endpoint.includes('?') ? '&' : '?';
-            const url = `${BASE_URL}${endpoint}${separator}api_key=${TMDB_API_KEY}&language=en-US&page=${page}${extraParams}`;
+            const url = `${BASE_URL}${endpoint}${separator}api_key=${TMDB_API_KEY}&language=ar-SA&page=${page}${extraParams}`;
             const res = await fetch(url);
             if (!res.ok) break;
             const data = await res.json();
@@ -117,16 +146,19 @@ async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
                 if (item.poster_path && !seenIds.has(item.id)) {
                     seenIds.add(item.id);
                     const isTvShow = mediaType === 'tv' || item.media_type === 'tv' || (!item.title && item.name);
-                    item.media_type = isTvShow ? 'tv' : 'movie'; 
+                    const actualType = isTvShow ? 'tv' : 'movie';
+                    item.media_type = actualType; 
 
-                    if (isTvShow) {
-                        const tvDetails = await fetchTvDetails(item.id);
-                        if (tvDetails && tvDetails.seasons) item.seasons = filterValidSeasons(tvDetails.seasons);
-                        injectTranslations(item, tvDetails);
+                    const fullDetails = await fetchMediaDetails(item.id, actualType);
+                    if (fullDetails) {
+                        if (isTvShow && fullDetails.seasons) item.seasons = filterValidSeasons(fullDetails.seasons);
+                        injectDualLanguages(item, fullDetails);
+                    } else {
+                        item.overview = sanitizeText(item.overview);
+                        item.title = sanitizeText(item.title || item.name);
+                        item.title_en = item.title;
+                        item.overview_en = item.overview;
                     }
-                    item.overview = sanitizeText(item.overview);
-                    item.title = sanitizeText(item.title);
-                    item.name = sanitizeText(item.name);
                     if (item.original_title) item.original_title = sanitizeText(item.original_title);
 
                     categoryResults.push(item);
@@ -157,7 +189,7 @@ async function handleDirectIdRequest(libraryData, id, type) {
 async function handleDirectRequest(libraryData, queryTitle) {
     if (!queryTitle) return libraryData;
     try {
-        const searchUrl = `${BASE_URL}/search/multi?api_key=${TMDB_API_KEY}&language=en-US&query=${encodeURIComponent(queryTitle)}`;
+        const searchUrl = `${BASE_URL}/search/multi?api_key=${TMDB_API_KEY}&language=ar-SA&query=${encodeURIComponent(queryTitle)}`;
         const searchRes = await fetch(searchUrl);
         const searchData = await searchRes.json();
 
@@ -201,7 +233,6 @@ async function runScraper() {
         let finalId = targetIdRaw;
         let finalType = REQUEST_TYPE;
 
-        // معالجة حالة الـ IMDb
         if (REQUEST_ID_TYPE === 'imdb') {
             const tmdbData = await fetchTmdbIdFromImdb(targetIdRaw);
             if (tmdbData) {
