@@ -181,7 +181,7 @@
                                 <option value="tmdb">TMDB</option>
                                 <option value="imdb">IMDb</option>
                             </select>
-                            <input type="text" id="requestIdInput" placeholder="مثال: tt1234567" class="w-full bg-brand/5 border border-brand/30 rounded-l-xl p-4 text-white focus:border-brand focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner placeholder-brand/30">
+                            <input type="text" id="requestIdInput" placeholder="مثال: tt1234567" class="w-full bg-brand/5 border border-brand/30 rounded-l-xl p-4 text-white focus:border-brand/50 focus:ring-1 focus:ring-brand focus:outline-none transition-all shadow-inner placeholder-brand/30">
                         </div>
                     </div>
                     <div class="w-1/3">
@@ -237,6 +237,11 @@
                         <option value="movie">فيلم (Movie)</option>
                         <option value="tv">مسلسل (TV)</option>
                     </select>
+                </div>
+                <div>
+                    <label class="block text-xs font-bold text-yellow-500 mb-1.5 ml-1">تقسيم المواسم يدويًا (اختياري للمسلسلات):</label>
+                    <input type="text" id="repairSeasonsSplitInput" placeholder="مثال: 25,25 (عدد حلقات كل موسم)" class="w-full bg-black/50 border border-white/10 rounded-xl p-3.5 text-white focus:border-yellow-500/50 focus:ring-1 focus:ring-yellow-500 focus:outline-none transition-all shadow-inner text-center text-sm">
+                    <span class="text-[10px] text-gray-500 block mt-1 mr-1">مثال لـ Re:Zero اترك الحلقات تفصلها فاصلة كـ 25,25 ليصبح موسمين.</span>
                 </div>
             </div>
             
