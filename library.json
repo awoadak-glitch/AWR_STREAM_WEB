@@ -2,6 +2,74 @@
   "trending": [
     {
       "adult": false,
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [
+        10
+      ],
+      "first_air_date": "",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        }
+      ],
+      "homepage": "",
+      "id": 59079,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": null,
+      "last_episode_to_air": null,
+      "name": "The Little Green Man",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 9,
+          "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+          "name": "ITV1",
+          "origin_country": "GB"
+        }
+      ],
+      "number_of_episodes": 0,
+      "number_of_seasons": 0,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Little Green Man",
+      "overview": "A cartoon about a boy called Sydney Keets who befriends an alien. It was created by Matthew Smith and narrated by Jon Pertwee of Dr Who and Worzel Gummidge fame.",
+      "popularity": 0.0143,
+      "poster_path": "/oUgPSMRRZCEvu7WJDP9frzjgnV5.jpg",
+      "production_companies": [],
+      "production_countries": [],
+      "seasons": [],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 6,
+      "vote_count": 1,
+      "media_type": "tv"
+    },
+    {
+      "adult": false,
       "backdrop_path": "/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
       "id": 1280738,
       "title": "The Furious",
@@ -6421,6 +6489,74 @@
     }
   ],
   "series": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [
+        10
+      ],
+      "first_air_date": "",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        }
+      ],
+      "homepage": "",
+      "id": 59079,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": null,
+      "last_episode_to_air": null,
+      "name": "The Little Green Man",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 9,
+          "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+          "name": "ITV1",
+          "origin_country": "GB"
+        }
+      ],
+      "number_of_episodes": 0,
+      "number_of_seasons": 0,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Little Green Man",
+      "overview": "A cartoon about a boy called Sydney Keets who befriends an alien. It was created by Matthew Smith and narrated by Jon Pertwee of Dr Who and Worzel Gummidge fame.",
+      "popularity": 0.0143,
+      "poster_path": "/oUgPSMRRZCEvu7WJDP9frzjgnV5.jpg",
+      "production_companies": [],
+      "production_countries": [],
+      "seasons": [],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 6,
+      "vote_count": 1,
+      "media_type": "tv"
+    },
     {
       "adult": false,
       "backdrop_path": "/eAXSlqAJwpdsZ59G10lao9OJ4SG.jpg",
