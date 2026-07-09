@@ -2,255 +2,6 @@
   "trending": [
     {
       "adult": false,
-      "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
-      "belongs_to_collection": {
-        "id": 689287,
-        "name": "Re:ZERO -Starting Life in Another World- Collection",
-        "poster_path": "/xcJ3U7sSdI0VVihU9oHxfNZ7umH.jpg",
-        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 14,
-          "name": "Fantasy"
-        }
-      ],
-      "homepage": "http://re-zero-anime.jp/",
-      "id": 532321,
-      "imdb_id": "tt8565186",
-      "origin_country": [
-        "JP"
-      ],
-      "original_language": "ja",
-      "original_title": "Re ゼロから始める異世界生活 Memory Snow",
-      "overview": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
-      "popularity": 3.901,
-      "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
-      "production_companies": [
-        {
-          "id": 12569,
-          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
-          "name": "White Fox",
-          "origin_country": "JP"
-        },
-        {
-          "id": 2073,
-          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
-          "name": "KADOKAWA",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "release_date": "2018-10-06",
-      "revenue": 1725339,
-      "runtime": 61,
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "title": "Re ZERO Starting Life in Another World Memory Snow",
-      "video": false,
-      "vote_average": 7.305,
-      "vote_count": 305,
-      "media_type": "movie",
-      "title_en": "Re ZERO Starting Life in Another World Memory Snow",
-      "overview_en": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries"
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
-      "created_by": [],
-      "episode_run_time": [],
-      "first_air_date": "2020-01-01",
-      "genres": [
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 10759,
-          "name": "Action & Adventure"
-        },
-        {
-          "id": 10765,
-          "name": "Sci-Fi & Fantasy"
-        },
-        {
-          "id": 9648,
-          "name": "Mystery"
-        },
-        {
-          "id": 18,
-          "name": "Drama"
-        }
-      ],
-      "homepage": "",
-      "id": 322512,
-      "in_production": true,
-      "languages": [
-        "ja"
-      ],
-      "last_air_date": "2020-03-25",
-      "last_episode_to_air": {
-        "id": 7271798,
-        "name": "Episode 13",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2020-03-25",
-        "episode_number": 13,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 57,
-        "season_number": 1,
-        "show_id": 322512,
-        "still_path": "/ehRd47eKyh8AordDCxmkJrcJcx4.jpg"
-      },
-      "name": "Re ゼロから始める異世界生活 新編集版",
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 13,
-      "number_of_seasons": 1,
-      "origin_country": [
-        "JP"
-      ],
-      "original_language": "ja",
-      "original_name": "Re:ゼロから始める異世界生活 新編集版",
-      "overview": "",
-      "popularity": 33.4893,
-      "poster_path": "/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
-      "production_companies": [
-        {
-          "id": 12569,
-          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
-          "name": "White Fox",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2020-01-01",
-          "episode_count": 13,
-          "id": 516397,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": "/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "vote_average": 6.875,
-      "vote_count": 4,
-      "media_type": "tv",
-      "title_en": "Re ゼロから始める異世界生活 新編集版",
-      "overview_en": ""
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg",
-      "belongs_to_collection": null,
-      "budget": 64000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "Comedy"
-        },
-        {
-          "id": 80,
-          "name": "Crime"
-        }
-      ],
-      "homepage": "http://www.littleman-movie.com/",
-      "id": 9072,
-      "imdb_id": "tt0430304",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Little Man",
-      "overview": "After leaving prison dwarf criminal Calvin Sims joins his moron brother Percy in stealing an expensive huge diamond from a jewelry store for the mobster Walken They are chased by the police and Calvin hides the stone in the purse of executive Vanessa Edwards whose husband Darryl Edwards wants to have a baby Percy convinces Calvin to dress like a baby and be left in front of the Edwards house to get inside the house and retrieve the diamond Darryl and Vanessa keep Calvin for the weekend and decide to adopt him while Walken threatens Darryl to get the stone back",
-      "popularity": 8.2449,
-      "poster_path": "/9KzPw1VN0pMBnq1KIqBaLI8LAB7.jpg",
-      "production_companies": [
-        {
-          "id": 1608,
-          "logo_path": null,
-          "name": "Wayans Bros. Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 497,
-          "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-          "name": "Revolution Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "2006-08-31",
-      "revenue": 104003322,
-      "runtime": 98,
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Big things come in small packages.",
-      "title": "Little Man",
-      "video": false,
-      "vote_average": 5.948,
-      "vote_count": 1921,
-      "media_type": "movie",
-      "title_en": "Little Man",
-      "overview_en": "After leaving prison dwarf criminal Calvin Sims joins his moron brother Percy in stealing an expensive huge diamond from a jewelry store for the mobster Walken They are chased by the police and Calvin hides the stone in the purse of executive Vanessa Edwards whose husband Darryl Edwards wants to have a baby Percy convinces Calvin to dress like a baby and be left in front of the Edwards house to get inside the house and retrieve the diamond Darryl and Vanessa keep Calvin for the weekend and decide to adopt him while Walken threatens Darryl to get the stone back"
-    },
-    {
-      "adult": false,
       "backdrop_path": "/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
       "id": 1280738,
       "title": "The Furious",
@@ -4502,149 +4253,6 @@
   "movies": [
     {
       "adult": false,
-      "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
-      "belongs_to_collection": {
-        "id": 689287,
-        "name": "Re:ZERO -Starting Life in Another World- Collection",
-        "poster_path": "/xcJ3U7sSdI0VVihU9oHxfNZ7umH.jpg",
-        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 12,
-          "name": "Adventure"
-        },
-        {
-          "id": 14,
-          "name": "Fantasy"
-        }
-      ],
-      "homepage": "http://re-zero-anime.jp/",
-      "id": 532321,
-      "imdb_id": "tt8565186",
-      "origin_country": [
-        "JP"
-      ],
-      "original_language": "ja",
-      "original_title": "Re ゼロから始める異世界生活 Memory Snow",
-      "overview": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
-      "popularity": 3.901,
-      "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
-      "production_companies": [
-        {
-          "id": 12569,
-          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
-          "name": "White Fox",
-          "origin_country": "JP"
-        },
-        {
-          "id": 2073,
-          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
-          "name": "KADOKAWA",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "release_date": "2018-10-06",
-      "revenue": 1725339,
-      "runtime": 61,
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "title": "Re ZERO Starting Life in Another World Memory Snow",
-      "video": false,
-      "vote_average": 7.305,
-      "vote_count": 305,
-      "media_type": "movie",
-      "title_en": "Re ZERO Starting Life in Another World Memory Snow",
-      "overview_en": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries"
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg",
-      "belongs_to_collection": null,
-      "budget": 64000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "Comedy"
-        },
-        {
-          "id": 80,
-          "name": "Crime"
-        }
-      ],
-      "homepage": "http://www.littleman-movie.com/",
-      "id": 9072,
-      "imdb_id": "tt0430304",
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_title": "Little Man",
-      "overview": "After leaving prison dwarf criminal Calvin Sims joins his moron brother Percy in stealing an expensive huge diamond from a jewelry store for the mobster Walken They are chased by the police and Calvin hides the stone in the purse of executive Vanessa Edwards whose husband Darryl Edwards wants to have a baby Percy convinces Calvin to dress like a baby and be left in front of the Edwards house to get inside the house and retrieve the diamond Darryl and Vanessa keep Calvin for the weekend and decide to adopt him while Walken threatens Darryl to get the stone back",
-      "popularity": 8.2449,
-      "poster_path": "/9KzPw1VN0pMBnq1KIqBaLI8LAB7.jpg",
-      "production_companies": [
-        {
-          "id": 1608,
-          "logo_path": null,
-          "name": "Wayans Bros. Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 497,
-          "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-          "name": "Revolution Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "2006-08-31",
-      "revenue": 104003322,
-      "runtime": 98,
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Big things come in small packages.",
-      "title": "Little Man",
-      "video": false,
-      "vote_average": 5.948,
-      "vote_count": 1921,
-      "media_type": "movie",
-      "title_en": "Little Man",
-      "overview_en": "After leaving prison dwarf criminal Calvin Sims joins his moron brother Percy in stealing an expensive huge diamond from a jewelry store for the mobster Walken They are chased by the police and Calvin hides the stone in the purse of executive Vanessa Edwards whose husband Darryl Edwards wants to have a baby Percy convinces Calvin to dress like a baby and be left in front of the Edwards house to get inside the house and retrieve the diamond Darryl and Vanessa keep Calvin for the weekend and decide to adopt him while Walken threatens Darryl to get the stone back"
-    },
-    {
-      "adult": false,
       "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "genre_ids": [
         27,
@@ -5137,8 +4745,8 @@
       "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.619,
-      "vote_count": 3716,
+      "vote_average": 7.62,
+      "vote_count": 3714,
       "media_type": "movie"
     },
     {
@@ -5182,8 +4790,8 @@
       "release_date": "2026-06-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 406,
+      "vote_average": 6.21,
+      "vote_count": 404,
       "media_type": "movie"
     },
     {
@@ -5203,8 +4811,8 @@
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.001,
-      "vote_count": 2135,
+      "vote_average": 8,
+      "vote_count": 2132,
       "media_type": "movie"
     },
     {
@@ -5245,8 +4853,8 @@
       "release_date": "2026-05-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.68,
-      "vote_count": 562,
+      "vote_average": 6.681,
+      "vote_count": 561,
       "media_type": "movie"
     },
     {
@@ -5286,8 +4894,8 @@
       "release_date": "2026-06-18",
       "softcore": false,
       "video": false,
-      "vote_average": 6.389,
-      "vote_count": 202,
+      "vote_average": 6.386,
+      "vote_count": 201,
       "media_type": "movie"
     },
     {
@@ -5332,7 +4940,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.5,
-      "vote_count": 10701,
+      "vote_count": 10700,
       "media_type": "movie"
     },
     {
@@ -5375,7 +4983,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.916,
-      "vote_count": 1891,
+      "vote_count": 1890,
       "media_type": "movie"
     },
     {
@@ -5418,8 +5026,8 @@
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 8.195,
-      "vote_count": 1841,
+      "vote_average": 8.196,
+      "vote_count": 1840,
       "media_type": "movie"
     },
     {
@@ -5484,8 +5092,8 @@
       "release_date": "2026-05-12",
       "softcore": false,
       "video": false,
-      "vote_average": 8.339,
-      "vote_count": 1800,
+      "vote_average": 8.344,
+      "vote_count": 1797,
       "media_type": "movie"
     },
     {
@@ -5505,8 +5113,8 @@
       "release_date": "2026-06-20",
       "softcore": false,
       "video": false,
-      "vote_average": 8.374,
-      "vote_count": 489,
+      "vote_average": 8.371,
+      "vote_count": 488,
       "media_type": "movie"
     },
     {
@@ -6065,7 +5673,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 6.835,
-      "vote_count": 1594,
+      "vote_count": 1589,
       "media_type": "movie"
     },
     {
@@ -6087,7 +5695,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.934,
-      "vote_count": 22178,
+      "vote_count": 22176,
       "media_type": "movie"
     },
     {
@@ -6194,7 +5802,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.372,
-      "vote_count": 39492,
+      "vote_count": 39490,
       "media_type": "movie"
     },
     {
@@ -6257,7 +5865,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 8.25,
-      "vote_count": 28133,
+      "vote_count": 28131,
       "media_type": "movie"
     },
     {
@@ -6278,7 +5886,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.265,
-      "vote_count": 2574,
+      "vote_count": 2572,
       "media_type": "movie"
     },
     {
@@ -6321,8 +5929,8 @@
       "release_date": "2018-04-25",
       "softcore": false,
       "video": false,
-      "vote_average": 8.239,
-      "vote_count": 32229,
+      "vote_average": 8.238,
+      "vote_count": 32226,
       "media_type": "movie"
     },
     {
@@ -12166,7 +11774,7 @@
       "original_language": "en",
       "original_name": "The Flash",
       "overview": "After being struck by lightning CSI investigator Barry Allen awakens from a nine month coma to discover he has been granted the gift of super speed Teaming up with S T A R Labs Barry takes on the persona of The Flash the Fastest Man Alive to protect his city",
-      "popularity": 144.2559,
+      "popularity": 137.9553,
       "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
       "first_air_date": "2014-10-07",
       "softcore": false,
@@ -12282,7 +11890,7 @@
       "original_language": "fr",
       "original_name": "Vivement dimanche",
       "overview": "",
-      "popularity": 143.2101,
+      "popularity": 133.1598,
       "poster_path": "/nRrrsDkH1kYgjvTpirkwMqZFjc5.jpg",
       "first_air_date": "1998-09-20",
       "softcore": false,
@@ -12549,7 +12157,7 @@
       "original_language": "en",
       "original_name": "Yellowstone",
       "overview": "Follow the violent world of the Dutton family who controls the largest contiguous ranch in the United States Led by their patriarch John Dutton the family defends their property against constant attack by land developers an Indian reservation and America s first National Park",
-      "popularity": 139.7777,
+      "popularity": 137.6439,
       "poster_path": "/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "first_air_date": "2018-06-20",
       "softcore": false,
@@ -12627,13 +12235,13 @@
       "original_language": "ko",
       "original_name": "참교육",
       "overview": "An inspector from the Educational Rights Protection Bureau ERPB who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system",
-      "popularity": 138.7242,
+      "popularity": 134.6042,
       "poster_path": "/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "first_air_date": "2026-06-05",
       "softcore": false,
       "name": "Teach You a Lesson",
-      "vote_average": 9.454,
-      "vote_count": 620,
+      "vote_average": 9.455,
+      "vote_count": 625,
       "media_type": "tv",
       "seasons": [
         {
@@ -12665,7 +12273,7 @@
       "original_language": "ja",
       "original_name": "6 LOVERS",
       "overview": "The July issue of Dear announced anime adaptions of a series of manga serialized in the magazine in celebration of the magazine s 20th anniversary Six anime series are collected into an in motion series titled 6 Lovers",
-      "popularity": 137.3872,
+      "popularity": 112.5931,
       "poster_path": "/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
       "first_air_date": "2021-02-27",
       "softcore": false,
@@ -12701,13 +12309,13 @@
       "original_language": "en",
       "original_name": "House",
       "overview": "Dr Gregory House a drug addicted unconventional misanthropic medical genius leads a team of diagnosticians at the fictional Princeton Plainsboro Teaching Hospital in New Jersey",
-      "popularity": 135.9908,
+      "popularity": 136.8025,
       "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
       "first_air_date": "2004-11-16",
       "softcore": false,
       "name": "House",
       "vote_average": 8.566,
-      "vote_count": 7669,
+      "vote_count": 7671,
       "media_type": "tv",
       "seasons": [
         {
@@ -12809,7 +12417,7 @@
       "original_language": "th",
       "original_name": "ซีรีส์",
       "overview": "A young man s life changes forever when a powerful Alpha marks him binding their fates together in an inescapable bond",
-      "popularity": 135.6298,
+      "popularity": 171.1162,
       "poster_path": "/8z62pp4K602d1y6079oU1GBeiAG.jpg",
       "first_air_date": "2026-06-30",
       "softcore": false,
@@ -12845,7 +12453,7 @@
       "original_language": "ja",
       "original_name": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
       "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization Despite Riko and Noma posing as a newlywed couple the criminals begin to suspect them after not hearing any marital intimacy during the night To convince them that they are a loving couple Noma starts touching Riko s body",
-      "popularity": 133.0307,
+      "popularity": 128.9935,
       "poster_path": "/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
       "first_air_date": "2023-10-02",
       "softcore": false,
@@ -12882,13 +12490,13 @@
       "original_language": "en",
       "original_name": "Breaking Bad",
       "overview": "Walter White a New Mexico chemistry teacher is diagnosed with Stage III cancer and given a prognosis of only two years left to live He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family s financial future at any cost as he enters the dangerous world of drugs and crime",
-      "popularity": 131.5098,
+      "popularity": 129.9362,
       "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
       "first_air_date": "2008-01-20",
       "softcore": false,
       "name": "Breaking Bad",
       "vote_average": 8.947,
-      "vote_count": 18064,
+      "vote_count": 18067,
       "media_type": "tv",
       "seasons": [
         {
@@ -12960,13 +12568,13 @@
       "original_language": "en",
       "original_name": "CSI: Crime Scene Investigation",
       "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene collecting irrefutable evidence and finding the missing pieces that solve the mystery",
-      "popularity": 131.0494,
+      "popularity": 128.7165,
       "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
       "first_air_date": "2000-10-06",
       "softcore": false,
       "name": "CSI Crime Scene Investigation",
       "vote_average": 7.633,
-      "vote_count": 1396,
+      "vote_count": 1397,
       "media_type": "tv",
       "seasons": [
         {
@@ -13137,13 +12745,13 @@
       "original_language": "en",
       "original_name": "Shameless",
       "overview": "Chicagoan Frank Gallagher is the proud single dad of six smart industrious independent kids who without him would be perhaps better off When Frank s not at the bar spending what little money they have he s passed out on the floor But the kids have found ways to grow up in spite of him They may not be like any family you know but they make no apologies for being exactly who they are",
-      "popularity": 129.6728,
+      "popularity": 129.546,
       "poster_path": "/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
       "first_air_date": "2011-01-09",
       "softcore": false,
       "name": "Shameless",
-      "vote_average": 8.2,
-      "vote_count": 3380,
+      "vote_average": 8.169,
+      "vote_count": 3382,
       "media_type": "tv",
       "seasons": [
         {
@@ -13275,7 +12883,7 @@
       "original_language": "ja",
       "original_name": "仮面ライダー",
       "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
-      "popularity": 129.423,
+      "popularity": 116.6781,
       "poster_path": "/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
       "first_air_date": "1971-04-03",
       "softcore": false,
@@ -13672,7 +13280,7 @@
       "original_language": "ja",
       "original_name": "僧侶と交わる色欲の夜に…",
       "overview": "At a high school reunion Mio Fukatani reunites with a classmate she has not seen in years Takahide Kujou She had always wanted to know more about the kind hearted boy in high school but once she realizes that Kujou has become a monk she believes that any chance of getting to know him romantically is slim Deciding to drink away her sorrows she ends up walking home drunk and surprisingly running into Kujou who helps her get home However once inside Kujou s lust for Mio becomes apparent and the two share an erotic night of passion As this steamy romance blossoms between these two unlikely lovers Mio and Kujou will undoubtedly spend many nights together in utter ecstasy",
-      "popularity": 129.1126,
+      "popularity": 138.1093,
       "poster_path": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
       "first_air_date": "2017-04-03",
       "softcore": false,
@@ -13709,7 +13317,7 @@
       "original_language": "en",
       "original_name": "Watch What Happens Live with Andy Cohen",
       "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities",
-      "popularity": 129.0713,
+      "popularity": 124.2835,
       "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
       "first_air_date": "2009-07-16",
       "softcore": false,
@@ -13977,13 +13585,13 @@
       "original_language": "en",
       "original_name": "The Last Ship",
       "overview": "Their mission is simple Find a cure Stop the virus Save the world When a global pandemic wipes out eighty percent of the planet s population the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction",
-      "popularity": 128.1339,
+      "popularity": 127.2208,
       "poster_path": "/xH529hDtPxhslAEeCrN7gD64ZMX.jpg",
       "first_air_date": "2014-06-22",
       "softcore": false,
       "name": "The Last Ship",
-      "vote_average": 6.868,
-      "vote_count": 1037,
+      "vote_average": 6.87,
+      "vote_count": 1038,
       "media_type": "tv",
       "seasons": [
         {
@@ -14054,7 +13662,7 @@
       "original_language": "ko",
       "original_name": "런닝맨",
       "overview": "These days as variety shows are gradually disappearing this is one of Korea s representative variety shows that has been responsible for Sunday evenings for over 10 years This program features numerous stars and members going around various places playing games and completing missions In particular among the many fun elements of variety shows this one focuses solely on laughter Open your eyes Big fun is coming in Open your mouth Big laughter is coming in Open your heart Useful lessons are coming in",
-      "popularity": 128.0445,
+      "popularity": 115.9618,
       "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
       "first_air_date": "2010-07-11",
       "softcore": false,
@@ -14091,7 +13699,7 @@
       "original_language": "en",
       "original_name": "American Dad!",
       "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates Father husband and breadwinner Stan Smith his better half housewife Francine Smith their college aged daughter Hayley Smith and their high school aged son Steve Smith Outside of the Smith family there are three additional main characters including Hayley s boyfriend turned husband Jeff Fischer the family s man in a goldfish body pet Klaus and most notably the family s zany alien Roger who is full of masquerades brazenness and shocking antics",
-      "popularity": 127.778,
+      "popularity": 122.1144,
       "poster_path": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
       "first_air_date": "2005-02-06",
       "softcore": false,
@@ -14337,7 +13945,7 @@
       "original_language": "af",
       "original_name": "7de Laan",
       "overview": "7de Laan is an extraordinary microcosm where good and bad evil and wholesome characters find themselves forming part of a wholesome community where no matter what everyone counts and everyone cares",
-      "popularity": 127.6744,
+      "popularity": 103.8622,
       "poster_path": "/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
       "first_air_date": "2000-04-04",
       "softcore": false,
@@ -14605,7 +14213,7 @@
       "original_language": "en",
       "original_name": "The Blacklist",
       "overview": "Raymond Red Reddington one of the FBI s most wanted fugitives surrenders in person at FBI Headquarters in Washington D C He claims that he and the FBI have the same interests bringing down dangerous criminals and terrorists In the last two decades he s made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist Reddington calls this The Blacklist Reddington will co operate but insists that he will speak only to Elizabeth Keen a rookie FBI profiler",
-      "popularity": 127.4399,
+      "popularity": 125.999,
       "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
       "first_air_date": "2013-09-23",
       "softcore": false,
@@ -14733,13 +14341,13 @@
       "original_language": "en",
       "original_name": "Lost",
       "overview": "Stripped of everything the survivors of a horrific plane crash must work together to stay alive But the island holds many secrets",
-      "popularity": 126.4443,
+      "popularity": 123.94,
       "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
       "first_air_date": "2004-09-22",
       "softcore": false,
       "name": "Lost",
       "vote_average": 7.96,
-      "vote_count": 5135,
+      "vote_count": 5136,
       "media_type": "tv",
       "seasons": [
         {
@@ -22103,7 +21711,7 @@
       "original_language": "ko",
       "original_name": "스위트홈",
       "overview": "As humans turn into savage monsters and the world plunges into terror a handful of survivors fight for their lives and to hold on to their humanity",
-      "popularity": 42.7941,
+      "popularity": 37.9412,
       "poster_path": "/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
       "first_air_date": "2020-12-18",
       "softcore": false,
@@ -22159,7 +21767,7 @@
       "original_language": "ko",
       "original_name": "라디오스타",
       "overview": "Radio Star is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives their pasts and their work It is part of Munhwa Broadcasting Corporation s Golden Fishery programming block",
-      "popularity": 42.1367,
+      "popularity": 44.4489,
       "poster_path": "/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
       "first_air_date": "2007-05-30",
       "softcore": false,
@@ -22206,7 +21814,7 @@
       "original_language": "ko",
       "original_name": "SBS 인기가요",
       "overview": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea Every week they ask viewers to vote and select the most popular song of the week",
-      "popularity": 40.1438,
+      "popularity": 31.9509,
       "poster_path": "/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
       "first_air_date": "1998-02-01",
       "softcore": false,
@@ -22254,13 +21862,13 @@
       "original_language": "ko",
       "original_name": "모범택시",
       "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company",
-      "popularity": 39.3745,
+      "popularity": 36.091,
       "poster_path": "/lghfb8beej1aH9ML8QyeSixniom.jpg",
       "first_air_date": "2021-04-09",
       "softcore": false,
       "name": "Taxi Driver",
-      "vote_average": 8.156,
-      "vote_count": 196,
+      "vote_average": 8.165,
+      "vote_count": 197,
       "media_type": "tv",
       "seasons": [
         {
@@ -22311,7 +21919,7 @@
       "original_language": "ko",
       "original_name": "놀면 뭐하니?",
       "overview": "Yoo Jae suk reunites the producing team of Infinite Challenge and presents you How Do You Play The Indefinitely expanding YOONIVERSE based on Yoo s blood sweat and tears will entertain viewers at home Let s follow Yoo and his friends new projects every week",
-      "popularity": 39.1673,
+      "popularity": 33.1469,
       "poster_path": "/dJd8LFodX9831AeRD3CzWklYcS5.jpg",
       "first_air_date": "2019-07-27",
       "softcore": false,
@@ -22348,7 +21956,7 @@
       "original_language": "ko",
       "original_name": "SNL 코리아",
       "overview": "Korea s version of the late night live television sketch comedy and variety show The show s comedy sketches which parody contemporary culture and politics are performed by a large and varying cast of repertory cast members",
-      "popularity": 38.427,
+      "popularity": 29.3031,
       "poster_path": "/1feD9WnGOU19juCw79fACNmG7n4.jpg",
       "first_air_date": "2011-12-03",
       "softcore": false,
@@ -22465,7 +22073,7 @@
       "original_language": "ko",
       "original_name": "유 퀴즈 온 더 블럭",
       "overview": "Yoo Jae suk and Jo Se ho who enter ordinary people s everyday lives chat with them and give them surprise quizzes The talk and quiz show program will spotlight these people s lives and aims to gift them a refreshing different kind of day Recently they re also inviting celebrities professionals to the show",
-      "popularity": 37.0452,
+      "popularity": 34.3835,
       "poster_path": "/4zAQgKWGP2bJk11OKvwY1GCJjQR.jpg",
       "first_air_date": "2018-08-29",
       "softcore": false,
@@ -22521,7 +22129,7 @@
       "original_language": "ko",
       "original_name": "유희열의 스케치북",
       "overview": "You Hee yeol s Sketchbook is a Korean pop music program that is both a talk show and live music show The host of this program is You Hee yeol also known as Toy a one man project band This program has aired since April 24 2009",
-      "popularity": 36.6497,
+      "popularity": 37.5825,
       "poster_path": "/5zsoaVX483aJG90rJhlAup1VAXI.jpg",
       "first_air_date": "2009-04-24",
       "softcore": false,
@@ -22560,7 +22168,7 @@
       "original_language": "ko",
       "original_name": "환혼",
       "overview": "A powerful sorceress in a blind woman s body encounters a man from a prestigious family who wants her help to change his destiny",
-      "popularity": 35.6015,
+      "popularity": 34.0491,
       "poster_path": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
       "first_air_date": "2022-06-18",
       "softcore": false,
@@ -22607,7 +22215,7 @@
       "original_language": "ko",
       "original_name": "미운 우리 새끼",
       "overview": "How much do you know about your grown up son In Mom s Diary the daily lives of the grown up celebrity sons are closely observed by their mothers Do you know why your son drinks so much these days How much do you know about your son s philosophy in his life style Heart warming moments of observational communication between a mother and a son can be seen on Mom s Diary",
-      "popularity": 34.8527,
+      "popularity": 40.4748,
       "poster_path": "/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
       "first_air_date": "2016-08-26",
       "softcore": false,
@@ -22644,7 +22252,7 @@
       "original_language": "ko",
       "original_name": "색녀도",
       "overview": "",
-      "popularity": 34.7886,
+      "popularity": 30.3784,
       "poster_path": "/rXdgS0wUXrjNQRvuDn5O00SIxi9.jpg",
       "first_air_date": "2013-10-24",
       "softcore": false,
@@ -22691,12 +22299,12 @@
       "original_language": "ko",
       "original_name": "신입사원 강회장",
       "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player he uses his business genius and athletic physique to seek ultimate revenge against his family",
-      "popularity": 34.0206,
+      "popularity": 34.1297,
       "poster_path": "/riDCDdOG8Hf7P1PP987dQrmzxrO.jpg",
       "first_air_date": "2026-05-30",
       "softcore": false,
       "name": "Reborn Rookie",
-      "vote_average": 7.464,
+      "vote_average": 7.5,
       "vote_count": 14,
       "media_type": "tv",
       "seasons": [
@@ -22727,7 +22335,7 @@
       "original_language": "ko",
       "original_name": "수업중입니다",
       "overview": "In a college class where students are paired up and sent on dates a sophomore is partnered with an upperclassman whose gentle kindness steals his heart",
-      "popularity": 32.1533,
+      "popularity": 26.9307,
       "poster_path": "/yoUP5L763UM7iM7CHTzXAuQNXHh.jpg",
       "first_air_date": "2022-05-13",
       "softcore": false,
@@ -22786,7 +22394,7 @@
       "original_language": "ko",
       "original_name": "원더풀스",
       "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild turn of the century action comedy",
-      "popularity": 31.9923,
+      "popularity": 30.655,
       "poster_path": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
       "first_air_date": "2026-05-15",
       "softcore": false,
@@ -22822,7 +22430,7 @@
       "original_language": "ko",
       "original_name": "SNL 코리아 리부트",
       "overview": "SNL Korea NBC s flagship program SNL which won the Emmy Award has returned for the first time in four years through Coupang Play",
-      "popularity": 31.8986,
+      "popularity": 28.8248,
       "poster_path": "/bgFsUd788CupFK1xt2xFVEJRibT.jpg",
       "first_air_date": "2021-09-04",
       "softcore": false,
@@ -22929,7 +22537,7 @@
       "original_language": "ko",
       "original_name": "논스톱",
       "overview": "Nonstop is a South Korean slice of life sitcom that broadcast its first season in 2000 on MBC It continued with 5 more seasons The series was popular for its cast of teen idols many who debuted through the show",
-      "popularity": 31.1146,
+      "popularity": 45.4401,
       "poster_path": "/elXJzhz1dM0lO7fK2BfO2pVtC7l.jpg",
       "first_air_date": "2000-05-15",
       "softcore": false,
@@ -23016,7 +22624,7 @@
       "original_language": "ko",
       "original_name": "X맨",
       "overview": "Celebrity guests are split into two teams to compete in various contests One guest known only to himself is designated the X Man and does his best to cause his team to lose the contests At the end all guests try to determine the X Man s identity",
-      "popularity": 30.0333,
+      "popularity": 24.1519,
       "poster_path": "/lqxp7BHGvTcrwU5WZr4FuDCvNNS.jpg",
       "first_air_date": "2003-11-08",
       "softcore": false,
@@ -23060,7 +22668,7 @@
       "original_language": "ko",
       "original_name": "TMI SHOW",
       "overview": "",
-      "popularity": 29.8707,
+      "popularity": 21.3107,
       "poster_path": "/wJ779QoklVnX1LHoD4zyKeCfRpb.jpg",
       "first_air_date": "2019-04-25",
       "softcore": false,
@@ -23107,13 +22715,13 @@
       "original_language": "ko",
       "original_name": "닥터 섬보이",
       "overview": "In South Korea military service is mandatory for all men But a select few like privileged medical students can serve as public health doctors instead This is the story of those privileged few Do Ji ui a plastic surgeon is assigned to Pyeondong do an isolated island no one wants to go to From the very first day ominous signs begin to appear Can he survive a full year on this hellish island and make it out alive or will the island break him before he can hold the line",
-      "popularity": 29.4087,
+      "popularity": 28.9582,
       "poster_path": "/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
       "first_air_date": "2026-06-01",
       "softcore": false,
       "name": "Doctor on the Edge",
-      "vote_average": 7.75,
-      "vote_count": 10,
+      "vote_average": 7.682,
+      "vote_count": 11,
       "media_type": "tv",
       "seasons": [
         {
@@ -23144,13 +22752,13 @@
       "original_language": "ko",
       "original_name": "여신강림",
       "overview": "After being bullied and discriminated because of her ugly looks a high school girl transforms herself into a gorgeous goddess and quickly rises to fame after mastering the art of makeup via online tutorial videos",
-      "popularity": 29.3845,
+      "popularity": 28.3561,
       "poster_path": "/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
       "first_air_date": "2020-12-09",
       "softcore": false,
       "name": "True Beauty",
-      "vote_average": 8.265,
-      "vote_count": 2672,
+      "vote_average": 8.266,
+      "vote_count": 2673,
       "media_type": "tv",
       "seasons": [
         {
@@ -24085,7 +23693,7 @@
         },
         {
           "air_date": "2026-01-02",
-          "episode_count": 49,
+          "episode_count": 50,
           "id": 492071,
           "name": "2026",
           "overview": "",
@@ -24277,54 +23885,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-      "genre_ids": [
-        9648,
-        18,
-        10759
-      ],
-      "id": 126485,
-      "origin_country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "original_name": "무빙",
-      "overview": "Children who live in hiding with superpowers along with their parents who live with painful secrets of the past face enormous dangers together",
-      "popularity": 22.5082,
-      "poster_path": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
-      "first_air_date": "2023-08-09",
-      "softcore": false,
-      "name": "Moving",
-      "vote_average": 8.503,
-      "vote_count": 289,
-      "media_type": "tv",
-      "seasons": [
-        {
-          "air_date": "2023-08-09",
-          "episode_count": 20,
-          "id": 197093,
-          "name": "Season 1",
-          "overview": "These three students try to hide their special abilities from other people, while their parents struggle to protect them from being used by other people.",
-          "poster_path": "/t1qdOoYg5miMgKN6tko6ruTFnLR.jpg",
-          "season_number": 1,
-          "vote_average": 8.5
-        },
-        {
-          "air_date": null,
-          "episode_count": 1,
-          "id": 517572,
-          "name": "Season 2",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 2,
-          "vote_average": 0
-        }
-      ],
-      "title_en": "Moving",
-      "overview_en": "Children who live in hiding with superpowers along with their parents who live with painful secrets of the past face enormous dangers together"
-    },
-    {
-      "adult": false,
       "backdrop_path": "/dg1gRMrZIoZo2PmvqRAh6zxUSCC.jpg",
       "genre_ids": [
         16,
@@ -24340,7 +23900,7 @@
       "original_language": "ko",
       "original_name": "Bernard",
       "overview": "Bernard is a series of animated shorts centered on the fictional polar bear and main character of the same name It is a Korean Spanish French co production Each three minute episode focuses on the bear s curiosity and have many moments of slapstick Bernard never speaks with the exception of unintelligible noises Bernard is accompanied in the cartoons by a few other characters Lloyd and Eva the penguins Zack the lizard Goliat the chihuahua Sam the baby Pilot the dog Pokey the porcupine and Santa Claus He usually gets knocked unconscious or severely injured at the end of an episode due to some calamity caused by his bumbling",
-      "popularity": 22.4846,
+      "popularity": 21.8349,
       "poster_path": "/9SXIJY21rm67eQvlPBTTXIiRumG.jpg",
       "first_air_date": "2006-12-18",
       "softcore": false,
@@ -24449,7 +24009,7 @@
       "original_language": "ko",
       "original_name": "빈센조",
       "overview": "During a visit to his motherland a Korean Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicinewith a side of justice",
-      "popularity": 22.3366,
+      "popularity": 18.7045,
       "poster_path": "/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
       "first_air_date": "2021-02-20",
       "softcore": false,
@@ -24485,7 +24045,7 @@
       "original_language": "ko",
       "original_name": "미스터 션샤인",
       "overview": "Set in the early 1900s this drama tells the story of a young man from Korea who grows up in the United States When he returns to Korea as a US Marine Corps officer he meets and falls in love with a noblewoman who is fighting for Korean independence Their romance is complicated by social class and political ideology",
-      "popularity": 22.2942,
+      "popularity": 21.1064,
       "poster_path": "/p7ljjykSsiyWstGVAwIkbdfPzRV.jpg",
       "first_air_date": "2018-07-07",
       "softcore": false,
@@ -24522,7 +24082,7 @@
       "original_language": "ko",
       "original_name": "캐치! 티니핑",
       "overview": "Set free on Earth fairies with magical powers begin influencing people s emotions Now it s up to a princess from a faraway kingdom to stop them",
-      "popularity": 22.2873,
+      "popularity": 23.9536,
       "poster_path": "/qa2qFufGnKdiu0UOkoTYsui953h.jpg",
       "first_air_date": "2020-03-19",
       "softcore": false,
@@ -24620,7 +24180,7 @@
       "original_language": "ko",
       "original_name": "킬러들의 쇼핑몰",
       "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle s sudden death",
-      "popularity": 21.8616,
+      "popularity": 23.4938,
       "poster_path": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
       "first_air_date": "2024-01-17",
       "softcore": false,
@@ -24666,7 +24226,7 @@
       "original_language": "ko",
       "original_name": "남자 셋 여자 셋",
       "overview": "The series is Korea s first youth sitcom revolving around three men and three women sharing a university lodging house The group navigates comedic and romantic adventures with a focus on friendships and budding relationships Key highlights Lee Ui jung one of the female leads stands out with her quirky hairstyle and serves as the show s central figure particularly through her dynamic with Song Seung heon s character The sitcom blends lighthearted humour with relatable themes of young adulthood making it a pioneer in Korean TV history",
-      "popularity": 21.6888,
+      "popularity": 35.2837,
       "poster_path": "/k7WJy6YdiONTn5Y9PQiu0AN23MP.jpg",
       "first_air_date": "1996-10-21",
       "softcore": false,
@@ -24704,7 +24264,7 @@
       "original_language": "ko",
       "original_name": "GOING SEVENTEEN",
       "overview": "GOING SEVENTEEN is a variety show by SEVENTEEN The show is all about SEVENTEEN doing activities challenges and everything else",
-      "popularity": 21.3014,
+      "popularity": 20.1358,
       "poster_path": "/kMtJMPS1f5YMLbiJrk2vJixDGEK.jpg",
       "first_air_date": "2017-06-05",
       "softcore": false,
@@ -24832,7 +24392,7 @@
       "original_language": "ko",
       "original_name": "결혼의 완성",
       "overview": "Tae ju and Se yun are on the verge of divorce But when a drunken comment from Tae ju gets his wife Se yun kidnapped everything changes Even worse he s now the prime suspect Forced to go on the run Tae ju must rescue his wife on his own To save her he pushes himself to the absolute limit",
-      "popularity": 21.0281,
+      "popularity": 19.3169,
       "poster_path": "/aYDdSfDvlUrb54dzMAGIUAEvIOl.jpg",
       "first_air_date": "2026-07-04",
       "softcore": false,
@@ -24868,7 +24428,7 @@
       "original_language": "ko",
       "original_name": "BANGTAN BOMB",
       "overview": "Bangtan Bomb are short videos of BTS released on their YouTube channel",
-      "popularity": 20.6567,
+      "popularity": 25.5549,
       "poster_path": "/i01uYYJoovqILhexlYA6E1CHh56.jpg",
       "first_air_date": "2013-06-19",
       "softcore": false,
@@ -25024,7 +24584,7 @@
       "original_language": "ko",
       "original_name": "Star Road",
       "overview": "OSEN s Star Road is a program for Vietnamese hallyu fans where Korean celebrities showcase charms that haven t been seen yet From casual interviews to real daily life footage it is expected to be well received by fans",
-      "popularity": 20.6087,
+      "popularity": 22.0748,
       "poster_path": "/raYbjMPg2FZZc8X02duQrCdKeUj.jpg",
       "first_air_date": "2018-07-08",
       "softcore": false,
@@ -25670,7 +25230,7 @@
       "original_language": "ko",
       "original_name": "미스터리 음악쇼 복면가왕",
       "overview": "Competitors are given elaborate masks to wear in order to conceal their identity thus removing factors such as popularity career and age that could lead to prejudiced voting In the first round a pair of competitors sing the same song while in the second and third rounds they each sing a solo song After the First Generation the winner of the Third Round goes on to challenge the Mask King and is either eliminated or replaces the previous Mask King through live voting The identities of the singers are not revealed unless they have been eliminated",
-      "popularity": 20.494,
+      "popularity": 20.5847,
       "poster_path": "/vlnAfmirzYx1TSxXuaPhHjkPPmK.jpg",
       "first_air_date": "2015-04-05",
       "softcore": false,
@@ -25706,7 +25266,7 @@
       "original_language": "ko",
       "original_name": "전지적 참견 시점",
       "overview": "We will get involved in every little detail of the stars lives The managers who work closely with the stars reveal their mundane lives Once the information is all revealed the professional meddlers from various different fields are invited to make comments regarding even the smallest details Lee Yeong Ja Jun Hyun Moo Song Eun I Kim Saeng Min Yang Se Hyeong and Yoo Byung Jae participate as the life meddlers along with the professionals",
-      "popularity": 20.2793,
+      "popularity": 21.575,
       "poster_path": "/jASfIetUKhrbqEEKBnjRjjgfuGK.jpg",
       "first_air_date": "2018-03-10",
       "softcore": false,
@@ -25746,7 +25306,7 @@
       "original_language": "ko",
       "original_name": "최강전사 미니특공대",
       "overview": "Four animal superheroes called the Miniforce transform into robots to protect small and defenseless creatures from the hands of scheming villains",
-      "popularity": 19.3525,
+      "popularity": 22.7593,
       "poster_path": "/4SCNu5uw54AgyO7pMWWonuXrUSD.jpg",
       "first_air_date": "2014-09-03",
       "softcore": false,
@@ -25883,7 +25443,7 @@
       "original_language": "ko",
       "original_name": "사랑의 불시착",
       "overview": "A paragliding mishap drops a South Korean heiress in North Korea and into the life of an army officer who decides he will help her hide",
-      "popularity": 19.3182,
+      "popularity": 17.6296,
       "poster_path": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
       "first_air_date": "2019-12-14",
       "softcore": false,
@@ -25919,7 +25479,7 @@
       "original_language": "ko",
       "original_name": "슈퍼맨이 돌아왔다",
       "overview": "An up close look at celebrity dads who have to take care of their kids for the next 48 hours without any help Will it be a dad tastrophe or can they finish their wives to do lists while having fun with their kids",
-      "popularity": 18.9554,
+      "popularity": 33.9833,
       "poster_path": "/qjBx2RCnyyBPgu9qBV7j3UiXjeo.jpg",
       "first_air_date": "2013-11-03",
       "softcore": false,
@@ -26087,7 +25647,7 @@
       "original_language": "ko",
       "original_name": "마우스",
       "overview": "A psychopath s ruthless serial murders have left the entire nation gripped by fear and chaos An honest justice seeking rookie police officer and a veteran detective with a tragic past face off against the killer After their encounter with the psychopath their lives change completely",
-      "popularity": 18.8519,
+      "popularity": 16.7568,
       "poster_path": "/qz0axqEwwIa5uaMsUYKGs9u29ut.jpg",
       "first_air_date": "2021-03-03",
       "softcore": false,
@@ -26124,13 +25684,13 @@
       "original_language": "ko",
       "original_name": "사내맞선",
       "overview": "In disguise as her friend Ha ri shows up to a blind date to scare him away But plans go awry when he turns out to be her CEO and makes a proposal",
-      "popularity": 18.7549,
+      "popularity": 17.1744,
       "poster_path": "/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
       "first_air_date": "2022-02-28",
       "softcore": false,
       "name": "Business Proposal",
-      "vote_average": 8.445,
-      "vote_count": 759,
+      "vote_average": 8.447,
+      "vote_count": 760,
       "media_type": "tv",
       "seasons": [
         {
@@ -26160,7 +25720,7 @@
       "original_language": "ko",
       "original_name": "이상한 변호사 우영우",
       "overview": "With a genius level IQ Woo Young woo learns to embrace her extraordinary self while forming a tight knit community of friends and allies",
-      "popularity": 18.7536,
+      "popularity": 16.5745,
       "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
       "first_air_date": "2022-06-29",
       "softcore": false,
@@ -26197,7 +25757,7 @@
       "original_language": "ko",
       "original_name": "주몽",
       "overview": "Jumong examines the life of Jumong Taewang founder of the kingdom of Goguryeo Few details have been found in the historical record about Jumong so much of the series is fictionalized",
-      "popularity": 17.7666,
+      "popularity": 17.4973,
       "poster_path": "/oJj4tsSLu65tjcCx5yqHECfehD5.jpg",
       "first_air_date": "2006-05-15",
       "softcore": false,
@@ -27045,115 +26605,57 @@
       ],
       "title_en": "ONE High School Heroes",
       "overview_en": "A former model student pushed by domestic abuse and bullying joins a group that stands up to school violence and defends its victims"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xuf7G4srLSFcC7Q8YbX7HHEmXG2.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 70626,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "비밀의 숲",
+      "overview": "Hwang Shi Mok underwent brain surgery as a child to curb his violent temper which left him devoid of emotions Hwang becomes a prosecutor known for his piercing intelligence and logic but he is ostracized because he lacks empathy and social skills He is also one of only a handful of upright prosecutors who have refused to take bribes One day he encounters a stabbing victim while investigating corruption He meets Lieutenant Han Yeo Jin at the crime scene They join forces to root out corruption at the prosecutors office and solve a serial murder case",
+      "popularity": 15.601,
+      "poster_path": "/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+      "first_air_date": "2017-06-10",
+      "softcore": false,
+      "name": "Stranger",
+      "vote_average": 8.3,
+      "vote_count": 210,
+      "media_type": "tv",
+      "seasons": [
+        {
+          "air_date": "2017-06-10",
+          "episode_count": 16,
+          "id": 85995,
+          "name": "Season 1",
+          "overview": "An unlikely partnership is forged, between a passionate cop and an emotionless prosecutor, to bring an evasive serial killer to justice.",
+          "poster_path": "/hTL59sifNwRRFkiNxxO3Qq14qkl.jpg",
+          "season_number": 1,
+          "vote_average": 8.5
+        },
+        {
+          "air_date": "2020-08-15",
+          "episode_count": 16,
+          "id": 131578,
+          "name": "Season 2",
+          "overview": "In the midst of a power clash between prosecutors and police, Si-mok and Yeo-jin uncover murky secrets as they pursue a labyrinth of intertwined cases.",
+          "poster_path": "/4exIU22Pm2QlS2Bin6n8WI1mDpQ.jpg",
+          "season_number": 2,
+          "vote_average": 8.4
+        }
+      ],
+      "title_en": "Stranger",
+      "overview_en": "Hwang Shi Mok underwent brain surgery as a child to curb his violent temper which left him devoid of emotions Hwang becomes a prosecutor known for his piercing intelligence and logic but he is ostracized because he lacks empathy and social skills He is also one of only a handful of upright prosecutors who have refused to take bribes One day he encounters a stabbing victim while investigating corruption He meets Lieutenant Han Yeo Jin at the crime scene They join forces to root out corruption at the prosecutors office and solve a serial murder case"
     }
   ],
   "anime": [
-    {
-      "adult": false,
-      "backdrop_path": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
-      "created_by": [],
-      "episode_run_time": [],
-      "first_air_date": "2020-01-01",
-      "genres": [
-        {
-          "id": 16,
-          "name": "Animation"
-        },
-        {
-          "id": 10759,
-          "name": "Action & Adventure"
-        },
-        {
-          "id": 10765,
-          "name": "Sci-Fi & Fantasy"
-        },
-        {
-          "id": 9648,
-          "name": "Mystery"
-        },
-        {
-          "id": 18,
-          "name": "Drama"
-        }
-      ],
-      "homepage": "",
-      "id": 322512,
-      "in_production": true,
-      "languages": [
-        "ja"
-      ],
-      "last_air_date": "2020-03-25",
-      "last_episode_to_air": {
-        "id": 7271798,
-        "name": "Episode 13",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2020-03-25",
-        "episode_number": 13,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 57,
-        "season_number": 1,
-        "show_id": 322512,
-        "still_path": "/ehRd47eKyh8AordDCxmkJrcJcx4.jpg"
-      },
-      "name": "Re ゼロから始める異世界生活 新編集版",
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 13,
-      "number_of_seasons": 1,
-      "origin_country": [
-        "JP"
-      ],
-      "original_language": "ja",
-      "original_name": "Re:ゼロから始める異世界生活 新編集版",
-      "overview": "",
-      "popularity": 33.4893,
-      "poster_path": "/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
-      "production_companies": [
-        {
-          "id": 12569,
-          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
-          "name": "White Fox",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2020-01-01",
-          "episode_count": 13,
-          "id": 516397,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": "/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "vote_average": 6.875,
-      "vote_count": 4,
-      "media_type": "tv",
-      "title_en": "Re ゼロから始める異世界生活 新編集版",
-      "overview_en": ""
-    },
     {
       "adult": false,
       "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
