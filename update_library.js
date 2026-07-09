@@ -125,9 +125,19 @@ async function fetchMediaDetails(id, mediaType) {
     return null;
 }
 
+// دالة جديدة لجلب جميع أجزاء السلسلة (Collection)
+async function fetchCollectionParts(collectionId) {
+    try {
+        const url = `${BASE_URL}/collection/${collectionId}?api_key=${TMDB_API_KEY}&language=ar-SA`;
+        const res = await fetch(url);
+        if (res.ok) return await res.json();
+    } catch (e) { console.error(`❌ فشل جلب تفاصيل السلسلة: ${collectionId}`); }
+    return null;
+}
+
 async function saveMediaItem(currentRunData, globalSeenIds, item, mediaType) {
     if (globalSeenIds.has(item.id)) {
-        console.log(`⚠️ العنصر موجود مسبقاً (تم تخطيه): ${item.title || item.name}`);
+        console.log(`⚠️ العنصر موجود مسبقاً (تم تخطيه): ${item.title || item.name || item.id}`);
         return;
     }
 
@@ -179,7 +189,6 @@ async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraPara
             for (const item of data.results) {
                 if (categoryResults.length >= 100) break; 
                 
-                // فحص الأيدي مع الملفات القديمة والجديدة
                 if (item.poster_path && !globalSeenIds.has(item.id)) {
                     globalSeenIds.add(item.id);
                     
@@ -208,6 +217,7 @@ async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraPara
     return categoryResults;
 }
 
+// دالة معالجة الريكوست المباشر عبر الـ ID مع دعم السلاسل (Collections)
 async function handleDirectIdRequest(currentRunData, globalSeenIds, id, type) {
     let typesToTry = type ? [type.trim()] : ['movie', 'tv'];
     let item = null, finalMediaType = 'movie';
@@ -220,9 +230,30 @@ async function handleDirectIdRequest(currentRunData, globalSeenIds, id, type) {
             break;
         }
     }
-    if (item) await saveMediaItem(currentRunData, globalSeenIds, item, finalMediaType);
+    
+    if (item) {
+        // التحقق مما إذا كان الفيلم جزءاً من سلسلة
+        if (finalMediaType === 'movie' && item.belongs_to_collection) {
+            console.log(`🔗 الفيلم ينتمي إلى سلسلة: [${item.belongs_to_collection.name}]. جاري سحب جميع الأجزاء...`);
+            const collectionData = await fetchCollectionParts(item.belongs_to_collection.id);
+            
+            if (collectionData && collectionData.parts) {
+                // ترتيب الأجزاء من الأقدم للأحدث بناءً على تاريخ الإصدار
+                const parts = collectionData.parts.sort((a, b) => new Date(a.release_date || 0) - new Date(b.release_date || 0));
+                for (let part of parts) {
+                    await saveMediaItem(currentRunData, globalSeenIds, { id: part.id }, 'movie');
+                }
+            }
+        } else {
+            // إذا كان فيلماً عادياً أو مسلسلاً، يتم حفظه كالمعتاد
+            await saveMediaItem(currentRunData, globalSeenIds, item, finalMediaType);
+        }
+    } else {
+        console.log(`❌ لم يتم العثور على أي تفاصيل للمعرف: ${id}`);
+    }
 }
 
+// دالة معالجة الريكوست عبر الاسم مع دعم السلاسل (Collections)
 async function handleDirectRequest(currentRunData, globalSeenIds, queryTitle) {
     if (!queryTitle) return;
     try {
@@ -239,7 +270,21 @@ async function handleDirectRequest(currentRunData, globalSeenIds, queryTitle) {
             for (let rawItem of relevantResults) {
                 const mediaType = rawItem.media_type || ((rawItem.title) ? 'movie' : 'tv');
                 const item = await fetchMediaDetails(rawItem.id, mediaType);
-                if (item && item.poster_path) await saveMediaItem(currentRunData, globalSeenIds, item, mediaType);
+                
+                if (item && item.poster_path) {
+                    if (mediaType === 'movie' && item.belongs_to_collection) {
+                        console.log(`🔗 الفيلم ينتمي إلى سلسلة: [${item.belongs_to_collection.name}]. جاري سحب جميع الأجزاء...`);
+                        const collectionData = await fetchCollectionParts(item.belongs_to_collection.id);
+                        if (collectionData && collectionData.parts) {
+                            const parts = collectionData.parts.sort((a, b) => new Date(a.release_date || 0) - new Date(b.release_date || 0));
+                            for (let part of parts) {
+                                await saveMediaItem(currentRunData, globalSeenIds, { id: part.id }, 'movie');
+                            }
+                        }
+                    } else {
+                        await saveMediaItem(currentRunData, globalSeenIds, item, mediaType);
+                    }
+                }
             }
         }
     } catch (e) { }
@@ -299,10 +344,11 @@ async function runScraper() {
         }
     }
 
-    // تحديث ملف الدليل index.json
-    const allFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json') && f !== 'index.json');
-    fs.writeFileSync(path.join(DATA_DIR, 'index.json'), JSON.stringify(allFiles, null, 2));
-    console.log(`📋 تم تحديث فهرس الملفات (index.json) بنجاح! الإجمالي: ${allFiles.length} ملف`);
+    if (generatedFiles || OLD_ID) {
+        const allFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json') && f !== 'index.json');
+        fs.writeFileSync(path.join(DATA_DIR, 'index.json'), JSON.stringify(allFiles, null, 2));
+        console.log(`📋 تم تحديث فهرس الملفات (index.json) بنجاح! الإجمالي: ${allFiles.length} ملف`);
+    }
 
     console.log('🎉 اكتملت العملية بنجاح!');
 }
