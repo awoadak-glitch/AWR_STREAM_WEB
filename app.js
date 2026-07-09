@@ -22,17 +22,23 @@ document.addEventListener('DOMContentLoaded', () => {
     if(document.getElementById('githubRepoInput')) document.getElementById('githubRepoInput').value = GITHUB_REPO;
     initApp();
     
-    // تأثيرات النافبار
+    // تأثيرات النافبار (مُحسّنة بـ requestAnimationFrame لمنع تنفيذها عشرات المرات بالثانية أثناء السكرول)
+    let navScrollTicking = false;
     window.addEventListener('scroll', () => {
-        const nav = document.getElementById('navbar');
-        if (window.scrollY > 50) {
-            nav.classList.add('bg-black/80', 'shadow-[0_10px_30px_rgba(0,0,0,0.5)]', 'border-white/10');
-            nav.classList.remove('bg-black/40', 'border-white/5');
-        } else {
-            nav.classList.add('bg-black/40', 'border-white/5');
-            nav.classList.remove('bg-black/80', 'shadow-[0_10px_30px_rgba(0,0,0,0.5)]', 'border-white/10');
-        }
-    });
+        if (navScrollTicking) return;
+        navScrollTicking = true;
+        requestAnimationFrame(() => {
+            const nav = document.getElementById('navbar');
+            if (window.scrollY > 50) {
+                nav.classList.add('bg-black/80', 'shadow-[0_10px_30px_rgba(0,0,0,0.5)]', 'border-white/10');
+                nav.classList.remove('bg-black/40', 'border-white/5');
+            } else {
+                nav.classList.add('bg-black/40', 'border-white/5');
+                nav.classList.remove('bg-black/80', 'shadow-[0_10px_30px_rgba(0,0,0,0.5)]', 'border-white/10');
+            }
+            navScrollTicking = false;
+        });
+    }, { passive: true });
 });
 
 async function initApp() {
@@ -91,6 +97,9 @@ async function fetchIndexAndLoadInitial(isSilentUpdate = false) {
 async function loadNextBatch(count = 5) {
     if(isFetchingBatch || fileQueue.length === 0) return;
     isFetchingBatch = true;
+    
+    const topBar = document.getElementById('topLoadingBar');
+    if(topBar) topBar.classList.remove('hidden');
 
     const batch = fileQueue.splice(0, count);
     
@@ -122,6 +131,8 @@ async function loadNextBatch(count = 5) {
     }
 
     isFetchingBatch = false;
+    const topBarEl = document.getElementById('topLoadingBar');
+    if(topBarEl) topBarEl.classList.add('hidden');
 }
 
 // 📌 مراقب النزول لأسفل الصفحة لتفعيل السحب التلقائي (Intersection Observer)
@@ -175,8 +186,8 @@ function generateCardHTML(item, index, forceType) {
         <div class="swiper-slide w-[140px] md:w-[200px] cursor-pointer group animate-fade-in" style="animation-delay: ${(index % 10) * 0.03}s" 
             onclick="openDetails('${itemData}')">
             
-            <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-500 transform group-hover:-translate-y-2 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_15px_30px_rgba(229,9,20,0.3)] border border-white/5">
-                <img src="${poster}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}">
+            <div class="card-premium relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-500 transform group-hover:-translate-y-2 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_15px_30px_rgba(229,9,20,0.3)] border border-white/5">
+                <img src="${poster}" class="lazy-img w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}" onload="this.classList.add('img-loaded')">
                 
                 <div class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 
@@ -384,7 +395,16 @@ window.submitRepairRequest = async () => {
 // نظام البحث الشامل (مستقل ويعمل على كل الملفات)
 // ============================================
 
-document.getElementById('searchInput').addEventListener('input', async (e) => {
+// دالة مساعدة عامة لتأخير التنفيذ (Debounce) لتخفيف الحمل أثناء الكتابة السريعة
+function debounce(fn, delay = 250) {
+    let timer = null;
+    return (...args) => {
+        clearTimeout(timer);
+        timer = setTimeout(() => fn(...args), delay);
+    };
+}
+
+document.getElementById('searchInput').addEventListener('input', debounce(async (e) => {
     const query = e.target.value.trim().toLowerCase();
     const resultsContainer = document.getElementById('searchResults');
     
@@ -450,8 +470,8 @@ document.getElementById('searchInput').addEventListener('input', async (e) => {
 
                 resultsHtml += `
                     <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${(count % 10) * 0.03}s" onclick="openDetails('${itemData}')">
-                        <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
-                            <img src="${poster}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
+                        <div class="card-premium relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
+                            <img src="${poster}" class="lazy-img w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy" onload="this.classList.add('img-loaded')">
                         </div>
                         <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${displayTitle}</h3>
                     </div>
@@ -466,7 +486,7 @@ document.getElementById('searchInput').addEventListener('input', async (e) => {
     } else {
         resultsContainer.innerHTML = resultsHtml;
     }
-});
+}, 220));
 
 // ============================================
 // نظام التنقل والأزرار (Tabs & Modals)

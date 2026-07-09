@@ -67,3 +67,143 @@ body {
 .pb-safe {
     padding-bottom: env(safe-area-inset-bottom);
 }
+
+/* =========================================================
+   🚀 طبقة التحسينات الجديدة: أداء أخف + شكل جذري وسلاسة أعلى
+   (تمت الإضافة فقط ولم يُحذف أي سطر من الكود القديم أعلاه)
+   ========================================================= */
+
+/* --- 1) تسريع الأداء العام: نخلي المتصفح يتجاهل رندر أي قسم برا الشاشة --- */
+.perf-section {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 480px; /* يحجز مساحة تقريبية لمنع قفزة السكرول */
+}
+.swiper-slide {
+    contain: layout paint style;
+}
+
+/* --- 2) تفعيل تسريع الـ GPU لأي عنصر يتحرك بدل إجباره يعيد رسم الصفحة كاملة --- */
+.gpu-boost,
+.contentSwiper .swiper-slide,
+#miniPlayer,
+.details-content,
+.request-content,
+.repair-content {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+}
+
+/* --- 3) تحميل ناعم لصور بطاقات الأفلام/المسلسلات (Skeleton + Fade) بدل ظهورها فجأة وتسبب رجّة بصرية ---
+   ملاحظة: مقصورة على class="lazy-img" فقط حتى لا تؤثر على صورة الهيدر الرئيسية أو خلفية النافذة المنبثقة */
+.lazy-img {
+    background: linear-gradient(110deg, #1a1a1f 8%, #202028 18%, #1a1a1f 33%);
+    background-size: 200% 100%;
+    animation: imgShimmer 1.6s linear infinite;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+.lazy-img.img-loaded {
+    animation: none;
+    opacity: 1;
+    background: none;
+}
+@keyframes imgShimmer {
+    to { background-position-x: -200%; }
+}
+
+/* --- 4) خلفية "Aurora" متحركة وخفيفة على المعالجة لإعطاء شكل فاخر وسينمائي --- */
+.aurora-bg {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    overflow: hidden;
+    background: #0b0b0e;
+}
+.aurora-blob {
+    position: absolute;
+    width: 55vw;
+    height: 55vw;
+    max-width: 700px;
+    max-height: 700px;
+    border-radius: 50%;
+    filter: blur(110px);
+    opacity: 0.35;
+    will-change: transform;
+    animation: auroraDrift 22s ease-in-out infinite alternate;
+}
+.aurora-blob.b1 { background: radial-gradient(circle, #e50914 0%, transparent 70%); top: -15%; right: -10%; }
+.aurora-blob.b2 { background: radial-gradient(circle, #7b0d14 0%, transparent 70%); bottom: -20%; left: -15%; animation-duration: 28s; animation-delay: -6s; }
+.aurora-blob.b3 { background: radial-gradient(circle, #3a0a10 0%, transparent 70%); top: 40%; left: 30%; animation-duration: 34s; animation-delay: -12s; opacity: 0.2; }
+
+@keyframes auroraDrift {
+    0%   { transform: translate(0, 0) scale(1); }
+    50%  { transform: translate(-6%, 8%) scale(1.15); }
+    100% { transform: translate(5%, -5%) scale(0.95); }
+}
+
+/* --- 5) بطاقات فاخرة: ميلان خفيف ثلاثي الأبعاد + توهج حواف عند المرور --- */
+.card-premium {
+    transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.45s ease;
+}
+.card-premium::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(135deg, rgba(229,9,20,0.9), rgba(255,255,255,0.05) 40%, transparent 70%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+}
+.group:hover .card-premium::after {
+    opacity: 1;
+}
+
+/* --- 6) نص متوهج بتدرج العلامة التجارية لاستخدامه بالعناوين البارزة --- */
+.text-gradient-brand {
+    background: linear-gradient(90deg, #ffffff 0%, #ff4b52 55%, #e50914 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+/* --- 7) شريط تحميل علوي رفيع وأنيق (يُستخدم اختيارياً أثناء جلب البيانات) --- */
+#topLoadingBar {
+    position: fixed;
+    top: 0; right: 0; left: 0;
+    height: 3px;
+    z-index: 200;
+    background: linear-gradient(90deg, #e50914, #ff6a6a, #e50914);
+    background-size: 200% 100%;
+    animation: loadingBarMove 1.1s linear infinite;
+    transform-origin: right;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+@keyframes loadingBarMove {
+    to { background-position-x: -200%; }
+}
+
+/* --- 8) سلاسة انتقال أقسام التبويبات --- */
+.view-section.animate-fade-in {
+    will-change: opacity, transform;
+}
+
+/* --- 9) احترام تفضيل المستخدم بتقليل الحركة (يحسّن الأداء والراحة البصرية) --- */
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.001ms !important;
+    }
+    .aurora-blob { animation: none !important; opacity: 0.15; }
+}
+
+/* --- 10) تحسين ملمس السكرول والبطاقات على الشاشات الصغيرة لتفادي الثقل --- */
+@media (max-width: 768px) {
+    .aurora-blob { filter: blur(70px); opacity: 0.25; }
+}

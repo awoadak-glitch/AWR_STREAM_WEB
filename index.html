@@ -3,6 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#0b0b0e">
+    <meta name="description" content="AWR Stream Hub - منصة مشاهدة أفلام ومسلسلات فورية">
+    <!-- تسريع الاتصال المسبق بالخوادم الخارجية لتقليل زمن التحميل الأول -->
+    <link rel="preconnect" href="https://image.tmdb.org" crossorigin>
+    <link rel="dns-prefetch" href="https://image.tmdb.org">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="preconnect" href="https://api.themoviedb.org" crossorigin>
     <title>AWR Stream Hub | نظام الأتمتة المباشر</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -27,6 +35,16 @@
 </head>
 <body class="bg-darkBg text-white min-h-screen font-sans overflow-x-hidden pb-20 md:pb-0 transition-colors duration-300 selection:bg-brand selection:text-white">
 
+    <!-- خلفية Aurora سينمائية خفيفة على الأداء لإعطاء عمق وفخامة للموقع بالكامل -->
+    <div class="aurora-bg" aria-hidden="true">
+        <div class="aurora-blob b1"></div>
+        <div class="aurora-blob b2"></div>
+        <div class="aurora-blob b3"></div>
+    </div>
+
+    <!-- شريط تحميل علوي أنيق يظهر أثناء جلب الدفعات الجديدة من المكتبة -->
+    <div id="topLoadingBar" class="hidden"></div>
+
     <nav id="navbar" class="fixed w-full z-40 transition-all duration-500 bg-black/40 backdrop-blur-xl border-b border-white/5 py-4">
         <div class="max-w-[1400px] mx-auto px-4 flex items-center justify-between">
             <div class="flex items-center gap-6">
@@ -34,7 +52,7 @@
                     <div class="relative w-10 h-10 flex items-center justify-center bg-gradient-to-br from-brand to-red-800 rounded-xl shadow-[0_0_20px_rgba(229,9,20,0.5)]">
                         <i class="fa-solid fa-play text-white text-lg ml-1"></i>
                     </div>
-                    <span class="tracking-wider">AWR Hub</span>
+                    <span class="tracking-wider text-gradient-brand">AWR Hub</span>
                 </div>
                 <button onclick="openRequestModal()" class="hidden md:flex items-center gap-2 bg-white/5 hover:bg-white/10 text-sm px-6 py-2.5 rounded-full transition-all duration-300 border border-white/10 hover:border-brand/50 hover:shadow-[0_0_20px_rgba(229,9,20,0.3)] group">
                     <i class="fa-solid fa-bolt text-brand group-hover:animate-pulse"></i> ريكوست فوري
@@ -51,7 +69,7 @@
         <header class="relative w-full h-[75vh] md:h-[85vh] overflow-hidden group">
             <div class="absolute inset-0 bg-gradient-to-t from-darkBg via-darkBg/60 to-transparent z-10"></div>
             <div class="absolute inset-0 bg-gradient-to-r from-darkBg via-darkBg/40 to-transparent z-10"></div>
-            <img id="heroImage" src="" class="w-full h-full object-cover opacity-80 transform group-hover:scale-105 transition-transform duration-[2s] ease-out" alt="Hero">
+            <img id="heroImage" src="" fetchpriority="high" class="w-full h-full object-cover opacity-80 transform group-hover:scale-105 transition-transform duration-[2s] ease-out" alt="Hero">
             <div class="absolute bottom-20 right-4 md:right-12 z-20 max-w-3xl animate-slide-up text-shadow-lg">
                 <span class="bg-brand text-white border border-red-400/50 px-4 py-1.5 rounded-full text-xs font-bold mb-5 inline-block shadow-[0_0_15px_rgba(229,9,20,0.5)]"><i class="fa-solid fa-fire mr-1"></i> حصرياً الآن</span>
                 <h1 id="heroTitle" class="text-4xl md:text-6xl lg:text-7xl font-black mb-5 drop-shadow-2xl tracking-tight leading-tight">جاري الاتصال...</h1>
@@ -63,25 +81,25 @@
         </header>
 
         <main class="max-w-[1400px] mx-auto px-4 -mt-24 relative z-20 space-y-12 pb-10">
-            <section class="animate-slide-up" style="animation-delay: 0.1s;">
+            <section class="animate-slide-up perf-section" style="animation-delay: 0.1s;">
                 <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-arrow-trend-up text-brand"></i> أحدث الإضافات والتريند</h2>
-                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="trendingContainer"></div></div>
+                <div class="swiper contentSwiper gpu-boost pb-6"><div class="swiper-wrapper" id="trendingContainer"></div></div>
             </section>
-            <section class="animate-slide-up" style="animation-delay: 0.2s;">
+            <section class="animate-slide-up perf-section" style="animation-delay: 0.2s;">
                 <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-film text-gray-400"></i> أفلام سينمائية مميزة</h2>
-                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="moviesContainer"></div></div>
+                <div class="swiper contentSwiper gpu-boost pb-6"><div class="swiper-wrapper" id="moviesContainer"></div></div>
             </section>
-            <section class="animate-slide-up" style="animation-delay: 0.3s;">
+            <section class="animate-slide-up perf-section" style="animation-delay: 0.3s;">
                 <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-tv text-gray-400"></i> مسلسلات حصرية</h2>
-                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="seriesContainer"></div></div>
+                <div class="swiper contentSwiper gpu-boost pb-6"><div class="swiper-wrapper" id="seriesContainer"></div></div>
             </section>
-            <section class="animate-slide-up" style="animation-delay: 0.4s;">
+            <section class="animate-slide-up perf-section" style="animation-delay: 0.4s;">
                 <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-heart text-pink-500"></i> مسلسلات كورية K-Drama</h2>
-                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="kdramaContainer"></div></div>
+                <div class="swiper contentSwiper gpu-boost pb-6"><div class="swiper-wrapper" id="kdramaContainer"></div></div>
             </section>
-            <section class="animate-slide-up" style="animation-delay: 0.5s;">
+            <section class="animate-slide-up perf-section" style="animation-delay: 0.5s;">
                 <h2 class="text-xl md:text-2xl font-bold mb-5 flex items-center gap-2 text-shadow-sm"><i class="fa-solid fa-meteor text-yellow-500"></i> عالم الأنمي Anime</h2>
-                <div class="swiper contentSwiper pb-6"><div class="swiper-wrapper" id="animeContainer"></div></div>
+                <div class="swiper contentSwiper gpu-boost pb-6"><div class="swiper-wrapper" id="animeContainer"></div></div>
             </section>
         </main>
     </div>
