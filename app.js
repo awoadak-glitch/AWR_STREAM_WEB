@@ -12,10 +12,10 @@ let fileQueue = [];
 let isFetchingBatch = false;
 let isFirstLoad = true;
 
-// متغيرات بيانات البحث الشاملة الجديدة
+// متغيرات نظام البحث الشامل
 let allSearchData = [];
 let isAllSearchDataLoaded = false;
-let isFetchingSearchData = false;
+let searchDataPromise = null;
 
 document.addEventListener('DOMContentLoaded', () => {
     if(document.getElementById('githubTokenInput')) document.getElementById('githubTokenInput').value = GITHUB_TOKEN;
@@ -67,8 +67,10 @@ async function fetchIndexAndLoadInitial(isSilentUpdate = false) {
         if (!isSilentUpdate) {
             globalLibraryData = { trending: [], movies: [], series: [], kdrama: [], anime: [] };
             clearAllContainers();
-            // إعادة ضبط البحث الشامل إذا تم تحديث الفهرس
-            isAllSearchDataLoaded = false; 
+            
+            // تفريغ بيانات البحث عند كل تحديث جديد للفهرس
+            isAllSearchDataLoaded = false;
+            searchDataPromise = null;
             allSearchData = [];
         }
 
@@ -94,7 +96,7 @@ async function loadNextBatch(count = 5) {
     
     await Promise.all(batch.map(async (file) => {
         try {
-            const res = await fetch(`data/${file}`);
+            const res = await fetch(`data/${file}?t=${Date.now()}`); // تفادي الكاش
             const data = await res.json();
             const category = file.split('_')[0]; // استخراج القسم (movies, series...) من اسم الملف
             
@@ -379,107 +381,91 @@ window.submitRepairRequest = async () => {
 };
 
 // ============================================
-// نظام البحث الشامل والسريع
+// نظام البحث الشامل (مستقل ويعمل على كل الملفات)
 // ============================================
 
-// دالة جلب كافة الملفات في الخلفية لتسريع وتسهيل البحث الشامل
-async function loadAllSearchData() {
-    if(isAllSearchDataLoaded || isFetchingSearchData) return;
-    isFetchingSearchData = true;
-
-    try {
-        const response = await fetch(`data/index.json?t=${Date.now()}`);
-        if(!response.ok) throw new Error("Index file not found");
-        let files = await response.json();
-        
-        // جلب كل الملفات معاً في نفس الوقت لسرعة فائقة (Promise.all)
-        const fetchPromises = files.map(file => fetch(`data/${file}`).then(res => res.json()).catch(() => []));
-        const allResults = await Promise.all(fetchPromises);
-        
-        allSearchData = allResults.flat();
-        isAllSearchDataLoaded = true;
-
-        // إذا كان المستخدم يكتب شيئاً أثناء التحميل، أعد تشغيل البحث لعرض النتائج الجديدة
-        const searchInput = document.getElementById('searchInput');
-        if(searchInput && searchInput.value.trim().length >= 2) {
-            searchInput.dispatchEvent(new Event('input'));
-        }
-        
-    } catch(err) {
-        console.error("خطأ في جلب بيانات البحث:", err);
-    } finally {
-        isFetchingSearchData = false;
-    }
-}
-
-document.getElementById('searchInput').addEventListener('input', (e) => {
+document.getElementById('searchInput').addEventListener('input', async (e) => {
     const query = e.target.value.trim().toLowerCase();
     const resultsContainer = document.getElementById('searchResults');
     
-    if(query.length < 2) { resultsContainer.innerHTML = ''; return; }
-    
-    // إذا لم تكن البيانات الكاملة قد حُملت، قم بتحميلها
-    if(!isAllSearchDataLoaded && !isFetchingSearchData) {
-        loadAllSearchData();
+    if(query.length < 2) { 
+        resultsContainer.innerHTML = ''; 
+        return; 
     }
 
-    let allLoadedItems = [];
-    let baseHtml = '';
-
-    // تجميع كل ما تم تحميله حتى اللحظة لضمان السرعة
-    if (isAllSearchDataLoaded) {
-        allLoadedItems = allSearchData;
-    } else {
-        // في حال ما زالت البيانات الشاملة قيد التحميل، أظهر مؤقتاً ما تم تحميله في الواجهة
-        allLoadedItems = [
-            ...globalLibraryData.trending, 
-            ...globalLibraryData.movies, 
-            ...globalLibraryData.series, 
-            ...globalLibraryData.kdrama, 
-            ...globalLibraryData.anime
-        ];
-        // مؤشر تحميل يخبر المستخدم أن هناك ملفات أخرى يتم جلبها للبحث
-        baseHtml += `<div class="col-span-full text-center text-gray-400 text-sm py-4 w-full"><i class="fa-solid fa-circle-notch animate-spin text-brand mr-2"></i> جاري جلب كافة ملفات المكتبة لضمان بحث شامل...</div>`;
+    // إذا لم يتم تحميل جميع بيانات البحث مسبقاً، اجلبها الآن
+    if (!isAllSearchDataLoaded) {
+        // رسالة تحميل مرئية للمستخدم
+        resultsContainer.innerHTML = `
+            <div class="col-span-full text-center text-gray-400 py-10 w-full flex flex-col items-center gap-3">
+                <i class="fa-solid fa-circle-notch animate-spin text-brand text-3xl"></i>
+                <span class="text-sm font-bold animate-pulse">جاري فحص جميع ملفات السيرفر لجلب كافة النتائج...</span>
+            </div>
+        `;
+        
+        if (!searchDataPromise) {
+            searchDataPromise = (async () => {
+                try {
+                    // إضافة التاريخ لتخطي الكاش تماماً وقراءة أحدث ما أضافه السكربت التلقائي
+                    const response = await fetch(`data/index.json?t=${Date.now()}`);
+                    const files = await response.json();
+                    
+                    const fetchPromises = files.map(file => 
+                        fetch(`data/${file}?t=${Date.now()}`).then(res => res.json()).catch(() => [])
+                    );
+                    
+                    const allResults = await Promise.all(fetchPromises);
+                    allSearchData = allResults.flat();
+                    isAllSearchDataLoaded = true;
+                } catch(err) {
+                    console.error("خطأ أثناء جلب الملفات:", err);
+                }
+            })();
+        }
+        
+        await searchDataPromise; 
     }
-    
-    const seenIds = new Set();
+
+    // بعد الانتهاء من التحميل، نفذ البحث على المتغير المجمع
     let count = 0;
-    
-    // تجميع الكود كـ String لإدراجه دفعة واحدة مما يمنع التقطيع والتهنيج
     let resultsHtml = '';
+    const seenKeys = new Set();
     
-    allLoadedItems.forEach(item => {
+    allSearchData.forEach(item => {
         const titleAr = (item.title || item.name || '').toLowerCase();
         const titleEn = (item.title_en || '').toLowerCase();
         const originalTitle = (item.original_title || item.original_name || '').toLowerCase();
         
-        if((titleAr.includes(query) || titleEn.includes(query) || originalTitle.includes(query)) && !seenIds.has(item.id)) {
-            seenIds.add(item.id);
+        if(titleAr.includes(query) || titleEn.includes(query) || originalTitle.includes(query)) {
             
-            const displayTitle = item.title || item.name || 'عنصر غير معروف';
-            const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')})).replace(/'/g, "%27");
-            const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
+            // ربط الـ ID مع العنوان يضمن ظهور جميع الأجزاء حتى لو تشابهت هوياتها
+            const uniqueKey = item.id + '_' + titleAr;
+            
+            if (!seenKeys.has(uniqueKey)) {
+                seenKeys.add(uniqueKey);
+                
+                const displayTitle = item.title || item.name || 'عنصر غير معروف';
+                const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')})).replace(/'/g, "%27");
+                const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
 
-            resultsHtml += `
-                <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${(count % 10) * 0.03}s" onclick="openDetails('${itemData}')">
-                    <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
-                        <img src="${poster}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
+                resultsHtml += `
+                    <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${(count % 10) * 0.03}s" onclick="openDetails('${itemData}')">
+                        <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
+                            <img src="${poster}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
+                        </div>
+                        <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${displayTitle}</h3>
                     </div>
-                    <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${displayTitle}</h3>
-                </div>
-            `;
-            count++;
+                `;
+                count++;
+            }
         }
     });
 
-    baseHtml += resultsHtml;
-
-    if(count === 0 && isAllSearchDataLoaded) {
-        baseHtml = `<div class="col-span-full text-center text-gray-400 py-10 w-full">لا توجد نتائج مطابقة لـ "${e.target.value}" في جميع الملفات.</div>`;
+    if(count === 0) {
+        resultsContainer.innerHTML = `<div class="col-span-full text-center text-gray-400 py-10 w-full">لا توجد نتائج مطابقة لـ "${e.target.value}".</div>`;
+    } else {
+        resultsContainer.innerHTML = resultsHtml;
     }
-
-    // إرسال النتيجة دفعة واحدة لضمان أعلى سلاسة
-    resultsContainer.innerHTML = baseHtml;
 });
 
 // ============================================
@@ -506,11 +492,6 @@ window.switchTab = (tabName) => {
         target.classList.add('animate-fade-in');
     }
     window.scrollTo({ top: 0, behavior: 'smooth' });
-
-    // تفعيل جلب الملفات للبحث فور الضغط على تبويبة البحث
-    if (tabName === 'search') {
-        loadAllSearchData();
-    }
 };
 
 window.openRequestModal = () => {
