@@ -144,14 +144,19 @@
       ],
       "seasons": [
         {
-          "air_date": "2016-04-04",
-          "episode_count": 85,
-          "id": 75470,
-          "name": "الموسم 1",
-          "overview": "",
-          "poster_path": "/nLgY9Ped6ABn7XPKT84RBKG2Lvm.jpg",
           "season_number": 1,
-          "vote_average": 9.3
+          "episode_count": 25,
+          "name": "الموسم 1"
+        },
+        {
+          "season_number": 2,
+          "episode_count": 25,
+          "name": "الموسم 2"
+        },
+        {
+          "season_number": 3,
+          "episode_count": 16,
+          "name": "الموسم 3"
         }
       ],
       "softcore": false,
@@ -27705,14 +27710,19 @@
       ],
       "seasons": [
         {
-          "air_date": "2016-04-04",
-          "episode_count": 85,
-          "id": 75470,
-          "name": "الموسم 1",
-          "overview": "",
-          "poster_path": "/nLgY9Ped6ABn7XPKT84RBKG2Lvm.jpg",
           "season_number": 1,
-          "vote_average": 9.3
+          "episode_count": 25,
+          "name": "الموسم 1"
+        },
+        {
+          "season_number": 2,
+          "episode_count": 25,
+          "name": "الموسم 2"
+        },
+        {
+          "season_number": 3,
+          "episode_count": 16,
+          "name": "الموسم 3"
         }
       ],
       "softcore": false,
