@@ -78,7 +78,6 @@ function renderCategory(items, containerId, forceType = null) {
         const type = forceType || item.media_type || (item.title ? 'movie' : 'tv');
         const title = item.title || item.name || 'عنصر غير معروف';
         
-        // هنا قمنا بإضافة حل مشكلة علامات الاقتباس التي تعطل الأزرار
         const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type})).replace(/'/g, "%27");
         
         const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
@@ -93,12 +92,10 @@ function renderCategory(items, containerId, forceType = null) {
                     
                     <div class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                     
-                    <!-- التقييم -->
                     <div class="absolute top-2 right-2 bg-black/60 backdrop-blur-md text-white text-[11px] font-bold px-2 py-1 rounded-lg border border-white/10 shadow-md flex items-center gap-1">
                         ${vote} <i class="fa-solid fa-star text-brand"></i>
                     </div>
 
-                    <!-- زر الإصلاح المباشر 🔧 -->
                     <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
                             title="إصلاح هذا العمل"
                             class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-8 h-8 rounded-full flex items-center justify-center border border-white/20 shadow-[0_0_15px_rgba(0,0,0,0.5)] transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
@@ -208,6 +205,7 @@ window.openRepairModal = (encodedData) => {
     document.getElementById('repairOldIdInput').value = id;
     document.getElementById('repairOldTitle').innerText = title;
     document.getElementById('repairNewIdInput').value = id; 
+    document.getElementById('repairNewIdTypeSelect').value = 'tmdb'; // Default
     document.getElementById('repairNewTypeSelect').value = type === 'tv' ? 'tv' : 'movie';
     
     const modal = document.getElementById('repairModal');
@@ -229,9 +227,10 @@ window.closeRepairModal = () => {
 window.submitRepairRequest = async () => {
     const oldId = document.getElementById('repairOldIdInput').value;
     const newId = document.getElementById('repairNewIdInput').value.trim();
+    const newIdType = document.getElementById('repairNewIdTypeSelect').value;
     const newType = document.getElementById('repairNewTypeSelect').value;
 
-    if(!newId) return alert('يرجى إدخال الـ ID الصحيح');
+    if(!newId) return alert('يرجى إدخال المعرف (ID) الصحيح');
     if(!GITHUB_TOKEN || !GITHUB_REPO) return alert('يرجى إعداد التوكن في الإعدادات أولاً');
 
     try {
@@ -247,6 +246,7 @@ window.submitRepairRequest = async () => {
                 inputs: {
                     request_id: newId,
                     request_type: newType,
+                    request_id_type: newIdType, // إرسال نوع الـ ID
                     old_id: oldId
                 }
             })
@@ -277,7 +277,6 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
         if(title.toLowerCase().includes(query) && !seenIds.has(item.id)) {
             seenIds.add(item.id);
             
-            // تم إضافة حل المشكلة هنا أيضاً في نتائج البحث
             const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')})).replace(/'/g, "%27");
             
             const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
@@ -363,6 +362,7 @@ window.saveSettings = () => {
 window.submitContentRequest = async () => {
     const title = document.getElementById('requestTitleInput').value.trim();
     const id = document.getElementById('requestIdInput').value.trim();
+    const idType = document.getElementById('requestIdTypeSelect').value; // جلب نوع الـ ID
     const type = document.getElementById('requestTypeSelect').value;
     
     const loading = document.getElementById('requestLoading');
@@ -391,7 +391,8 @@ window.submitContentRequest = async () => {
                 inputs: {
                     request_title: title || "", 
                     request_id: id || "",
-                    request_type: type || ""
+                    request_type: type || "",
+                    request_id_type: idType // إرسال المتغير الجديد لـ GitHub Actions
                 }
             })
         });
