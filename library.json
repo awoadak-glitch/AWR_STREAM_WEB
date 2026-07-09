@@ -2,6 +2,265 @@
   "trending": [
     {
       "adult": false,
+      "backdrop_path": "/1UJy650NptOTTC9s0PmELEWq939.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        90
+      ],
+      "first_air_date": "1982-09-25",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "homepage": "",
+      "id": 11073,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "1983-05-07",
+      "last_episode_to_air": {
+        "id": 3865618,
+        "name": "Episode 33",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-05-07",
+        "episode_number": 33,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 11073,
+        "still_path": null
+      },
+      "name": "The Pac Man Little Rascals Richie Rich Show",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 2,
+          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+          "name": "ABC",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 33,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Pac-Man/Little Rascals/Richie Rich Show",
+      "overview": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals",
+      "popularity": 0.5678,
+      "poster_path": "/aFYVNwS6aq8s4XQmJzdBr1TGlX1.jpg",
+      "production_companies": [
+        {
+          "id": 1353,
+          "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+          "name": "Hanna-Barbera Cartoons",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "1982-09-25",
+          "episode_count": 33,
+          "id": 302939,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "media_type": "tv",
+      "title_en": "The Pac Man Little Rascals Richie Rich Show",
+      "overview_en": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "1983-02-07",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 319952,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "1983-02-10",
+      "last_episode_to_air": {
+        "id": 7159228,
+        "name": "あした、生きるために",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-02-10",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 75,
+        "season_number": 1,
+        "show_id": 319952,
+        "still_path": null
+      },
+      "name": "The Brave Man Says Little",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 4,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "勇者は語らず",
+      "overview": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry",
+      "popularity": 0.8762,
+      "poster_path": "/cyIrDd3ffJAcgdNyEl1DqBycHd7.jpg",
+      "production_companies": [
+        {
+          "id": 15505,
+          "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+          "name": "NHK",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "1983-02-07",
+          "episode_count": 4,
+          "id": 511422,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "media_type": "tv",
+      "title_en": "The Brave Man Says Little",
+      "overview_en": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k0NVarTkjVJBDS4XDpkhNbrh8vS.jpg",
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": 9414,
+      "imdb_id": "tt0120483",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Man Who Knew Too Little",
+      "overview": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act",
+      "popularity": 1.8693,
+      "poster_path": "/yVlIZa0u6CTN5LudxGX77Fk46iz.jpg",
+      "production_companies": [
+        {
+          "id": 2206,
+          "logo_path": null,
+          "name": "Polar Films",
+          "origin_country": ""
+        },
+        {
+          "id": 25087,
+          "logo_path": null,
+          "name": "Arnon Milchan Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1997-11-14",
+      "revenue": 13801755,
+      "runtime": 94,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "He’s on a mission so secret, even he doesn’t know about it.",
+      "title": "The Man Who Knew Too Little",
+      "video": false,
+      "vote_average": 6.37,
+      "vote_count": 584,
+      "media_type": "movie",
+      "title_en": "The Man Who Knew Too Little",
+      "overview_en": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act"
+    },
+    {
+      "adult": false,
       "backdrop_path": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "id": 1280738,
       "title": "The Furious",
@@ -4363,6 +4622,77 @@
   "movies": [
     {
       "adult": false,
+      "backdrop_path": "/k0NVarTkjVJBDS4XDpkhNbrh8vS.jpg",
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": 9414,
+      "imdb_id": "tt0120483",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Man Who Knew Too Little",
+      "overview": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act",
+      "popularity": 1.8693,
+      "poster_path": "/yVlIZa0u6CTN5LudxGX77Fk46iz.jpg",
+      "production_companies": [
+        {
+          "id": 2206,
+          "logo_path": null,
+          "name": "Polar Films",
+          "origin_country": ""
+        },
+        {
+          "id": 25087,
+          "logo_path": null,
+          "name": "Arnon Milchan Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1997-11-14",
+      "revenue": 13801755,
+      "runtime": 94,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "He’s on a mission so secret, even he doesn’t know about it.",
+      "title": "The Man Who Knew Too Little",
+      "video": false,
+      "vote_average": 6.37,
+      "vote_count": 584,
+      "media_type": "movie",
+      "title_en": "The Man Who Knew Too Little",
+      "overview_en": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act"
+    },
+    {
+      "adult": false,
       "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "genre_ids": [
         27,
@@ -6515,6 +6845,194 @@
     }
   ],
   "series": [
+    {
+      "adult": false,
+      "backdrop_path": "/1UJy650NptOTTC9s0PmELEWq939.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        90
+      ],
+      "first_air_date": "1982-09-25",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "homepage": "",
+      "id": 11073,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "1983-05-07",
+      "last_episode_to_air": {
+        "id": 3865618,
+        "name": "Episode 33",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-05-07",
+        "episode_number": 33,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 11073,
+        "still_path": null
+      },
+      "name": "The Pac Man Little Rascals Richie Rich Show",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 2,
+          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+          "name": "ABC",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 33,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Pac-Man/Little Rascals/Richie Rich Show",
+      "overview": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals",
+      "popularity": 0.5678,
+      "poster_path": "/aFYVNwS6aq8s4XQmJzdBr1TGlX1.jpg",
+      "production_companies": [
+        {
+          "id": 1353,
+          "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+          "name": "Hanna-Barbera Cartoons",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "1982-09-25",
+          "episode_count": 33,
+          "id": 302939,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "media_type": "tv",
+      "title_en": "The Pac Man Little Rascals Richie Rich Show",
+      "overview_en": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "1983-02-07",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 319952,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "1983-02-10",
+      "last_episode_to_air": {
+        "id": 7159228,
+        "name": "あした、生きるために",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-02-10",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 75,
+        "season_number": 1,
+        "show_id": 319952,
+        "still_path": null
+      },
+      "name": "The Brave Man Says Little",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 4,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "勇者は語らず",
+      "overview": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry",
+      "popularity": 0.8762,
+      "poster_path": "/cyIrDd3ffJAcgdNyEl1DqBycHd7.jpg",
+      "production_companies": [
+        {
+          "id": 15505,
+          "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+          "name": "NHK",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "1983-02-07",
+          "episode_count": 4,
+          "id": 511422,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "media_type": "tv",
+      "title_en": "The Brave Man Says Little",
+      "overview_en": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry"
+    },
     {
       "adult": false,
       "backdrop_path": "/eAXSlqAJwpdsZ59G10lao9OJ4SG.jpg",
