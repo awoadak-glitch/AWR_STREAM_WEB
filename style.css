@@ -14,11 +14,11 @@ body {
     -webkit-tap-highlight-color: transparent; 
 }
 
-/* 🛑 فئة لمنع التحديد وظهور قوائم النظام عند الضغط المطول */
+/* فئة لمنع التحديد وظهور قوائم النظام عند الضغط المطول */
 .no-select {
     -webkit-user-select: none;
     user-select: none;
-    touch-action: pan-y; /* يسمح بالتمرير العمودي فقط ويمنع المتصفح من استدعاء مهام مطولة */
+    touch-action: pan-y;
 }
 
 @keyframes fadeIn {
