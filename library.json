@@ -2,6 +2,559 @@
   "trending": [
     {
       "adult": false,
+      "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
+      "belongs_to_collection": {
+        "id": 689287,
+        "name": "Re:ZERO -Starting Life in Another World- Collection",
+        "poster_path": "/xcJ3U7sSdI0VVihU9oHxfNZ7umH.jpg",
+        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "homepage": "http://re-zero-anime.jp/",
+      "id": 532321,
+      "imdb_id": "tt8565186",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "Re ゼロから始める異世界生活 Memory Snow",
+      "overview": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
+      "popularity": 3.901,
+      "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2018-10-06",
+      "revenue": 1725339,
+      "runtime": 61,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Re ZERO Starting Life in Another World Memory Snow",
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 305,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/",
+              "overview": "Subaru finally gets to take a breather, but he does not waste any time as he prepares for a date with his beloved Emilia. He scouts the nearby village for the right dating spot, and with the help of the village children, he finds a wonderful location. With that, he is well prepared for his date! Unfortunately for Subaru, cold weather suddenly sweeps across Roswaal's mansion on his important day, leaving him with no choice but to postpone the date. Overnight, it becomes even colder and unbearable. Subaru must get to the bottom of this because, at this rate, his date will be the least of his worries.",
+              "runtime": 61,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語",
+            "english_name": "Japanese",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/memorysnow/",
+              "overview": "呪いの元凶である魔獣ウルガルムを打ち倒し、 アーラム村の子供たちを救ったスバルたち。 やっと訪れた平穏も束の間、スバルは 誰にも知られてはならない、とある極秘ミッションに挑んでいた。 しかし変装していたにも関わらず、すぐにペトラを始め、 村の子供たちに正体がバレてしまうスバル。 開始5秒でバレてしまったミッションとは、 エミリアとのデートコースの下見で……。",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "homepage": "",
+              "overview": "저주의 원흉인 마수 울가름을 물리치고 아람마을의 아이들을 구해낸 스바루와 동료들. 겨우 되찾은 평화도 한 순간, 스바루는 누구에게도 알려져서는 안될 어떤 극비 미션에 도전했다. 그러나 변장을 했음에도 불구하고, 곧 페트라를 시작으로 마을의 아이들에게 정체를 들켜 버린 스바루. 시작 5초 만에 들켜 버린 미션은 바로 에밀리아와의 데이트 코스 답사인데...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:제로부터 시작하는 이세계 생활 메모리 스노우"
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe",
+            "english_name": "Turkish",
+            "data": {
+              "homepage": "",
+              "overview": "Re: Sıfır kara Hajimeru Isekai Seikatsu, MF Pazar günü MF Bunko J Yaz Okulu Festivali'nde düzenlenen etkinliğin 2017 serisinin yeni bir OVA alacağını açıkladı.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "昴等人順利打倒詛咒的元兇的魔獸、並拯救村莊的小孩子們。就在和平終於到來之際，昴挑戰了一項無人知曉、某項極秘任務……",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re：從零開始的異世界生活 Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/",
+              "overview": "　　昴等人打倒了诅咒的元凶——魔兽沃尔加姆，拯救了阿拉姆村的孩子们。终于到来的安稳并未持续很久，昴就瞒着所有人前去挑战某个极秘任务。但尽管昴做了变装，也很快就被以佩特拉为首的村里的孩子们识破了真实身份。开始后5秒就曝光的这一任务，是事前调查和爱蜜莉雅约会的路线……",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re：从零开始的异世界生活 雪之回忆"
+            }
+          },
+          {
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands",
+            "english_name": "Dutch",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru en zijn vrienden krijgen eindelijk een moment van rust, en Subaru gaat op een geheime missie waarvan niemand mag weten! Maar ook al draagt ​​Subaru een vermomming, Petra en andere kinderen uit het dorp komen er meteen achter wie hij is. Wat zal er gebeuren met Subaru's 'date course' met Emilia, nu zijn missie binnen vijf seconden na het begin ervan werd onthuld?",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "homepage": "",
+              "overview": "La historia tiene lugar después de que Subaru y sus amigos derrotan a los Wolgarm, la fuente de la maldición, y salvan a los niños de la aldea de Irlam. Los personajes finalmente obtienen un momento de paz, y Subaru realiza cierta misión secreta que no debe dejar que nadie descubra. Sin embargo, a pesar de que Subaru lleva un disfraz, Petra y otros niños del pueblo inmediatamente descubren quién es. Ahora que su misión quedó expuesta a los cinco segundos de comenzar, ¿qué pasará con la “cita” de Subaru con Emilia?",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re:ZERO - Empezar de cero en un mundo diferente - Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch",
+            "english_name": "German",
+            "data": {
+              "homepage": "",
+              "overview": "Während sich Subaru auf sein erstes Date mit Emilia vorbereitet, bricht auf der Roswaal-Residenz eine ungewöhnliche Kälte aus. Wer ist dafür verantwortlich und kann Subaru das Problem lösen, bevor sein Date mit Emilia den Bach runtergeht?",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re:Zero - Starting Life in Another World: Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "昴等人順利打倒詛咒的元凶的魔獸、並拯救村莊的小孩子們。就在和平終於到來之際，昴挑戰了一項無人知曉、某項極秘任務……",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re：從零開始的異世界生活 Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina",
+            "english_name": "Slovak",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский",
+            "english_name": "Russian",
+            "data": {
+              "homepage": "",
+              "overview": "Одолев грозных магверей и чудом избежав смерти, Субару надеялся наконец-то получить заслуженный отдых и сходить на рандеву с Эмилией, но внезапные пришедшие холода смешали все карты.",
+              "runtime": 64,
+              "tagline": "Чтобы спасти тебя, я готов умирать снова и снова.",
+              "title": "Re: Жизнь в другом мире с нуля: Снежные воспоминания"
+            }
+          },
+          {
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru finalmente consegue um momento de paz, mas ele não perde tempo e se prepara para um encontro com sua amada Emilia. Com a ajuda das crianças da vila próxima, ele encontra um local maravilhoso. Mas, de repente, um clima frio invade a mansão de Roswaal no dia importante de Subaru, que não tem outra escolha a não ser adiar o encontro. Durante a noite, o tempo fica ainda mais frio e insuportável. Ele precisa descobrir o que está acontecendo, pois, nesse ritmo, seu encontro será a menor de suas preocupações.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "BY",
+            "iso_639_1": "be",
+            "name": "беларуская мова",
+            "english_name": "Belarusian",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français",
+            "english_name": "French",
+            "data": {
+              "homepage": "",
+              "overview": "Ce premier OAV a été annoncé lors de l'évent MF Bunko J Summer School Festival 2017. Il s'agit de l'adaptation du chapitre sur la Mayonnaise.  On retrouve Subaru et ses compagnons qui organise un festival de neige.  Le froid causé par l'excès de mana de Puck devient insupportable. Et pour y remédier Subaru lance l'idée du festival de neige où les villagois créent des oeuvres avec la neige est dont le gagnant reçoit une magnifique récompense.",
+              "runtime": 0,
+              "tagline": "Re:ZERO –Starting Life in Another World– Memory Snow",
+              "title": "Re:ZERO –Starting Life in Another World– Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά",
+            "english_name": "Greek",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "ID",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia",
+            "english_name": "Indonesian",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru dan kawan-kawan akhirnya mendapatkan saat damai, dan Subaru melanjutkan misi rahasia tertentu sehingga dia tidak boleh membiarkan siapa pun mencari tahu! Namun, meskipun Subaru mengenakan penyamaran, Petra dan anak-anak lain di desa segera mengetahui siapa dia. Sekarang misinya terungkap dalam lima detik sejak dimulainya, apa yang akan terjadi dengan \"kursus kencan\" Subaru dengan Emilia?",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "homepage": "",
+              "overview": "Tras derrotar a la bestia demoníaca Wolgarm y salvar a los niños del pueblo de Irlam, Subaru y el resto de los personajes tienen finalmente un tiempo de paz. Subaru se encomienda una misión secreta para conseguir una cita con Emilia, pero los niños del pueblo le descubren fácilmente, pese a disfrazarse.",
+              "runtime": 60,
+              "tagline": "Animación",
+              "title": "Re:ZERO -Starting Life in Another World- Snow Memories"
+            }
+          },
+          {
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український",
+            "english_name": "Ukrainian",
+            "data": {
+              "homepage": "",
+              "overview": "Субару з друзями нарешті отримують момент спокою, і Субару вирушає у певну таємну місію, про яку ніхто не повинен дізнатися! Однак, хоча Субару й перевдягнувся для маскування, Петра та інші діти селища одразу впізнають, хто він такий. Тепер, коли його місія була викрита за п’ять секунд після її початку, що буде з Субаровим «маршрутом побачення» з Емілією?",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Переродження: Життя з нуля в іншому світі — Пам’ятний сніг"
+            }
+          },
+          {
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano",
+            "english_name": "Italian",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/memorysnow/",
+              "overview": "Subaru e companhia são finalmente recompensados com um momento de paz, onde este decide embarcar numa missão que ninguém deverá descobrir! No entanto, mesmo disfarçado, as crianças da aldeia descobrem logo quem está por trás daquele disfarce. Agora que Subaru foi descoberto, o que fará em relação ao seu encontro com Emilia?",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski",
+            "english_name": "Polish",
+            "data": {
+              "homepage": "",
+              "overview": "Re Zero: Memory Snow opowiada o Festiwalu Śniegu Chikichiki, który wymyślił Subaru. Zorganizował go wraz z Roswaalem dla Pucka, którego mana uwalniając się zasypała śniegiem całe królestwo. Wydarzenie to nazywa się Hatsumaki. Podczas Festiwalu ogłoszono konkurs wyrzeźbienia w śniegu najlepszego posągu. Ciekawe kto wygra nagrodę od Subaru... Poza tym Emilia i Subaru chcą wybrać się na randkę, ale czy im się uda?",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český",
+            "english_name": "Czech",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru a spol. dostávají po událostech v první polovině seriálu konečně chvíli klidu. Subaru vyráží na „tajnou misi“, o které se nesmí nikdo dozvědět. Jenže ačkoliv byl Subaru v přestrojení, děti z vesnice poblíž Roswaalova sídla ihned poznaly, že je to on. Nyní, když byl odhalen pět vteřin po začátku mise, co se stane s jeho „rande“ s Emilií? Kromě toho začíná být venku také pěkná zima.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt",
+            "english_name": "Vietnamese",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:Zero − Bắt Đầu Ở Thế Giới Khác − Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย",
+            "english_name": "Thai",
+            "data": {
+              "homepage": "",
+              "overview": "พวกสุบารุที่ปราบปีศาจอุลกรัมและช่วยเด็กๆที่หมู่บ้านอาลัมไว้ได้ หลังจากนั้นสุบารุก็ได้เสี่ยงทำภารกิจลับ แต่ทว่าชุดที่ปลอมตัวก็ดันถูกเด็กในหมู่บ้านจับได้ทันทีอีก แล้วมิชชั่นที่ความแตกตั้งแต่ 5 วินาทีแรกนี้คือการเตรียมตัวออกเดทกับเอมิเลียงั้นเหรอ",
+              "runtime": 0,
+              "tagline": "",
+              "title": "รีเซทชีวิต ฝ่าวิกฤตต่างโลก Memory Snow"
+            }
+          }
+        ]
+      },
+      "media_type": "movie",
+      "title_en": "Re ZERO Starting Life in Another World Memory Snow",
+      "overview_en": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
+      "title_ja": "",
+      "overview_ja": "呪いの元凶である魔獣ウルガルムを打ち倒し アーラム村の子供たちを救ったスバルたち やっと訪れた平穏も束の間 スバルは 誰にも知られてはならない とある極秘ミッションに挑んでいた しかし変装していたにも関わらず すぐにペトラを始め 村の子供たちに正体がバレてしまうスバル 開始5秒でバレてしまったミッションとは エミリアとのデートコースの下見で"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "2020-01-01",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 322512,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2020-03-25",
+      "last_episode_to_air": {
+        "id": 7271798,
+        "name": "Episode 13",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-25",
+        "episode_number": 13,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 322512,
+        "still_path": "/ehRd47eKyh8AordDCxmkJrcJcx4.jpg"
+      },
+      "name": "Re ゼロから始める異世界生活 新編集版",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 13,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "Re:ゼロから始める異世界生活 新編集版",
+      "overview": "",
+      "popularity": 33.4893,
+      "poster_path": "/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2020-01-01",
+          "episode_count": 13,
+          "id": 516397,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 6.875,
+      "vote_count": 4,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "Re：从零开始的异世界生活 新编集版",
+              "overview": "普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。（本次新编集版在第一季动画基础上追加新场景，以2话合并成1话的形式制作成单集时长1小时的特别篇）",
+              "homepage": "",
+              "tagline": "死亡不过是下一次重逢的起点"
+            }
+          },
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "name": "Re: 제로부터 시작하는 이세계 생활 신편집판",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title_en": "",
+      "overview_en": ""
+    },
+    {
+      "adult": false,
       "backdrop_path": "/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
       "id": 1280738,
       "title": "The Furious",
@@ -4294,6 +4847,413 @@
     }
   ],
   "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
+      "belongs_to_collection": {
+        "id": 689287,
+        "name": "Re:ZERO -Starting Life in Another World- Collection",
+        "poster_path": "/xcJ3U7sSdI0VVihU9oHxfNZ7umH.jpg",
+        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "homepage": "http://re-zero-anime.jp/",
+      "id": 532321,
+      "imdb_id": "tt8565186",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "Re ゼロから始める異世界生活 Memory Snow",
+      "overview": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
+      "popularity": 3.901,
+      "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2018-10-06",
+      "revenue": 1725339,
+      "runtime": 61,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Re ZERO Starting Life in Another World Memory Snow",
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 305,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/",
+              "overview": "Subaru finally gets to take a breather, but he does not waste any time as he prepares for a date with his beloved Emilia. He scouts the nearby village for the right dating spot, and with the help of the village children, he finds a wonderful location. With that, he is well prepared for his date! Unfortunately for Subaru, cold weather suddenly sweeps across Roswaal's mansion on his important day, leaving him with no choice but to postpone the date. Overnight, it becomes even colder and unbearable. Subaru must get to the bottom of this because, at this rate, his date will be the least of his worries.",
+              "runtime": 61,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語",
+            "english_name": "Japanese",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/memorysnow/",
+              "overview": "呪いの元凶である魔獣ウルガルムを打ち倒し、 アーラム村の子供たちを救ったスバルたち。 やっと訪れた平穏も束の間、スバルは 誰にも知られてはならない、とある極秘ミッションに挑んでいた。 しかし変装していたにも関わらず、すぐにペトラを始め、 村の子供たちに正体がバレてしまうスバル。 開始5秒でバレてしまったミッションとは、 エミリアとのデートコースの下見で……。",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "homepage": "",
+              "overview": "저주의 원흉인 마수 울가름을 물리치고 아람마을의 아이들을 구해낸 스바루와 동료들. 겨우 되찾은 평화도 한 순간, 스바루는 누구에게도 알려져서는 안될 어떤 극비 미션에 도전했다. 그러나 변장을 했음에도 불구하고, 곧 페트라를 시작으로 마을의 아이들에게 정체를 들켜 버린 스바루. 시작 5초 만에 들켜 버린 미션은 바로 에밀리아와의 데이트 코스 답사인데...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:제로부터 시작하는 이세계 생활 메모리 스노우"
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe",
+            "english_name": "Turkish",
+            "data": {
+              "homepage": "",
+              "overview": "Re: Sıfır kara Hajimeru Isekai Seikatsu, MF Pazar günü MF Bunko J Yaz Okulu Festivali'nde düzenlenen etkinliğin 2017 serisinin yeni bir OVA alacağını açıkladı.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "昴等人順利打倒詛咒的元兇的魔獸、並拯救村莊的小孩子們。就在和平終於到來之際，昴挑戰了一項無人知曉、某項極秘任務……",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re：從零開始的異世界生活 Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/",
+              "overview": "　　昴等人打倒了诅咒的元凶——魔兽沃尔加姆，拯救了阿拉姆村的孩子们。终于到来的安稳并未持续很久，昴就瞒着所有人前去挑战某个极秘任务。但尽管昴做了变装，也很快就被以佩特拉为首的村里的孩子们识破了真实身份。开始后5秒就曝光的这一任务，是事前调查和爱蜜莉雅约会的路线……",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re：从零开始的异世界生活 雪之回忆"
+            }
+          },
+          {
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands",
+            "english_name": "Dutch",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru en zijn vrienden krijgen eindelijk een moment van rust, en Subaru gaat op een geheime missie waarvan niemand mag weten! Maar ook al draagt ​​Subaru een vermomming, Petra en andere kinderen uit het dorp komen er meteen achter wie hij is. Wat zal er gebeuren met Subaru's 'date course' met Emilia, nu zijn missie binnen vijf seconden na het begin ervan werd onthuld?",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "homepage": "",
+              "overview": "La historia tiene lugar después de que Subaru y sus amigos derrotan a los Wolgarm, la fuente de la maldición, y salvan a los niños de la aldea de Irlam. Los personajes finalmente obtienen un momento de paz, y Subaru realiza cierta misión secreta que no debe dejar que nadie descubra. Sin embargo, a pesar de que Subaru lleva un disfraz, Petra y otros niños del pueblo inmediatamente descubren quién es. Ahora que su misión quedó expuesta a los cinco segundos de comenzar, ¿qué pasará con la “cita” de Subaru con Emilia?",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re:ZERO - Empezar de cero en un mundo diferente - Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch",
+            "english_name": "German",
+            "data": {
+              "homepage": "",
+              "overview": "Während sich Subaru auf sein erstes Date mit Emilia vorbereitet, bricht auf der Roswaal-Residenz eine ungewöhnliche Kälte aus. Wer ist dafür verantwortlich und kann Subaru das Problem lösen, bevor sein Date mit Emilia den Bach runtergeht?",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re:Zero - Starting Life in Another World: Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "昴等人順利打倒詛咒的元凶的魔獸、並拯救村莊的小孩子們。就在和平終於到來之際，昴挑戰了一項無人知曉、某項極秘任務……",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re：從零開始的異世界生活 Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina",
+            "english_name": "Slovak",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский",
+            "english_name": "Russian",
+            "data": {
+              "homepage": "",
+              "overview": "Одолев грозных магверей и чудом избежав смерти, Субару надеялся наконец-то получить заслуженный отдых и сходить на рандеву с Эмилией, но внезапные пришедшие холода смешали все карты.",
+              "runtime": 64,
+              "tagline": "Чтобы спасти тебя, я готов умирать снова и снова.",
+              "title": "Re: Жизнь в другом мире с нуля: Снежные воспоминания"
+            }
+          },
+          {
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru finalmente consegue um momento de paz, mas ele não perde tempo e se prepara para um encontro com sua amada Emilia. Com a ajuda das crianças da vila próxima, ele encontra um local maravilhoso. Mas, de repente, um clima frio invade a mansão de Roswaal no dia importante de Subaru, que não tem outra escolha a não ser adiar o encontro. Durante a noite, o tempo fica ainda mais frio e insuportável. Ele precisa descobrir o que está acontecendo, pois, nesse ritmo, seu encontro será a menor de suas preocupações.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "BY",
+            "iso_639_1": "be",
+            "name": "беларуская мова",
+            "english_name": "Belarusian",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français",
+            "english_name": "French",
+            "data": {
+              "homepage": "",
+              "overview": "Ce premier OAV a été annoncé lors de l'évent MF Bunko J Summer School Festival 2017. Il s'agit de l'adaptation du chapitre sur la Mayonnaise.  On retrouve Subaru et ses compagnons qui organise un festival de neige.  Le froid causé par l'excès de mana de Puck devient insupportable. Et pour y remédier Subaru lance l'idée du festival de neige où les villagois créent des oeuvres avec la neige est dont le gagnant reçoit une magnifique récompense.",
+              "runtime": 0,
+              "tagline": "Re:ZERO –Starting Life in Another World– Memory Snow",
+              "title": "Re:ZERO –Starting Life in Another World– Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά",
+            "english_name": "Greek",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "ID",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia",
+            "english_name": "Indonesian",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru dan kawan-kawan akhirnya mendapatkan saat damai, dan Subaru melanjutkan misi rahasia tertentu sehingga dia tidak boleh membiarkan siapa pun mencari tahu! Namun, meskipun Subaru mengenakan penyamaran, Petra dan anak-anak lain di desa segera mengetahui siapa dia. Sekarang misinya terungkap dalam lima detik sejak dimulainya, apa yang akan terjadi dengan \"kursus kencan\" Subaru dengan Emilia?",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "homepage": "",
+              "overview": "Tras derrotar a la bestia demoníaca Wolgarm y salvar a los niños del pueblo de Irlam, Subaru y el resto de los personajes tienen finalmente un tiempo de paz. Subaru se encomienda una misión secreta para conseguir una cita con Emilia, pero los niños del pueblo le descubren fácilmente, pese a disfrazarse.",
+              "runtime": 60,
+              "tagline": "Animación",
+              "title": "Re:ZERO -Starting Life in Another World- Snow Memories"
+            }
+          },
+          {
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український",
+            "english_name": "Ukrainian",
+            "data": {
+              "homepage": "",
+              "overview": "Субару з друзями нарешті отримують момент спокою, і Субару вирушає у певну таємну місію, про яку ніхто не повинен дізнатися! Однак, хоча Субару й перевдягнувся для маскування, Петра та інші діти селища одразу впізнають, хто він такий. Тепер, коли його місія була викрита за п’ять секунд після її початку, що буде з Субаровим «маршрутом побачення» з Емілією?",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Переродження: Життя з нуля в іншому світі — Пам’ятний сніг"
+            }
+          },
+          {
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano",
+            "english_name": "Italian",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "http://re-zero-anime.jp/memorysnow/",
+              "overview": "Subaru e companhia são finalmente recompensados com um momento de paz, onde este decide embarcar numa missão que ninguém deverá descobrir! No entanto, mesmo disfarçado, as crianças da aldeia descobrem logo quem está por trás daquele disfarce. Agora que Subaru foi descoberto, o que fará em relação ao seu encontro com Emilia?",
+              "runtime": 60,
+              "tagline": "",
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski",
+            "english_name": "Polish",
+            "data": {
+              "homepage": "",
+              "overview": "Re Zero: Memory Snow opowiada o Festiwalu Śniegu Chikichiki, który wymyślił Subaru. Zorganizował go wraz z Roswaalem dla Pucka, którego mana uwalniając się zasypała śniegiem całe królestwo. Wydarzenie to nazywa się Hatsumaki. Podczas Festiwalu ogłoszono konkurs wyrzeźbienia w śniegu najlepszego posągu. Ciekawe kto wygra nagrodę od Subaru... Poza tym Emilia i Subaru chcą wybrać się na randkę, ale czy im się uda?",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český",
+            "english_name": "Czech",
+            "data": {
+              "homepage": "",
+              "overview": "Subaru a spol. dostávají po událostech v první polovině seriálu konečně chvíli klidu. Subaru vyráží na „tajnou misi“, o které se nesmí nikdo dozvědět. Jenže ačkoliv byl Subaru v přestrojení, děti z vesnice poblíž Roswaalova sídla ihned poznaly, že je to on. Nyní, když byl odhalen pět vteřin po začátku mise, co se stane s jeho „rande“ s Emilií? Kromě toho začíná být venku také pěkná zima.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:ZERO -Starting Life in Another World- Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt",
+            "english_name": "Vietnamese",
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Re:Zero − Bắt Đầu Ở Thế Giới Khác − Memory Snow"
+            }
+          },
+          {
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย",
+            "english_name": "Thai",
+            "data": {
+              "homepage": "",
+              "overview": "พวกสุบารุที่ปราบปีศาจอุลกรัมและช่วยเด็กๆที่หมู่บ้านอาลัมไว้ได้ หลังจากนั้นสุบารุก็ได้เสี่ยงทำภารกิจลับ แต่ทว่าชุดที่ปลอมตัวก็ดันถูกเด็กในหมู่บ้านจับได้ทันทีอีก แล้วมิชชั่นที่ความแตกตั้งแต่ 5 วินาทีแรกนี้คือการเตรียมตัวออกเดทกับเอมิเลียงั้นเหรอ",
+              "runtime": 0,
+              "tagline": "",
+              "title": "รีเซทชีวิต ฝ่าวิกฤตต่างโลก Memory Snow"
+            }
+          }
+        ]
+      },
+      "media_type": "movie",
+      "title_en": "Re ZERO Starting Life in Another World Memory Snow",
+      "overview_en": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
+      "title_ja": "",
+      "overview_ja": "呪いの元凶である魔獣ウルガルムを打ち倒し アーラム村の子供たちを救ったスバルたち やっと訪れた平穏も束の間 スバルは 誰にも知られてはならない とある極秘ミッションに挑んでいた しかし変装していたにも関わらず すぐにペトラを始め 村の子供たちに正体がバレてしまうスバル 開始5秒でバレてしまったミッションとは エミリアとのデートコースの下見で"
+    },
     {
       "adult": false,
       "backdrop_path": null,
@@ -27286,6 +28246,152 @@
     }
   ],
   "anime": [
+    {
+      "adult": false,
+      "backdrop_path": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "2020-01-01",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 322512,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2020-03-25",
+      "last_episode_to_air": {
+        "id": 7271798,
+        "name": "Episode 13",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-25",
+        "episode_number": 13,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 322512,
+        "still_path": "/ehRd47eKyh8AordDCxmkJrcJcx4.jpg"
+      },
+      "name": "Re ゼロから始める異世界生活 新編集版",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 13,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "Re:ゼロから始める異世界生活 新編集版",
+      "overview": "",
+      "popularity": 33.4893,
+      "poster_path": "/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2020-01-01",
+          "episode_count": 13,
+          "id": 516397,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 6.875,
+      "vote_count": 4,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "Re：从零开始的异世界生活 新编集版",
+              "overview": "普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。（本次新编集版在第一季动画基础上追加新场景，以2话合并成1话的形式制作成单集时长1小时的特别篇）",
+              "homepage": "",
+              "tagline": "死亡不过是下一次重逢的起点"
+            }
+          },
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "name": "Re: 제로부터 시작하는 이세계 생활 신편집판",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title_en": "",
+      "overview_en": ""
+    },
     {
       "adult": false,
       "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
