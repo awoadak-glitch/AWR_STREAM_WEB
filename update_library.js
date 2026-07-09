@@ -1,5 +1,6 @@
 // update_library.js
 const fs = require('fs');
+const path = require('path');
 
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const REQUEST_TITLE = process.env.REQUEST_TITLE; 
@@ -9,6 +10,12 @@ const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb';
 const OLD_ID = process.env.OLD_ID; 
 const SEASONS_SPLIT = process.env.SEASONS_SPLIT; 
 const BASE_URL = 'https://api.themoviedb.org/3';
+
+// تجهيز مجلد البيانات
+const DATA_DIR = path.join(__dirname, 'data');
+if (!fs.existsSync(DATA_DIR)) {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
+}
 
 function sanitizeText(text) {
     if (!text || typeof text !== 'string') return text;
@@ -56,6 +63,46 @@ function filterValidSeasons(seasons) {
     return seasons.filter(s => s.season_number > 0);
 }
 
+// قراءة جميع الملفات في مجلد data لجلب الأيديات القديمة ومنع التكرار
+function getGlobalSeenIds() {
+    let ids = new Set();
+    const files = fs.readdirSync(DATA_DIR);
+    for (let file of files) {
+        if (file.endsWith('.json') && file !== 'index.json') {
+            try {
+                const data = JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), 'utf8'));
+                if (Array.isArray(data)) {
+                    data.forEach(item => ids.add(item.id));
+                }
+            } catch (e) {}
+        }
+    }
+    return ids;
+}
+
+// البحث عن العنصر المعطوب وحذفه من أي ملف كان يتواجد فيه
+function removeDefectiveItem(oldId) {
+    const oldIdNumber = Number(oldId);
+    console.log(`⚠️ وضع الإصلاح: البحث عن العنصر المعطوب (ID: ${oldIdNumber}) في كافة الملفات...`);
+    const files = fs.readdirSync(DATA_DIR);
+    for (let file of files) {
+        if (file.endsWith('.json') && file !== 'index.json') {
+            const filePath = path.join(DATA_DIR, file);
+            try {
+                let data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+                if (Array.isArray(data)) {
+                    const originalLength = data.length;
+                    data = data.filter(item => item.id !== oldIdNumber);
+                    if (data.length < originalLength) {
+                        fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+                        console.log(`🗑️ تم حذف العنصر من الملف: ${file}`);
+                    }
+                }
+            } catch (e) {}
+        }
+    }
+}
+
 async function fetchTmdbIdFromImdb(imdbId) {
     try {
         console.log(`🔎 جاري تحويل IMDb ID (${imdbId}) إلى TMDB ID...`);
@@ -78,7 +125,12 @@ async function fetchMediaDetails(id, mediaType) {
     return null;
 }
 
-async function saveMediaItem(libraryData, item, mediaType) {
+async function saveMediaItem(currentRunData, globalSeenIds, item, mediaType) {
+    if (globalSeenIds.has(item.id)) {
+        console.log(`⚠️ العنصر موجود مسبقاً (تم تخطيه): ${item.title || item.name}`);
+        return;
+    }
+
     const isTv = mediaType === 'tv';
     item.media_type = mediaType;
 
@@ -94,7 +146,6 @@ async function saveMediaItem(libraryData, item, mediaType) {
     }
 
     if (item.original_title) item.original_title = sanitizeText(item.original_title);
-    
     applyManualSeasonsSplit(item);
 
     let targetCategory = 'trending';
@@ -106,27 +157,17 @@ async function saveMediaItem(libraryData, item, mediaType) {
         targetCategory = 'movies';
     }
 
-    const exists = libraryData[targetCategory].some(existing => existing.id === item.id);
-    if (!exists) {
-        libraryData[targetCategory].unshift(item);
-        if (!libraryData.trending.some(existing => existing.id === item.id)) {
-            libraryData.trending.unshift(item);
-        }
-        console.log(`✅ تم الحفظ بنجاح: [${item.title || item.name}]`);
-    } else {
-        console.log(`⚠️ العنصر موجود مسبقاً.`);
-    }
+    currentRunData[targetCategory].push(item);
+    globalSeenIds.add(item.id);
+    console.log(`✅ تم تجهيز الحفظ: [${item.title || item.name}]`);
 }
 
-// 📌 تعديل: استقبال المصفوفة الحالية (existingItems) لتخطي ما تم جلبه سابقاً
-async function fetchStrict100Items(endpoint, mediaType, existingItems = [], extraParams = '') {
+async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraParams = '') {
     let categoryResults = [];
-    // إنشاء فلتر يحتوي على جميع الأيديات القديمة لمنع تكرارها
-    let seenIds = new Set(existingItems.map(item => item.id)); 
     let page = 1;
     console.log(`=== سحب قسم: [${mediaType}] ===`);
 
-    while (categoryResults.length < 100 && page <= 20) {
+    while (categoryResults.length < 100 && page <= 25) {
         try {
             const separator = endpoint.includes('?') ? '&' : '?';
             const url = `${BASE_URL}${endpoint}${separator}api_key=${TMDB_API_KEY}&language=ar-SA&page=${page}${extraParams}`;
@@ -137,9 +178,11 @@ async function fetchStrict100Items(endpoint, mediaType, existingItems = [], extr
 
             for (const item of data.results) {
                 if (categoryResults.length >= 100) break; 
-                // 📌 التأكد من أن العنصر غير موجود مسبقاً في المكتبة
-                if (item.poster_path && !seenIds.has(item.id)) {
-                    seenIds.add(item.id);
+                
+                // فحص الأيدي مع الملفات القديمة والجديدة
+                if (item.poster_path && !globalSeenIds.has(item.id)) {
+                    globalSeenIds.add(item.id);
+                    
                     const isTvShow = mediaType === 'tv' || item.media_type === 'tv' || (!item.title && item.name);
                     const actualType = isTvShow ? 'tv' : 'movie';
                     item.media_type = actualType; 
@@ -165,7 +208,7 @@ async function fetchStrict100Items(endpoint, mediaType, existingItems = [], extr
     return categoryResults;
 }
 
-async function handleDirectIdRequest(libraryData, id, type) {
+async function handleDirectIdRequest(currentRunData, globalSeenIds, id, type) {
     let typesToTry = type ? [type.trim()] : ['movie', 'tv'];
     let item = null, finalMediaType = 'movie';
 
@@ -177,12 +220,11 @@ async function handleDirectIdRequest(libraryData, id, type) {
             break;
         }
     }
-    if (item) await saveMediaItem(libraryData, item, finalMediaType);
-    return libraryData;
+    if (item) await saveMediaItem(currentRunData, globalSeenIds, item, finalMediaType);
 }
 
-async function handleDirectRequest(libraryData, queryTitle) {
-    if (!queryTitle) return libraryData;
+async function handleDirectRequest(currentRunData, globalSeenIds, queryTitle) {
+    if (!queryTitle) return;
     try {
         const searchUrl = `${BASE_URL}/search/multi?api_key=${TMDB_API_KEY}&language=ar-SA&query=${encodeURIComponent(queryTitle)}`;
         const searchRes = await fetch(searchUrl);
@@ -197,29 +239,22 @@ async function handleDirectRequest(libraryData, queryTitle) {
             for (let rawItem of relevantResults) {
                 const mediaType = rawItem.media_type || ((rawItem.title) ? 'movie' : 'tv');
                 const item = await fetchMediaDetails(rawItem.id, mediaType);
-                if (item && item.poster_path) await saveMediaItem(libraryData, item, mediaType);
+                if (item && item.poster_path) await saveMediaItem(currentRunData, globalSeenIds, item, mediaType);
             }
         }
     } catch (e) { }
-    return libraryData;
 }
 
 async function runScraper() {
     if (!TMDB_API_KEY) { console.error("Missing TMDB_API_KEY"); process.exit(1); }
 
-    let currentLibrary = { trending: [], movies: [], series: [], kdrama: [], anime: [] };
-
-    if (fs.existsSync('library.json')) {
-        try { currentLibrary = JSON.parse(fs.readFileSync('library.json', 'utf8')); } catch (e) {}
-    }
-
     if (OLD_ID) {
-        const oldIdNumber = Number(OLD_ID);
-        console.log(`⚠️ وضع الإصلاح: جاري حذف العنصر المعطوب (ID: ${oldIdNumber})`);
-        for (let category in currentLibrary) {
-            currentLibrary[category] = currentLibrary[category].filter(item => item.id !== oldIdNumber);
-        }
+        removeDefectiveItem(OLD_ID);
     }
+
+    let currentRunData = { trending: [], movies: [], series: [], kdrama: [], anime: [] };
+    let globalSeenIds = getGlobalSeenIds();
+    const timestamp = Date.now();
 
     const isIdNumeric = REQUEST_TITLE && /^\d+$/.test(REQUEST_TITLE.trim());
     const targetIdRaw = REQUEST_ID ? REQUEST_ID.trim() : (isIdNumeric ? REQUEST_TITLE.trim() : null);
@@ -239,34 +274,37 @@ async function runScraper() {
                 finalId = null; 
             }
         }
+        if (finalId) await handleDirectIdRequest(currentRunData, globalSeenIds, finalId, finalType);
 
-        if (finalId) {
-            currentLibrary = await handleDirectIdRequest(currentLibrary, finalId, finalType);
-        }
     } else if (REQUEST_TITLE && REQUEST_TITLE.trim() !== '') {
-        currentLibrary = await handleDirectRequest(currentLibrary, REQUEST_TITLE.trim());
+        await handleDirectRequest(currentRunData, globalSeenIds, REQUEST_TITLE.trim());
+
     } else if (!OLD_ID) { 
-        // 📌 التعديل الجذري هنا: نمرر المكتبة الحالية وندمج الناتج
-        console.log("🔄 جاري التحديث التلقائي ودمج المحتوى الجديد...");
-
-        const newTrending = await fetchStrict100Items('/trending/all/day', 'mixed', currentLibrary.trending);
-        const newMovies = await fetchStrict100Items('/discover/movie', 'movie', currentLibrary.movies);
-        const newSeries = await fetchStrict100Items('/discover/tv', 'tv', currentLibrary.series);
-        const newKdrama = await fetchStrict100Items('/discover/tv', 'tv', currentLibrary.kdrama, '&with_original_language=ko&with_origin_country=KR');
-        const newAnime = await fetchStrict100Items('/discover/tv', 'tv', currentLibrary.anime, '&with_genres=16&with_original_language=ja');
-
-        // 📌 الحد الأقصى للمحتوى في كل قسم حتى لا يتضخم ملف JSON ويؤدي لتعطل الموقع
-        const MAX_ITEMS = 500; 
-
-        currentLibrary.trending = [...newTrending, ...currentLibrary.trending].slice(0, MAX_ITEMS);
-        currentLibrary.movies = [...newMovies, ...currentLibrary.movies].slice(0, MAX_ITEMS);
-        currentLibrary.series = [...newSeries, ...currentLibrary.series].slice(0, MAX_ITEMS);
-        currentLibrary.kdrama = [...newKdrama, ...currentLibrary.kdrama].slice(0, MAX_ITEMS);
-        currentLibrary.anime = [...newAnime, ...currentLibrary.anime].slice(0, MAX_ITEMS);
+        console.log("🔄 جاري سحب الأقسام الخمسة لإنشاء ملفات البيانات الجديدة...");
+        currentRunData.trending = await fetchStrict100Items('/trending/all/day', 'mixed', globalSeenIds);
+        currentRunData.movies = await fetchStrict100Items('/discover/movie', 'movie', globalSeenIds);
+        currentRunData.series = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds);
+        currentRunData.kdrama = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds, '&with_original_language=ko&with_origin_country=KR');
+        currentRunData.anime = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds, '&with_genres=16&with_original_language=ja');
     }
 
-    fs.writeFileSync('library.json', JSON.stringify(currentLibrary, null, 2));
-    console.log('🎉 اكتملت العملية بنجاح وتم حفظ المكتبة!');
+    // كتابة الملفات الجديدة
+    let generatedFiles = false;
+    for (const [category, items] of Object.entries(currentRunData)) {
+        if (items.length > 0) {
+            const fileName = `${category}_${timestamp}.json`;
+            fs.writeFileSync(path.join(DATA_DIR, fileName), JSON.stringify(items, null, 2));
+            console.log(`📁 تم إنشاء ملف جديد: ${fileName} (يحتوي على ${items.length} عنصر)`);
+            generatedFiles = true;
+        }
+    }
+
+    // تحديث ملف الدليل index.json
+    const allFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json') && f !== 'index.json');
+    fs.writeFileSync(path.join(DATA_DIR, 'index.json'), JSON.stringify(allFiles, null, 2));
+    console.log(`📋 تم تحديث فهرس الملفات (index.json) بنجاح! الإجمالي: ${allFiles.length} ملف`);
+
+    console.log('🎉 اكتملت العملية بنجاح!');
 }
 
 runScraper();
