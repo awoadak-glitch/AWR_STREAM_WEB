@@ -2,11 +2,19 @@ name: Auto Update TMDB Library
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # ⏱️ أمر التشغيل الدوري: ينطلق السيرفر تلقائياً كل 30 دقيقة بدون توقف
-  workflow_dispatch:      # أمر التشغيل الفوري المباشر: يستدعى فوراً عند ضغط زر الريكوست في الموقع
+    - cron: '*/30 * * * *' # ⏱️ أمر التشغيل الدوري: ينطلق السيرفر تلقائياً كل 30 دقيقة
+  workflow_dispatch:      # أمر التشغيل الفوري المباشر: يستدعى فوراً عند ضغط زر الريكوست
     inputs:
       request_title:
-        description: 'اسم المحتوى المطلوب حقنه فوراً'
+        description: 'اسم المحتوى المطلوب'
+        required: false
+        default: ''
+      request_id:
+        description: 'رقم الـ ID الخاص بالمحتوى (TMDB ID)'
+        required: false
+        default: ''
+      request_type:
+        description: 'نوع المحتوى (movie أو tv)'
         required: false
         default: ''
 
@@ -28,7 +36,10 @@ jobs:
       - name: Run Strict 100 Scraper
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          # تمرير المدخلات الجديدة إلى ملف السكربت
           REQUEST_TITLE: ${{ github.event.inputs.request_title }}
+          REQUEST_ID: ${{ github.event.inputs.request_id }}
+          REQUEST_TYPE: ${{ github.event.inputs.request_type }}
         run: node update_library.js
 
       - name: Commit and Push Library Updates
@@ -36,5 +47,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add library.json
-          git commit -m "سحب دوري تلقائي لـ 100 عنصر لكل نوع [skip ci]" || echo "لا توجد تعديلات جديدة لرفعها"
+          git commit -m "تحديث المكتبة: إضافة محتوى جديد عبر الريكوست الفوري [skip ci]" || echo "لا توجد تعديلات جديدة لرفعها"
           git push
