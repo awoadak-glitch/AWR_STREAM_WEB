@@ -136,9 +136,17 @@
 
     <div id="detailsModal" class="fixed inset-0 z-[100] hidden items-center justify-center bg-black/95 backdrop-blur-xl opacity-0 transition-opacity duration-300">
         <div class="relative bg-cardBg w-full max-w-5xl h-full md:h-[85vh] md:rounded-3xl shadow-[0_0_60px_rgba(0,0,0,0.8)] flex flex-col overflow-hidden border border-white/5 transform scale-95 transition-transform duration-500 cubic-bezier(0.175, 0.885, 0.32, 1.275) details-content">
-            <button onclick="closeModal()" class="absolute top-4 right-4 z-50 bg-black/50 hover:bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300 backdrop-blur-md hover:rotate-90 border border-white/10 hover:border-brand">
-                <i class="fa-solid fa-xmark text-xl"></i>
-            </button>
+            
+            <!-- تم التعديل: نقل الأزرار إلى اليسار (left-4 بدلاً من right-4) وإضافة زر التصغير -->
+            <div class="absolute top-4 left-4 z-50 flex gap-3">
+                <button id="minimizeModalBtn" onclick="minimizePlayer()" class="hidden bg-black/50 hover:bg-brand text-white w-10 h-10 rounded-full items-center justify-center transition-all duration-300 backdrop-blur-md hover:-translate-y-1 border border-white/10 hover:border-brand shadow-lg" title="تصغير الفيديو">
+                    <i class="fa-solid fa-chevron-down text-lg"></i>
+                </button>
+                <button onclick="closeModalCustom()" class="bg-black/50 hover:bg-brand text-white w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300 backdrop-blur-md hover:rotate-90 border border-white/10 hover:border-brand shadow-lg" title="إغلاق">
+                    <i class="fa-solid fa-xmark text-xl"></i>
+                </button>
+            </div>
+
             <div id="videoContainer" class="w-full aspect-video bg-black relative group">
                 <div class="absolute inset-0 bg-gradient-to-t from-cardBg via-transparent to-transparent z-10"></div>
                 <img id="modalBackdrop" src="" class="w-full h-full object-cover opacity-70 transition-opacity duration-700 group-hover:opacity-40" alt="Backdrop">
@@ -252,7 +260,151 @@
         </div>
     </div>
 
+    <!-- حاوية المشغل المصغر (تطفو فوق واجهة التطبيق) -->
+    <div id="miniPlayer" class="fixed bottom-20 left-4 md:bottom-6 md:left-6 z-[150] hidden w-64 md:w-80 aspect-video bg-black rounded-xl shadow-[0_10px_40px_rgba(0,0,0,0.8)] border border-brand/40 overflow-hidden group transition-transform duration-500 transform translate-y-[150%]">
+        <!-- أزرار التحكم بالمشغل المصغر -->
+        <div class="absolute top-0 left-0 w-full p-2 bg-gradient-to-b from-black/90 to-transparent z-40 opacity-0 group-hover:opacity-100 transition-opacity flex justify-between items-center">
+            <button onclick="expandMiniPlayer()" class="text-white hover:text-brand bg-black/50 w-8 h-8 rounded-full flex items-center justify-center backdrop-blur-sm border border-white/10 transition-transform hover:scale-110" title="تكبير"><i class="fa-solid fa-expand text-sm"></i></button>
+            <button onclick="closeMiniPlayer()" class="text-white hover:text-brand bg-black/50 w-8 h-8 rounded-full flex items-center justify-center backdrop-blur-sm border border-white/10 transition-transform hover:scale-110" title="إغلاق"><i class="fa-solid fa-xmark text-sm"></i></button>
+        </div>
+        <!-- الغلاف الذي سينقل إليه المشغل بسلاسة -->
+        <div id="miniPlayerIframeWrapper" class="w-full h-full pointer-events-auto"></div>
+    </div>
+
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script src="app.js"></script>
+    
+    <!-- سكريبت إدارة المشغل المصغر والتمرير للأسفل -->
+    <script>
+        // إغلاق مخصص للنافذة يحذف الفيديو بشكل نهائي
+        window.closeModalCustom = () => {
+            const modal = document.getElementById('detailsModal');
+            const modalContent = modal.querySelector('.details-content');
+            
+            modal.classList.add('opacity-0');
+            modalContent.classList.add('scale-95');
+            
+            setTimeout(() => {
+                modal.classList.replace('flex', 'hidden');
+                document.body.style.overflow = 'auto'; 
+                document.getElementById('iframeWrapper').innerHTML = ''; // مسح الفيديو لإيقافه نهائياً
+            }, 300);
+        };
+
+        // تحويل الفيديو إلى الوضع المصغر
+        window.minimizePlayer = () => {
+            const iframeWrapper = document.getElementById('iframeWrapper');
+            const miniIframeWrapper = document.getElementById('miniPlayerIframeWrapper');
+            const miniPlayer = document.getElementById('miniPlayer');
+            const modal = document.getElementById('detailsModal');
+            const iframeNode = iframeWrapper.querySelector('iframe'); // تحديد الـ iframe الحالي
+
+            if (iframeNode) {
+                // نقل عقدة الـ iframe بالكامل (لن يتسبب بإيقاف أو إعادة تحميل الفيديو)
+                miniIframeWrapper.appendChild(iframeNode);
+                
+                // إظهار النافذة المصغرة
+                miniPlayer.classList.remove('hidden');
+                setTimeout(() => miniPlayer.classList.remove('translate-y-[150%]'), 50);
+
+                // إخفاء نافذة التفاصيل الأساسية بصرياً فقط
+                const modalContent = modal.querySelector('.details-content');
+                modal.classList.add('opacity-0');
+                modalContent.classList.add('scale-95');
+                setTimeout(() => {
+                    modal.classList.replace('flex', 'hidden');
+                    document.body.style.overflow = 'auto'; 
+                }, 300);
+            } else {
+                // في حال عدم وجود فيديو شغال، أغلق النافذة ببساطة
+                closeModalCustom();
+            }
+        };
+
+        // إغلاق المشغل المصغر
+        window.closeMiniPlayer = () => {
+            const miniPlayer = document.getElementById('miniPlayer');
+            const miniIframeWrapper = document.getElementById('miniPlayerIframeWrapper');
+            
+            miniPlayer.classList.add('translate-y-[150%]');
+            setTimeout(() => {
+                miniPlayer.classList.add('hidden');
+                miniIframeWrapper.innerHTML = ''; // مسح وإيقاف الفيديو نهائياً
+            }, 500);
+        };
+
+        // إعادة تكبير الفيديو وفتح نافذة التفاصيل
+        window.expandMiniPlayer = () => {
+            const miniPlayer = document.getElementById('miniPlayer');
+            const miniIframeWrapper = document.getElementById('miniPlayerIframeWrapper');
+            const iframeWrapper = document.getElementById('iframeWrapper');
+            const modal = document.getElementById('detailsModal');
+            const iframeNode = miniIframeWrapper.querySelector('iframe');
+
+            if (iframeNode) {
+                // إعادة المشغل لمكانه الأصلي دون إعادة تحميله
+                iframeWrapper.appendChild(iframeNode);
+            }
+
+            // إخفاء المشغل المصغر
+            miniPlayer.classList.add('translate-y-[150%]');
+            setTimeout(() => miniPlayer.classList.add('hidden'), 500);
+
+            // فتح نافذة التفاصيل مرة أخرى
+            modal.classList.replace('hidden', 'flex');
+            void modal.offsetWidth;
+            modal.classList.remove('opacity-0');
+            modal.querySelector('.details-content').classList.remove('scale-95');
+            document.body.style.overflow = 'hidden';
+        };
+
+        // نظام السحب للأسفل (Swipe Down) للهواتف المحمولة
+        let touchStartY = 0;
+        let touchEndY = 0;
+        const modalElement = document.getElementById('detailsModal');
+        
+        modalElement.addEventListener('touchstart', e => {
+            touchStartY = e.changedTouches[0].screenY;
+        }, {passive: true});
+
+        modalElement.addEventListener('touchend', e => {
+            touchEndY = e.changedTouches[0].screenY;
+            handleSwipe();
+        }, {passive: true});
+
+        function handleSwipe() {
+            // إذا كانت مسافة السحب للأسفل أكثر من 120 بكسل
+            if (touchEndY - touchStartY > 120) {
+                const iframeWrapper = document.getElementById('iframeWrapper');
+                if(iframeWrapper.innerHTML.trim() !== '') {
+                    minimizePlayer(); // إذا كان هناك فيديو، قم بتصغيره
+                } else {
+                    closeModalCustom(); // عدا ذلك أغلق النافذة
+                }
+            }
+        }
+
+        // إظهار زر التصغير فقط إذا تم تشغيل الفيديو بنجاح (مراقبة الـ DOM)
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    const iframeWrapper = document.getElementById('iframeWrapper');
+                    const minimizeBtn = document.getElementById('minimizeModalBtn');
+                    
+                    if (iframeWrapper && iframeWrapper.innerHTML.trim() !== '') {
+                        minimizeBtn.classList.remove('hidden');
+                        minimizeBtn.classList.add('flex');
+                    } else {
+                        minimizeBtn.classList.add('hidden');
+                        minimizeBtn.classList.remove('flex');
+                    }
+                });
+            });
+            // مراقبة التغيرات داخل حاوية الفيديو
+            if(document.getElementById('iframeWrapper')) {
+                observer.observe(document.getElementById('iframeWrapper'), { childList: true });
+            }
+        });
+    </script>
 </body>
 </html>
