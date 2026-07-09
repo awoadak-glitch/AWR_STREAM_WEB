@@ -5,13 +5,19 @@ const IMG_BG = 'https://image.tmdb.org/t/p/original';
 
 let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
 let GITHUB_REPO = localStorage.getItem('github_repo') || '';
-let globalLibraryData = null;
+
+// قاعدة البيانات المجمعة
+let globalLibraryData = { trending: [], movies: [], series: [], kdrama: [], anime: [] };
+let fileQueue = [];
+let isFetchingBatch = false;
+let isFirstLoad = true;
 
 document.addEventListener('DOMContentLoaded', () => {
     if(document.getElementById('githubTokenInput')) document.getElementById('githubTokenInput').value = GITHUB_TOKEN;
     if(document.getElementById('githubRepoInput')) document.getElementById('githubRepoInput').value = GITHUB_REPO;
     initApp();
     
+    // تأثيرات النافبار
     window.addEventListener('scroll', () => {
         const nav = document.getElementById('navbar');
         if (window.scrollY > 50) {
@@ -25,101 +31,185 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 async function initApp() {
-    await fetchStaticLibrary();
+    await fetchIndexAndLoadInitial();
+    setupLazyLoadingObserver();
+    
+    // تحديث صامت للمكتبة كل نصف ساعة
     setInterval(async () => {
-        await fetchStaticLibrary();
+        if(fileQueue.length === 0 && !isFetchingBatch) {
+            await fetchIndexAndLoadInitial(true);
+        }
     }, 1800000); 
 }
 
-async function fetchStaticLibrary() {
+// 📌 جلب الفهرس وترتيب الملفات
+async function fetchIndexAndLoadInitial(isSilentUpdate = false) {
     try {
-        const response = await fetch(`library.json?t=${Date.now()}`);
-        if(!response.ok) throw new Error("Library file not found");
-        globalLibraryData = await response.json();
-        localStorage.setItem('cachedLibraryData', JSON.stringify(globalLibraryData));
-        displayAllContent(globalLibraryData);
-    } catch (err) {
-        const cached = localStorage.getItem('cachedLibraryData');
-        if(cached) {
-            globalLibraryData = JSON.parse(cached);
-            displayAllContent(globalLibraryData);
+        const response = await fetch(`data/index.json?t=${Date.now()}`);
+        if(!response.ok) throw new Error("Index file not found");
+        let files = await response.json();
+        
+        // ترتيب الملفات من الأحدث إلى الأقدم بناءً على التايم ستامب في اسم الملف
+        files.sort((a, b) => {
+            const timeA = parseInt(a.match(/\d+/) || [0])[0];
+            const timeB = parseInt(b.match(/\d+/) || [0])[0];
+            return timeB - timeA;
+        });
+
+        fileQueue = files;
+        
+        // تصفير البيانات إذا لم يكن التحديث صامتاً
+        if (!isSilentUpdate) {
+            globalLibraryData = { trending: [], movies: [], series: [], kdrama: [], anime: [] };
+            clearAllContainers();
         }
+
+        // تحميل أول 10 ملفات كدفعة أولى لسرعة فتح الموقع
+        await loadNextBatch(10);
+        
+        if (isFirstLoad) {
+            initSwipers();
+            isFirstLoad = false;
+        }
+
+    } catch (err) {
+        console.error("خطأ في قراءة الدليل:", err);
     }
 }
 
-function displayAllContent(data) {
-    if(data.trending && data.trending.length > 0) {
-        const hero = data.trending[0];
-        document.getElementById('heroImage').src = IMG_BG + hero.backdrop_path;
-        document.getElementById('heroTitle').innerText = hero.title || hero.name;
-        document.getElementById('heroDesc').innerText = hero.overview || 'محتوى حصري مضاف وجاهز للمشاهدة الفورية.';
-    }
-    renderCategory(data.trending, 'trendingContainer');
-    renderCategory(data.movies, 'moviesContainer', 'movie');
-    renderCategory(data.series, 'seriesContainer', 'tv');
-    renderCategory(data.kdrama, 'kdramaContainer', 'tv');
-    renderCategory(data.anime, 'animeContainer', 'tv');
+// 📌 تحميل دفعة من الملفات (Lazy Loading Core)
+async function loadNextBatch(count = 5) {
+    if(isFetchingBatch || fileQueue.length === 0) return;
+    isFetchingBatch = true;
+
+    const batch = fileQueue.splice(0, count);
     
+    await Promise.all(batch.map(async (file) => {
+        try {
+            const res = await fetch(`data/${file}`);
+            const data = await res.json();
+            const category = file.split('_')[0]; // استخراج القسم (movies, series...) من اسم الملف
+            
+            if (globalLibraryData[category]) {
+                globalLibraryData[category].push(...data);
+                appendItemsToDOM(data, `${category}Container`, category);
+            }
+        } catch (e) { console.error(`فشل تحميل الملف: ${file}`); }
+    }));
+
+    // تحديث صورة الغلاف العلوية بأول عنصر تريندنج تم تحميله
+    if(globalLibraryData.trending.length > 0) {
+        const hero = globalLibraryData.trending[0];
+        const heroImg = document.getElementById('heroImage');
+        const heroTitle = document.getElementById('heroTitle');
+        const heroDesc = document.getElementById('heroDesc');
+        
+        if (heroImg && !heroImg.src.includes(hero.backdrop_path)) {
+            heroImg.src = IMG_BG + hero.backdrop_path;
+            if(heroTitle) heroTitle.innerText = hero.title || hero.name;
+            if(heroDesc) heroDesc.innerText = hero.overview || 'محتوى حصري مضاف وجاهز للمشاهدة الفورية.';
+        }
+    }
+
+    isFetchingBatch = false;
+}
+
+// 📌 مراقب النزول لأسفل الصفحة لتفعيل السحب التلقائي (Intersection Observer)
+function setupLazyLoadingObserver() {
+    const observer = new IntersectionObserver(async (entries) => {
+        if (entries[0].isIntersecting) {
+            await loadNextBatch(5); // جلب 5 ملفات عند الوصول للنهاية
+        }
+    }, { rootMargin: '300px' }); // تفعيل السحب قبل 300 بكسل من الوصول للنهاية
+
+    let target = document.getElementById('lazyLoadTrigger');
+    if (!target) {
+        target = document.createElement('div');
+        target.id = 'lazyLoadTrigger';
+        target.style.height = '10px';
+        document.body.appendChild(target);
+    }
+    observer.observe(target);
+}
+
+function clearAllContainers() {
+    ['trending', 'movies', 'series', 'kdrama', 'anime'].forEach(cat => {
+        const el = document.getElementById(`${cat}Container`);
+        if(el) el.innerHTML = '';
+    });
+}
+
+function appendItemsToDOM(items, containerId, forceType = null) {
+    const container = document.getElementById(containerId);
+    if(!container) return;
+    
+    let htmlContent = '';
+    
+    items.forEach((item, index) => {
+        htmlContent += generateCardHTML(item, index, forceType);
+    });
+    
+    // إدراج العناصر بسلاسة دون مسح القديم
+    container.insertAdjacentHTML('beforeend', htmlContent);
+}
+
+// 📌 دالة توليد كرت العمل الفني
+function generateCardHTML(item, index, forceType) {
+    const type = forceType || item.media_type || (item.title ? 'movie' : 'tv');
+    const title = item.title || item.name || 'عنصر غير معروف';
+    const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type})).replace(/'/g, "%27");
+    const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
+    const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
+    
+    return `
+        <div class="swiper-slide w-[140px] md:w-[200px] cursor-pointer group animate-fade-in" style="animation-delay: ${(index % 10) * 0.03}s" 
+            onclick="openDetails('${itemData}')">
+            
+            <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-500 transform group-hover:-translate-y-2 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_15px_30px_rgba(229,9,20,0.3)] border border-white/5">
+                <img src="${poster}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}">
+                
+                <div class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                
+                <div class="absolute top-2 right-2 bg-black/60 backdrop-blur-md text-white text-[11px] font-bold px-2 py-1 rounded-lg border border-white/10 shadow-md flex items-center gap-1">
+                    ${vote} <i class="fa-solid fa-star text-brand"></i>
+                </div>
+
+                <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
+                        title="إصلاح هذا العمل"
+                        class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-8 h-8 rounded-full flex items-center justify-center border border-white/20 shadow-[0_0_15px_rgba(0,0,0,0.5)] transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
+                    <i class="fa-solid fa-wrench text-xs md:text-sm"></i>
+                </button>
+
+                <div class="absolute bottom-0 w-full p-4 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out">
+                     <h3 class="text-white text-sm font-bold truncate text-shadow-md">${title}</h3>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
+function initSwipers() {
     new Swiper('.contentSwiper', { 
         slidesPerView: 'auto', 
         spaceBetween: 16, 
         freeMode: true, 
-        observer: true, 
-        observeParents: true,
+        observer: true,       // هذه الخاصية ضرورية جداً مع ال Lazy Load
+        observeParents: true, // لتحديث السلايدر تلقائياً عند إضافة كروت جديدة
         grabCursor: true
     });
 }
 
-function renderCategory(items, containerId, forceType = null) {
-    const container = document.getElementById(containerId);
-    if(!container) return; container.innerHTML = '';
-    
-    items.forEach((item, index) => {
-        const type = forceType || item.media_type || (item.title ? 'movie' : 'tv');
-        const title = item.title || item.name || 'عنصر غير معروف';
-        
-        const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type})).replace(/'/g, "%27");
-        
-        const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
-        const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
-        
-        container.innerHTML += `
-            <div class="swiper-slide w-[140px] md:w-[200px] cursor-pointer group animate-fade-in" style="animation-delay: ${index * 0.03}s" 
-                onclick="openDetails('${itemData}')">
-                
-                <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-500 transform group-hover:-translate-y-2 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_15px_30px_rgba(229,9,20,0.3)] border border-white/5">
-                    <img src="${poster}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}">
-                    
-                    <div class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                    
-                    <div class="absolute top-2 right-2 bg-black/60 backdrop-blur-md text-white text-[11px] font-bold px-2 py-1 rounded-lg border border-white/10 shadow-md flex items-center gap-1">
-                        ${vote} <i class="fa-solid fa-star text-brand"></i>
-                    </div>
-
-                    <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
-                            title="إصلاح هذا العمل"
-                            class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-8 h-8 rounded-full flex items-center justify-center border border-white/20 shadow-[0_0_15px_rgba(0,0,0,0.5)] transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
-                        <i class="fa-solid fa-wrench text-xs md:text-sm"></i>
-                    </button>
-
-                    <div class="absolute bottom-0 w-full p-4 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out">
-                         <h3 class="text-white text-sm font-bold truncate text-shadow-md">${title}</h3>
-                    </div>
-                </div>
-            </div>
-        `;
-    });
-}
+// ============================================
+// الجزء الخاص بالنوافذ المنبثقة (Modals) والمشغل
+// ============================================
 
 window.openDetails = (encodedData) => {
     const item = JSON.parse(decodeURIComponent(encodedData));
     const title = item.title || item.name;
     
-    // إعداد واجهة اللغتين للعنوان
     const titleEnHtml = item.title_en ? `<span class="text-xl md:text-2xl text-gray-400 block mt-1 font-normal" dir="ltr">${item.title_en}</span>` : '';
     document.getElementById('modalTitle').innerHTML = `${title} ${titleEnHtml}`;
     
-    // إعداد واجهة اللغتين للوصف الببليوجرافي
     let descHtml = item.overview || 'لا يوجد وصف متاح.';
     if(item.overview_en && item.overview_en !== item.overview) {
         descHtml += `<div class="mt-4 pt-4 border-t border-white/5 text-gray-400 text-sm font-sans" dir="ltr"><strong>English Overview:</strong><br>${item.overview_en}</div>`;
@@ -206,6 +296,10 @@ window.closeModal = () => {
     }, 300);
 };
 
+// ============================================
+// نظام الإصلاح (Repair System)
+// ============================================
+
 window.openRepairModal = (encodedData) => {
     const item = JSON.parse(decodeURIComponent(encodedData));
     const id = item.id || '';
@@ -217,7 +311,7 @@ window.openRepairModal = (encodedData) => {
     document.getElementById('repairNewIdInput').value = id; 
     document.getElementById('repairNewIdTypeSelect').value = 'tmdb'; 
     document.getElementById('repairNewTypeSelect').value = type === 'tv' ? 'tv' : 'movie';
-    document.getElementById('repairSeasonsSplitInput').value = ''; // تصفية الحقل التلقائي عند الفتح
+    document.getElementById('repairSeasonsSplitInput').value = ''; 
     
     const modal = document.getElementById('repairModal');
     const modalContent = modal.querySelector('.repair-content');
@@ -240,7 +334,7 @@ window.submitRepairRequest = async () => {
     const newId = document.getElementById('repairNewIdInput').value.trim();
     const newIdType = document.getElementById('repairNewIdTypeSelect').value;
     const newType = document.getElementById('repairNewTypeSelect').value;
-    const seasonsSplit = document.getElementById('repairSeasonsSplitInput').value.trim(); // جلب قيمة حقل التقسيم اليدوي
+    const seasonsSplit = document.getElementById('repairSeasonsSplitInput').value.trim(); 
 
     if(!newId) return alert('يرجى إدخال المعرف (ID) الصحيح');
     if(!GITHUB_TOKEN || !GITHUB_REPO) return alert('يرجى إعداد التوكن في الإعدادات أولاً');
@@ -260,13 +354,13 @@ window.submitRepairRequest = async () => {
                     request_type: newType,
                     request_id_type: newIdType, 
                     old_id: oldId,
-                    seasons_split: seasonsSplit // إرسال بيانات التقسيم اليدوي للإجراءات
+                    seasons_split: seasonsSplit 
                 }
             })
         });
 
         if(res.status === 204) {
-            alert('تم إرسال أمر الإصلاح بنجاح! سيتم تعديل الحلقات والمواسم خلال لحظات.');
+            alert('تم إرسال أمر الإصلاح بنجاح! سيتم التعديل خلال لحظات.');
             closeRepairModal();
         } else {
             alert('فشل إرسال طلب الإصلاح.');
@@ -276,22 +370,33 @@ window.submitRepairRequest = async () => {
     }
 };
 
+// ============================================
+// نظام البحث المتوافق مع Lazy Load
+// ============================================
+
 document.getElementById('searchInput').addEventListener('input', (e) => {
     const query = e.target.value.trim().toLowerCase();
     const resultsContainer = document.getElementById('searchResults');
-    if(query.length < 2 || !globalLibraryData) { resultsContainer.innerHTML = ''; return; }
+    if(query.length < 2) { resultsContainer.innerHTML = ''; return; }
     resultsContainer.innerHTML = '';
-    const allItems = [...globalLibraryData.trending, ...globalLibraryData.movies, ...globalLibraryData.series, ...globalLibraryData.kdrama, ...globalLibraryData.anime];
-    const seenIds = new Set();
     
+    // تجميع كل ما تم تحميله حتى اللحظة
+    const allLoadedItems = [
+        ...globalLibraryData.trending, 
+        ...globalLibraryData.movies, 
+        ...globalLibraryData.series, 
+        ...globalLibraryData.kdrama, 
+        ...globalLibraryData.anime
+    ];
+    
+    const seenIds = new Set();
     let count = 0;
-    allItems.forEach(item => {
-        // تجهيز نصوص اللغات المختلفة للتحقق من تطابق البحث بشكل مرن
+    
+    allLoadedItems.forEach(item => {
         const titleAr = (item.title || item.name || '').toLowerCase();
         const titleEn = (item.title_en || '').toLowerCase();
         const originalTitle = (item.original_title || item.original_name || '').toLowerCase();
         
-        // التحقق من تطابق كلمة البحث مع أي من الحقول الثلاثة
         if((titleAr.includes(query) || titleEn.includes(query) || originalTitle.includes(query)) && !seenIds.has(item.id)) {
             seenIds.add(item.id);
             
@@ -300,15 +405,9 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
             const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
 
             resultsContainer.innerHTML += `
-                <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${count * 0.03}s" onclick="openDetails('${itemData}')">
+                <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${(count % 10) * 0.03}s" onclick="openDetails('${itemData}')">
                     <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
                         <img src="${poster}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
-                        
-                        <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
-                                title="إصلاح هذا العمل"
-                                class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-7 h-7 rounded-full flex items-center justify-center border border-white/20 shadow-md transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
-                            <i class="fa-solid fa-wrench text-[10px]"></i>
-                        </button>
                     </div>
                     <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${displayTitle}</h3>
                 </div>
@@ -317,6 +416,10 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
         }
     });
 });
+
+// ============================================
+// نظام التنقل والأزرار (Tabs & Modals)
+// ============================================
 
 window.switchTab = (tabName) => {
     document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -386,11 +489,11 @@ window.submitContentRequest = async () => {
     const loading = document.getElementById('requestLoading');
     const btn = document.getElementById('submitRequestBtn');
 
-    if(!title && !id) return alert('يرجى كتابة اسم العمل أو إدخال رقم الـ ID على الأقل.');
+    if(!title && !id) return alert('يرجى كتابة اسم العمل أو إدخال رقم الـ ID.');
     if(!GITHUB_TOKEN || !GITHUB_REPO) {
         closeRequestModal();
         switchTab('settings');
-        return alert('يرجى إدخل توكن GitHub وإعدادات الريبو أولاً لتشغيل الريكوست.');
+        return alert('يرجى إدخال التوكن وإعدادات المستودع أولاً.');
     }
 
     loading.classList.replace('hidden', 'flex');
@@ -416,7 +519,7 @@ window.submitContentRequest = async () => {
         });
 
         if(res.status === 204) {
-            btn.innerHTML = '<i class="fa-solid fa-check text-xl"></i> تم إطلاق السيرفر بنجاح!';
+            btn.innerHTML = '<i class="fa-solid fa-check text-xl"></i> تم إرسال الطلب!';
             btn.classList.replace('from-brand', 'from-green-500');
             btn.classList.replace('to-red-700', 'to-green-700');
             
@@ -429,13 +532,9 @@ window.submitContentRequest = async () => {
                 btn.classList.replace('to-green-700', 'to-red-700');
             }, 3000);
             
-            setTimeout(() => { fetchStaticLibrary(); }, 40000);
-        } else {
-            alert('فشل تشغيل الأكشنز.');
-        }
-    } catch(e) {
-        alert('خطأ شبكة أثناء تشغيل سيرفر الأتمتة المباشر.');
-    } finally {
+        } else { alert('فشل تشغيل الأكشنز.'); }
+    } catch(e) { alert('خطأ في الاتصال.'); } 
+    finally {
         setTimeout(() => {
             loading.classList.replace('flex', 'hidden');
             btn.disabled = false; btn.classList.remove('opacity-50', 'cursor-not-allowed');
