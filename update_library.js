@@ -5,7 +5,7 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const REQUEST_TITLE = process.env.REQUEST_TITLE; 
 const BASE_URL = 'https://api.themoviedb.org/3';
 
-// 1️⃣ دالة جلب تفاصيل المسلسلات والمواسم كاملة بالإنجليزية لضمان التقسيم الصحيح
+// 1️⃣ جلب تفاصيل المسلسل والمواسم بالإنجليزية لضمان التقسيم العالمي الصحيح للحلقات
 async function fetchTvDetails(tvId) {
     try {
         const url = `${BASE_URL}/tv/${tvId}?api_key=${TMDB_API_KEY}&language=en-US`;
@@ -17,7 +17,7 @@ async function fetchTvDetails(tvId) {
     return null;
 }
 
-// دالة مساعدة لطلب تفاصيل أي عنصر (فيلم أو مسلسل) بالإنجليزية بشكل نقي عند الحقن الفوري
+// جلب تفاصيل العنصر بالكامل بالإنجليزية عند الحقن الفوري لتوحيد البيانات
 async function fetchMediaDetails(id, mediaType) {
     try {
         const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=en-US`;
@@ -29,18 +29,17 @@ async function fetchMediaDetails(id, mediaType) {
     return null;
 }
 
-// 2️⃣ دالة السحب الدوري لـ 100 عنصر نقي ومقسم باللغة الإنجليزية
+// 2️⃣ دالة السحب الدوري لـ 100 عنصر مع حل مشكلة اختفاء نوع الميديا (media_type)
 async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
     let categoryResults = [];
     let seenIds = new Set();
     let page = 1;
 
-    console.log(`=== بدأ سحب 100 عنصر لقسم: [${mediaType}] باللغة الإنجليزية ===`);
+    console.log(`=== بدأ سحب 100 عنصر لقسم: [${mediaType}] ===`);
 
     while (categoryResults.length < 100 && page <= 20) {
         try {
             const separator = endpoint.includes('?') ? '&' : '?';
-            // سحب القوائم باللغة الإنجليزية لتوحيد النظام وحل مشاكل المواسم العربية
             const url = `${BASE_URL}${endpoint}${separator}api_key=${TMDB_API_KEY}&language=en-US&page=${page}${extraParams}`;
             
             const res = await fetch(url);
@@ -55,7 +54,10 @@ async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
                 if (item.poster_path && !seenIds.has(item.id)) {
                     seenIds.add(item.id);
 
+                    // تحديد نوع الميديا بشكل دقيق وحقنه حتماً في العنصر لحل مشكلة "عدم استجابة الزر عند الضغط"
                     const isTvShow = mediaType === 'tv' || item.media_type === 'tv' || (!item.title && item.name);
+                    item.media_type = isTvShow ? 'tv' : 'movie'; 
+
                     if (isTvShow) {
                         const tvDetails = await fetchTvDetails(item.id);
                         if (tvDetails && tvDetails.seasons) {
@@ -69,41 +71,41 @@ async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
             console.log(`التقدم في قسم [${mediaType}]: تم جمع ${categoryResults.length} / 100`);
             page++;
         } catch (error) {
-            console.error(`خطأ أثناء السحب:`, error);
+            console.error(`خطأ أثناء السحب الدوري:`, error);
             break;
         }
     }
     return categoryResults;
 }
 
-// 3️⃣ 🎯 الدالة الذكية للبحث الفوري: تدعم البحث بأي لغة (عربي، إنجليزي، ياباني)
+// 3️⃣ 🎯 دالة البحث الفوري الذكية: تدعم البحث بجميع اللغات (عربي، إنجليزي، ياباني) دون قيود
 async function handleDirectRequest(libraryData, queryTitle) {
     if (!queryTitle) return libraryData;
     
-    console.log(`🚀 استقبال طلب المستخدم للعنوان: "${queryTitle}" وجاري البحث في قاعدة البيانات العالمية...`);
+    // إزالة قيود اللغة من رابط البحث ليعمل كمحرك بحث عالمي عابر للغات
+    console.log(`🚀 جاري البحث الشامل عن العنوان: "${queryTitle}" بجميع اللغات المتاحة...`);
     try {
-        // البحث الأولي مع طلب استرجاع البيانات بالإنجليزية
-        let searchRes = await fetch(`${BASE_URL}/search/multi?api_key=${TMDB_API_KEY}&language=en-US&query=${encodeURIComponent(queryTitle)}`);
-        let searchData = await searchRes.json();
-
-        // 🧠 ذكاء اصطناعي احتياطي: إذا لم يعثر على نتائج باللغة الإنجليزية (حالة نادرة جداً للأسماء المحلية المكتوبة بالعربي)
-        // نقوم بإزالة شرط اللغة ليقوم TMDB بالبحث المطلق والشامل في السيرفرات
-        if (!searchData.results || searchData.results.length === 0) {
-            console.log(`🔄 تفعيل البحث الموسع بدون قيود لغوية لضمان العثور على النتيجة...`);
-            searchRes = await fetch(`${BASE_URL}/search/multi?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(queryTitle)}`);
-            searchData = await searchRes.json();
-        }
+        const searchUrl = `${BASE_URL}/search/multi?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(queryTitle)}`;
+        const searchRes = await fetch(searchUrl);
+        const searchData = await searchRes.json();
 
         if (searchData.results && searchData.results.length > 0) {
             let rawItem = searchData.results[0];
+            // تحديد نوع المحتوى المكتشف تلقائياً
             const mediaType = rawItem.media_type || ((rawItem.title) ? 'movie' : 'tv');
             
-            // تحويل العنصر المكتشف إلى بيانات إنجليزية رسمية ونقية لتطابق موقعك تماماً وتفادي دمج المواسم
+            // تحويل العنصر المكتشف إلى تفاصيل كاملة ومقسمة بالإنجليزية لحماية السيرفر والمشاهدة
             const item = await fetchMediaDetails(rawItem.id, mediaType);
             
             if (item && item.poster_path) {
                 const isTv = mediaType === 'tv';
-                
+                item.media_type = mediaType; // 🛠️ حقن نوع الميديا لضمان عمل زر المشاهدة فوراً للطلب المباشر
+
+                if (isTv) {
+                    const tvDetails = await fetchTvDetails(item.id);
+                    if (tvDetails && tvDetails.seasons) item.seasons = tvDetails.seasons;
+                }
+
                 let targetCategory = 'trending';
                 if (isTv) {
                     if (item.original_language === 'ko') targetCategory = 'kdrama';
@@ -113,29 +115,28 @@ async function handleDirectRequest(libraryData, queryTitle) {
                     targetCategory = 'movies';
                 }
 
-                // فحص عدم التكرار قبل الحقن
+                // منع التكرار في المصفوفات
                 const exists = libraryData[targetCategory].some(existing => existing.id === item.id);
                 if (!exists) {
-                    item.media_type = mediaType; // الحفاظ على نوع الميديا للفرونت إند
                     libraryData[targetCategory].unshift(item);
                     libraryData.trending.unshift(item);
-                    console.log(`✅ نجاح! تم العثور على العنوان وحقنه باللغة الإنجليزية تحت اسم: [${item.title || item.name}]`);
+                    console.log(`✅ تم العثور على المحتوى وحقنه بنجاح باسمه العالمي: [${item.title || item.name}]`);
                 } else {
-                    console.log(`ℹ️ العنصر [${item.title || item.name}] موجود بالفعل في مكتبتك.`);
+                    console.log(`ℹ️ المحتوى موجود بالفعل في الموقع.`);
                 }
             }
         } else {
-            console.log(`❌ لم يتم العثور على أي نتائج مطابقة للبحث بـ: "${queryTitle}"`);
+            console.log(`❌ لم يتم العثور على نتائج للبحث عن: "${queryTitle}"`);
         }
     } catch (e) {
-        console.error('خطأ أثناء معالجة الريكوست المباشر:', e);
+        console.error('خطأ أثناء معالجة طلب البحث المباشر:', e);
     }
     return libraryData;
 }
 
 async function runScraper() {
     if (!TMDB_API_KEY) {
-        console.error("خطأ: مفتاح TMDB_API_KEY مفقود.");
+        console.error("خطأ: مفتاح الـ API مفقود.");
         process.exit(1);
     }
 
@@ -147,7 +148,7 @@ async function runScraper() {
         }
         currentLibrary = await handleDirectRequest(currentLibrary, REQUEST_TITLE.trim());
     } else {
-        // التشغيل التلقائي الدوري (كل 30 دقيقة) لبناء المكتبة الرسمية بالإنجليزية وبدون تكرار
+        // السحب الدوري التلقائي المصلح والمحمي بالكامل
         currentLibrary.trending = await fetchStrict100Items('/trending/all/day', 'mixed');
         currentLibrary.movies = await fetchStrict100Items('/discover/movie', 'movie');
         currentLibrary.series = await fetchStrict100Items('/discover/tv', 'tv');
@@ -156,7 +157,7 @@ async function runScraper() {
     }
 
     fs.writeFileSync('library.json', JSON.stringify(currentLibrary, null, 2));
-    console.log('🎉 تم التحديث والحفظ بنجاح تام!');
+    console.log('🎉 انتهى الإصلاح الشامل وتحديث البيانات بنجاح!');
 }
 
 runScraper();
