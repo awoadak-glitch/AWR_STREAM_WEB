@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // تفعيل خلفية شريط التنقل عند التمرير
     window.addEventListener('scroll', () => {
-        const nav = document.getElementById('navbar');
+        const nav = documREQUEST_TYPEent.getElementById('navbar');
         if (window.scrollY > 50) {
             nav.classList.add('bg-black/90', 'shadow-lg');
             nav.classList.remove('bg-black/60');
@@ -309,9 +309,9 @@ window.submitContentRequest = async () => {
             body: JSON.stringify({
                 ref: 'main', 
                 inputs: {
-                    REQUEST_TITLE: title || "", 
-                    REQUEST_ID: id || "",
-                    REQUEST_TYPE: type || ""
+                    request_title: title || "", 
+                    request_id: id || "",
+                    request_type: type || ""
                 }
             })
         });
