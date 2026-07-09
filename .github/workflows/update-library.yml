@@ -25,6 +25,10 @@ on:
         description: 'الـ ID القديم المراد حذفه وإصلاحه'
         required: false
         default: ''
+      seasons_split: # 🌟 الإدخال الجديد المخصص لتقسيم الحلقات والمواسم يدوياً
+        description: 'تقسيم المواسم يدويًا (مثال: 25,25)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -49,6 +53,7 @@ jobs:
           REQUEST_TYPE: ${{ github.event.inputs.request_type }}
           REQUEST_ID_TYPE: ${{ github.event.inputs.request_id_type }} # 🛑 تمرير نوع المعرف للسكربت
           OLD_ID: ${{ github.event.inputs.old_id }} 
+          SEASONS_SPLIT: ${{ github.event.inputs.seasons_split }} # 🌟 تمرير قيمة تقسيم المواسم المخصصة للسكربت
         run: node update_library.js
 
       - name: Commit and Push Library Updates
