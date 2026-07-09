@@ -17,7 +17,11 @@ on:
         description: 'نوع المحتوى (movie أو tv)'
         required: false
         default: ''
-      old_id: # 🛑 إضافة مدخل للإصلاح والحذف
+      request_id_type: # 🛑 المدخل الجديد لمعرفة نوع المعرف (TMDB أو IMDb)
+        description: 'نوع الـ ID (tmdb أو imdb)'
+        required: false
+        default: 'tmdb'
+      old_id: 
         description: 'الـ ID القديم المراد حذفه وإصلاحه'
         required: false
         default: ''
@@ -43,7 +47,8 @@ jobs:
           REQUEST_TITLE: ${{ github.event.inputs.request_title }}
           REQUEST_ID: ${{ github.event.inputs.request_id }}
           REQUEST_TYPE: ${{ github.event.inputs.request_type }}
-          OLD_ID: ${{ github.event.inputs.old_id }} # 🛑 تمرير المعرف للسكربت
+          REQUEST_ID_TYPE: ${{ github.event.inputs.request_id_type }} # 🛑 تمرير نوع المعرف للسكربت
+          OLD_ID: ${{ github.event.inputs.old_id }} 
         run: node update_library.js
 
       - name: Commit and Push Library Updates
