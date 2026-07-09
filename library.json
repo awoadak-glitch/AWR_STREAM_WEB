@@ -2,6 +2,188 @@
   "trending": [
     {
       "adult": false,
+      "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
+      "belongs_to_collection": {
+        "id": 689287,
+        "name": "Re:ZERO -Starting Life in Another World- Collection",
+        "poster_path": "/xcJ3U7sSdI0VVihU9oHxfNZ7umH.jpg",
+        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "homepage": "http://re-zero-anime.jp/",
+      "id": 532321,
+      "imdb_id": "tt8565186",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "Re ゼロから始める異世界生活 Memory Snow",
+      "overview": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
+      "popularity": 3.901,
+      "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2018-10-06",
+      "revenue": 1725339,
+      "runtime": 61,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Re ZERO Starting Life in Another World Memory Snow",
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 305,
+      "media_type": "movie",
+      "title_en": "Re ZERO Starting Life in Another World Memory Snow",
+      "overview_en": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "2020-01-01",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 322512,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2020-03-25",
+      "last_episode_to_air": {
+        "id": 7271798,
+        "name": "Episode 13",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-25",
+        "episode_number": 13,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 322512,
+        "still_path": "/ehRd47eKyh8AordDCxmkJrcJcx4.jpg"
+      },
+      "name": "Re ゼロから始める異世界生活 新編集版",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 13,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "Re:ゼロから始める異世界生活 新編集版",
+      "overview": "",
+      "popularity": 33.4893,
+      "poster_path": "/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2020-01-01",
+          "episode_count": 13,
+          "id": 516397,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 6.875,
+      "vote_count": 4,
+      "media_type": "tv",
+      "title_en": "Re ゼロから始める異世界生活 新編集版",
+      "overview_en": ""
+    },
+    {
+      "adult": false,
       "backdrop_path": "/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg",
       "belongs_to_collection": null,
       "budget": 64000000,
@@ -4318,6 +4500,82 @@
     }
   ],
   "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
+      "belongs_to_collection": {
+        "id": 689287,
+        "name": "Re:ZERO -Starting Life in Another World- Collection",
+        "poster_path": "/xcJ3U7sSdI0VVihU9oHxfNZ7umH.jpg",
+        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 12,
+          "name": "Adventure"
+        },
+        {
+          "id": 14,
+          "name": "Fantasy"
+        }
+      ],
+      "homepage": "http://re-zero-anime.jp/",
+      "id": 532321,
+      "imdb_id": "tt8565186",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "Re ゼロから始める異世界生活 Memory Snow",
+      "overview": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries",
+      "popularity": 3.901,
+      "poster_path": "/y7XwmyE5ue9hjk65fEWpO2hGU2B.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2018-10-06",
+      "revenue": 1725339,
+      "runtime": 61,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Re ZERO Starting Life in Another World Memory Snow",
+      "video": false,
+      "vote_average": 7.305,
+      "vote_count": 305,
+      "media_type": "movie",
+      "title_en": "Re ZERO Starting Life in Another World Memory Snow",
+      "overview_en": "Subaru finally gets to take a breather but he does not waste any time as he prepares for a date with his beloved Emilia He scouts the nearby village for the right dating spot and with the help of the village children he finds a wonderful location With that he is well prepared for his date Unfortunately for Subaru cold weather suddenly sweeps across Roswaal s mansion on his important day leaving him with no choice but to postpone the date Overnight it becomes even colder and unbearable Subaru must get to the bottom of this because at this rate his date will be the least of his worries"
+    },
     {
       "adult": false,
       "backdrop_path": "/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg",
@@ -26790,6 +27048,112 @@
     }
   ],
   "anime": [
+    {
+      "adult": false,
+      "backdrop_path": "/6FYhEcODfcGxQyZjHyZpl0HTVSM.jpg",
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "2020-01-01",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        },
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 322512,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2020-03-25",
+      "last_episode_to_air": {
+        "id": 7271798,
+        "name": "Episode 13",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2020-03-25",
+        "episode_number": 13,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 322512,
+        "still_path": "/ehRd47eKyh8AordDCxmkJrcJcx4.jpg"
+      },
+      "name": "Re ゼロから始める異世界生活 新編集版",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 13,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "Re:ゼロから始める異世界生活 新編集版",
+      "overview": "",
+      "popularity": 33.4893,
+      "poster_path": "/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
+      "production_companies": [
+        {
+          "id": 12569,
+          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+          "name": "White Fox",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2020-01-01",
+          "episode_count": 13,
+          "id": 516397,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/szFoBmkiWsx4aQKs3b0fafFkwSt.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 6.875,
+      "vote_count": 4,
+      "media_type": "tv",
+      "title_en": "Re ゼロから始める異世界生活 新編集版",
+      "overview_en": ""
+    },
     {
       "adult": false,
       "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
