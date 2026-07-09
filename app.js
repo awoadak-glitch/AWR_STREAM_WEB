@@ -286,12 +286,17 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
     
     let count = 0;
     allItems.forEach(item => {
-        const title = item.title || item.name || '';
-        if(title.toLowerCase().includes(query) && !seenIds.has(item.id)) {
+        // تجهيز نصوص اللغات المختلفة للتحقق من تطابق البحث بشكل مرن
+        const titleAr = (item.title || item.name || '').toLowerCase();
+        const titleEn = (item.title_en || '').toLowerCase();
+        const originalTitle = (item.original_title || item.original_name || '').toLowerCase();
+        
+        // التحقق من تطابق كلمة البحث مع أي من الحقول الثلاثة
+        if((titleAr.includes(query) || titleEn.includes(query) || originalTitle.includes(query)) && !seenIds.has(item.id)) {
             seenIds.add(item.id);
             
+            const displayTitle = item.title || item.name || 'عنصر غير معروف';
             const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')})).replace(/'/g, "%27");
-            
             const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
 
             resultsContainer.innerHTML += `
@@ -305,7 +310,7 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
                             <i class="fa-solid fa-wrench text-[10px]"></i>
                         </button>
                     </div>
-                    <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${title}</h3>
+                    <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${displayTitle}</h3>
                 </div>
             `;
             count++;
@@ -385,7 +390,7 @@ window.submitContentRequest = async () => {
     if(!GITHUB_TOKEN || !GITHUB_REPO) {
         closeRequestModal();
         switchTab('settings');
-        return alert('يرجى إدخال توكن GitHub وإعدادات الريبو أولاً لتشغيل الريكوست.');
+        return alert('يرجى إدخل توكن GitHub وإعدادات الريبو أولاً لتشغيل الريكوست.');
     }
 
     loading.classList.replace('hidden', 'flex');
