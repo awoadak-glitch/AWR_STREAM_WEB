@@ -11,6 +11,18 @@ document.addEventListener('DOMContentLoaded', () => {
     if(document.getElementById('githubTokenInput')) document.getElementById('githubTokenInput').value = GITHUB_TOKEN;
     if(document.getElementById('githubRepoInput')) document.getElementById('githubRepoInput').value = GITHUB_REPO;
     initApp();
+    
+    // تفعيل خلفية شريط التنقل عند التمرير
+    window.addEventListener('scroll', () => {
+        const nav = document.getElementById('navbar');
+        if (window.scrollY > 50) {
+            nav.classList.add('bg-black/90', 'shadow-lg');
+            nav.classList.remove('bg-black/60');
+        } else {
+            nav.classList.add('bg-black/60');
+            nav.classList.remove('bg-black/90', 'shadow-lg');
+        }
+    });
 });
 
 async function initApp() {
@@ -48,23 +60,39 @@ function displayAllContent(data) {
     renderCategory(data.series, 'seriesContainer', 'tv');
     renderCategory(data.kdrama, 'kdramaContainer', 'tv');
     renderCategory(data.anime, 'animeContainer', 'tv');
-    new Swiper('.contentSwiper', { slidesPerView: 'auto', spaceBetween: 12, freeMode: true, observer: true, observeParents: true });
+    
+    // تهيئة Swiper مع تحسينات بصرية
+    new Swiper('.contentSwiper', { 
+        slidesPerView: 'auto', 
+        spaceBetween: 16, 
+        freeMode: true, 
+        observer: true, 
+        observeParents: true,
+        grabCursor: true
+    });
 }
 
 function renderCategory(items, containerId, forceType = null) {
     const container = document.getElementById(containerId);
     if(!container) return; container.innerHTML = '';
-    items.forEach(item => {
+    
+    // إضافة العناصر مع تأخير بسيط للحركة (Stagger effect)
+    items.forEach((item, index) => {
         const type = forceType || item.media_type || (item.title ? 'movie' : 'tv');
         const title = item.title || item.name;
         const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type}));
         const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
+        
         container.innerHTML += `
-            <div class="swiper-slide w-[120px] md:w-[180px] cursor-pointer group" onclick="openDetails('${itemData}')">
-                <div class="relative rounded-lg overflow-hidden aspect-[2/3] bg-gray-800 transition transform group-hover:scale-105 group-hover:ring-2 ring-brand">
-                    <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover" loading="lazy" alt="${title}">
-                    <div class="absolute top-1 right-1 bg-black/80 text-brand text-[10px] font-bold px-1.5 py-0.5 rounded">
+            <div class="swiper-slide w-[130px] md:w-[190px] cursor-pointer group animate-fade-in" style="animation-delay: ${index * 0.05}s" onclick="openDetails('${itemData}')">
+                <div class="relative rounded-xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-300 transform group-hover:scale-105 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_0_20px_rgba(229,9,20,0.4)]">
+                    <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy" alt="${title}">
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    <div class="absolute top-2 right-2 bg-black/80 backdrop-blur-md text-brand text-[11px] font-bold px-2 py-1 rounded-md border border-brand/30 shadow-md">
                         ${vote} <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="absolute bottom-0 w-full p-3 translate-y-full group-hover:translate-y-0 transition-transform duration-300">
+                         <h3 class="text-white text-xs font-bold truncate text-shadow-sm">${title}</h3>
                     </div>
                 </div>
             </div>
@@ -80,8 +108,8 @@ window.openDetails = (encodedData) => {
 
     document.getElementById('modalTitle').innerText = title;
     document.getElementById('modalDesc').innerText = item.overview || 'لا يوجد وصف متاح باللغة العربية حالياً.';
-    document.getElementById('modalRating').innerText = (item.vote_average ? item.vote_average.toFixed(1) : '0.0') + ' تقييم نقد';
-    document.getElementById('modalDate').innerText = (item.release_date || item.first_air_date || '').split('-')[0];
+    document.getElementById('modalRating').innerHTML = `<i class="fa-solid fa-star text-yellow-500"></i> ${(item.vote_average ? item.vote_average.toFixed(1) : '0.0')} تقييم`;
+    document.getElementById('modalDate').innerHTML = `<i class="fa-regular fa-calendar"></i> ${(item.release_date || item.first_air_date || '').split('-')[0]}`;
     document.getElementById('modalBackdrop').src = IMG_BG + (item.backdrop_path || item.poster_path);
     
     const tvControls = document.getElementById('tvControls');
@@ -94,10 +122,16 @@ window.openDetails = (encodedData) => {
         tvControls.classList.remove('hidden');
         const validSeasons = item.seasons.filter(s => s.season_number > 0 && s.episode_count > 0);
         tvControls.innerHTML = `
-            <p class="text-sm text-gray-400 mb-3"><i class="fa-solid fa-layer-group text-brand"></i> اختر الموسم والحلقة:</p>
-            <div class="flex gap-3">
-                <select id="seasonSelect" class="bg-gray-950 text-white text-xs p-2.5 rounded border border-gray-700 focus:outline-none focus:border-brand"></select>
-                <select id="episodeSelect" class="bg-gray-950 text-white text-xs p-2.5 rounded border border-gray-700 focus:outline-none focus:border-brand"></select>
+            <p class="text-sm font-bold text-white mb-4"><i class="fa-solid fa-layer-group text-brand ml-1"></i> اختر الموسم والحلقة للمشاهدة:</p>
+            <div class="flex flex-wrap gap-4">
+                <div class="flex-1 min-w-[140px] relative">
+                    <select id="seasonSelect" class="w-full bg-black/60 text-white text-sm p-3.5 rounded-xl border border-gray-600 focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand appearance-none transition-all shadow-inner"></select>
+                    <i class="fa-solid fa-chevron-down absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none"></i>
+                </div>
+                <div class="flex-1 min-w-[140px] relative">
+                    <select id="episodeSelect" class="w-full bg-black/60 text-white text-sm p-3.5 rounded-xl border border-gray-600 focus:outline-none focus:border-brand focus:ring-1 focus:ring-brand appearance-none transition-all shadow-inner"></select>
+                    <i class="fa-solid fa-chevron-down absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none"></i>
+                </div>
             </div>
         `;
         const seasonSelect = document.getElementById('seasonSelect');
@@ -113,7 +147,7 @@ window.openDetails = (encodedData) => {
             if(!iframeWrapper.classList.contains('hidden')) loadTvIframe();
         };
         const loadTvIframe = () => {
-            iframeWrapper.innerHTML = `<iframe src="${VIDAPI_BASE}/tv/${id}/${seasonSelect.value}/${episodeSelect.value}?autoplay=1" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
+            iframeWrapper.innerHTML = `<iframe src="${VIDAPI_BASE}/tv/${id}/${seasonSelect.value}/${episodeSelect.value}?autoplay=1" width="100%" height="100%" frameborder="0" allowfullscreen class="rounded-t-2xl md:rounded-none"></iframe>`;
         };
         seasonSelect.onchange = updateEpisodesList;
         episodeSelect.onchange = () => { if(!iframeWrapper.classList.contains('hidden')) loadTvIframe(); };
@@ -122,20 +156,38 @@ window.openDetails = (encodedData) => {
     } else {
         tvControls.classList.add('hidden');
         playBtn.onclick = () => {
-            iframeWrapper.innerHTML = `<iframe src="${VIDAPI_BASE}/movie/${id}?autoplay=1" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
+            iframeWrapper.innerHTML = `<iframe src="${VIDAPI_BASE}/movie/${id}?autoplay=1" width="100%" height="100%" frameborder="0" allowfullscreen class="rounded-t-2xl md:rounded-none"></iframe>`;
             iframeWrapper.classList.remove('hidden'); playBtn.classList.add('hidden');
         };
     }
-    document.getElementById('detailsModal').classList.replace('hidden', 'flex');
+    
+    // أنيميشن فتح المودال
+    const modal = document.getElementById('detailsModal');
+    const modalContent = modal.querySelector('.details-content');
+    modal.classList.replace('hidden', 'flex');
+    // Forcing reflow
+    void modal.offsetWidth;
+    modal.classList.remove('opacity-0');
+    modalContent.classList.remove('scale-95');
+    
     document.body.style.overflow = 'hidden';
 };
 
 window.closeModal = () => {
-    document.getElementById('detailsModal').classList.replace('flex', 'hidden');
-    document.body.style.overflow = 'auto'; document.getElementById('iframeWrapper').innerHTML = '';
+    const modal = document.getElementById('detailsModal');
+    const modalContent = modal.querySelector('.details-content');
+    
+    modal.classList.add('opacity-0');
+    modalContent.classList.add('scale-95');
+    
+    setTimeout(() => {
+        modal.classList.replace('flex', 'hidden');
+        document.body.style.overflow = 'auto'; 
+        document.getElementById('iframeWrapper').innerHTML = '';
+    }, 300); // انتظار انتهاء الأنيميشن
 };
 
-// البحث المحلي السريع جداً داخل الـ JSON الثابت لضمان عدم استهلاك الـ API
+// البحث المحلي السريع جداً
 document.getElementById('searchInput').addEventListener('input', (e) => {
     const query = e.target.value.trim().toLowerCase();
     const resultsContainer = document.getElementById('searchResults');
@@ -143,32 +195,66 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
     resultsContainer.innerHTML = '';
     const allItems = [...globalLibraryData.trending, ...globalLibraryData.movies, ...globalLibraryData.series, ...globalLibraryData.kdrama, ...globalLibraryData.anime];
     const seenIds = new Set();
+    
+    let count = 0;
     allItems.forEach(item => {
         const title = item.title || item.name || '';
         if(title.toLowerCase().includes(query) && !seenIds.has(item.id)) {
             seenIds.add(item.id);
             const itemData = encodeURIComponent(JSON.stringify(item));
             resultsContainer.innerHTML += `
-                <div class="cursor-pointer group" onclick="openDetails('${itemData}')">
-                    <div class="relative rounded-md overflow-hidden aspect-[2/3] bg-gray-800">
-                        <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition group-hover:scale-110" alt="${title}">
+                <div class="cursor-pointer group animate-fade-in" style="animation-delay: ${count * 0.05}s" onclick="openDetails('${itemData}')">
+                    <div class="relative rounded-xl overflow-hidden aspect-[2/3] bg-gray-800 ring-1 ring-white/10 transition-all duration-300 group-hover:ring-brand group-hover:scale-105 group-hover:shadow-[0_0_15px_rgba(229,9,20,0.3)]">
+                        <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy" alt="${title}">
                     </div>
-                    <h3 class="text-xs text-center mt-2 text-gray-300 truncate group-hover:text-white">${title}</h3>
+                    <h3 class="text-xs text-center mt-3 text-gray-300 font-bold truncate group-hover:text-white transition-colors">${title}</h3>
                 </div>
             `;
+            count++;
         }
     });
 });
 
 window.switchTab = (tabName) => {
-    document.querySelectorAll('.view-section').forEach(el => el.classList.replace('block', 'hidden'));
+    // تحديث ألوان الأزرار في الأسفل
+    document.querySelectorAll('.nav-btn').forEach(btn => {
+        btn.classList.remove('text-brand');
+        btn.classList.add('text-gray-400');
+    });
+    
+    // إخفاء جميع الأقسام مع أنيميشن الخروج
+    document.querySelectorAll('.view-section').forEach(el => {
+        el.classList.add('hidden');
+        el.classList.remove('animate-fade-in');
+    });
+    
     const target = document.getElementById(tabName + 'View');
-    if(target) target.classList.replace('hidden', 'block');
-    window.scrollTo(0,0);
+    if(target) {
+        target.classList.replace('hidden', 'block');
+        // إجبار المتصفح على إعادة رسم العنصر لتشغيل الأنيميشن
+        void target.offsetWidth; 
+        target.classList.add('animate-fade-in');
+    }
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 };
 
 window.openRequestModal = () => {
-    document.getElementById('requestModal').classList.replace('hidden', 'flex');
+    const modal = document.getElementById('requestModal');
+    const modalContent = modal.querySelector('.request-content');
+    modal.classList.replace('hidden', 'flex');
+    void modal.offsetWidth;
+    modal.classList.remove('opacity-0');
+    modalContent.classList.remove('scale-95');
+};
+
+window.closeRequestModal = () => {
+    const modal = document.getElementById('requestModal');
+    const modalContent = modal.querySelector('.request-content');
+    modal.classList.add('opacity-0');
+    modalContent.classList.add('scale-95');
+    setTimeout(() => {
+        modal.classList.replace('flex', 'hidden');
+    }, 300);
 };
 
 window.saveSettings = () => {
@@ -177,23 +263,42 @@ window.saveSettings = () => {
     localStorage.setItem('github_token', token);
     localStorage.setItem('github_repo', repo);
     GITHUB_TOKEN = token; GITHUB_REPO = repo;
-    alert('تم تفعيل الاتصال المباشر بنظام الريكوست والـ Actions بنجاح!');
+    
+    // إظهار رسالة نجاح جميلة بدلاً من alert العادي
+    const btn = document.querySelector('#settingsView button');
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '<i class="fa-solid fa-check-circle text-xl"></i> تم الحفظ وتفعيل الاتصال!';
+    btn.classList.replace('from-brand', 'from-green-600');
+    btn.classList.replace('to-red-800', 'to-green-800');
+    
+    setTimeout(() => {
+        btn.innerHTML = originalText;
+        btn.classList.replace('from-green-600', 'from-brand');
+        btn.classList.replace('to-green-800', 'to-red-800');
+    }, 3000);
 };
 
-// 🔥 زر الريكوست الجديد: يقوم بتشغيل الـ GitHub Workflow يدوياً ويمرر اسم الفيلم مباشرة
+// 🔥 زر الريكوست الجديد (محدث ليدعم الـ ID ونوع العمل)
 window.submitContentRequest = async () => {
     const title = document.getElementById('requestTitleInput').value.trim();
+    const id = document.getElementById('requestIdInput').value.trim();
+    const type = document.getElementById('requestTypeSelect').value;
+    
     const loading = document.getElementById('requestLoading');
     const btn = document.getElementById('submitRequestBtn');
 
-    if(!title) return alert('يرجى كتابة اسم العمل المطلوب أولاً.');
-    if(!GITHUB_TOKEN || !GITHUB_REPO) return alert('يرجى إدخال توكن GitHub وإعدادات الريبو في صفحة الإعدادات لتشغيل الريكوست.');
+    if(!title && !id) return alert('يرجى كتابة اسم العمل أو إدخال رقم الـ ID على الأقل.');
+    if(!GITHUB_TOKEN || !GITHUB_REPO) {
+        closeRequestModal();
+        switchTab('settings');
+        return alert('يرجى إدخال توكن GitHub وإعدادات الريبو أولاً لتشغيل الريكوست.');
+    }
 
     loading.classList.replace('hidden', 'flex');
-    btn.disabled = true; btn.classList.add('opacity-50');
+    btn.disabled = true; btn.classList.add('opacity-50', 'cursor-not-allowed');
 
     try {
-        // استدعاء الـ API الخاص بجيت هاب لتشغيل الملف update-library.yml فوراً مع التمرير
+        // إرسال المتغيرات الثلاثة: الاسم، المعرف، والنوع
         const res = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/update-library.yml/dispatches`, {
             method: 'POST',
             headers: {
@@ -202,28 +307,41 @@ window.submitContentRequest = async () => {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                ref: 'main', // أو 'master' حسب اسم الفرع الرئيسي لديك
+                ref: 'main', 
                 inputs: {
-                    request_title: title // إرسال اسم الفيلم كمدخل رسمي للسكربت الخارجي
+                    REQUEST_TITLE: title || "", 
+                    REQUEST_ID: id || "",
+                    REQUEST_TYPE: type || ""
                 }
             })
         });
 
-        if(res.status === 204) { // 204 ترمز إلى قبول الطلب بنجاح وبدء تشغيل السيرفر فوراً
-            alert(`🚀 تم تشغيل سيرفر GitHub بنجاح! سيقوم السكربت بالبحث عن [${title}] وحقنه داخل ملف library.json الثابت وتحديث الموقع تلقائياً خلال دقيقة.`);
-            document.getElementById('requestTitleInput').value = '';
-            document.getElementById('requestModal').classList.replace('flex', 'hidden');
+        if(res.status === 204) {
+            btn.innerHTML = '<i class="fa-solid fa-check text-xl"></i> تم إطلاق السيرفر بنجاح!';
+            btn.classList.replace('from-brand', 'from-green-600');
+            btn.classList.replace('to-red-700', 'to-green-700');
             
-            // فحص دوري تلقائي لتحديث الواجهة أمام عين المستخدم بعد انتهاء عمل السيرفر
+            setTimeout(() => {
+                document.getElementById('requestTitleInput').value = '';
+                document.getElementById('requestIdInput').value = '';
+                closeRequestModal();
+                btn.innerHTML = 'تفعيل السحب المباشر الفوري <i class="fa-solid fa-rocket mr-2"></i>';
+                btn.classList.replace('from-green-600', 'from-brand');
+                btn.classList.replace('to-green-700', 'to-red-700');
+            }, 3000);
+            
+            // فحص دوري لتحديث الواجهة
             setTimeout(() => { fetchStaticLibrary(); }, 40000);
         } else {
             const errData = await res.json().catch(() => ({}));
-            alert('فشل تشغيل الأكشنز: ' + (errData.message || 'تأكد من صلاحيات التوكن والفرع الرئيسي للمستودع.'));
+            alert('فشل تشغيل الأكشنز: ' + (errData.message || 'تأكد من صلاحيات التوكن والفرع الرئيسي.'));
         }
     } catch(e) {
         alert('خطأ شبكة أثناء تشغيل سيرفر الأتمتة المباشر.');
     } finally {
-        loading.classList.replace('flex', 'hidden');
-        btn.disabled = false; btn.classList.remove('opacity-50');
+        setTimeout(() => {
+            loading.classList.replace('flex', 'hidden');
+            btn.disabled = false; btn.classList.remove('opacity-50', 'cursor-not-allowed');
+        }, 3000);
     }
 };
