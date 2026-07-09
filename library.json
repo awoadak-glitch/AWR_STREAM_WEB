@@ -2,6 +2,694 @@
   "trending": [
     {
       "adult": false,
+      "backdrop_path": "/1UJy650NptOTTC9s0PmELEWq939.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        90
+      ],
+      "first_air_date": "1982-09-25",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "homepage": "",
+      "id": 11073,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "1983-05-07",
+      "last_episode_to_air": {
+        "id": 3865618,
+        "name": "Episode 33",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-05-07",
+        "episode_number": 33,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 11073,
+        "still_path": null
+      },
+      "name": "The Pac Man Little Rascals Richie Rich Show",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 2,
+          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+          "name": "ABC",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 33,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Pac-Man/Little Rascals/Richie Rich Show",
+      "overview": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals",
+      "popularity": 0.8436,
+      "poster_path": "/aFYVNwS6aq8s4XQmJzdBr1TGlX1.jpg",
+      "production_companies": [
+        {
+          "id": 1353,
+          "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+          "name": "Hanna-Barbera Cartoons",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "1982-09-25",
+          "episode_count": 33,
+          "id": 302939,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "",
+              "overview": "The Pac-Man/Little Rascals/Richie Rich Show was a package show produced by Hanna-Barbera Productions in 1982 for ABC Saturday mornings. In 1983, Pac-Man was given its own half-hour, and the program was retitled The Little Rascals/Richie Rich Show. The show contained the following segments: Pac-Man, Richie Rich, and The Little Rascals.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "name": "",
+              "overview": "The Pac-Man/Little Rascals/Richie Rich Show fue un programa completo producido por Hanna-Barbera Productions en 1982 para ABC los sábados por la mañana. En 1983, a Pac-Man se le dio su propia media hora y el programa se tituló de nuevo The Little Rascals/Richie Rich Show. El programa contenía los siguientes segmentos: Pac-Man, Richie Rich y The Little Rascals.",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title_en": "",
+      "overview_en": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "1983-02-07",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 319952,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "1983-02-10",
+      "last_episode_to_air": {
+        "id": 7159228,
+        "name": "あした、生きるために",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-02-10",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 75,
+        "season_number": 1,
+        "show_id": 319952,
+        "still_path": null
+      },
+      "name": "The Brave Man Says Little",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 4,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "勇者は語らず",
+      "overview": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry",
+      "popularity": 0.8517,
+      "poster_path": "/cyIrDd3ffJAcgdNyEl1DqBycHd7.jpg",
+      "production_companies": [
+        {
+          "id": 15505,
+          "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+          "name": "NHK",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "1983-02-07",
+          "episode_count": 4,
+          "id": 511422,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "The Brave Man Says Little",
+              "overview": "A four-episode TV drama commemorating the 30th anniversary of the start of television broadcasting, set in the automobile industry.",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title_en": "The Brave Man Says Little",
+      "overview_en": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k0NVarTkjVJBDS4XDpkhNbrh8vS.jpg",
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": 9414,
+      "imdb_id": "tt0120483",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Man Who Knew Too Little",
+      "overview": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act",
+      "popularity": 2.1171,
+      "poster_path": "/yVlIZa0u6CTN5LudxGX77Fk46iz.jpg",
+      "production_companies": [
+        {
+          "id": 2206,
+          "logo_path": null,
+          "name": "Polar Films",
+          "origin_country": ""
+        },
+        {
+          "id": 25087,
+          "logo_path": null,
+          "name": "Arnon Milchan Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1997-11-14",
+      "revenue": 13801755,
+      "runtime": 94,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "He’s on a mission so secret, even he doesn’t know about it.",
+      "title": "The Man Who Knew Too Little",
+      "video": false,
+      "vote_average": 6.37,
+      "vote_count": 584,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "homepage": "",
+              "overview": "An American gets a ticket for an audience participation game in London, then gets involved in a case of mistaken identity. As an international plot unravels around him, he thinks it's all part of the act.",
+              "runtime": 94,
+              "tagline": "He’s on a mission so secret, even he doesn’t know about it.",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch",
+            "english_name": "German",
+            "data": {
+              "homepage": "",
+              "overview": "Der Amerikaner Wallace Ritchie besucht seinen Bruder James, einen erfolgreichen Banker, in London. Weil James keine Zeit für den Besucher hat, schenkt er Wallace eine Karte für das Theaterspiel „Theatre of Life“, bei dem der Zuschauer in das Geschehen mit einbezogen wird. Doch was Wallace erwartet, ist weitaus realer, als er sich es hätte vorstellen können. Denn statt zu der Inszenierung gerät der ahnungslose Wallace mittenhinein in echtes und tatsächliches Spionage-Komplott wie aus Zeiten des Kalten Krieges. Fest davon überzeugt, nach wie vor Teil des Theaters zu sein, schlüpft Wallace in die Rolle des Auftragskillers und meistert jede Situation mit mehr Glück als Verstand. Leidlich amüsiert befolgt er die Anweisungen seiner Kontaktpersonen, während ihm echte Kugeln um die Ohren fliegen. Erst als die hübsche Lori sein nächstes Opfer werden soll, beschließt er, das Drehbuch zu ändern…",
+              "runtime": 94,
+              "tagline": "Er ist auf einer so geheimen Mission, dass nicht einmal er selbst etwas davon weiß.",
+              "title": "Agent Null Null Nix"
+            }
+          },
+          {
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français",
+            "english_name": "French",
+            "data": {
+              "homepage": "",
+              "overview": "À l'occasion de son anniversaire, Wallace Ritchie rend visite à son frère James, installé à Londres. Mais celui-ci est fort occupé à préparer un important dîner d'affaires. Pour se débarrasser, le temps d'une soirée, de son encombrant invité, James l'inscrit à une séance théâtrale interactive dans laquelle les acteurs sont immergés, en pleine rue, au cœur de l'action. Mais un quiproquo entraîne Wallace parmi de véritables agents secrets britanniques et russes, chargés d'un complot visant à ranimer la guerre froide. Persuadé de participer à une pièce très réaliste, Wallace Ritchie déjoue sans le vouloir tous les pièges et s'engage dans une folle course-poursuite...",
+              "runtime": 93,
+              "tagline": "",
+              "title": "L'Homme qui en savait trop... peu"
+            }
+          },
+          {
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands",
+            "english_name": "Dutch",
+            "data": {
+              "homepage": "",
+              "overview": "De zeer naïeve Amerikaanse videoverhuurder Wallace Ritchie, komt terecht in de interactieve theatervoorstelling ’Theatre of life’ in Londen. De instructies die hij per telefoon krijgt zijn eigenlijk bedoeld voor een koelbloedige huurmoordenaar. Zo raakt Wallace verzeild in hoog spel tussen ministers van defensie, callgirls en Russische moordenaars. En al die tijd denkt Wallace dat alles in scène is gezet door het theatergezelschap.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar",
+            "english_name": "Hungarian",
+            "data": {
+              "homepage": "",
+              "overview": "Az amerikai Wallace Ritchie (Bill Murray) - a saját születésnapja alkalmából - nemcsak saját magának, de öccsének is meglepetést akar szerezni, így fogja magát és minden előzetes bejelentés nélkül betoppan Angliában élő testvéréhez, James-hez (Peter Gallagher). A sikeres üzletember azonban épp nem ér rá csetlő-botló bátyjával foglalkozni, ezért csak hogy megszabaduljon tőle, befizeti egy színházi elődásra, amelyben az egyedüli néző - színészek segítségével - részt vehet egy teljesen valósághű krimiben. A feladat mindössze annyi, hogy egy utcai telefonfülkében válaszolni kell a játékvezető hívására, és elmenni a megadott címre. A telefon meg is szólal, de a hívás egy valódi bérgyilkos számára érkezik. Wallace mit sem sejtve elindul, hogy teljesítse a feladatot, és ezzel kezdetét veszi az őrület. (Port.hu)",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Az ember, aki túl keveset tudott"
+            }
+          },
+          {
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano",
+            "english_name": "Italian",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace, l'ingenuo commesso di un negozio di videocassette dello Iowa, è volato a Londra per festeggiare il suo compleanno con il fratello James. Costui, del tutto ignaro del suo arrivo, ha organizzato una cena con alcuni clienti molto importanti che potrebbe fruttargli altissimi guadagni. Sperando di tenere Wallace occupato durante la serata, James corre ad acquistargli un biglietto per partecipare a \"Il teatro della vita\", un'esperienza teatrale che coinvolge direttamente gli spettatori.",
+              "runtime": 93,
+              "tagline": "",
+              "title": "L'uomo che sapeva troppo poco"
+            }
+          },
+          {
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語",
+            "english_name": "Japanese",
+            "data": {
+              "homepage": "",
+              "overview": "アイオワ州に住むウォレスはロンドンに住む弟のもとを訪れるが、多忙な弟は兄の相手をできず、やむを得ずウォレスを演劇体験型ゲームに参加させる。役者志望だったウォレスは大乗り気だが、彼が英国諜報部からの電話を取ったことで事態は思わぬ方向へ…。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "知らなすぎた男"
+            }
+          },
+          {
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace (Bill Murray) é um americano que viaja até a Inglaterra para passar seu aniversário com James (Peter Gallagher), seu irmão. Ao ver o irmão James fica feliz, mas como tem um importante jantar de negócios com alemães e Wallace não é a pessoa ideal para estar neste tipo de reunião, ele lhe paga para participar do Teatro da Vida, uma representação interativa onde o palco é formado pelas ruas e casas e, mesmo sem decorar as falas, a pessoa é o astro de uma história, na qual artistas contratados guiam o novo ator. Wallace concorda em participar, mas quando vai pegar instruções através de um telefone público recebe uma mensagem, que pensa ser do Teatro da Vida. Logo se envolve em um plano de assassinato, que visa cancelar a assinatura de um tratado de paz anglo-russo e restabelecer a guerra fria na Europa.",
+              "runtime": 94,
+              "tagline": "",
+              "title": "O Homem Que Sabia de Menos"
+            }
+          },
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "最近，瓦伦斯（比尔·默瑞 Bill Murray 饰）心情不错，因为他即将赶赴伦敦，与他的弟弟詹姆士（彼得·盖勒 Peter Gallagher 饰）共度生日。然而，对于詹姆士来说，这可不是一个好消息，身为一个成功的银行家，繁忙的工作让他再也分不出时间来应付这个成天傻呵呵的弟弟了。为了打发瓦伦斯，詹姆士送给了他一张舞台剧门票，没想到正是这张门票，将瓦伦斯卷入了一个阴谋之中。  　　黑帮，杀手，这些平日里离瓦伦斯的生活无比遥远的角色开始接连出现在了他的身边，而单纯又善良的瓦伦斯将这惊心动魄的一切权当做是一部超真实的电影乐在其中。没想到，能够阻挡杀手强力攻势的竟然是瓦伦斯的单纯，正义和邪恶之间的争斗在笑料百出之中展开了。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "特工插班生"
+            }
+          },
+          {
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский",
+            "english_name": "Russian",
+            "data": {
+              "homepage": "",
+              "overview": "Приехавшего в Лондон Уоллеса Ричи принимают не за того, кто он есть на самом деле. Случайно он получает секретные инструкции и становится крутым суперагентом, сам того не подозревая.  Ричи простой и наивный парень, он с трудом выговаривает сложные слова и вряд ли так хорош, как кажется, но… он весело решает все проблемы, особенно не задумываясь над ними. Стрельба, погони, нокауты и бомбы с часовым механизмом — это только начало. Начало жизни шпиона!",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Человек, который слишком мало знал"
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "homepage": "",
+              "overview": "Comedia de enredo protagonizada un provinciano de Estados Unidos cuya máxima aspiración es convertirse en actor. Cuando acude a visitar a su hermano, un banquero de Londres que está a punto de cerrar un importante negocio, éste intenta deshacerse de su hermano enviándole a una audición de teatro. Pero debido a una confusión, se verá envuelto en una compleja trama de espías soviéticos y británicos que intentan desestabilizar la paz mundial. (FILMAFFINITY)",
+              "runtime": 100,
+              "tagline": "",
+              "title": "El hombre que no sabía nada"
+            }
+          },
+          {
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český",
+            "english_name": "Czech",
+            "data": {
+              "homepage": "",
+              "overview": "Během výletu do Londýna si amerického turistu spletou s tajným agentem. Ten doměnku, že je tajný agent ještě více potvrzuje vzhledem k bravurnosti, s jakou nevědomky prochází tento zdánlivě nebojácný člověk celou sérií nástrah",
+              "runtime": 0,
+              "tagline": "Je na misi tak tajné, že o ní neví ani on sám.",
+              "title": "Muž, který věděl příliš málo"
+            }
+          },
+          {
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית",
+            "english_name": "Hebrew",
+            "data": {
+              "homepage": "",
+              "overview": "קומדיה פרועה שהיא היפוך לסרטו של היצ'קוק בבימויו של ג'ון עמיאל (מילכוד). וואלאס (ביל מורי, אבודים בטוקיו) נוסע ללונדון לבקר את אחיו (פיטר גאלאגר, או. סי) ומקבל ממנו כרטיס להצגת רצח בהשתתפות הקהל. כשתקרית רצח ומזימה בינלאומית אמיתית מתחילה ללבוש צורה סביבו הוא עדיין משוכנע שזה חלק מההצגה. עם ג'ואנה וואלי (לפני שאת הולכת).",
+              "runtime": 0,
+              "tagline": "",
+              "title": "האיש שידע מעט מדי"
+            }
+          },
+          {
+            "iso_3166_1": "DK",
+            "iso_639_1": "da",
+            "name": "Dansk",
+            "english_name": "Danish",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace Ritchie er bare en ganske almindelig fyr, der arbejder i en videobutik. Til sin fødselsdag tager han til London for at besøge sin bror. I London indvilliger Wallace i en \"virtual reality\" teater-oplevelse. Da han tror, et ægte lejemord er en del af spillet, bliver han tilfældigvis rodet ud i en sag om forbyttet identitet og mord.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "",
+              "overview": "O americano Wallace Ritchie viaja para a Inglaterra, para visitar seu irmão James que está fazendo aniversário. Na Inglaterra, James pede para Wallace entrar no Teatro da Vida, um teatro que é feito nas ruas de Londres. Após uma confusão, Wallace (Wally) é confundido com um super espião, achando que tudo se passa de um teatro. Ele muda seu nome para Spenser (ou Spency), e ganha uma parceira de trabalho chamada Lori…",
+              "runtime": 0,
+              "tagline": "",
+              "title": "O Homem que Sabia de Menos"
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe",
+            "english_name": "Turkish",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace Ritchie, Londra'da mermilerin gerçek mermi olduğunu bile bilmeyen Amerikalı bir turisttir. Etrafında dönen entrikayı tiyatro zanneder. Fakat dünyanın kaderi CIA'yi bile telaffuz edemeyen bu saf ahmağa elindedir. Boş bir yüz ifadesiyle, Ritchie neşeyle ölümcül hayal dünyasına dalar. Sahte şeylerin ne kadar inandırıcı olduğuna inanamaz. Değişiklik hayatın yalnızca tuzu biberi değildir. Hayatın kendisidir.",
+              "runtime": 92,
+              "tagline": "",
+              "title": "Az Şey Bilen Adam"
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "homepage": "",
+              "overview": "월레스 리치(빌 머레이)는 아이오와 주에서 블록버스터 비디오 체인점을 하는 인물인데, 자신의 생일날 런던에서 은행가로 일하는 자신의 동생 제임스(피터 갈래거)를 찾아간다. 그러나 그 날 동생은 중요한 비지니스 파티가 있어 월레스는 할 수 없이 동생이 추천하는 인생 극장이라는 즉흥 연극 프로그램에 출연하게 된다.  인생 극장은 삶의 고단함에 지친 런던 시민들이 일정액의 출연료를 내고 극단에서 연출하는 즉흥 연극에 출연하는 프로그램이다. 하지만 한 통의 전화로 인해 월레스의 연극 출연은 이상한 방향으로 진행되기에 이른다.  월레스는 공중전화 박스에서 극단의 전화를 기다리다가 영국정보국으로부터 이상한 전화를 받는데...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "빌 머레이의 못말리는 첩보원"
+            }
+          },
+          {
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език",
+            "english_name": "Bulgarian",
+            "data": {
+              "homepage": "",
+              "overview": "Уолъс Ричи е американец, прекарващ ваканцията си в Лондон и съвсем не подозира, че костюмите и серумът на истината могат да бъдат напълни истински. Той си мисли, че интригата, плетяща се около него, е част от \"театъра на зрителите\". Съдбата на света зависи от този лековерен, глуповат мъж, който дори не произнася правилно съкращението ЦРУ. Комикът Бил Мъри играе Ричи - наивен \"шпионин\", който забърква голямата каша в пародията \"Мъжът, който знае твърде малко\".",
+              "runtime": 94,
+              "tagline": "",
+              "title": "Мъжът, който знаеше твърде малко"
+            }
+          },
+          {
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski",
+            "english_name": "Polish",
+            "data": {
+              "homepage": "",
+              "overview": "Amerykanin Wallace Ritchie przybywa do Anglii, aby odwiedzić swojego brata. James nie jest zachwycony wizytą. Aby pozbyć się Wallace’a, postanawia wysłać go na nietypowe przedstawienie teatralne, w którym aktorami są sami widzowie. Kiedy Wallace odbiera telefon z dyspozycjami dla płatnego mordercy, jest przekonany, że to część gry. Nie wie jednak, że właśnie wplątał się w prawdziwą aferę szpiegowską.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Człowiek, który wiedział za mało"
+            }
+          },
+          {
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina",
+            "english_name": "Slovak",
+            "data": {
+              "homepage": "",
+              "overview": "Počas výletu do Londýna si amerického turistu pomýlia s tajným agentom. Ten domienku, že je tajný agent ešte viac potvrdzuje vzhľadom na bravúrnosť, s akou nevedomky prechádza tento zdanlivo nebojácny človek celou sériou nástrah...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Muž, ktorý vedel príliš málo"
+            }
+          },
+          {
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український",
+            "english_name": "Ukrainian",
+            "data": {
+              "homepage": "",
+              "overview": "Приїхавши до Лондона, Річі приймають не за того, хто він є насправді. Випадково він отримує таємні інструкції і стає крутим суперагентом, сам того не підозрюючи. ПРоте Річі - простий та наївний хлопець, він ледь вимовляє складні слова і навряд чи такий хороший, як здається, але... він весело вирішує всі проблеми, особливо не задумуючись. Стрілянина, переслідування, нокаути і бомби з годинниковим механізмом - це тільки початок. Початок життя шпигуна!",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Людина, яка дуже мало знала"
+            }
+          },
+          {
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "華勒斯（比爾墨瑞 飾，）是愛荷華州一名秀逗的錄影帶店員，為了慶祝自己的生日，他決定飛往倫敦，與富有的弟弟詹姆斯（彼得蓋勒格 飾，）共渡生日。但是，當他到達倫敦的那一晚，詹姆斯不巧要與一個重要的客戶晚餐，為了避免哥哥華勒斯無聊，詹姆斯買了一張《人生如戲》劇團的票給他，凡是購票者都可以參與一齣犯罪劇中的角色，只要根據劇團打來的電話指示演出即可。但是，華勒斯不知道，他所接到的電話，實際上是一項刺殺計畫…他被誤認為一名間諜，捲入了一宗政治陰謀當中！",
+              "runtime": 0,
+              "tagline": "",
+              "title": "糊塗福星闖倫敦"
+            }
+          },
+          {
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska",
+            "english_name": "Swedish",
+            "data": {
+              "homepage": "",
+              "overview": "En naiv amerikan i London misstas för att vara spion av en grupp som är fast besluten att återuppliva Kalla Krigets gamla goda dagar av skurkstreck. Han tror att allt är en lek och behandlar varje dramatisk situation och hot som ett skämt. Baserad på romanen 'Watch That Man' av Robert Farrar.",
+              "runtime": 93,
+              "tagline": "",
+              "title": "Mannen som visste för lite"
+            }
+          },
+          {
+            "iso_3166_1": "LV",
+            "iso_639_1": "lv",
+            "name": "Latviešu",
+            "english_name": "Latvian",
+            "data": {
+              "homepage": "",
+              "overview": "Amerikānis saņem biļeti uz skatītāju spēli Londonā, bet pēc tam nokļūst kļūdainas identitātes situācijā. Tā kā ap viņu izvēršas starptautisks sazvērestības plāns, viņš domā, ka tas viss ir daļa no spēles.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Cilvēks, kurš zināja pārāk maz"
+            }
+          },
+          {
+            "iso_3166_1": "HR",
+            "iso_639_1": "hr",
+            "name": "Hrvatski",
+            "english_name": "Croatian",
+            "data": {
+              "homepage": "",
+              "overview": "Amerikanac dobije ulaznicu za predstavu u Londonu, te ga zamjene za međunarodnog špijuna. Dok se oko njega odvija mreža špijunaže, on misli da je sve to dio predstave.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Čovjek koji je premalo znao"
+            }
+          },
+          {
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية",
+            "english_name": "Arabic",
+            "data": {
+              "homepage": "",
+              "overview": "أمريكي يحصل على تذكرة لحضور لعبة تفاعلية في لندن، ثم يتورّط في حالة خطأ في الهوية. وبينما تبدأ خيوط مؤامرة دولية بالتكشف حوله، يعتقد أنها جزء من العرض.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "الرجل الذي لم يعرف إلا القليل"
+            }
+          },
+          {
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română",
+            "english_name": "Romanian",
+            "data": {
+              "homepage": "",
+              "overview": "Un vânzător e confundat cu un spion internațional și bâjbâie într-o rețea de spionaj.",
+              "runtime": 94,
+              "tagline": "",
+              "title": "Omul care știa prea puțin"
+            }
+          },
+          {
+            "iso_3166_1": "FI",
+            "iso_639_1": "fi",
+            "name": "suomi",
+            "english_name": "Finnish",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace Ritchie on hyväntahtoinen mutta naiivi amerikkalainen, joka matkustaa veljensä Jamesin luo Lontooseen viettämään syntymäpäiväänsä. James järjestää hänelle lahjaksi osallistumisen “interaktiiviseen murhamysteeriin”, jossa osallistuja on osa näytelmää. Yksi väärä puhelu johtaa kuitenkin siihen, että Wallace joutuu keskelle todellista kansainvälistä selkkausta, johon liittyy vakoojia, agentteja ja salamurhasuunnitelma. Wallace ei kuitenkaan ymmärrä tilannetta, vaan luulee kaiken olevan osa näytelmää, vaikka todellisuudessa hänen henkensä on jatkuvasti vaarassa.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Mies joka luuli liikaa"
+            }
+          },
+          {
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "華勒斯（比爾墨瑞 飾，）是愛荷華州一名秀逗的錄影帶店員，為了慶祝自己的生日，他決定飛往倫敦，與富有的弟弟詹姆斯（彼得蓋勒格 飾，）共渡生日。但是，當他到達倫敦的那一晚，詹姆斯不巧要與一個重要的客戶晚餐，為了避免哥哥華勒斯無聊，詹姆斯買了一張《人生如戲》劇團的票給他，凡是購票者都可以參與一齣犯罪劇中的角色，只要根據劇團打來的電話指示演出即可。但是，華勒斯不知道，他所接到的電話，實際上是一項刺殺計畫…他被誤認為一名間諜，捲入了一宗政治陰謀當中！",
+              "runtime": 0,
+              "tagline": "",
+              "title": "糊塗福星闖倫敦"
+            }
+          }
+        ]
+      },
+      "media_type": "movie",
+      "title_ar": "الرجل الذي لم يعرف إلا القليل",
+      "overview_ar": "أمريكي يحصل على تذكرة لحضور لعبة تفاعلية في لندن، ثم يتورّط في حالة خطأ في الهوية وبينما تبدأ خيوط مؤامرة دولية بالتكشف حوله، يعتقد أنها جزء من العرض",
+      "title_en": "",
+      "overview_en": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act",
+      "title_ja": "",
+      "overview_ja": ""
+    },
+    {
+      "adult": false,
       "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
       "belongs_to_collection": {
         "id": 689287,
@@ -4983,6 +5671,462 @@
   "movies": [
     {
       "adult": false,
+      "backdrop_path": "/k0NVarTkjVJBDS4XDpkhNbrh8vS.jpg",
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 80,
+          "name": "Crime"
+        },
+        {
+          "id": 28,
+          "name": "Action"
+        }
+      ],
+      "homepage": "",
+      "id": 9414,
+      "imdb_id": "tt0120483",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "The Man Who Knew Too Little",
+      "overview": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act",
+      "popularity": 2.1171,
+      "poster_path": "/yVlIZa0u6CTN5LudxGX77Fk46iz.jpg",
+      "production_companies": [
+        {
+          "id": 2206,
+          "logo_path": null,
+          "name": "Polar Films",
+          "origin_country": ""
+        },
+        {
+          "id": 25087,
+          "logo_path": null,
+          "name": "Arnon Milchan Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1997-11-14",
+      "revenue": 13801755,
+      "runtime": 94,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "He’s on a mission so secret, even he doesn’t know about it.",
+      "title": "The Man Who Knew Too Little",
+      "video": false,
+      "vote_average": 6.37,
+      "vote_count": 584,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "homepage": "",
+              "overview": "An American gets a ticket for an audience participation game in London, then gets involved in a case of mistaken identity. As an international plot unravels around him, he thinks it's all part of the act.",
+              "runtime": 94,
+              "tagline": "He’s on a mission so secret, even he doesn’t know about it.",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch",
+            "english_name": "German",
+            "data": {
+              "homepage": "",
+              "overview": "Der Amerikaner Wallace Ritchie besucht seinen Bruder James, einen erfolgreichen Banker, in London. Weil James keine Zeit für den Besucher hat, schenkt er Wallace eine Karte für das Theaterspiel „Theatre of Life“, bei dem der Zuschauer in das Geschehen mit einbezogen wird. Doch was Wallace erwartet, ist weitaus realer, als er sich es hätte vorstellen können. Denn statt zu der Inszenierung gerät der ahnungslose Wallace mittenhinein in echtes und tatsächliches Spionage-Komplott wie aus Zeiten des Kalten Krieges. Fest davon überzeugt, nach wie vor Teil des Theaters zu sein, schlüpft Wallace in die Rolle des Auftragskillers und meistert jede Situation mit mehr Glück als Verstand. Leidlich amüsiert befolgt er die Anweisungen seiner Kontaktpersonen, während ihm echte Kugeln um die Ohren fliegen. Erst als die hübsche Lori sein nächstes Opfer werden soll, beschließt er, das Drehbuch zu ändern…",
+              "runtime": 94,
+              "tagline": "Er ist auf einer so geheimen Mission, dass nicht einmal er selbst etwas davon weiß.",
+              "title": "Agent Null Null Nix"
+            }
+          },
+          {
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français",
+            "english_name": "French",
+            "data": {
+              "homepage": "",
+              "overview": "À l'occasion de son anniversaire, Wallace Ritchie rend visite à son frère James, installé à Londres. Mais celui-ci est fort occupé à préparer un important dîner d'affaires. Pour se débarrasser, le temps d'une soirée, de son encombrant invité, James l'inscrit à une séance théâtrale interactive dans laquelle les acteurs sont immergés, en pleine rue, au cœur de l'action. Mais un quiproquo entraîne Wallace parmi de véritables agents secrets britanniques et russes, chargés d'un complot visant à ranimer la guerre froide. Persuadé de participer à une pièce très réaliste, Wallace Ritchie déjoue sans le vouloir tous les pièges et s'engage dans une folle course-poursuite...",
+              "runtime": 93,
+              "tagline": "",
+              "title": "L'Homme qui en savait trop... peu"
+            }
+          },
+          {
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands",
+            "english_name": "Dutch",
+            "data": {
+              "homepage": "",
+              "overview": "De zeer naïeve Amerikaanse videoverhuurder Wallace Ritchie, komt terecht in de interactieve theatervoorstelling ’Theatre of life’ in Londen. De instructies die hij per telefoon krijgt zijn eigenlijk bedoeld voor een koelbloedige huurmoordenaar. Zo raakt Wallace verzeild in hoog spel tussen ministers van defensie, callgirls en Russische moordenaars. En al die tijd denkt Wallace dat alles in scène is gezet door het theatergezelschap.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar",
+            "english_name": "Hungarian",
+            "data": {
+              "homepage": "",
+              "overview": "Az amerikai Wallace Ritchie (Bill Murray) - a saját születésnapja alkalmából - nemcsak saját magának, de öccsének is meglepetést akar szerezni, így fogja magát és minden előzetes bejelentés nélkül betoppan Angliában élő testvéréhez, James-hez (Peter Gallagher). A sikeres üzletember azonban épp nem ér rá csetlő-botló bátyjával foglalkozni, ezért csak hogy megszabaduljon tőle, befizeti egy színházi elődásra, amelyben az egyedüli néző - színészek segítségével - részt vehet egy teljesen valósághű krimiben. A feladat mindössze annyi, hogy egy utcai telefonfülkében válaszolni kell a játékvezető hívására, és elmenni a megadott címre. A telefon meg is szólal, de a hívás egy valódi bérgyilkos számára érkezik. Wallace mit sem sejtve elindul, hogy teljesítse a feladatot, és ezzel kezdetét veszi az őrület. (Port.hu)",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Az ember, aki túl keveset tudott"
+            }
+          },
+          {
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano",
+            "english_name": "Italian",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace, l'ingenuo commesso di un negozio di videocassette dello Iowa, è volato a Londra per festeggiare il suo compleanno con il fratello James. Costui, del tutto ignaro del suo arrivo, ha organizzato una cena con alcuni clienti molto importanti che potrebbe fruttargli altissimi guadagni. Sperando di tenere Wallace occupato durante la serata, James corre ad acquistargli un biglietto per partecipare a \"Il teatro della vita\", un'esperienza teatrale che coinvolge direttamente gli spettatori.",
+              "runtime": 93,
+              "tagline": "",
+              "title": "L'uomo che sapeva troppo poco"
+            }
+          },
+          {
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語",
+            "english_name": "Japanese",
+            "data": {
+              "homepage": "",
+              "overview": "アイオワ州に住むウォレスはロンドンに住む弟のもとを訪れるが、多忙な弟は兄の相手をできず、やむを得ずウォレスを演劇体験型ゲームに参加させる。役者志望だったウォレスは大乗り気だが、彼が英国諜報部からの電話を取ったことで事態は思わぬ方向へ…。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "知らなすぎた男"
+            }
+          },
+          {
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace (Bill Murray) é um americano que viaja até a Inglaterra para passar seu aniversário com James (Peter Gallagher), seu irmão. Ao ver o irmão James fica feliz, mas como tem um importante jantar de negócios com alemães e Wallace não é a pessoa ideal para estar neste tipo de reunião, ele lhe paga para participar do Teatro da Vida, uma representação interativa onde o palco é formado pelas ruas e casas e, mesmo sem decorar as falas, a pessoa é o astro de uma história, na qual artistas contratados guiam o novo ator. Wallace concorda em participar, mas quando vai pegar instruções através de um telefone público recebe uma mensagem, que pensa ser do Teatro da Vida. Logo se envolve em um plano de assassinato, que visa cancelar a assinatura de um tratado de paz anglo-russo e restabelecer a guerra fria na Europa.",
+              "runtime": 94,
+              "tagline": "",
+              "title": "O Homem Que Sabia de Menos"
+            }
+          },
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "最近，瓦伦斯（比尔·默瑞 Bill Murray 饰）心情不错，因为他即将赶赴伦敦，与他的弟弟詹姆士（彼得·盖勒 Peter Gallagher 饰）共度生日。然而，对于詹姆士来说，这可不是一个好消息，身为一个成功的银行家，繁忙的工作让他再也分不出时间来应付这个成天傻呵呵的弟弟了。为了打发瓦伦斯，詹姆士送给了他一张舞台剧门票，没想到正是这张门票，将瓦伦斯卷入了一个阴谋之中。  　　黑帮，杀手，这些平日里离瓦伦斯的生活无比遥远的角色开始接连出现在了他的身边，而单纯又善良的瓦伦斯将这惊心动魄的一切权当做是一部超真实的电影乐在其中。没想到，能够阻挡杀手强力攻势的竟然是瓦伦斯的单纯，正义和邪恶之间的争斗在笑料百出之中展开了。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "特工插班生"
+            }
+          },
+          {
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский",
+            "english_name": "Russian",
+            "data": {
+              "homepage": "",
+              "overview": "Приехавшего в Лондон Уоллеса Ричи принимают не за того, кто он есть на самом деле. Случайно он получает секретные инструкции и становится крутым суперагентом, сам того не подозревая.  Ричи простой и наивный парень, он с трудом выговаривает сложные слова и вряд ли так хорош, как кажется, но… он весело решает все проблемы, особенно не задумываясь над ними. Стрельба, погони, нокауты и бомбы с часовым механизмом — это только начало. Начало жизни шпиона!",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Человек, который слишком мало знал"
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "homepage": "",
+              "overview": "Comedia de enredo protagonizada un provinciano de Estados Unidos cuya máxima aspiración es convertirse en actor. Cuando acude a visitar a su hermano, un banquero de Londres que está a punto de cerrar un importante negocio, éste intenta deshacerse de su hermano enviándole a una audición de teatro. Pero debido a una confusión, se verá envuelto en una compleja trama de espías soviéticos y británicos que intentan desestabilizar la paz mundial. (FILMAFFINITY)",
+              "runtime": 100,
+              "tagline": "",
+              "title": "El hombre que no sabía nada"
+            }
+          },
+          {
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český",
+            "english_name": "Czech",
+            "data": {
+              "homepage": "",
+              "overview": "Během výletu do Londýna si amerického turistu spletou s tajným agentem. Ten doměnku, že je tajný agent ještě více potvrzuje vzhledem k bravurnosti, s jakou nevědomky prochází tento zdánlivě nebojácný člověk celou sérií nástrah",
+              "runtime": 0,
+              "tagline": "Je na misi tak tajné, že o ní neví ani on sám.",
+              "title": "Muž, který věděl příliš málo"
+            }
+          },
+          {
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית",
+            "english_name": "Hebrew",
+            "data": {
+              "homepage": "",
+              "overview": "קומדיה פרועה שהיא היפוך לסרטו של היצ'קוק בבימויו של ג'ון עמיאל (מילכוד). וואלאס (ביל מורי, אבודים בטוקיו) נוסע ללונדון לבקר את אחיו (פיטר גאלאגר, או. סי) ומקבל ממנו כרטיס להצגת רצח בהשתתפות הקהל. כשתקרית רצח ומזימה בינלאומית אמיתית מתחילה ללבוש צורה סביבו הוא עדיין משוכנע שזה חלק מההצגה. עם ג'ואנה וואלי (לפני שאת הולכת).",
+              "runtime": 0,
+              "tagline": "",
+              "title": "האיש שידע מעט מדי"
+            }
+          },
+          {
+            "iso_3166_1": "DK",
+            "iso_639_1": "da",
+            "name": "Dansk",
+            "english_name": "Danish",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace Ritchie er bare en ganske almindelig fyr, der arbejder i en videobutik. Til sin fødselsdag tager han til London for at besøge sin bror. I London indvilliger Wallace i en \"virtual reality\" teater-oplevelse. Da han tror, et ægte lejemord er en del af spillet, bliver han tilfældigvis rodet ud i en sag om forbyttet identitet og mord.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            }
+          },
+          {
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "homepage": "",
+              "overview": "O americano Wallace Ritchie viaja para a Inglaterra, para visitar seu irmão James que está fazendo aniversário. Na Inglaterra, James pede para Wallace entrar no Teatro da Vida, um teatro que é feito nas ruas de Londres. Após uma confusão, Wallace (Wally) é confundido com um super espião, achando que tudo se passa de um teatro. Ele muda seu nome para Spenser (ou Spency), e ganha uma parceira de trabalho chamada Lori…",
+              "runtime": 0,
+              "tagline": "",
+              "title": "O Homem que Sabia de Menos"
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe",
+            "english_name": "Turkish",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace Ritchie, Londra'da mermilerin gerçek mermi olduğunu bile bilmeyen Amerikalı bir turisttir. Etrafında dönen entrikayı tiyatro zanneder. Fakat dünyanın kaderi CIA'yi bile telaffuz edemeyen bu saf ahmağa elindedir. Boş bir yüz ifadesiyle, Ritchie neşeyle ölümcül hayal dünyasına dalar. Sahte şeylerin ne kadar inandırıcı olduğuna inanamaz. Değişiklik hayatın yalnızca tuzu biberi değildir. Hayatın kendisidir.",
+              "runtime": 92,
+              "tagline": "",
+              "title": "Az Şey Bilen Adam"
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "homepage": "",
+              "overview": "월레스 리치(빌 머레이)는 아이오와 주에서 블록버스터 비디오 체인점을 하는 인물인데, 자신의 생일날 런던에서 은행가로 일하는 자신의 동생 제임스(피터 갈래거)를 찾아간다. 그러나 그 날 동생은 중요한 비지니스 파티가 있어 월레스는 할 수 없이 동생이 추천하는 인생 극장이라는 즉흥 연극 프로그램에 출연하게 된다.  인생 극장은 삶의 고단함에 지친 런던 시민들이 일정액의 출연료를 내고 극단에서 연출하는 즉흥 연극에 출연하는 프로그램이다. 하지만 한 통의 전화로 인해 월레스의 연극 출연은 이상한 방향으로 진행되기에 이른다.  월레스는 공중전화 박스에서 극단의 전화를 기다리다가 영국정보국으로부터 이상한 전화를 받는데...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "빌 머레이의 못말리는 첩보원"
+            }
+          },
+          {
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език",
+            "english_name": "Bulgarian",
+            "data": {
+              "homepage": "",
+              "overview": "Уолъс Ричи е американец, прекарващ ваканцията си в Лондон и съвсем не подозира, че костюмите и серумът на истината могат да бъдат напълни истински. Той си мисли, че интригата, плетяща се около него, е част от \"театъра на зрителите\". Съдбата на света зависи от този лековерен, глуповат мъж, който дори не произнася правилно съкращението ЦРУ. Комикът Бил Мъри играе Ричи - наивен \"шпионин\", който забърква голямата каша в пародията \"Мъжът, който знае твърде малко\".",
+              "runtime": 94,
+              "tagline": "",
+              "title": "Мъжът, който знаеше твърде малко"
+            }
+          },
+          {
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski",
+            "english_name": "Polish",
+            "data": {
+              "homepage": "",
+              "overview": "Amerykanin Wallace Ritchie przybywa do Anglii, aby odwiedzić swojego brata. James nie jest zachwycony wizytą. Aby pozbyć się Wallace’a, postanawia wysłać go na nietypowe przedstawienie teatralne, w którym aktorami są sami widzowie. Kiedy Wallace odbiera telefon z dyspozycjami dla płatnego mordercy, jest przekonany, że to część gry. Nie wie jednak, że właśnie wplątał się w prawdziwą aferę szpiegowską.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Człowiek, który wiedział za mało"
+            }
+          },
+          {
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina",
+            "english_name": "Slovak",
+            "data": {
+              "homepage": "",
+              "overview": "Počas výletu do Londýna si amerického turistu pomýlia s tajným agentom. Ten domienku, že je tajný agent ešte viac potvrdzuje vzhľadom na bravúrnosť, s akou nevedomky prechádza tento zdanlivo nebojácny človek celou sériou nástrah...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Muž, ktorý vedel príliš málo"
+            }
+          },
+          {
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український",
+            "english_name": "Ukrainian",
+            "data": {
+              "homepage": "",
+              "overview": "Приїхавши до Лондона, Річі приймають не за того, хто він є насправді. Випадково він отримує таємні інструкції і стає крутим суперагентом, сам того не підозрюючи. ПРоте Річі - простий та наївний хлопець, він ледь вимовляє складні слова і навряд чи такий хороший, як здається, але... він весело вирішує всі проблеми, особливо не задумуючись. Стрілянина, переслідування, нокаути і бомби з годинниковим механізмом - це тільки початок. Початок життя шпигуна!",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Людина, яка дуже мало знала"
+            }
+          },
+          {
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "華勒斯（比爾墨瑞 飾，）是愛荷華州一名秀逗的錄影帶店員，為了慶祝自己的生日，他決定飛往倫敦，與富有的弟弟詹姆斯（彼得蓋勒格 飾，）共渡生日。但是，當他到達倫敦的那一晚，詹姆斯不巧要與一個重要的客戶晚餐，為了避免哥哥華勒斯無聊，詹姆斯買了一張《人生如戲》劇團的票給他，凡是購票者都可以參與一齣犯罪劇中的角色，只要根據劇團打來的電話指示演出即可。但是，華勒斯不知道，他所接到的電話，實際上是一項刺殺計畫…他被誤認為一名間諜，捲入了一宗政治陰謀當中！",
+              "runtime": 0,
+              "tagline": "",
+              "title": "糊塗福星闖倫敦"
+            }
+          },
+          {
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska",
+            "english_name": "Swedish",
+            "data": {
+              "homepage": "",
+              "overview": "En naiv amerikan i London misstas för att vara spion av en grupp som är fast besluten att återuppliva Kalla Krigets gamla goda dagar av skurkstreck. Han tror att allt är en lek och behandlar varje dramatisk situation och hot som ett skämt. Baserad på romanen 'Watch That Man' av Robert Farrar.",
+              "runtime": 93,
+              "tagline": "",
+              "title": "Mannen som visste för lite"
+            }
+          },
+          {
+            "iso_3166_1": "LV",
+            "iso_639_1": "lv",
+            "name": "Latviešu",
+            "english_name": "Latvian",
+            "data": {
+              "homepage": "",
+              "overview": "Amerikānis saņem biļeti uz skatītāju spēli Londonā, bet pēc tam nokļūst kļūdainas identitātes situācijā. Tā kā ap viņu izvēršas starptautisks sazvērestības plāns, viņš domā, ka tas viss ir daļa no spēles.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Cilvēks, kurš zināja pārāk maz"
+            }
+          },
+          {
+            "iso_3166_1": "HR",
+            "iso_639_1": "hr",
+            "name": "Hrvatski",
+            "english_name": "Croatian",
+            "data": {
+              "homepage": "",
+              "overview": "Amerikanac dobije ulaznicu za predstavu u Londonu, te ga zamjene za međunarodnog špijuna. Dok se oko njega odvija mreža špijunaže, on misli da je sve to dio predstave.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Čovjek koji je premalo znao"
+            }
+          },
+          {
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية",
+            "english_name": "Arabic",
+            "data": {
+              "homepage": "",
+              "overview": "أمريكي يحصل على تذكرة لحضور لعبة تفاعلية في لندن، ثم يتورّط في حالة خطأ في الهوية. وبينما تبدأ خيوط مؤامرة دولية بالتكشف حوله، يعتقد أنها جزء من العرض.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "الرجل الذي لم يعرف إلا القليل"
+            }
+          },
+          {
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română",
+            "english_name": "Romanian",
+            "data": {
+              "homepage": "",
+              "overview": "Un vânzător e confundat cu un spion internațional și bâjbâie într-o rețea de spionaj.",
+              "runtime": 94,
+              "tagline": "",
+              "title": "Omul care știa prea puțin"
+            }
+          },
+          {
+            "iso_3166_1": "FI",
+            "iso_639_1": "fi",
+            "name": "suomi",
+            "english_name": "Finnish",
+            "data": {
+              "homepage": "",
+              "overview": "Wallace Ritchie on hyväntahtoinen mutta naiivi amerikkalainen, joka matkustaa veljensä Jamesin luo Lontooseen viettämään syntymäpäiväänsä. James järjestää hänelle lahjaksi osallistumisen “interaktiiviseen murhamysteeriin”, jossa osallistuja on osa näytelmää. Yksi väärä puhelu johtaa kuitenkin siihen, että Wallace joutuu keskelle todellista kansainvälistä selkkausta, johon liittyy vakoojia, agentteja ja salamurhasuunnitelma. Wallace ei kuitenkaan ymmärrä tilannetta, vaan luulee kaiken olevan osa näytelmää, vaikka todellisuudessa hänen henkensä on jatkuvasti vaarassa.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Mies joka luuli liikaa"
+            }
+          },
+          {
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "homepage": "",
+              "overview": "華勒斯（比爾墨瑞 飾，）是愛荷華州一名秀逗的錄影帶店員，為了慶祝自己的生日，他決定飛往倫敦，與富有的弟弟詹姆斯（彼得蓋勒格 飾，）共渡生日。但是，當他到達倫敦的那一晚，詹姆斯不巧要與一個重要的客戶晚餐，為了避免哥哥華勒斯無聊，詹姆斯買了一張《人生如戲》劇團的票給他，凡是購票者都可以參與一齣犯罪劇中的角色，只要根據劇團打來的電話指示演出即可。但是，華勒斯不知道，他所接到的電話，實際上是一項刺殺計畫…他被誤認為一名間諜，捲入了一宗政治陰謀當中！",
+              "runtime": 0,
+              "tagline": "",
+              "title": "糊塗福星闖倫敦"
+            }
+          }
+        ]
+      },
+      "media_type": "movie",
+      "title_ar": "الرجل الذي لم يعرف إلا القليل",
+      "overview_ar": "أمريكي يحصل على تذكرة لحضور لعبة تفاعلية في لندن، ثم يتورّط في حالة خطأ في الهوية وبينما تبدأ خيوط مؤامرة دولية بالتكشف حوله، يعتقد أنها جزء من العرض",
+      "title_en": "",
+      "overview_en": "An American gets a ticket for an audience participation game in London then gets involved in a case of mistaken identity As an international plot unravels around him he thinks it s all part of the act",
+      "title_ja": "",
+      "overview_ja": ""
+    },
+    {
+      "adult": false,
       "backdrop_path": "/2IJMRFH4JJca4V7hosVP7N3jbBG.jpg",
       "belongs_to_collection": {
         "id": 689287,
@@ -7542,6 +8686,238 @@
     }
   ],
   "series": [
+    {
+      "adult": false,
+      "backdrop_path": "/1UJy650NptOTTC9s0PmELEWq939.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        90
+      ],
+      "first_air_date": "1982-09-25",
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "homepage": "",
+      "id": 11073,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "1983-05-07",
+      "last_episode_to_air": {
+        "id": 3865618,
+        "name": "Episode 33",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-05-07",
+        "episode_number": 33,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 11073,
+        "still_path": null
+      },
+      "name": "The Pac Man Little Rascals Richie Rich Show",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 2,
+          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+          "name": "ABC",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 33,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Pac-Man/Little Rascals/Richie Rich Show",
+      "overview": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals",
+      "popularity": 0.8436,
+      "poster_path": "/aFYVNwS6aq8s4XQmJzdBr1TGlX1.jpg",
+      "production_companies": [
+        {
+          "id": 1353,
+          "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+          "name": "Hanna-Barbera Cartoons",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "1982-09-25",
+          "episode_count": 33,
+          "id": 302939,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "",
+              "overview": "The Pac-Man/Little Rascals/Richie Rich Show was a package show produced by Hanna-Barbera Productions in 1982 for ABC Saturday mornings. In 1983, Pac-Man was given its own half-hour, and the program was retitled The Little Rascals/Richie Rich Show. The show contained the following segments: Pac-Man, Richie Rich, and The Little Rascals.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "name": "",
+              "overview": "The Pac-Man/Little Rascals/Richie Rich Show fue un programa completo producido por Hanna-Barbera Productions en 1982 para ABC los sábados por la mañana. En 1983, a Pac-Man se le dio su propia media hora y el programa se tituló de nuevo The Little Rascals/Richie Rich Show. El programa contenía los siguientes segmentos: Pac-Man, Richie Rich y The Little Rascals.",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title_en": "",
+      "overview_en": "The Pac Man Little Rascals Richie Rich Show was a package show produced by Hanna Barbera Productions in 1982 for ABC Saturday mornings In 1983 Pac Man was given its own half hour and the program was retitled The Little Rascals Richie Rich Show The show contained the following segments Pac Man Richie Rich and The Little Rascals"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "1983-02-07",
+      "genres": [
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 319952,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "1983-02-10",
+      "last_episode_to_air": {
+        "id": 7159228,
+        "name": "あした、生きるために",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "1983-02-10",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 75,
+        "season_number": 1,
+        "show_id": 319952,
+        "still_path": null
+      },
+      "name": "The Brave Man Says Little",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 4,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "勇者は語らず",
+      "overview": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry",
+      "popularity": 0.8517,
+      "poster_path": "/cyIrDd3ffJAcgdNyEl1DqBycHd7.jpg",
+      "production_companies": [
+        {
+          "id": 15505,
+          "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+          "name": "NHK",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "1983-02-07",
+          "episode_count": 4,
+          "id": 511422,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "The Brave Man Says Little",
+              "overview": "A four-episode TV drama commemorating the 30th anniversary of the start of television broadcasting, set in the automobile industry.",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title_en": "The Brave Man Says Little",
+      "overview_en": "A four episode TV drama commemorating the 30th anniversary of the start of television broadcasting set in the automobile industry"
+    },
     {
       "adult": false,
       "backdrop_path": "/eAXSlqAJwpdsZ59G10lao9OJ4SG.jpg",
