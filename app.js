@@ -114,11 +114,21 @@ function renderCategory(items, containerId, forceType = null) {
 window.openDetails = (encodedData) => {
     const item = JSON.parse(decodeURIComponent(encodedData));
     const title = item.title || item.name;
+    
+    // إعداد واجهة اللغتين للعنوان
+    const titleEnHtml = item.title_en ? `<span class="text-xl md:text-2xl text-gray-400 block mt-1 font-normal" dir="ltr">${item.title_en}</span>` : '';
+    document.getElementById('modalTitle').innerHTML = `${title} ${titleEnHtml}`;
+    
+    // إعداد واجهة اللغتين للوصف الببليوجرافي
+    let descHtml = item.overview || 'لا يوجد وصف متاح.';
+    if(item.overview_en && item.overview_en !== item.overview) {
+        descHtml += `<div class="mt-4 pt-4 border-t border-white/5 text-gray-400 text-sm font-sans" dir="ltr"><strong>English Overview:</strong><br>${item.overview_en}</div>`;
+    }
+    document.getElementById('modalDesc').innerHTML = descHtml;
+
     const type = item.media_type;
     const id = item.id;
 
-    document.getElementById('modalTitle').innerText = title;
-    document.getElementById('modalDesc').innerText = item.overview || 'لا يوجد وصف متاح.';
     document.getElementById('modalRating').innerHTML = `<i class="fa-solid fa-star text-brand"></i> ${(item.vote_average ? item.vote_average.toFixed(1) : '0.0')} / 10`;
     document.getElementById('modalDate').innerHTML = `<i class="fa-regular fa-calendar text-gray-400"></i> ${(item.release_date || item.first_air_date || '').split('-')[0]}`;
     document.getElementById('modalBackdrop').src = item.backdrop_path ? (IMG_BG + item.backdrop_path) : (item.poster_path ? (IMG_BG + item.poster_path) : 'https://via.placeholder.com/1920x1080?text=No+Image');
@@ -205,8 +215,9 @@ window.openRepairModal = (encodedData) => {
     document.getElementById('repairOldIdInput').value = id;
     document.getElementById('repairOldTitle').innerText = title;
     document.getElementById('repairNewIdInput').value = id; 
-    document.getElementById('repairNewIdTypeSelect').value = 'tmdb'; // Default
+    document.getElementById('repairNewIdTypeSelect').value = 'tmdb'; 
     document.getElementById('repairNewTypeSelect').value = type === 'tv' ? 'tv' : 'movie';
+    document.getElementById('repairSeasonsSplitInput').value = ''; // تصفية الحقل التلقائي عند الفتح
     
     const modal = document.getElementById('repairModal');
     const modalContent = modal.querySelector('.repair-content');
@@ -229,6 +240,7 @@ window.submitRepairRequest = async () => {
     const newId = document.getElementById('repairNewIdInput').value.trim();
     const newIdType = document.getElementById('repairNewIdTypeSelect').value;
     const newType = document.getElementById('repairNewTypeSelect').value;
+    const seasonsSplit = document.getElementById('repairSeasonsSplitInput').value.trim(); // جلب قيمة حقل التقسيم اليدوي
 
     if(!newId) return alert('يرجى إدخال المعرف (ID) الصحيح');
     if(!GITHUB_TOKEN || !GITHUB_REPO) return alert('يرجى إعداد التوكن في الإعدادات أولاً');
@@ -246,14 +258,15 @@ window.submitRepairRequest = async () => {
                 inputs: {
                     request_id: newId,
                     request_type: newType,
-                    request_id_type: newIdType, // إرسال نوع الـ ID
-                    old_id: oldId
+                    request_id_type: newIdType, 
+                    old_id: oldId,
+                    seasons_split: seasonsSplit // إرسال بيانات التقسيم اليدوي للإجراءات
                 }
             })
         });
 
         if(res.status === 204) {
-            alert('تم إرسال أمر الإصلاح بنجاح! سيتم الحذف والسحب خلال لحظات.');
+            alert('تم إرسال أمر الإصلاح بنجاح! سيتم تعديل الحلقات والمواسم خلال لحظات.');
             closeRepairModal();
         } else {
             alert('فشل إرسال طلب الإصلاح.');
@@ -362,7 +375,7 @@ window.saveSettings = () => {
 window.submitContentRequest = async () => {
     const title = document.getElementById('requestTitleInput').value.trim();
     const id = document.getElementById('requestIdInput').value.trim();
-    const idType = document.getElementById('requestIdTypeSelect').value; // جلب نوع الـ ID
+    const idType = document.getElementById('requestIdTypeSelect').value; 
     const type = document.getElementById('requestTypeSelect').value;
     
     const loading = document.getElementById('requestLoading');
@@ -392,7 +405,7 @@ window.submitContentRequest = async () => {
                     request_title: title || "", 
                     request_id: id || "",
                     request_type: type || "",
-                    request_id_type: idType // إرسال المتغير الجديد لـ GitHub Actions
+                    request_id_type: idType 
                 }
             })
         });
