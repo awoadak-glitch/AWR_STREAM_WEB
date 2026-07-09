@@ -5,7 +5,8 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const REQUEST_TITLE = process.env.REQUEST_TITLE; 
 const REQUEST_ID = process.env.REQUEST_ID; 
 const REQUEST_TYPE = process.env.REQUEST_TYPE;
-const OLD_ID = process.env.OLD_ID; // 🛑 استقبال المعرف القديم
+const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb'; // استقبال نوع المعرف (IMDb أو TMDB)
+const OLD_ID = process.env.OLD_ID; 
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 function sanitizeText(text) {
@@ -22,6 +23,20 @@ function injectTranslations(item, details) {
 function filterValidSeasons(seasons) {
     if (!seasons || !Array.isArray(seasons)) return seasons;
     return seasons.filter(s => s.season_number > 0);
+}
+
+// دالة تحويل IMDb ID إلى TMDB ID
+async function fetchTmdbIdFromImdb(imdbId) {
+    try {
+        console.log(`🔎 جاري تحويل IMDb ID (${imdbId}) إلى TMDB ID...`);
+        const url = `${BASE_URL}/find/${imdbId}?api_key=${TMDB_API_KEY}&external_source=imdb_id`;
+        const res = await fetch(url);
+        const data = await res.json();
+        
+        if (data.movie_results && data.movie_results.length > 0) return { id: data.movie_results[0].id, type: 'movie' };
+        if (data.tv_results && data.tv_results.length > 0) return { id: data.tv_results[0].id, type: 'tv' };
+    } catch (e) { console.error('❌ خطأ أثناء الاتصال بخدمة التحويل من IMDb'); }
+    return null;
 }
 
 async function fetchTvDetails(tvId) {
@@ -171,7 +186,6 @@ async function runScraper() {
         try { currentLibrary = JSON.parse(fs.readFileSync('library.json', 'utf8')); } catch (e) {}
     }
 
-    // 🧹 نظام الإصلاح: تنظيف العنصر المعطوب من جميع الأقسام قبل أي شيء
     if (OLD_ID) {
         const oldIdNumber = Number(OLD_ID);
         console.log(`⚠️ وضع الإصلاح: جاري حذف العنصر المعطوب (ID: ${oldIdNumber})`);
@@ -181,14 +195,31 @@ async function runScraper() {
     }
 
     const isIdNumeric = REQUEST_TITLE && /^\d+$/.test(REQUEST_TITLE.trim());
-    const targetId = REQUEST_ID ? REQUEST_ID.trim() : (isIdNumeric ? REQUEST_TITLE.trim() : null);
+    const targetIdRaw = REQUEST_ID ? REQUEST_ID.trim() : (isIdNumeric ? REQUEST_TITLE.trim() : null);
 
-    if (targetId) {
-        currentLibrary = await handleDirectIdRequest(currentLibrary, targetId, REQUEST_TYPE);
+    if (targetIdRaw) {
+        let finalId = targetIdRaw;
+        let finalType = REQUEST_TYPE;
+
+        // معالجة حالة الـ IMDb
+        if (REQUEST_ID_TYPE === 'imdb') {
+            const tmdbData = await fetchTmdbIdFromImdb(targetIdRaw);
+            if (tmdbData) {
+                finalId = tmdbData.id;
+                if (!finalType) finalType = tmdbData.type;
+                console.log(`✅ تم تحويل المعرف بنجاح إلى TMDB ID: ${finalId} من نوع ${finalType}`);
+            } else {
+                console.log(`❌ لم يتم العثور على أي عنصر يطابق معرف IMDb: ${targetIdRaw}`);
+                finalId = null; 
+            }
+        }
+
+        if (finalId) {
+            currentLibrary = await handleDirectIdRequest(currentLibrary, finalId, finalType);
+        }
     } else if (REQUEST_TITLE && REQUEST_TITLE.trim() !== '') {
         currentLibrary = await handleDirectRequest(currentLibrary, REQUEST_TITLE.trim());
     } else if (!OLD_ID) { 
-        // لا تسحب الجميع من جديد إذا كان الطلب مجرد "إصلاح وحذف" دون طلب إضافة (حماية إضافية)
         currentLibrary.trending = await fetchStrict100Items('/trending/all/day', 'mixed');
         currentLibrary.movies = await fetchStrict100Items('/discover/movie', 'movie');
         currentLibrary.series = await fetchStrict100Items('/discover/tv', 'tv');
