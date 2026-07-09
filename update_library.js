@@ -5,16 +5,46 @@ const TMDB_API_KEY = process.env.TMDB_API_KEY;
 const REQUEST_TITLE = process.env.REQUEST_TITLE; 
 const BASE_URL = 'https://api.themoviedb.org/3';
 
-// 🛡️ دالة الحماية: تقوم بتنظيف النصوص من علامات التنصيص التي تكسر كود الموقع
+// 🛡️ دالة الحماية: تقوم بتنظيف النصوص من جميع الإشارات وإبقاء الكلمات فقط
 function sanitizeText(text) {
-    if (!text) return text;
-    // استبدال الفواصل المبرمجة بفواصل نصية آمنة للقراءة ولا تضر الأكواد
-    return text.replace(/'/g, "’").replace(/"/g, "”");
+    if (!text || typeof text !== 'string') return text;
+    // إزالة أي رموز أو علامات ترقيم، والإبقاء فقط على الأحرف (العربية والإنجليزية) والأرقام والمسافات
+    return text.replace(/[^\w\s\u0600-\u06FF]/g, " ").replace(/\s+/g, " ").trim();
+}
+
+// 🌍 دالة حقن الترجمات: تضيف الأسماء والوصف باللغات (العربية، الإنجليزية، اليابانية)
+function injectTranslations(item, details) {
+    if (!details || !details.translations || !details.translations.translations) return;
+    
+    const ar = details.translations.translations.find(t => t.iso_639_1 === 'ar');
+    const en = details.translations.translations.find(t => t.iso_639_1 === 'en');
+    const ja = details.translations.translations.find(t => t.iso_639_1 === 'ja');
+
+    if (ar) {
+        item.title_ar = sanitizeText(ar.data.title || ar.data.name || "");
+        item.overview_ar = sanitizeText(ar.data.overview || "");
+    }
+    if (en) {
+        item.title_en = sanitizeText(en.data.title || en.data.name || "");
+        item.overview_en = sanitizeText(en.data.overview || "");
+    }
+    if (ja) {
+        item.title_ja = sanitizeText(ja.data.title || ja.data.name || "");
+        item.overview_ja = sanitizeText(ja.data.overview || "");
+    }
+}
+
+// ✂️ دالة فلترة المواسم: تبقي المواسم الحقيقية كما هي وتحذف "الموسم 0" (الحلقات الخاصة) لتجنب أخطاء المشغل
+function filterValidSeasons(seasons) {
+    if (!seasons || !Array.isArray(seasons)) return seasons;
+    
+    // إرجاع المواسم الحقيقية بأرقامها الأصلية بدون أي دمج أو تقسيم افتراضي
+    return seasons.filter(s => s.season_number > 0);
 }
 
 async function fetchTvDetails(tvId) {
     try {
-        const url = `${BASE_URL}/tv/${tvId}?api_key=${TMDB_API_KEY}&language=en-US`;
+        const url = `${BASE_URL}/tv/${tvId}?api_key=${TMDB_API_KEY}&append_to_response=translations`;
         const res = await fetch(url);
         if (res.ok) return await res.json();
     } catch (e) {
@@ -25,7 +55,7 @@ async function fetchTvDetails(tvId) {
 
 async function fetchMediaDetails(id, mediaType) {
     try {
-        const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=en-US`;
+        const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&append_to_response=translations`;
         const res = await fetch(url);
         if (res.ok) return await res.json();
     } catch (e) {
@@ -64,8 +94,10 @@ async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
                     if (isTvShow) {
                         const tvDetails = await fetchTvDetails(item.id);
                         if (tvDetails && tvDetails.seasons) {
-                            item.seasons = tvDetails.seasons;
+                            // جلب المواسم الحقيقية فقط
+                            item.seasons = filterValidSeasons(tvDetails.seasons);
                         }
+                        injectTranslations(item, tvDetails);
                     }
 
                     // 🛡️ تطبيق الحماية على النصوص قبل حفظها
@@ -97,42 +129,61 @@ async function handleDirectRequest(libraryData, queryTitle) {
         const searchData = await searchRes.json();
 
         if (searchData.results && searchData.results.length > 0) {
-            let rawItem = searchData.results[0];
-            const mediaType = rawItem.media_type || ((rawItem.title) ? 'movie' : 'tv');
-            
-            const item = await fetchMediaDetails(rawItem.id, mediaType);
-            
-            if (item && item.poster_path) {
-                const isTv = mediaType === 'tv';
-                item.media_type = mediaType; 
+            // استبعاد الأشخاص، وفرز النتائج حسب الشهرة، وجلب أفضل 3 نتائج مشابهة
+            let relevantResults = searchData.results
+                .filter(r => r.media_type !== 'person')
+                .sort((a, b) => (b.popularity || 0) - (a.popularity || 0))
+                .slice(0, 3); 
 
-                if (isTv) {
-                    const tvDetails = await fetchTvDetails(item.id);
-                    if (tvDetails && tvDetails.seasons) item.seasons = tvDetails.seasons;
-                }
+            if (relevantResults.length === 0) {
+                console.log(`❌ لم يتم العثور على أفلام أو مسلسلات مطابقة.`);
+                return libraryData;
+            }
 
-                // 🛡️ تطبيق الحماية على الطلب الفوري أيضاً
-                item.overview = sanitizeText(item.overview);
-                item.title = sanitizeText(item.title);
-                item.name = sanitizeText(item.name);
-                if (item.original_title) item.original_title = sanitizeText(item.original_title);
+            for (let rawItem of relevantResults) {
+                const mediaType = rawItem.media_type || ((rawItem.title) ? 'movie' : 'tv');
+                const item = await fetchMediaDetails(rawItem.id, mediaType);
+                
+                if (item && item.poster_path) {
+                    const isTv = mediaType === 'tv';
+                    item.media_type = mediaType; 
 
-                let targetCategory = 'trending';
-                if (isTv) {
-                    if (item.original_language === 'ko') targetCategory = 'kdrama';
-                    else if (item.genres && item.genres.some(g => g.id === 16) && item.original_language === 'ja') targetCategory = 'anime';
-                    else targetCategory = 'series';
-                } else {
-                    targetCategory = 'movies';
-                }
+                    injectTranslations(item, item);
 
-                const exists = libraryData[targetCategory].some(existing => existing.id === item.id);
-                if (!exists) {
-                    libraryData[targetCategory].unshift(item);
-                    libraryData.trending.unshift(item);
-                    console.log(`✅ تم الحفظ بنجاح: [${item.title || item.name}]`);
+                    if (isTv) {
+                        const tvDetails = await fetchTvDetails(item.id);
+                        if (tvDetails && tvDetails.seasons) {
+                            // جلب المواسم الحقيقية فقط
+                            item.seasons = filterValidSeasons(tvDetails.seasons);
+                        }
+                    }
+
+                    item.overview = sanitizeText(item.overview);
+                    item.title = sanitizeText(item.title);
+                    item.name = sanitizeText(item.name);
+                    if (item.original_title) item.original_title = sanitizeText(item.original_title);
+
+                    let targetCategory = 'trending';
+                    if (isTv) {
+                        if (item.original_language === 'ko') targetCategory = 'kdrama';
+                        else if (item.genres && item.genres.some(g => g.id === 16) && item.original_language === 'ja') targetCategory = 'anime';
+                        else targetCategory = 'series';
+                    } else {
+                        targetCategory = 'movies';
+                    }
+
+                    const exists = libraryData[targetCategory].some(existing => existing.id === item.id);
+                    if (!exists) {
+                        libraryData[targetCategory].unshift(item);
+                        libraryData.trending.unshift(item);
+                        console.log(`✅ تم الحفظ بنجاح: [${item.title || item.name}]`);
+                    } else {
+                        console.log(`⚠️ العنصر موجود مسبقاً: [${item.title || item.name}]`);
+                    }
                 }
             }
+        } else {
+            console.log(`❌ لم يتم العثور على نتائج للعنوان: "${queryTitle}"`);
         }
     } catch (e) {
         console.error('خطأ:', e);
