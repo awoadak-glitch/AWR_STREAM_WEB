@@ -1,4 +1,4 @@
-/* إخفاء شريط التمرير الافتراضي للمتصفح بالكامل لتجربة تطبيقية */
+/* style.css */
 ::-webkit-scrollbar {
     width: 0px;
     background: transparent; 
@@ -11,53 +11,59 @@ html {
 body {
     -ms-overflow-style: none;
     scrollbar-width: none;
-    -webkit-tap-highlight-color: transparent; /* إزالة مربع التحديد الأزرق في الجوال */
+    -webkit-tap-highlight-color: transparent; 
 }
 
-/* حركة ظهور تدريجية للعناصر */
+/* 🛑 فئة لمنع التحديد وظهور قوائم النظام عند الضغط المطول */
+.no-select {
+    -webkit-user-select: none;
+    user-select: none;
+    touch-action: pan-y; /* يسمح بالتمرير العمودي فقط ويمنع المتصفح من استدعاء مهام مطولة */
+}
+
 @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(15px); }
-    to { opacity: 1; transform: translateY(0); }
+    from { opacity: 0; transform: translateY(20px); filter: blur(5px); }
+    to { opacity: 1; transform: translateY(0); filter: blur(0); }
 }
 
-/* حركة ظهور من الأسفل (للهيرو والنصوص) */
 @keyframes slideUp {
-    from { transform: translateY(30px); opacity: 0; }
+    from { transform: translateY(40px); opacity: 0; }
     to { transform: translateY(0); opacity: 1; }
 }
 
-/* حركة نبض لزر التشغيل (Pulse effect) */
+@keyframes scaleIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
+
 @keyframes pulseBtn {
     0% { box-shadow: 0 0 0 0 rgba(229, 9, 20, 0.7); }
-    70% { box-shadow: 0 0 0 20px rgba(229, 9, 20, 0); }
+    70% { box-shadow: 0 0 0 25px rgba(229, 9, 20, 0); }
     100% { box-shadow: 0 0 0 0 rgba(229, 9, 20, 0); }
 }
 .pulse-btn {
     animation: pulseBtn 2s infinite;
 }
 
-/* تنسيق نقاط السويبر (الـ Pagination) إذا استخدمتها */
 .swiper-pagination-bullet {
     background: #fff !important;
     opacity: 0.3 !important;
-    width: 8px !important;
-    height: 8px !important;
+    width: 6px !important;
+    height: 6px !important;
     transition: all 0.3s ease !important;
 }
 .swiper-pagination-bullet-active {
     opacity: 1 !important;
     background: #e50914 !important;
-    width: 24px !important;
+    width: 20px !important;
     border-radius: 4px !important;
     box-shadow: 0 0 10px rgba(229, 9, 20, 0.6);
 }
 
-/* إضافة ظل خفيف واحترافي للنصوص فوق الصور */
-.text-shadow-sm { text-shadow: 1px 1px 2px rgba(0,0,0,0.8); }
-.text-shadow-md { text-shadow: 2px 2px 4px rgba(0,0,0,0.8); }
-.text-shadow-lg { text-shadow: 2px 4px 8px rgba(0,0,0,0.9); }
+.text-shadow-sm { text-shadow: 1px 1px 3px rgba(0,0,0,0.9); }
+.text-shadow-md { text-shadow: 2px 2px 5px rgba(0,0,0,0.9); }
+.text-shadow-lg { text-shadow: 0px 5px 15px rgba(0,0,0,1); }
 
-/* دعم منطقة الأمان في هواتف الآيفون الحديثة (Notch) */
 .pb-safe {
     padding-bottom: env(safe-area-inset-bottom);
 }
