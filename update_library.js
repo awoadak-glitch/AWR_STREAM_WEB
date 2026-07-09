@@ -7,7 +7,7 @@ const REQUEST_ID = process.env.REQUEST_ID;
 const REQUEST_TYPE = process.env.REQUEST_TYPE;
 const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb'; 
 const OLD_ID = process.env.OLD_ID; 
-const SEASONS_SPLIT = process.env.SEASONS_SPLIT; // استقبال متغير التقسيم اليدوي للمواسم
+const SEASONS_SPLIT = process.env.SEASONS_SPLIT; 
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 function sanitizeText(text) {
@@ -15,15 +15,12 @@ function sanitizeText(text) {
     return text.replace(/[\p{P}\p{S}]/gu, " ").replace(/\s+/g, " ").trim();
 }
 
-// دالة ذكية لحقن اللغتين العربية والإنجليزية معاً دون تكرار الطلبات
 function injectDualLanguages(item, details) {
     if (!details) return;
     
-    // تعيين البيانات العربية الأساسية
     item.title = sanitizeText(details.title || details.name || item.title || item.name || "");
     item.overview = sanitizeText(details.overview || item.overview || "");
     
-    // البحث عن الترجمة الإنجليزية وحقنها في المتغيرات المخصصة
     if (details.translations && details.translations.translations) {
         const enTrans = details.translations.translations.find(t => t.iso_639_1 === 'en');
         if (enTrans && enTrans.data) {
@@ -32,12 +29,10 @@ function injectDualLanguages(item, details) {
         }
     }
     
-    // حلول بديلة في حال عدم وجود ترجمة إنجليزية منفصلة
     if (!item.title_en) item.title_en = item.title;
     if (!item.overview_en) item.overview_en = item.overview;
 }
 
-// دالة لتطبيق التقسيم اليدوي للمواسم في حال تفعيله من واجهة الإصلاح
 function applyManualSeasonsSplit(item) {
     if (!SEASONS_SPLIT || item.media_type !== 'tv') return;
 
@@ -61,7 +56,6 @@ function filterValidSeasons(seasons) {
     return seasons.filter(s => s.season_number > 0);
 }
 
-// دالة تحويل IMDb ID إلى TMDB ID
 async function fetchTmdbIdFromImdb(imdbId) {
     try {
         console.log(`🔎 جاري تحويل IMDb ID (${imdbId}) إلى TMDB ID...`);
@@ -75,7 +69,6 @@ async function fetchTmdbIdFromImdb(imdbId) {
     return null;
 }
 
-// دالة موحدة لجلب التفاصيل باللغة العربية مع جلب التراجم المتاحة للأجنبي بطلب واحد
 async function fetchMediaDetails(id, mediaType) {
     try {
         const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=ar-SA&append_to_response=translations`;
@@ -102,7 +95,6 @@ async function saveMediaItem(libraryData, item, mediaType) {
 
     if (item.original_title) item.original_title = sanitizeText(item.original_title);
     
-    // تطبيق ميزة تقسيم المواسم يدويًا إن وجدت
     applyManualSeasonsSplit(item);
 
     let targetCategory = 'trending';
@@ -126,9 +118,11 @@ async function saveMediaItem(libraryData, item, mediaType) {
     }
 }
 
-async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
+// 📌 تعديل: استقبال المصفوفة الحالية (existingItems) لتخطي ما تم جلبه سابقاً
+async function fetchStrict100Items(endpoint, mediaType, existingItems = [], extraParams = '') {
     let categoryResults = [];
-    let seenIds = new Set();
+    // إنشاء فلتر يحتوي على جميع الأيديات القديمة لمنع تكرارها
+    let seenIds = new Set(existingItems.map(item => item.id)); 
     let page = 1;
     console.log(`=== سحب قسم: [${mediaType}] ===`);
 
@@ -143,6 +137,7 @@ async function fetchStrict100Items(endpoint, mediaType, extraParams = '') {
 
             for (const item of data.results) {
                 if (categoryResults.length >= 100) break; 
+                // 📌 التأكد من أن العنصر غير موجود مسبقاً في المكتبة
                 if (item.poster_path && !seenIds.has(item.id)) {
                     seenIds.add(item.id);
                     const isTvShow = mediaType === 'tv' || item.media_type === 'tv' || (!item.title && item.name);
@@ -251,15 +246,27 @@ async function runScraper() {
     } else if (REQUEST_TITLE && REQUEST_TITLE.trim() !== '') {
         currentLibrary = await handleDirectRequest(currentLibrary, REQUEST_TITLE.trim());
     } else if (!OLD_ID) { 
-        currentLibrary.trending = await fetchStrict100Items('/trending/all/day', 'mixed');
-        currentLibrary.movies = await fetchStrict100Items('/discover/movie', 'movie');
-        currentLibrary.series = await fetchStrict100Items('/discover/tv', 'tv');
-        currentLibrary.kdrama = await fetchStrict100Items('/discover/tv', 'tv', '&with_original_language=ko&with_origin_country=KR');
-        currentLibrary.anime = await fetchStrict100Items('/discover/tv', 'tv', '&with_genres=16&with_original_language=ja');
+        // 📌 التعديل الجذري هنا: نمرر المكتبة الحالية وندمج الناتج
+        console.log("🔄 جاري التحديث التلقائي ودمج المحتوى الجديد...");
+
+        const newTrending = await fetchStrict100Items('/trending/all/day', 'mixed', currentLibrary.trending);
+        const newMovies = await fetchStrict100Items('/discover/movie', 'movie', currentLibrary.movies);
+        const newSeries = await fetchStrict100Items('/discover/tv', 'tv', currentLibrary.series);
+        const newKdrama = await fetchStrict100Items('/discover/tv', 'tv', currentLibrary.kdrama, '&with_original_language=ko&with_origin_country=KR');
+        const newAnime = await fetchStrict100Items('/discover/tv', 'tv', currentLibrary.anime, '&with_genres=16&with_original_language=ja');
+
+        // 📌 الحد الأقصى للمحتوى في كل قسم حتى لا يتضخم ملف JSON ويؤدي لتعطل الموقع
+        const MAX_ITEMS = 500; 
+
+        currentLibrary.trending = [...newTrending, ...currentLibrary.trending].slice(0, MAX_ITEMS);
+        currentLibrary.movies = [...newMovies, ...currentLibrary.movies].slice(0, MAX_ITEMS);
+        currentLibrary.series = [...newSeries, ...currentLibrary.series].slice(0, MAX_ITEMS);
+        currentLibrary.kdrama = [...newKdrama, ...currentLibrary.kdrama].slice(0, MAX_ITEMS);
+        currentLibrary.anime = [...newAnime, ...currentLibrary.anime].slice(0, MAX_ITEMS);
     }
 
     fs.writeFileSync('library.json', JSON.stringify(currentLibrary, null, 2));
-    console.log('🎉 اكتملت العملية بنجاح!');
+    console.log('🎉 اكتملت العملية بنجاح وتم حفظ المكتبة!');
 }
 
 runScraper();
