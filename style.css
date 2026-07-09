@@ -4,21 +4,39 @@
     background: transparent; 
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     -ms-overflow-style: none;
     scrollbar-width: none;
+    -webkit-tap-highlight-color: transparent; /* إزالة مربع التحديد الأزرق في الجوال */
 }
 
-/* حركة ظهور المودال من الأسفل */
+/* حركة ظهور تدريجية للعناصر */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* حركة ظهور من الأسفل (للهيرو والنصوص) */
 @keyframes slideUp {
-    from { transform: translateY(50px); opacity: 0; }
+    from { transform: translateY(30px); opacity: 0; }
     to { transform: translateY(0); opacity: 1; }
 }
-.animate-slide-up {
-    animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+
+/* حركة نبض لزر التشغيل (Pulse effect) */
+@keyframes pulseBtn {
+    0% { box-shadow: 0 0 0 0 rgba(229, 9, 20, 0.7); }
+    70% { box-shadow: 0 0 0 20px rgba(229, 9, 20, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(229, 9, 20, 0); }
+}
+.pulse-btn {
+    animation: pulseBtn 2s infinite;
 }
 
-/* تنسيق نقاط السويبر (الـ Pagination) في الهيرو */
+/* تنسيق نقاط السويبر (الـ Pagination) إذا استخدمتها */
 .swiper-pagination-bullet {
     background: #fff !important;
     opacity: 0.3 !important;
@@ -28,17 +46,18 @@ body {
 }
 .swiper-pagination-bullet-active {
     opacity: 1 !important;
-    background: #e50914 !important; /* لون البراند */
+    background: #e50914 !important;
     width: 24px !important;
     border-radius: 4px !important;
+    box-shadow: 0 0 10px rgba(229, 9, 20, 0.6);
 }
 
-/* إضافة ظل خفيف للنصوص فوق الصور */
-.text-shadow {
-    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
-}
+/* إضافة ظل خفيف واحترافي للنصوص فوق الصور */
+.text-shadow-sm { text-shadow: 1px 1px 2px rgba(0,0,0,0.8); }
+.text-shadow-md { text-shadow: 2px 2px 4px rgba(0,0,0,0.8); }
+.text-shadow-lg { text-shadow: 2px 4px 8px rgba(0,0,0,0.9); }
 
-/* ضبط السويبر الداخلي للكروت (المسافات) */
-.contentSwiper .swiper-slide {
-    width: auto; /* يسمح للعرض بأن يُحدد من الـ Tailwind */
+/* دعم منطقة الأمان في هواتف الآيفون الحديثة (Notch) */
+.pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
 }
