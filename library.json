@@ -2,6 +2,682 @@
   "trending": [
     {
       "adult": false,
+      "backdrop_path": "/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        23
+      ],
+      "first_air_date": "2022-10-09",
+      "genres": [
+        {
+          "id": 16,
+          "name": "رسوم متحركة"
+        },
+        {
+          "id": 10759,
+          "name": "حركة ومغامرة"
+        },
+        {
+          "id": 18,
+          "name": "دراما"
+        }
+      ],
+      "homepage": "https://tv.bluelock-pr.com/",
+      "id": 131041,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2024-12-28",
+      "last_episode_to_air": {
+        "id": 5646931,
+        "name": "الحلقة 38",
+        "overview": "",
+        "vote_average": 8,
+        "vote_count": 3,
+        "air_date": "2024-12-28",
+        "episode_number": 38,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 131041,
+        "still_path": "/4GReHZj6E9ePuKMAoQEPWgZBSH7.jpg"
+      },
+      "name": "القفل الأزرق",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 12,
+          "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+          "name": "HTB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 103,
+          "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+          "name": "tv asahi",
+          "origin_country": "JP"
+        },
+        {
+          "id": 576,
+          "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+          "name": "Nagoya TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1278,
+          "logo_path": "/49D825cN3Zb4slobKyGqIaI3Fx9.png",
+          "name": "KBC",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1410,
+          "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+          "name": "ABC TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3756,
+          "logo_path": "/3lh8IYJbV6eHOaF0UFCvmmSJNvf.png",
+          "name": "NCC",
+          "origin_country": "JP"
+        },
+        {
+          "id": 4794,
+          "logo_path": "/vYcEzZlLmrxV9xKZx9jIUcHF1RC.png",
+          "name": "OAB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 4798,
+          "logo_path": "/tiUMGPJVHYc5h1ZOt2jK80oNPz9.png",
+          "name": "ABA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6270,
+          "logo_path": "/xnHINTAs2GnfXJ3lalaQ0se8aup.png",
+          "name": "Niigata Television Network 21",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6284,
+          "logo_path": "/8QybJL7YGkOr3ECilGaGTqeId7A.png",
+          "name": "khb",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6285,
+          "logo_path": "/cFOQIanQr8wKvJKgIgaKiM3xnMU.png",
+          "name": "KFB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6288,
+          "logo_path": "/gm3ksoi7zQMWpHsJJDzotTwF2GM.png",
+          "name": "HOME",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6289,
+          "logo_path": "/sSE8F5yoFoVzClCkzLBksTDK7iI.png",
+          "name": "KSB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6290,
+          "logo_path": "/kgfTkjNRsR0f2QEiaXf2fymKB6V.png",
+          "name": "Kagoshima Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6365,
+          "logo_path": "/c1pvlKoEVLjejgQUCBFq5Q9n8gL.png",
+          "name": "Iwate Asahi TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6366,
+          "logo_path": "/dmSnk8fI8hpQOyCIrUDhj3TxTT8.png",
+          "name": "Akita Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6367,
+          "logo_path": "/jJWtS13oV0os1M5djVT6zjvnyq3.png",
+          "name": "Yamagata Television System",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6368,
+          "logo_path": "/34nBfbkqxcjrbpVraEfI6MkCvgY.png",
+          "name": "Shizuoka Asahi TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6369,
+          "logo_path": "/ztA2E1CY6L3aF2roadAOHtLiDCP.png",
+          "name": "Asahi Broadcasting Nagano",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6370,
+          "logo_path": "/onsaMWqPfrINyAfgi2FnP8conv1.png",
+          "name": "Hokuriku Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6372,
+          "logo_path": "/1UunNUsoq9k1nMNppuY5qhgdWT3.png",
+          "name": "Ehime Asahi TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6373,
+          "logo_path": "/6iuVpZdxAE8lgPENUBuwzCspYF7.png",
+          "name": "Yamaguchi Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6374,
+          "logo_path": "/qBX8z5bj0EISsASQo5IE76BYpu5.png",
+          "name": "Kumamoto Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6375,
+          "logo_path": "/7hIrDssIDTG2sGLdq1IfYddv9tz.png",
+          "name": "Ryu-Q Asahi Broadcasting",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 38,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブルーロック",
+      "overview": "بعد التفكير في الوضع الحالي لكرة القدم اليابانية قرر الاتحاد الياباني لكرة القدم تعيين المدرب الغامض والغريب الأطوار ايغو جينباشي لتحقيق حلمهم بالفوز بكأس العالم اعتقادًا منه بأن اليابان تفتقر إلى مهاجم أناني متعطش للأهداف بدأ جينباشي إنشاء بلو لوك قفل أزرق منشأة تشبه السجن حيث يتم عزل 300 مهاجم موهوب من المدارس الثانوية في جميع أنحاء اليابان ويتنافسون ضد بعضهم البعض الناجي الوحيد من بلو لوك سيكسب الحق في أن يصبح مهاجم المنتخب الوطني",
+      "popularity": 29.0621,
+      "poster_path": "/ydKCXlG1HNblW8TD8Ria5wRqjqb.jpg",
+      "production_companies": [
+        {
+          "id": 30294,
+          "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+          "name": "8bit",
+          "origin_country": "JP"
+        },
+        {
+          "id": 59118,
+          "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+          "name": "Kodansha",
+          "origin_country": "JP"
+        },
+        {
+          "id": 173132,
+          "logo_path": "/yV9EORK2ZwdMg45K10PuVh6LlM3.png",
+          "name": "Bandai Namco Filmworks",
+          "origin_country": "JP"
+        },
+        {
+          "id": 152836,
+          "logo_path": "/2Nw5F2Mv4at3Sm6ldwTKK3XYuLK.png",
+          "name": "Bandai Spirits",
+          "origin_country": "JP"
+        },
+        {
+          "id": 98553,
+          "logo_path": "/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png",
+          "name": "Crunchyroll",
+          "origin_country": "JP"
+        },
+        {
+          "id": 9300,
+          "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+          "name": "TV Asahi",
+          "origin_country": "JP"
+        },
+        {
+          "id": 173133,
+          "logo_path": "/pB59XO7veWGZjzK4MLGKWxYecD.png",
+          "name": "Bandai Namco Music Live",
+          "origin_country": "JP"
+        },
+        {
+          "id": 139842,
+          "logo_path": "/uBixtDwl2hxsugqSOTzEP90kxa0.png",
+          "name": "TOY'S FACTORY",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2022-10-09",
+          "episode_count": 38,
+          "id": 205614,
+          "name": "الموسم 1",
+          "overview": "كان إيساغي يويشي على بعد لحظات فقط من تسجيل هدف كان من شأنه أن يرسل فريق كرة القدم في المدرسة الثانوية إلى المواطنين ، لكن القرار في جزء من الثانية بتمرير الكرة إلى زميله كلفه هذه الحقيقة. يتساءل إيساجي ، الذي يشعر بالمرارة والارتباك وخيبة الأمل ، عما إذا كانت النتيجة ستكون مختلفة لو لم يقم بالتمرير. عندما يعود المهاجم الشاب إلى وطنه ، تنتظره دعوة من الاتحاد الياباني لكرة القدم. من خلال عملية اتخاذ قرار تعسفية ومنحازة ، كان إيساغي واحدًا من ثلاثمائة مهاجم تحت 18 عامًا تم اختيارهم لمشروع مثير للجدل اسمه بلو لوك. الهدف النهائي للمشروع هو تحويل أحد اللاعبين المختارين إلى نجم المهاجم للمنتخب الياباني. للعثور على أفضل مشارك ، يجب أن يتنافس كل ماسة في الخام مع الآخرين من خلال سلسلة من المسابقات الفردية والجماعية للارتقاء إلى القمة.",
+          "poster_path": "/2cmEkoiUbktAhV1Rw9GgZEDpOOA.jpg",
+          "season_number": 1,
+          "vote_average": 6.8
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "بلولوك",
+      "type": "Scripted",
+      "vote_average": 8.255,
+      "vote_count": 628,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "High school soccer players from across Japan gather for a controversial project designed to create the best — and most egoistic — striker in the world.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語",
+            "english_name": "Japanese",
+            "data": {
+              "name": "",
+              "overview": "世界一のエゴイストでなければ、世界一のストライカーにはなれない。日本を W 杯優勝に導くストライカーを育てるため、日本フットボール連合はある計画を立ち上げる。その名も、“ブルーロック（青い監獄）”プロジェクト。集められたのは 300 人の高校生。しかも、全員 FW（フォワード）。299 人のサッカー生命を犠牲に誕生する、日本サッカーに革命を起こすストライカーとは──？",
+              "homepage": "",
+              "tagline": "──今、史上最もアツく、最もイカれたサッカーアニメが開幕する。"
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "name": "BLUELOCK",
+              "overview": "Yoichi es un joven al que acaban de eliminar junto a su equipo. De pronto recibe una carta donde lo convocan para participar en un extraño experimento sobre fútbol.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "Após sofrer um vexame na Copa do Mundo de 2018, a seleção japonesa sofre para se recompor. Falta ao time um artilheiro, uma estrela capaz de guiá-los à vitória. Com o intuito de criar um atacante com fome de bola e sede de vitória, capaz de virar jogos tidos como impossíveis, a Confederação Japonesa de Futebol reune 300 dos melhores jogadores de base do país em um só lugar. Centenas de jovens vão se enfrentar numa batalha de músculos e de egos para provar que são os melhores.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch",
+            "english_name": "German",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "Nach der katastrophalen Niederlage bei der Weltmeisterschaft 2018 kämpft Japans Team darum, sich neu zu formieren. Doch es fehlt ein absolutes Stürmer-Ass in den eigenen Reihen, das sie zum Sieg führen kann. Zu diesem Zweck wurden 300 der besten und klügsten Jugendspieler versammelt – darunter auch Yoichi, der seinen Tor- und Siegeshunger in bestimmten Situationen nicht zu zügeln vermag. Der japanische Fußballverband ist fest entschlossen, einen Stürmer auszubilden, der im entscheidenden Moment punkten und ein verloren geglaubtes Spiel noch drehen kann. Welcher egoistische Spieler wird sich am Ende durchsetzen können?",
+              "homepage": "",
+              "tagline": "Mögen die Spiele beginnen"
+            }
+          },
+          {
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français",
+            "english_name": "French",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Après une défaite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en caractère tous ceux qui se dressent sur son chemin ?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "藍色監獄",
+              "overview": "來自全日本的高中足球選手共同參加一個極具爭議的計畫，目標是要訓練出全球最優秀也最自我中心的前鋒。",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano",
+            "english_name": "Italian",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "Con l'eliminazione del Giappone ai Mondiali di calcio del 2018, la federazione calcistica giapponese si decide a creare un programma in cui trovare giovani promettenti atleti e prepararli per i mondiali del 2022. Isagi Yōichi, un attaccante, riceve l'invito per partecipare a questo programma, proprio subito dopo che la sua squadra perde la possibilità di accedere alle nazionali a causa sua, che nel momento decisivo passò la palla a un compagno meno esperto invece che tentare di tirare lui stesso. L'allenatore del programma sarà Ego Jinpachi, il cui obiettivo è quello di \"distruggere il calcio perdente giapponese\" con un metodo rivoluzionario: isolare 300 giovani e promettenti attaccanti in una struttura simile a una prigione, chiamata \"Blue Lock\" e sottoporli a un rigoroso allenamento volto a creare \"l'attaccante più egoista e migliore del mondo\".",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "蓝色监狱",
+              "overview": "世界最自我中心的人，才能成为世界第一的前锋。为了让日本在世界杯中取得冠军，日本足球联盟展开了培育前锋的计画。其名为“蓝色监狱”计画。召集了300位高中生，且这300位都是前锋。牺牲299位的足球生涯而诞生，在日本足球界掀起革命的前锋会是?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "藍色監獄",
+              "overview": "世界最自我中心的人，才能成為世界第一的前鋒。為了讓日本在世界盃中得到冠軍，日本足球聯盟展開了培育前鋒的計畫。其名為「藍色監獄」計畫。召集了300位高中生，且這300位都是前鋒。犧牲299位的足球生涯而誕生，在日本足球界掀起革命的前鋒會是?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "name": "BLUELOCK",
+              "overview": "Tras una desastrosa derrota en la Copa Mundial de 2018, el equipo japonés está pasando por un mal momento. ¿Qué es lo que les falta? Un delantero que sea el mejor, alguien que pueda guiarles hasta la victoria. La federación japonesa está decidida a crear un jugador con una sed de gol única, alguien \"egoísta\" con el balón, un jugador que pueda ser capaz de dar la vuelta a un partido que está por perderse... Y para ello reúnen a 300 de las mejores jóvenes promesas de Japón. ¿Quién resultará el elegido como futuro líder del equipo? ¿Quién será capaz de plantar cara con su fuerza y su ego a cualquiera que se ponga en su camino? ¿Quién será ese jugador más egoísta que nadie?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "name": "블루 록",
+              "overview": "세계 제일의 에고이스트가 아니면, 세계 제일의 스트라이커가 될 수 없다. 일본을 월드컵 우승으로 이끌 스트라이커를 육성하기 위해 일본 축구 연맹은 어떤 계획을 내세웠다. 그 이름은 '블루 록(푸른 감옥)' 프로젝트. 그렇게 해서 모인 300명의 고등학생들. 거기에다 모두 FW(포워드) 포지션이었다. 299명의 축구 생명을 희생시켜 탄생할, 일본 축구에 혁명을 불러일으킬 스트라이커는 과연? 지금, 역사상 가장 뜨겁고 정신 나간 축구 애니메이션이 개막한다.",
+              "homepage": "",
+              "tagline": "나에게 축구는 살인이다"
+            }
+          },
+          {
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย",
+            "english_name": "Thai",
+            "data": {
+              "name": "ขังดวลแข้ง",
+              "overview": "นักฟุตบอลระดับมัธยมปลายจากทั่วญี่ปุ่นจะมาเข้าร่วมโครงการที่ออกแบบมาเพื่อสร้างดาวยิงฝีเท้าดีที่สุดและทะนงตนที่สุดในโลก จนกลายเป็นกระแสวิพากษ์วิจารณ์ในสังคม",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український",
+            "english_name": "Ukrainian",
+            "data": {
+              "name": "Синя в'язниця",
+              "overview": "Японська футбольна асоціація вирішує найняти загадкового й ексцентричного тренера Джінпачі Еґо, щоб здійснити свою мрію виграти Чемпіонат світу. Вважаючи, що Японії не вистачає егоїстичного нападника, який жадає голів, Джінпачі засновує Синю в'язницю — тюремну установу, де триста талановитих нападників із середніх шкіл усієї Японії протистоять один одному. Єдиний, хто виживе там, отримає право стати нападником національної збірної.",
+              "homepage": "",
+              "tagline": "\"Егоїзм – ключ до перемоги!\""
+            }
+          },
+          {
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt",
+            "english_name": "Vietnamese",
+            "data": {
+              "name": "Tiền Đạo Số 1",
+              "overview": "Năm 2018, Nhật Bản đã để thua top 16 tại World Cup, để chiêu mộ những “mũi tấn công” có thể phá vỡ thế bế tắc này, Liên đoàn bóng đá Nhật Bản đã quyết định áp dụng một kế hoạch táo bạo: triệu tập 300 học sinh trung học FW (tiền đạo) và xếp họ vào sân. dưới danh nghĩa \"những kẻ tấn công\" Luyện Gu trong ký túc xá của \"Blue Lock\"! Ngay cả khi tương lai 299 người sẽ hy sinh, một tiền đạo đẳng cấp thế giới độc nhất vô nhị phải được sinh ra! Một tiền đạo trung học vô danh, Jesse Il, cũng kiên quyết quyết định tham gia vào trận chiến sống còn này để loại bỏ tất cả các đối thủ!",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe",
+            "english_name": "Turkish",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Japonya'nın Dünya Kupası'nda zafere ulaşma arzusu, Japon Futbol Federasyonu'nun milli takımın yeni forvetini bulmak için yeni ve sıkı bir eğitim programı başlatmasına neden olur. 300 lise oyuncusu bu pozisyon için karşı karşıya getirilir ancak sadece bir tanesi birinci olacaktır. Aralarından kim Japon futbolunda yeni bir çağ başlatacak forvet olacak?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română",
+            "english_name": "Romanian",
+            "data": {
+              "name": "BLUELOCK (2022)",
+              "overview": "După ce analizează situația curentă a fotbalului japonez, Asociația Japoneză de Fotbal decide să-l angajeze pe enigmaticul și excentricul antrenor Jinpachi Ego pentru a-și îndeplini visul de a câștiga Cupa Mondială. Considerând că Japonia nu are un atacant orgolios și dornic să înscrie goluri, Jinpachi inițiază „Blue Lock” - o clădire asemănătoare unei închisori în care 300 de atacanți talentați de la liceele din toată Japonia sunt izolați și puși să se lupte între ei. Ultimul care rămâne în picioare va câștiga dreptul de a deveni atacantul echipei naționale, iar celor care sunt învinși li se va interzice pentru totdeauna să se alăture echipei. Selectat să se alăture acestui proiect riscant e Yoichi Isagi, un atacant care nu a reușit să ducă echipa de fotbal a liceului la turneul național.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית",
+            "english_name": "Hebrew",
+            "data": {
+              "name": "בלו לוק",
+              "overview": "לאחר הרהור על המצב הנוכחי של הכדורגל היפני, התאחדות הכדורגל היפנית מחליטה לשכור את המאמן המסתורי והלא רגיל, אגו ג'יפנצ'י, כדי להגשים את חלומם לזכות בגביע העולם. מתוך אמונה שליפן חסר חלוץ אגואיסטי הרעב לשערים, ג'ינפצ'י יוזם את ה-'בלוק לוק' – מתקן דמוי כלא שבו 300 חלוצים מוכשרים מבתי ספר תיכוניים בכל רחבי יפן מבודדים ומתמודדים זה מול זה. השורד היחיד מהבלו לוק יזכה להיות חלוץ הנבחרת הלאומית, ומי שיובס – ייאסר עליו להצטרף לקבוצת כדורגל לנצח. יואיצ'י איסאגי נבחר להצטרף לפרויקט המסוכן הזה, חלוץ שלא הצליח להביא את קבוצת הכדורגל שלו בתיכון לטורניר הלאומי. אחרי שבחר להעביר לחבר קבוצה שהחטיא במקום להבקיע בעצמו, הוא לא יכול היה שלא לתהות אם התוצאות היו שונות לו היה אנוכי יותר. באמצעות הזדמנות פז זו שניתנה על ידי פרויקט הבלו לוק, יואיצ'י שואף לנקות את הספקות שלו ולרדוף אחרי הרצון האולטימטיבי שלו – להפוך לחלוץ הגדול בעולם ולהוביל את יפן לתהילת גביע העולם.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية",
+            "english_name": "Arabic",
+            "data": {
+              "name": "القفل الأزرق",
+              "overview": "بعد التفكير في الوضع الحالي لكرة القدم اليابانية قرر الاتحاد الياباني لكرة القدم تعيين المدرب الغامض والغريب الأطوار ايغو جينباشي لتحقيق حلمهم بالفوز بكأس العالم اعتقادًا منه بأن اليابان تفتقر إلى مهاجم أناني متعطش للأهداف بدأ جينباشي إنشاء بلو لوك (قفل أزرق) منشأة تشبه السجن حيث يتم عزل 300 مهاجم موهوب من المدارس الثانوية في جميع أنحاء اليابان ويتنافسون ضد بعضهم البعض الناجي الوحيد من بلو لوك سيكسب الحق في أن يصبح مهاجم المنتخب الوطني.",
+              "homepage": "",
+              "tagline": "بلولوك"
+            }
+          },
+          {
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский",
+            "english_name": "Russian",
+            "data": {
+              "name": "Синяя тюрьма: Блю Лок",
+              "overview": "Чтобы выиграть Чемпионат мира, японская футбольная ассоциация решает нанять загадочного и эксцентричного тренера Дзимпати Эго. Тот в уверенности, что в Японии нет хороших нападающих, создает Блю Лок — тюрьму, где триста юных талантливых футболистов соревнуются друг с другом. Победитель получит право стать нападающим национальной сборной, а проигравшим навсегда запретят играть за сборную. Одним из участников становится Ёити Исаги, который мечтает стать величайшим нападающим в мире и привести Японию к футбольной славе.",
+              "homepage": "",
+              "tagline": "──Самое горячее и безумное футбольное аниме в истории."
+            }
+          },
+          {
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český",
+            "english_name": "Czech",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Po katastrofální porážce na mistrovství světa 2018 se japonský tým snaží přeskupit. Co však chybí? Absolutní útočné eso, které je dovede k vítězství. Japonský fotbalový svaz si sakramentsky přeje vytvořit útočníka, který bude hladovět po gólech a žíznit po vítězství a který bude rozhodujícím nástrojem k otočení prohraného zápasu... a za tímto účelem shromáždil 300 nejlepších a nejchytřejších japonských mladých hráčů. Kdo se objeví jako vůdce týmu... a dokáže přetlačit a přehrát každého, kdo se mu postaví do cesty?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SG",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "AE",
+            "iso_639_1": "ar",
+            "name": "العربية",
+            "english_name": "Arabic",
+            "data": {
+              "name": "القفل الأزرق",
+              "overview": "بعد التفكير في الوضع الحالي لكرة القدم اليابانية قرر الاتحاد الياباني لكرة القدم تعيين المدرب الغامض والغريب الأطوار ايغو جينباشي لتحقيق حلمهم بالفوز بكأس العالم اعتقادًا منه بأن اليابان تفتقر إلى مهاجم أناني متعطش للأهداف بدأ جينباشي إنشاء بلو لوك (قفل أزرق) منشأة تشبه السجن حيث يتم عزل 300 مهاجم موهوب من المدارس الثانوية في جميع أنحاء اليابان ويتنافسون ضد بعضهم البعض الناجي الوحيد من بلو لوك سيكسب الحق في أن يصبح مهاجم المنتخب الوطني.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "ku",
+            "name": "",
+            "english_name": "Kurdish",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski",
+            "english_name": "Polish",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Piłkarze licealiści z całej Japonii biorą udział w kontrowersyjnym projekcie, który ma stworzyć najlepszego — i najbardziej egoistycznego — napastnika na świecie.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "ID",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia",
+            "english_name": "Indonesian",
+            "data": {
+              "name": "BLUELOCK",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands",
+            "english_name": "Dutch",
+            "data": {
+              "name": "",
+              "overview": "Na een desastreuze nederlaag op het WK van 2018 heeft het Japanse team moeite om zich te hergroeperen. Maar wat ontbreekt er? Een absolute Ace Striker, die hen naar de overwinning kan loodsen. De Japanse voetbalbond is vastbesloten een spits te creëren die hongert naar doelpunten en dorst naar de overwinning, en die het beslissende instrument kan zijn om een ​​verloren wedstrijd om te draaien... en om dat te doen hebben ze 300 van de beste spelers van Japan verzameld. en slimste jeugdspelers. Wie zal het team gaan leiden... en zullen zij in staat zijn om iedereen die hen in de weg staat te overtreffen?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език",
+            "english_name": "Bulgarian",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی",
+            "english_name": "Persian",
+            "data": {
+              "name": "زندان آبی",
+              "overview": "پس از شکستی فاجعه‌بار در جام جهانی ۲۰۱۸، تیم ژاپن برای بازسازی تلاش می‌کند. اما چه چیزی کم است؟ یک مهاجم نوک مطلق که بتواند آنها را به سمت پیروزی هدایت کند. اتحادیه فوتبال ژاپن مصمم است تا مهاجمی را پرورش دهد که تشنه گل و پیروزی باشد و بتواند ابزاری تعیین‌کننده در تغییر مسیر یک بازی باخته باشد... و برای این کار، ۳۰۰ نفر از بهترین و درخشان‌ترین بازیکنان جوان ژاپن را گرد هم آورده‌اند. چه کسی برای رهبری تیم ظهور خواهد کرد... و آیا آنها قادر خواهند بود بر همه کسانی که سر راهشان قرار می‌گیرند، از نظر قدرت بدنی و اعتماد به نفس غلبه کنند؟",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina",
+            "english_name": "Slovak",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska",
+            "english_name": "Swedish",
+            "data": {
+              "name": "",
+              "overview": "Efter ett katastrofalt nederlag i fotbolls-VM 2018 kämpar Japans lag för att samla sig. Men vad är det som saknas? En absolut Ace Striker, som kan leda dem till seger. Japan Football Union är fast beslutna att skapa en anfallare som hungrar efter mål och törstar efter seger, och som kan vara det avgörande instrumentet för att vända en förlorad match ... och för att göra det har de samlat 300 av Japans bästa och smartaste ungdomsspelare. Vem kommer att leda laget ... och kommer de att kunna överträffa alla som står i vägen för dem?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Baseado numa manga de desporto escrita por Kaneshiro Muneyuki e desenhada por Nomura Yuusuke. Após uma derrota desastrosa no Campeonato do Mundo de 2018, a equipa do Japão esforça-se para se reerguer. Mas o que está a faltar? Um avançado absoluto que os possa guiar para a vitória. A Federação Japonesa de Futebol está determinada a criar um avançado que tenha fome de golos e sede de vitória, e que possa ser o instrumento decisivo para inverter um jogo em que estão a perder... e para isso, reuniram 300 dos melhores e mais brilhantes jovens jogadores do Japão. Quem irá emergir para liderar a equipa... e conseguirá superar física e egocentricamente todos os que se interpuserem no seu caminho?",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title": "القفل الأزرق",
+      "title_en": "BLUE LOCK",
+      "overview_en": "High school soccer players from across Japan gather for a controversial project designed to create the best and most egoistic striker in the world"
+    },
+    {
+      "adult": false,
       "backdrop_path": "/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg",
       "belongs_to_collection": null,
       "budget": 64000000,
@@ -29768,6 +30444,682 @@
     }
   ],
   "anime": [
+    {
+      "adult": false,
+      "backdrop_path": "/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        23
+      ],
+      "first_air_date": "2022-10-09",
+      "genres": [
+        {
+          "id": 16,
+          "name": "رسوم متحركة"
+        },
+        {
+          "id": 10759,
+          "name": "حركة ومغامرة"
+        },
+        {
+          "id": 18,
+          "name": "دراما"
+        }
+      ],
+      "homepage": "https://tv.bluelock-pr.com/",
+      "id": 131041,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2024-12-28",
+      "last_episode_to_air": {
+        "id": 5646931,
+        "name": "الحلقة 38",
+        "overview": "",
+        "vote_average": 8,
+        "vote_count": 3,
+        "air_date": "2024-12-28",
+        "episode_number": 38,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 24,
+        "season_number": 1,
+        "show_id": 131041,
+        "still_path": "/4GReHZj6E9ePuKMAoQEPWgZBSH7.jpg"
+      },
+      "name": "القفل الأزرق",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 12,
+          "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+          "name": "HTB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 103,
+          "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+          "name": "tv asahi",
+          "origin_country": "JP"
+        },
+        {
+          "id": 576,
+          "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+          "name": "Nagoya TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1278,
+          "logo_path": "/49D825cN3Zb4slobKyGqIaI3Fx9.png",
+          "name": "KBC",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1410,
+          "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+          "name": "ABC TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3756,
+          "logo_path": "/3lh8IYJbV6eHOaF0UFCvmmSJNvf.png",
+          "name": "NCC",
+          "origin_country": "JP"
+        },
+        {
+          "id": 4794,
+          "logo_path": "/vYcEzZlLmrxV9xKZx9jIUcHF1RC.png",
+          "name": "OAB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 4798,
+          "logo_path": "/tiUMGPJVHYc5h1ZOt2jK80oNPz9.png",
+          "name": "ABA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6270,
+          "logo_path": "/xnHINTAs2GnfXJ3lalaQ0se8aup.png",
+          "name": "Niigata Television Network 21",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6284,
+          "logo_path": "/8QybJL7YGkOr3ECilGaGTqeId7A.png",
+          "name": "khb",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6285,
+          "logo_path": "/cFOQIanQr8wKvJKgIgaKiM3xnMU.png",
+          "name": "KFB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6288,
+          "logo_path": "/gm3ksoi7zQMWpHsJJDzotTwF2GM.png",
+          "name": "HOME",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6289,
+          "logo_path": "/sSE8F5yoFoVzClCkzLBksTDK7iI.png",
+          "name": "KSB",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6290,
+          "logo_path": "/kgfTkjNRsR0f2QEiaXf2fymKB6V.png",
+          "name": "Kagoshima Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6365,
+          "logo_path": "/c1pvlKoEVLjejgQUCBFq5Q9n8gL.png",
+          "name": "Iwate Asahi TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6366,
+          "logo_path": "/dmSnk8fI8hpQOyCIrUDhj3TxTT8.png",
+          "name": "Akita Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6367,
+          "logo_path": "/jJWtS13oV0os1M5djVT6zjvnyq3.png",
+          "name": "Yamagata Television System",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6368,
+          "logo_path": "/34nBfbkqxcjrbpVraEfI6MkCvgY.png",
+          "name": "Shizuoka Asahi TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6369,
+          "logo_path": "/ztA2E1CY6L3aF2roadAOHtLiDCP.png",
+          "name": "Asahi Broadcasting Nagano",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6370,
+          "logo_path": "/onsaMWqPfrINyAfgi2FnP8conv1.png",
+          "name": "Hokuriku Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6372,
+          "logo_path": "/1UunNUsoq9k1nMNppuY5qhgdWT3.png",
+          "name": "Ehime Asahi TV",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6373,
+          "logo_path": "/6iuVpZdxAE8lgPENUBuwzCspYF7.png",
+          "name": "Yamaguchi Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6374,
+          "logo_path": "/qBX8z5bj0EISsASQo5IE76BYpu5.png",
+          "name": "Kumamoto Asahi Broadcasting",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6375,
+          "logo_path": "/7hIrDssIDTG2sGLdq1IfYddv9tz.png",
+          "name": "Ryu-Q Asahi Broadcasting",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 38,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブルーロック",
+      "overview": "بعد التفكير في الوضع الحالي لكرة القدم اليابانية قرر الاتحاد الياباني لكرة القدم تعيين المدرب الغامض والغريب الأطوار ايغو جينباشي لتحقيق حلمهم بالفوز بكأس العالم اعتقادًا منه بأن اليابان تفتقر إلى مهاجم أناني متعطش للأهداف بدأ جينباشي إنشاء بلو لوك قفل أزرق منشأة تشبه السجن حيث يتم عزل 300 مهاجم موهوب من المدارس الثانوية في جميع أنحاء اليابان ويتنافسون ضد بعضهم البعض الناجي الوحيد من بلو لوك سيكسب الحق في أن يصبح مهاجم المنتخب الوطني",
+      "popularity": 29.0621,
+      "poster_path": "/ydKCXlG1HNblW8TD8Ria5wRqjqb.jpg",
+      "production_companies": [
+        {
+          "id": 30294,
+          "logo_path": "/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png",
+          "name": "8bit",
+          "origin_country": "JP"
+        },
+        {
+          "id": 59118,
+          "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+          "name": "Kodansha",
+          "origin_country": "JP"
+        },
+        {
+          "id": 173132,
+          "logo_path": "/yV9EORK2ZwdMg45K10PuVh6LlM3.png",
+          "name": "Bandai Namco Filmworks",
+          "origin_country": "JP"
+        },
+        {
+          "id": 152836,
+          "logo_path": "/2Nw5F2Mv4at3Sm6ldwTKK3XYuLK.png",
+          "name": "Bandai Spirits",
+          "origin_country": "JP"
+        },
+        {
+          "id": 98553,
+          "logo_path": "/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png",
+          "name": "Crunchyroll",
+          "origin_country": "JP"
+        },
+        {
+          "id": 9300,
+          "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+          "name": "TV Asahi",
+          "origin_country": "JP"
+        },
+        {
+          "id": 173133,
+          "logo_path": "/pB59XO7veWGZjzK4MLGKWxYecD.png",
+          "name": "Bandai Namco Music Live",
+          "origin_country": "JP"
+        },
+        {
+          "id": 139842,
+          "logo_path": "/uBixtDwl2hxsugqSOTzEP90kxa0.png",
+          "name": "TOY'S FACTORY",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2022-10-09",
+          "episode_count": 38,
+          "id": 205614,
+          "name": "الموسم 1",
+          "overview": "كان إيساغي يويشي على بعد لحظات فقط من تسجيل هدف كان من شأنه أن يرسل فريق كرة القدم في المدرسة الثانوية إلى المواطنين ، لكن القرار في جزء من الثانية بتمرير الكرة إلى زميله كلفه هذه الحقيقة. يتساءل إيساجي ، الذي يشعر بالمرارة والارتباك وخيبة الأمل ، عما إذا كانت النتيجة ستكون مختلفة لو لم يقم بالتمرير. عندما يعود المهاجم الشاب إلى وطنه ، تنتظره دعوة من الاتحاد الياباني لكرة القدم. من خلال عملية اتخاذ قرار تعسفية ومنحازة ، كان إيساغي واحدًا من ثلاثمائة مهاجم تحت 18 عامًا تم اختيارهم لمشروع مثير للجدل اسمه بلو لوك. الهدف النهائي للمشروع هو تحويل أحد اللاعبين المختارين إلى نجم المهاجم للمنتخب الياباني. للعثور على أفضل مشارك ، يجب أن يتنافس كل ماسة في الخام مع الآخرين من خلال سلسلة من المسابقات الفردية والجماعية للارتقاء إلى القمة.",
+          "poster_path": "/2cmEkoiUbktAhV1Rw9GgZEDpOOA.jpg",
+          "season_number": 1,
+          "vote_average": 6.8
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "بلولوك",
+      "type": "Scripted",
+      "vote_average": 8.255,
+      "vote_count": 628,
+      "translations": {
+        "translations": [
+          {
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English",
+            "english_name": "English",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "High school soccer players from across Japan gather for a controversial project designed to create the best — and most egoistic — striker in the world.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語",
+            "english_name": "Japanese",
+            "data": {
+              "name": "",
+              "overview": "世界一のエゴイストでなければ、世界一のストライカーにはなれない。日本を W 杯優勝に導くストライカーを育てるため、日本フットボール連合はある計画を立ち上げる。その名も、“ブルーロック（青い監獄）”プロジェクト。集められたのは 300 人の高校生。しかも、全員 FW（フォワード）。299 人のサッカー生命を犠牲に誕生する、日本サッカーに革命を起こすストライカーとは──？",
+              "homepage": "",
+              "tagline": "──今、史上最もアツく、最もイカれたサッカーアニメが開幕する。"
+            }
+          },
+          {
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "name": "BLUELOCK",
+              "overview": "Yoichi es un joven al que acaban de eliminar junto a su equipo. De pronto recibe una carta donde lo convocan para participar en un extraño experimento sobre fútbol.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "Após sofrer um vexame na Copa do Mundo de 2018, a seleção japonesa sofre para se recompor. Falta ao time um artilheiro, uma estrela capaz de guiá-los à vitória. Com o intuito de criar um atacante com fome de bola e sede de vitória, capaz de virar jogos tidos como impossíveis, a Confederação Japonesa de Futebol reune 300 dos melhores jogadores de base do país em um só lugar. Centenas de jovens vão se enfrentar numa batalha de músculos e de egos para provar que são os melhores.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch",
+            "english_name": "German",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "Nach der katastrophalen Niederlage bei der Weltmeisterschaft 2018 kämpft Japans Team darum, sich neu zu formieren. Doch es fehlt ein absolutes Stürmer-Ass in den eigenen Reihen, das sie zum Sieg führen kann. Zu diesem Zweck wurden 300 der besten und klügsten Jugendspieler versammelt – darunter auch Yoichi, der seinen Tor- und Siegeshunger in bestimmten Situationen nicht zu zügeln vermag. Der japanische Fußballverband ist fest entschlossen, einen Stürmer auszubilden, der im entscheidenden Moment punkten und ein verloren geglaubtes Spiel noch drehen kann. Welcher egoistische Spieler wird sich am Ende durchsetzen können?",
+              "homepage": "",
+              "tagline": "Mögen die Spiele beginnen"
+            }
+          },
+          {
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français",
+            "english_name": "French",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Après une défaite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en caractère tous ceux qui se dressent sur son chemin ?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "藍色監獄",
+              "overview": "來自全日本的高中足球選手共同參加一個極具爭議的計畫，目標是要訓練出全球最優秀也最自我中心的前鋒。",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano",
+            "english_name": "Italian",
+            "data": {
+              "name": "BLUE LOCK",
+              "overview": "Con l'eliminazione del Giappone ai Mondiali di calcio del 2018, la federazione calcistica giapponese si decide a creare un programma in cui trovare giovani promettenti atleti e prepararli per i mondiali del 2022. Isagi Yōichi, un attaccante, riceve l'invito per partecipare a questo programma, proprio subito dopo che la sua squadra perde la possibilità di accedere alle nazionali a causa sua, che nel momento decisivo passò la palla a un compagno meno esperto invece che tentare di tirare lui stesso. L'allenatore del programma sarà Ego Jinpachi, il cui obiettivo è quello di \"distruggere il calcio perdente giapponese\" con un metodo rivoluzionario: isolare 300 giovani e promettenti attaccanti in una struttura simile a una prigione, chiamata \"Blue Lock\" e sottoporli a un rigoroso allenamento volto a creare \"l'attaccante più egoista e migliore del mondo\".",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "蓝色监狱",
+              "overview": "世界最自我中心的人，才能成为世界第一的前锋。为了让日本在世界杯中取得冠军，日本足球联盟展开了培育前锋的计画。其名为“蓝色监狱”计画。召集了300位高中生，且这300位都是前锋。牺牲299位的足球生涯而诞生，在日本足球界掀起革命的前锋会是?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "藍色監獄",
+              "overview": "世界最自我中心的人，才能成為世界第一的前鋒。為了讓日本在世界盃中得到冠軍，日本足球聯盟展開了培育前鋒的計畫。其名為「藍色監獄」計畫。召集了300位高中生，且這300位都是前鋒。犧牲299位的足球生涯而誕生，在日本足球界掀起革命的前鋒會是?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español",
+            "english_name": "Spanish",
+            "data": {
+              "name": "BLUELOCK",
+              "overview": "Tras una desastrosa derrota en la Copa Mundial de 2018, el equipo japonés está pasando por un mal momento. ¿Qué es lo que les falta? Un delantero que sea el mejor, alguien que pueda guiarles hasta la victoria. La federación japonesa está decidida a crear un jugador con una sed de gol única, alguien \"egoísta\" con el balón, un jugador que pueda ser capaz de dar la vuelta a un partido que está por perderse... Y para ello reúnen a 300 de las mejores jóvenes promesas de Japón. ¿Quién resultará el elegido como futuro líder del equipo? ¿Quién será capaz de plantar cara con su fuerza y su ego a cualquiera que se ponga en su camino? ¿Quién será ese jugador más egoísta que nadie?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말",
+            "english_name": "Korean",
+            "data": {
+              "name": "블루 록",
+              "overview": "세계 제일의 에고이스트가 아니면, 세계 제일의 스트라이커가 될 수 없다. 일본을 월드컵 우승으로 이끌 스트라이커를 육성하기 위해 일본 축구 연맹은 어떤 계획을 내세웠다. 그 이름은 '블루 록(푸른 감옥)' 프로젝트. 그렇게 해서 모인 300명의 고등학생들. 거기에다 모두 FW(포워드) 포지션이었다. 299명의 축구 생명을 희생시켜 탄생할, 일본 축구에 혁명을 불러일으킬 스트라이커는 과연? 지금, 역사상 가장 뜨겁고 정신 나간 축구 애니메이션이 개막한다.",
+              "homepage": "",
+              "tagline": "나에게 축구는 살인이다"
+            }
+          },
+          {
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย",
+            "english_name": "Thai",
+            "data": {
+              "name": "ขังดวลแข้ง",
+              "overview": "นักฟุตบอลระดับมัธยมปลายจากทั่วญี่ปุ่นจะมาเข้าร่วมโครงการที่ออกแบบมาเพื่อสร้างดาวยิงฝีเท้าดีที่สุดและทะนงตนที่สุดในโลก จนกลายเป็นกระแสวิพากษ์วิจารณ์ในสังคม",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український",
+            "english_name": "Ukrainian",
+            "data": {
+              "name": "Синя в'язниця",
+              "overview": "Японська футбольна асоціація вирішує найняти загадкового й ексцентричного тренера Джінпачі Еґо, щоб здійснити свою мрію виграти Чемпіонат світу. Вважаючи, що Японії не вистачає егоїстичного нападника, який жадає голів, Джінпачі засновує Синю в'язницю — тюремну установу, де триста талановитих нападників із середніх шкіл усієї Японії протистоять один одному. Єдиний, хто виживе там, отримає право стати нападником національної збірної.",
+              "homepage": "",
+              "tagline": "\"Егоїзм – ключ до перемоги!\""
+            }
+          },
+          {
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt",
+            "english_name": "Vietnamese",
+            "data": {
+              "name": "Tiền Đạo Số 1",
+              "overview": "Năm 2018, Nhật Bản đã để thua top 16 tại World Cup, để chiêu mộ những “mũi tấn công” có thể phá vỡ thế bế tắc này, Liên đoàn bóng đá Nhật Bản đã quyết định áp dụng một kế hoạch táo bạo: triệu tập 300 học sinh trung học FW (tiền đạo) và xếp họ vào sân. dưới danh nghĩa \"những kẻ tấn công\" Luyện Gu trong ký túc xá của \"Blue Lock\"! Ngay cả khi tương lai 299 người sẽ hy sinh, một tiền đạo đẳng cấp thế giới độc nhất vô nhị phải được sinh ra! Một tiền đạo trung học vô danh, Jesse Il, cũng kiên quyết quyết định tham gia vào trận chiến sống còn này để loại bỏ tất cả các đối thủ!",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe",
+            "english_name": "Turkish",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Japonya'nın Dünya Kupası'nda zafere ulaşma arzusu, Japon Futbol Federasyonu'nun milli takımın yeni forvetini bulmak için yeni ve sıkı bir eğitim programı başlatmasına neden olur. 300 lise oyuncusu bu pozisyon için karşı karşıya getirilir ancak sadece bir tanesi birinci olacaktır. Aralarından kim Japon futbolunda yeni bir çağ başlatacak forvet olacak?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română",
+            "english_name": "Romanian",
+            "data": {
+              "name": "BLUELOCK (2022)",
+              "overview": "După ce analizează situația curentă a fotbalului japonez, Asociația Japoneză de Fotbal decide să-l angajeze pe enigmaticul și excentricul antrenor Jinpachi Ego pentru a-și îndeplini visul de a câștiga Cupa Mondială. Considerând că Japonia nu are un atacant orgolios și dornic să înscrie goluri, Jinpachi inițiază „Blue Lock” - o clădire asemănătoare unei închisori în care 300 de atacanți talentați de la liceele din toată Japonia sunt izolați și puși să se lupte între ei. Ultimul care rămâne în picioare va câștiga dreptul de a deveni atacantul echipei naționale, iar celor care sunt învinși li se va interzice pentru totdeauna să se alăture echipei. Selectat să se alăture acestui proiect riscant e Yoichi Isagi, un atacant care nu a reușit să ducă echipa de fotbal a liceului la turneul național.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית",
+            "english_name": "Hebrew",
+            "data": {
+              "name": "בלו לוק",
+              "overview": "לאחר הרהור על המצב הנוכחי של הכדורגל היפני, התאחדות הכדורגל היפנית מחליטה לשכור את המאמן המסתורי והלא רגיל, אגו ג'יפנצ'י, כדי להגשים את חלומם לזכות בגביע העולם. מתוך אמונה שליפן חסר חלוץ אגואיסטי הרעב לשערים, ג'ינפצ'י יוזם את ה-'בלוק לוק' – מתקן דמוי כלא שבו 300 חלוצים מוכשרים מבתי ספר תיכוניים בכל רחבי יפן מבודדים ומתמודדים זה מול זה. השורד היחיד מהבלו לוק יזכה להיות חלוץ הנבחרת הלאומית, ומי שיובס – ייאסר עליו להצטרף לקבוצת כדורגל לנצח. יואיצ'י איסאגי נבחר להצטרף לפרויקט המסוכן הזה, חלוץ שלא הצליח להביא את קבוצת הכדורגל שלו בתיכון לטורניר הלאומי. אחרי שבחר להעביר לחבר קבוצה שהחטיא במקום להבקיע בעצמו, הוא לא יכול היה שלא לתהות אם התוצאות היו שונות לו היה אנוכי יותר. באמצעות הזדמנות פז זו שניתנה על ידי פרויקט הבלו לוק, יואיצ'י שואף לנקות את הספקות שלו ולרדוף אחרי הרצון האולטימטיבי שלו – להפוך לחלוץ הגדול בעולם ולהוביל את יפן לתהילת גביע העולם.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية",
+            "english_name": "Arabic",
+            "data": {
+              "name": "القفل الأزرق",
+              "overview": "بعد التفكير في الوضع الحالي لكرة القدم اليابانية قرر الاتحاد الياباني لكرة القدم تعيين المدرب الغامض والغريب الأطوار ايغو جينباشي لتحقيق حلمهم بالفوز بكأس العالم اعتقادًا منه بأن اليابان تفتقر إلى مهاجم أناني متعطش للأهداف بدأ جينباشي إنشاء بلو لوك (قفل أزرق) منشأة تشبه السجن حيث يتم عزل 300 مهاجم موهوب من المدارس الثانوية في جميع أنحاء اليابان ويتنافسون ضد بعضهم البعض الناجي الوحيد من بلو لوك سيكسب الحق في أن يصبح مهاجم المنتخب الوطني.",
+              "homepage": "",
+              "tagline": "بلولوك"
+            }
+          },
+          {
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский",
+            "english_name": "Russian",
+            "data": {
+              "name": "Синяя тюрьма: Блю Лок",
+              "overview": "Чтобы выиграть Чемпионат мира, японская футбольная ассоциация решает нанять загадочного и эксцентричного тренера Дзимпати Эго. Тот в уверенности, что в Японии нет хороших нападающих, создает Блю Лок — тюрьму, где триста юных талантливых футболистов соревнуются друг с другом. Победитель получит право стать нападающим национальной сборной, а проигравшим навсегда запретят играть за сборную. Одним из участников становится Ёити Исаги, который мечтает стать величайшим нападающим в мире и привести Японию к футбольной славе.",
+              "homepage": "",
+              "tagline": "──Самое горячее и безумное футбольное аниме в истории."
+            }
+          },
+          {
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český",
+            "english_name": "Czech",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Po katastrofální porážce na mistrovství světa 2018 se japonský tým snaží přeskupit. Co však chybí? Absolutní útočné eso, které je dovede k vítězství. Japonský fotbalový svaz si sakramentsky přeje vytvořit útočníka, který bude hladovět po gólech a žíznit po vítězství a který bude rozhodujícím nástrojem k otočení prohraného zápasu... a za tímto účelem shromáždil 300 nejlepších a nejchytřejších japonských mladých hráčů. Kdo se objeví jako vůdce týmu... a dokáže přetlačit a přehrát každého, kdo se mu postaví do cesty?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SG",
+            "iso_639_1": "zh",
+            "name": "普通话",
+            "english_name": "Mandarin",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "AE",
+            "iso_639_1": "ar",
+            "name": "العربية",
+            "english_name": "Arabic",
+            "data": {
+              "name": "القفل الأزرق",
+              "overview": "بعد التفكير في الوضع الحالي لكرة القدم اليابانية قرر الاتحاد الياباني لكرة القدم تعيين المدرب الغامض والغريب الأطوار ايغو جينباشي لتحقيق حلمهم بالفوز بكأس العالم اعتقادًا منه بأن اليابان تفتقر إلى مهاجم أناني متعطش للأهداف بدأ جينباشي إنشاء بلو لوك (قفل أزرق) منشأة تشبه السجن حيث يتم عزل 300 مهاجم موهوب من المدارس الثانوية في جميع أنحاء اليابان ويتنافسون ضد بعضهم البعض الناجي الوحيد من بلو لوك سيكسب الحق في أن يصبح مهاجم المنتخب الوطني.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "TR",
+            "iso_639_1": "ku",
+            "name": "",
+            "english_name": "Kurdish",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski",
+            "english_name": "Polish",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Piłkarze licealiści z całej Japonii biorą udział w kontrowersyjnym projekcie, który ma stworzyć najlepszego — i najbardziej egoistycznego — napastnika na świecie.",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "ID",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia",
+            "english_name": "Indonesian",
+            "data": {
+              "name": "BLUELOCK",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands",
+            "english_name": "Dutch",
+            "data": {
+              "name": "",
+              "overview": "Na een desastreuze nederlaag op het WK van 2018 heeft het Japanse team moeite om zich te hergroeperen. Maar wat ontbreekt er? Een absolute Ace Striker, die hen naar de overwinning kan loodsen. De Japanse voetbalbond is vastbesloten een spits te creëren die hongert naar doelpunten en dorst naar de overwinning, en die het beslissende instrument kan zijn om een ​​verloren wedstrijd om te draaien... en om dat te doen hebben ze 300 van de beste spelers van Japan verzameld. en slimste jeugdspelers. Wie zal het team gaan leiden... en zullen zij in staat zijn om iedereen die hen in de weg staat te overtreffen?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език",
+            "english_name": "Bulgarian",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی",
+            "english_name": "Persian",
+            "data": {
+              "name": "زندان آبی",
+              "overview": "پس از شکستی فاجعه‌بار در جام جهانی ۲۰۱۸، تیم ژاپن برای بازسازی تلاش می‌کند. اما چه چیزی کم است؟ یک مهاجم نوک مطلق که بتواند آنها را به سمت پیروزی هدایت کند. اتحادیه فوتبال ژاپن مصمم است تا مهاجمی را پرورش دهد که تشنه گل و پیروزی باشد و بتواند ابزاری تعیین‌کننده در تغییر مسیر یک بازی باخته باشد... و برای این کار، ۳۰۰ نفر از بهترین و درخشان‌ترین بازیکنان جوان ژاپن را گرد هم آورده‌اند. چه کسی برای رهبری تیم ظهور خواهد کرد... و آیا آنها قادر خواهند بود بر همه کسانی که سر راهشان قرار می‌گیرند، از نظر قدرت بدنی و اعتماد به نفس غلبه کنند؟",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina",
+            "english_name": "Slovak",
+            "data": {
+              "name": "",
+              "overview": "",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska",
+            "english_name": "Swedish",
+            "data": {
+              "name": "",
+              "overview": "Efter ett katastrofalt nederlag i fotbolls-VM 2018 kämpar Japans lag för att samla sig. Men vad är det som saknas? En absolut Ace Striker, som kan leda dem till seger. Japan Football Union är fast beslutna att skapa en anfallare som hungrar efter mål och törstar efter seger, och som kan vara det avgörande instrumentet för att vända en förlorad match ... och för att göra det har de samlat 300 av Japans bästa och smartaste ungdomsspelare. Vem kommer att leda laget ... och kommer de att kunna överträffa alla som står i vägen för dem?",
+              "homepage": "",
+              "tagline": ""
+            }
+          },
+          {
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português",
+            "english_name": "Portuguese",
+            "data": {
+              "name": "Blue Lock",
+              "overview": "Baseado numa manga de desporto escrita por Kaneshiro Muneyuki e desenhada por Nomura Yuusuke. Após uma derrota desastrosa no Campeonato do Mundo de 2018, a equipa do Japão esforça-se para se reerguer. Mas o que está a faltar? Um avançado absoluto que os possa guiar para a vitória. A Federação Japonesa de Futebol está determinada a criar um avançado que tenha fome de golos e sede de vitória, e que possa ser o instrumento decisivo para inverter um jogo em que estão a perder... e para isso, reuniram 300 dos melhores e mais brilhantes jovens jogadores do Japão. Quem irá emergir para liderar a equipa... e conseguirá superar física e egocentricamente todos os que se interpuserem no seu caminho?",
+              "homepage": "",
+              "tagline": ""
+            }
+          }
+        ]
+      },
+      "media_type": "tv",
+      "title": "القفل الأزرق",
+      "title_en": "BLUE LOCK",
+      "overview_en": "High school soccer players from across Japan gather for a controversial project designed to create the best and most egoistic striker in the world"
+    },
     {
       "adult": false,
       "backdrop_path": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
