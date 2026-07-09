@@ -76,16 +76,20 @@ function renderCategory(items, containerId, forceType = null) {
     
     items.forEach((item, index) => {
         const type = forceType || item.media_type || (item.title ? 'movie' : 'tv');
-        const title = item.title || item.name;
-        const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type}));
+        const title = item.title || item.name || 'عنصر غير معروف';
+        
+        // هنا قمنا بإضافة حل مشكلة علامات الاقتباس التي تعطل الأزرار
+        const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type})).replace(/'/g, "%27");
+        
         const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
+        const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
         
         container.innerHTML += `
             <div class="swiper-slide w-[140px] md:w-[200px] cursor-pointer group animate-fade-in" style="animation-delay: ${index * 0.03}s" 
                 onclick="openDetails('${itemData}')">
                 
                 <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-500 transform group-hover:-translate-y-2 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_15px_30px_rgba(229,9,20,0.3)] border border-white/5">
-                    <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}">
+                    <img src="${poster}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}">
                     
                     <div class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                     
@@ -120,7 +124,7 @@ window.openDetails = (encodedData) => {
     document.getElementById('modalDesc').innerText = item.overview || 'لا يوجد وصف متاح.';
     document.getElementById('modalRating').innerHTML = `<i class="fa-solid fa-star text-brand"></i> ${(item.vote_average ? item.vote_average.toFixed(1) : '0.0')} / 10`;
     document.getElementById('modalDate').innerHTML = `<i class="fa-regular fa-calendar text-gray-400"></i> ${(item.release_date || item.first_air_date || '').split('-')[0]}`;
-    document.getElementById('modalBackdrop').src = IMG_BG + (item.backdrop_path || item.poster_path);
+    document.getElementById('modalBackdrop').src = item.backdrop_path ? (IMG_BG + item.backdrop_path) : (item.poster_path ? (IMG_BG + item.poster_path) : 'https://via.placeholder.com/1920x1080?text=No+Image');
     
     const tvControls = document.getElementById('tvControls');
     const playBtn = document.getElementById('playBtn');
@@ -195,11 +199,10 @@ window.closeModal = () => {
     }, 300);
 };
 
-// 🛠️ فتح نافذة الإصلاح عبر الزر الجديد المباشر
 window.openRepairModal = (encodedData) => {
     const item = JSON.parse(decodeURIComponent(encodedData));
-    const id = item.id;
-    const title = item.title || item.name;
+    const id = item.id || '';
+    const title = item.title || item.name || 'عنصر غير معروف';
     const type = item.media_type || (item.title ? 'movie' : 'tv');
 
     document.getElementById('repairOldIdInput').value = id;
@@ -260,7 +263,6 @@ window.submitRepairRequest = async () => {
     }
 };
 
-// البحث وإضافة زر الإصلاح للنتائج أيضاً
 document.getElementById('searchInput').addEventListener('input', (e) => {
     const query = e.target.value.trim().toLowerCase();
     const resultsContainer = document.getElementById('searchResults');
@@ -274,13 +276,17 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
         const title = item.title || item.name || '';
         if(title.toLowerCase().includes(query) && !seenIds.has(item.id)) {
             seenIds.add(item.id);
-            const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')}));
+            
+            // تم إضافة حل المشكلة هنا أيضاً في نتائج البحث
+            const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')})).replace(/'/g, "%27");
+            
+            const poster = item.poster_path ? (IMG_URL + item.poster_path) : 'https://via.placeholder.com/500x750?text=No+Image';
+
             resultsContainer.innerHTML += `
                 <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${count * 0.03}s" onclick="openDetails('${itemData}')">
                     <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
-                        <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
+                        <img src="${poster}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
                         
-                        <!-- زر الإصلاح المباشر في نتائج البحث 🔧 -->
                         <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
                                 title="إصلاح هذا العمل"
                                 class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-7 h-7 rounded-full flex items-center justify-center border border-white/20 shadow-md transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
