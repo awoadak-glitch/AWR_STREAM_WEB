@@ -70,27 +70,6 @@ function displayAllContent(data) {
     });
 }
 
-// ⏱️ متغيرات الضغط المطول
-let pressTimer;
-let startY = 0;
-
-window.startPress = (e, encodedData) => {
-    startY = e.touches ? e.touches[0].clientY : e.clientY;
-    pressTimer = setTimeout(() => {
-        const item = JSON.parse(decodeURIComponent(encodedData));
-        openRepairModal(item.id, item.title || item.name, item.media_type);
-    }, 1000); // ضغطة مطولة لمدة ثانية
-};
-
-window.movePress = (e) => {
-    const currentY = e.touches ? e.touches[0].clientY : e.clientY;
-    if (Math.abs(currentY - startY) > 10) cancelPress(); // إلغاء إذا سحب الشاشة
-};
-
-window.cancelPress = () => {
-    clearTimeout(pressTimer);
-};
-
 function renderCategory(items, containerId, forceType = null) {
     const container = document.getElementById(containerId);
     if(!container) return; container.innerHTML = '';
@@ -102,21 +81,26 @@ function renderCategory(items, containerId, forceType = null) {
         const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
         
         container.innerHTML += `
-            <div class="swiper-slide w-[140px] md:w-[200px] cursor-pointer group animate-fade-in no-select" style="animation-delay: ${index * 0.03}s" 
-                onpointerdown="startPress(event, '${itemData}')" 
-                onpointermove="movePress(event)"
-                onpointerup="cancelPress()" 
-                onpointercancel="cancelPress()"
-                onpointerleave="cancelPress()"
-                oncontextmenu="event.preventDefault();"
+            <div class="swiper-slide w-[140px] md:w-[200px] cursor-pointer group animate-fade-in" style="animation-delay: ${index * 0.03}s" 
                 onclick="openDetails('${itemData}')">
                 
                 <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-900 transition-all duration-500 transform group-hover:-translate-y-2 group-hover:ring-2 group-hover:ring-brand shadow-lg group-hover:shadow-[0_15px_30px_rgba(229,9,20,0.3)] border border-white/5">
                     <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" alt="${title}">
+                    
                     <div class="absolute inset-0 bg-gradient-to-t from-black via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    
+                    <!-- التقييم -->
                     <div class="absolute top-2 right-2 bg-black/60 backdrop-blur-md text-white text-[11px] font-bold px-2 py-1 rounded-lg border border-white/10 shadow-md flex items-center gap-1">
                         ${vote} <i class="fa-solid fa-star text-brand"></i>
                     </div>
+
+                    <!-- زر الإصلاح المباشر 🔧 -->
+                    <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
+                            title="إصلاح هذا العمل"
+                            class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-8 h-8 rounded-full flex items-center justify-center border border-white/20 shadow-[0_0_15px_rgba(0,0,0,0.5)] transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
+                        <i class="fa-solid fa-wrench text-xs md:text-sm"></i>
+                    </button>
+
                     <div class="absolute bottom-0 w-full p-4 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out">
                          <h3 class="text-white text-sm font-bold truncate text-shadow-md">${title}</h3>
                     </div>
@@ -127,9 +111,6 @@ function renderCategory(items, containerId, forceType = null) {
 }
 
 window.openDetails = (encodedData) => {
-    // نلغي المؤقت إذا ضغط ضغطة سريعة
-    cancelPress();
-    
     const item = JSON.parse(decodeURIComponent(encodedData));
     const title = item.title || item.name;
     const type = item.media_type;
@@ -214,11 +195,16 @@ window.closeModal = () => {
     }, 300);
 };
 
-// 🛠️ دوال الإصلاح (الجديدة)
-window.openRepairModal = (id, title, type) => {
+// 🛠️ فتح نافذة الإصلاح عبر الزر الجديد المباشر
+window.openRepairModal = (encodedData) => {
+    const item = JSON.parse(decodeURIComponent(encodedData));
+    const id = item.id;
+    const title = item.title || item.name;
+    const type = item.media_type || (item.title ? 'movie' : 'tv');
+
     document.getElementById('repairOldIdInput').value = id;
     document.getElementById('repairOldTitle').innerText = title;
-    document.getElementById('repairNewIdInput').value = id; // وضع القديم كافتراضي
+    document.getElementById('repairNewIdInput').value = id; 
     document.getElementById('repairNewTypeSelect').value = type === 'tv' ? 'tv' : 'movie';
     
     const modal = document.getElementById('repairModal');
@@ -258,13 +244,13 @@ window.submitRepairRequest = async () => {
                 inputs: {
                     request_id: newId,
                     request_type: newType,
-                    old_id: oldId // إرسال المعرف القديم للحذف
+                    old_id: oldId
                 }
             })
         });
 
         if(res.status === 204) {
-            alert('تم إرسال أمر الإصلاح بنجاح! سيتم حذف المعطوب وسحب الجديد قريباً.');
+            alert('تم إرسال أمر الإصلاح بنجاح! سيتم الحذف والسحب خلال لحظات.');
             closeRepairModal();
         } else {
             alert('فشل إرسال طلب الإصلاح.');
@@ -274,7 +260,7 @@ window.submitRepairRequest = async () => {
     }
 };
 
-// ... (بقية دوال البحث والتنقل كما هي في الكود السابق)
+// البحث وإضافة زر الإصلاح للنتائج أيضاً
 document.getElementById('searchInput').addEventListener('input', (e) => {
     const query = e.target.value.trim().toLowerCase();
     const resultsContainer = document.getElementById('searchResults');
@@ -288,11 +274,18 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
         const title = item.title || item.name || '';
         if(title.toLowerCase().includes(query) && !seenIds.has(item.id)) {
             seenIds.add(item.id);
-            const itemData = encodeURIComponent(JSON.stringify(item));
+            const itemData = encodeURIComponent(JSON.stringify({...item, media_type: item.media_type || (item.title ? 'movie' : 'tv')}));
             resultsContainer.innerHTML += `
                 <div class="cursor-pointer group animate-scale-in" style="animation-delay: ${count * 0.03}s" onclick="openDetails('${itemData}')">
                     <div class="relative rounded-2xl overflow-hidden aspect-[2/3] bg-gray-800 border border-white/5 transition-all duration-300 group-hover:border-brand/50 group-hover:-translate-y-2 group-hover:shadow-[0_10px_20px_rgba(229,9,20,0.3)]">
                         <img src="${IMG_URL + item.poster_path}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy">
+                        
+                        <!-- زر الإصلاح المباشر في نتائج البحث 🔧 -->
+                        <button onclick="event.stopPropagation(); openRepairModal('${itemData}')" 
+                                title="إصلاح هذا العمل"
+                                class="absolute top-2 left-2 bg-yellow-600/90 hover:bg-yellow-400 backdrop-blur-md text-white w-7 h-7 rounded-full flex items-center justify-center border border-white/20 shadow-md transition-all duration-300 hover:scale-110 z-30 opacity-90 group-hover:opacity-100">
+                            <i class="fa-solid fa-wrench text-[10px]"></i>
+                        </button>
                     </div>
                     <h3 class="text-xs text-center mt-3 text-gray-400 font-bold truncate group-hover:text-white transition-colors">${title}</h3>
                 </div>
