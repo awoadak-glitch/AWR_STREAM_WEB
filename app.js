@@ -176,7 +176,7 @@ function appendItemsToDOM(items, containerId, forceType = null) {
 
 // 📌 دالة توليد كرت العمل الفني
 function generateCardHTML(item, index, forceType) {
-    const type = forceType || item.media_type || (item.title ? 'movie' : 'tv');
+    const type = item.media_type || forceType || (item.title ? 'movie' : 'tv');
     const title = item.title || item.name || 'عنصر غير معروف';
     const itemData = encodeURIComponent(JSON.stringify({...item, media_type: type})).replace(/'/g, "%27");
     const vote = item.vote_average ? item.vote_average.toFixed(1) : '0.0';
