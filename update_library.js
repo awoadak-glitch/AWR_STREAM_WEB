@@ -146,10 +146,13 @@ async function saveMediaItem(currentRunData, globalSeenIds, item, mediaType) {
 
     const details = await fetchMediaDetails(item.id, mediaType);
     if (details) {
-        // دمج كافة الحقول الخام القادمة من TMDB (budget, genres, production_companies, imdb_id...)
-        // ليصبح شكل البيانات مطابقاً تماماً لملف "جون ويك الجزء الأول" ولا يقتصر على العنوان والوصف فقط
-        item = Object.assign({}, details, item);
-        if (isTv && details.seasons) item.seasons = filterValidSeasons(details.seasons);
+        if (!isTv) {
+            // دمج كافة الحقول الخام القادمة من TMDB (budget, genres, production_companies, imdb_id...)
+            // ليصبح شكل البيانات مطابقاً تماماً لملف "جون ويك الجزء الأول" - للأفلام فقط
+            item = Object.assign({}, details, item);
+        } else if (details.seasons) {
+            item.seasons = filterValidSeasons(details.seasons);
+        }
         injectDualLanguages(item, details);
     } else {
         item.overview = sanitizeText(item.overview);
@@ -201,9 +204,12 @@ async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraPara
 
                     const fullDetails = await fetchMediaDetails(item.id, actualType);
                     if (fullDetails) {
-                        // دمج كافة الحقول الخام (نفس منطق جلب جزء واحد) حتى تتطابق بيانات القوائم مع بيانات الطلب المباشر
-                        item = Object.assign({}, fullDetails, item);
-                        if (isTvShow && fullDetails.seasons) item.seasons = filterValidSeasons(fullDetails.seasons);
+                        if (!isTvShow) {
+                            // دمج كافة الحقول الخام (نفس منطق جلب جزء واحد) - للأفلام فقط
+                            item = Object.assign({}, fullDetails, item);
+                        } else if (fullDetails.seasons) {
+                            item.seasons = filterValidSeasons(fullDetails.seasons);
+                        }
                         injectDualLanguages(item, fullDetails);
                     } else {
                         item.overview = sanitizeText(item.overview);
