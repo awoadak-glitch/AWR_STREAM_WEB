@@ -1,0 +1,403 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/aRYZLopz1Csh86mKMXjY4W7Ed3K.jpg",
+    "created_by": [
+      {
+        "id": 1211000,
+        "credit_id": "591a51e3925141061e05ad95",
+        "name": "Tom Gormican",
+        "original_name": "Tom Gormican",
+        "gender": 2,
+        "profile_path": "/3OIo7pq87kh7Zg03szRuKFvLRSR.jpg"
+      }
+    ],
+    "episode_run_time": [
+      22
+    ],
+    "first_air_date": "2017-10-01",
+    "genres": [
+      {
+        "id": 35,
+        "name": "كوميديا"
+      }
+    ],
+    "homepage": "http://www.fox.com/ghosted/",
+    "id": 71739,
+    "in_production": false,
+    "languages": [
+      "en"
+    ],
+    "last_air_date": "2018-07-22",
+    "last_episode_to_air": {
+      "id": 1516974,
+      "name": "الحلقة 16",
+      "overview": "",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2018-07-22",
+      "episode_number": 16,
+      "episode_type": "finale",
+      "production_code": "",
+      "runtime": 22,
+      "season_number": 1,
+      "show_id": 71739,
+      "still_path": "/fSroJ87UnfLuPAaoAdjlfdlpszz.jpg"
+    },
+    "name": "Ghosted",
+    "next_episode_to_air": null,
+    "networks": [
+      {
+        "id": 19,
+        "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+        "name": "FOX",
+        "origin_country": "US"
+      }
+    ],
+    "number_of_episodes": 16,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Ghosted",
+    "overview": "",
+    "popularity": 5.6831,
+    "poster_path": "/3sH6dEC1m7Ar43BeZU0NVl20gpV.jpg",
+    "production_companies": [
+      {
+        "id": 95729,
+        "logo_path": null,
+        "name": "TYPO",
+        "origin_country": ""
+      },
+      {
+        "id": 787,
+        "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+        "name": "3 Arts Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 1556,
+        "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+        "name": "20th Century Fox Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 63631,
+        "logo_path": null,
+        "name": "Gettin' Rad Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 95728,
+        "logo_path": null,
+        "name": "Additional Dialogue",
+        "origin_country": ""
+      },
+      {
+        "id": 95727,
+        "logo_path": null,
+        "name": "Crowley Etten Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 105587,
+        "logo_path": null,
+        "name": "Afternoonnap",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "seasons": [
+      {
+        "air_date": "2017-10-01",
+        "episode_count": 16,
+        "id": 88416,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/z94a7N36Pw5y6cccwdakXGChskx.jpg",
+        "season_number": 1,
+        "vote_average": 6.8
+      }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Canceled",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 6.333,
+    "vote_count": 132,
+    "translations": {
+      "translations": [
+        {
+          "iso_3166_1": "US",
+          "iso_639_1": "en",
+          "name": "English",
+          "english_name": "English",
+          "data": {
+            "name": "",
+            "overview": "A skeptic is forced to work with a firm believer of the paranormal on unexplained occurrences in Los Angeles.",
+            "homepage": "",
+            "tagline": "Be afraid. Be kind of afraid."
+          }
+        },
+        {
+          "iso_3166_1": "TR",
+          "iso_639_1": "tr",
+          "name": "Türkçe",
+          "english_name": "Turkish",
+          "data": {
+            "name": "",
+            "overview": "Herşeyden şüphe duyan bir adam, Los Angeles'ta açıklanamayan olaylar hakkında paranormal bir inançla çalışmak zorunda kalır.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "BS",
+          "iso_639_1": "bs",
+          "name": "Bosanski",
+          "english_name": "Bosnian",
+          "data": {
+            "name": "Ghosted",
+            "overview": "Serija prati ciničnog skeptika i istinskog vernika u paranormalno. \"Bureau Underground\" ih angažuje da istraže neobjašnjive aktivnosti u Los Anđelesu. Tokom tih istraživanja naići će na još veću misteriju koja preti da ugrozi čovečanstvo.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "DK",
+          "iso_639_1": "da",
+          "name": "Dansk",
+          "english_name": "Danish",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "BG",
+          "iso_639_1": "bg",
+          "name": "български език",
+          "english_name": "Bulgarian",
+          "data": {
+            "name": "Паранормално",
+            "overview": "Лирой Райт е циничен скептик, а Макс Алисън - гений, който вярва в паранормалното. Двамата са наети да разследват нещо, което не би могло да бъде обяснено в Лос Анджелис. Но докато разследват, героите разкриват много по-голяма мистерия, която застрашава съществуването ни.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "RU",
+          "iso_639_1": "ru",
+          "name": "Pусский",
+          "english_name": "Russian",
+          "data": {
+            "name": "Призраки",
+            "overview": "Это история о скептике и цинике Лерое Райте и свято верящим во всякую чертовщину Максе Эллисоне. Секретное исследовательское бюро нанимает главных героев для слежки за вспышкой паранормальной активности в Лос-Анджелесе. Изучая аномалию, Райт и Эллисон обнаруживают более серьёзную тайну, угрожающую гибелью всему человечеству.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "FR",
+          "iso_639_1": "fr",
+          "name": "Français",
+          "english_name": "French",
+          "data": {
+            "name": "",
+            "overview": "Leroy Wright, un sceptique cynique et Max Jennifer, un génie qui croit au paranormal sont recrutés pour faire équipe afin d'enquêter sur des phénomènes inexpliqués à Los Angeles. Ils découvrent alors que la race humaine est en danger...",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "NO",
+          "iso_639_1": "no",
+          "name": "Norsk",
+          "english_name": "Norwegian",
+          "data": {
+            "name": "",
+            "overview": "Komiserien følger en skeptiker (Craig Robinson, The Office) og en sann troende i det paranormale (Adam Scott, Parks And Recreation), som blir rekruttert inn i en organisasjon kalt «The Bureau Underground». De skal etterforske uforklarlige aktiviteter i Los Angeles-området, som tilsynelatende har tilknytning til en mystisk entitet som kan true menneskeheten.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "GR",
+          "iso_639_1": "el",
+          "name": "ελληνικά",
+          "english_name": "Greek",
+          "data": {
+            "name": "",
+            "overview": "Στο Ghosted ένας σκεπτικιστής αναγκάζεται να συνεργαστεί με έναν αμετακίνητο πιστό της υπερφυσικής σε διάφορα ανεξήγητα περιστατικά με έδρα το Λος Άντζελες.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "PL",
+          "iso_639_1": "pl",
+          "name": "Polski",
+          "english_name": "Polish",
+          "data": {
+            "name": "Agenci paranormalni",
+            "overview": "Serial skupia się na cynicznym sceptyku (Craig Robinson) i geniuszu, który wierzy w zjawiska paranormalne (Adam Scott). Zostają oni zwerbowani przez tajną agencję rządową, by zajmować się tajemniczymi, niewyjaśnionymi sprawami w Los Angeles. Wkrótce odkrywają intrygę, która może zagrozić rasie ludzkiej.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "name": "",
+            "overview": "La serie seguirá a un escéptico y un genio \"verdadero creyente\" en lo paranormal que es reclutado por una organización llamada The Bureau Underground para investigar una serie de actividades \"inexplicables\" que están ocurriendo en el área de Los Ángeles, las cuales están supuestamente ligadas a un misteriosa entidad que podría amenazar la existencia de la raza humana.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "BR",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "name": "Ghosted",
+            "overview": "Leroy Wright (Cragi Robinson) é um homem cético e divertido que é contratado pelo Underground Investigative Service (Serviço Investigativo Oculto) para verificar a atividade inexplicável que se espalha como uma epidemia por Los Angeles. Para equilibrar a investigação, ele vai trabalhar com Max Allison (Adam Scott), que é um gênio, mas acredita em tudo. Os dois acabam esbarrando em um mistério que ameaça toda a humanidade.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "TW",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "雙寶鬥惡鬼",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "DE",
+          "iso_639_1": "de",
+          "name": "Deutsch",
+          "english_name": "German",
+          "data": {
+            "name": "",
+            "overview": "Als hätte sie sich in einer Episode von Akte X - Die unheimlichen Fälle des FBI verirrt, werden die beiden Ermittler Max und Leory eines Tages mit übernatürlichen Phänomenen konfrontiert. Fortan müssen sie mysteriöse Verbrechen aufklären und sich zudem mit einer zwielichtigen Untergrundorganisation zusammenschließen. Doch Max und haben eine wichtige Aufgabe zu erfüllen - immerhin hängt von ihrer Arbeit das Überleben der Menschheit ab. Sollte sie versagen, sind wir für immer verloren.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "HU",
+          "iso_639_1": "hu",
+          "name": "Magyar",
+          "english_name": "Hungarian",
+          "data": {
+            "name": "Parás Páros",
+            "overview": "A történet két főszereplője Leroy Wright nyomozó, aki egyáltalán nem hisz a földönkívüliek létezésében, és Max Jennifer, aki meg van győződve arról, hogy feleségét az idegenek rabolták el. Kettejük élete sosem keresztezte volna egymást, ha be nem szervezik őket egy paranormális tevékenységeket vizsgáló titkos szervezetbe. Ahol vállvetve kell felderíteniük a Los Angelesben történő érthetetlen események mögött rejtőző igazságot.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "IT",
+          "iso_639_1": "it",
+          "name": "Italiano",
+          "english_name": "Italian",
+          "data": {
+            "name": "",
+            "overview": "Leroy Wright e Max Jennifer non potrebbero essere più diversi. Il primo è un genio fermamente credente nel paranormale. L'altro, invece, si contraddistingue come un cinico che dubita di qualunque cosa. Quando sono reclutati da un'agenzia governativa segreta per indagare su una dilagante attività \"inspiegabile\" nell'area di Los Angeles, ben presto Leroy e Max si rendono conto di avere a che fare con un mistero più grande che potrebbe minacciare l'esistenza della razza umana.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "CZ",
+          "iso_639_1": "cs",
+          "name": "Český",
+          "english_name": "Czech",
+          "data": {
+            "name": "",
+            "overview": "Bývalý detektiv LAPD Leroy (Craig Robinson) a bývalý profesor astrofyziky na Stanfordu Max (Adam Scott) jsou znenadání uneseni neznámými útočníky. Probouzejí se uprostřed podzemní budovy, v níž má sídlo organizace Bureau Underground, která se zabývá lovem duchů a zkoumáním paranormálních jevů. Dvojice byla z neznámého důvodu doporučená nejlepším agentem a před sebou má náročný úkol: jejich posláním je zničení protivníka, který může zruinovat celou planetu.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "FI",
+          "iso_639_1": "fi",
+          "name": "suomi",
+          "english_name": "Finnish",
+          "data": {
+            "name": "",
+            "overview": "Monessa liemessä keitetty entinen poliisi Max Jennifer on kovanaama, joka ei pienestä hätkähdä. Nörttimäinen tiedemies Leroy Wright taas pelästyy omaa varjoaankin. Yhdessä he muodostavat verrattoman tiimin, joka auttaa Los Angelesin valtionviraston paranormaaleja tapauksia tutkivaa yksikköä. Viihdyttävässä sitcom-sarjassa jahdataan yliluonnollisia olentoja ja yritetään selvittää mahdottomilta vaikuttavia rikoksia.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "GE",
+          "iso_639_1": "ka",
+          "name": "ქართული",
+          "english_name": "Georgian",
+          "data": {
+            "name": "მოჩვენებითი",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "HK",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "雙寶鬥惡鬼",
+            "overview": "該劇講述一位憤世嫉俗的懷疑論者與一位堅信超自然存在的天才，被秘密機構“地下聯絡局”招募，聯手調查洛杉磯一系列無法解釋的離奇事件。這些詭異現象背後，潛藏着足以威脅人類存亡的神秘力量。兩人性格迥異、衝突不斷，卻在爆笑探案中逐漸成為搭檔，共同對抗未知威脅。",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "CN",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "活宝斗恶鬼",
+            "overview": "该剧讲述一位愤世嫉俗的怀疑论者与一位坚信超自然存在的天才，被秘密机构“地下联络局”招募，联手调查洛杉矶一系列无法解释的离奇事件。这些诡异现象背后，潜藏着足以威胁人类存亡的神秘力量。两人性格迥异、冲突不断，却在爆笑探案中逐渐成为搭档，共同对抗未知威胁。",
+            "homepage": "",
+            "tagline": ""
+          }
+        }
+      ]
+    },
+    "media_type": "tv",
+    "title": "Ghosted",
+    "title_en": "Ghosted",
+    "overview_en": "A skeptic is forced to work with a firm believer of the paranormal on unexplained occurrences in Los Angeles"
+  }
+]
