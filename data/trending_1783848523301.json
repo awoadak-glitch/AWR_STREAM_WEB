@@ -1,0 +1,326 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/xr8cnK9SdDKdqYiWlBthQcvBJvH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "دراما"
+      },
+      {
+        "id": 35,
+        "name": "كوميديا"
+      }
+    ],
+    "homepage": "",
+    "id": 1245859,
+    "imdb_id": "tt31349852",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Savage House",
+    "overview": "",
+    "popularity": 7.5755,
+    "poster_path": "/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+    "production_companies": [
+      {
+        "id": 174231,
+        "logo_path": "/pzVptQBeICpxnz0j7C3sLQaqwtI.png",
+        "name": "Record Player Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 195643,
+        "logo_path": "/5auare3qFJ9wpQKsttXnK9MFpQ0.png",
+        "name": "Deluge Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 275157,
+        "logo_path": "/s4Z1DPnLbdUPRWyS0WyM24p70uB.png",
+        "name": "Moon7",
+        "origin_country": "CA"
+      },
+      {
+        "id": 300201,
+        "logo_path": null,
+        "name": "Valmont Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 265204,
+        "logo_path": "/ceHdNhyoCCzfWR9QRPPr7UzEcKw.png",
+        "name": "Calculus Media",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-05",
+    "revenue": 464179,
+    "runtime": 114,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Savage House",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 13,
+    "translations": {
+      "translations": [
+        {
+          "iso_3166_1": "US",
+          "iso_639_1": "en",
+          "name": "English",
+          "english_name": "English",
+          "data": {
+            "homepage": "",
+            "overview": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+            "runtime": 114,
+            "tagline": "Polite society has never been so Savage.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "KR",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말",
+          "english_name": "Korean",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "새비지 하우스"
+          }
+        },
+        {
+          "iso_3166_1": "FR",
+          "iso_639_1": "fr",
+          "name": "Français",
+          "english_name": "French",
+          "data": {
+            "homepage": "",
+            "overview": "Angleterre, XVIIIe siècle en proie à une épidémie de variole et au soulèvement jacobite. Sir Chauncey Savage et Lady Savage sont dans une quête aveugle d'une vie meilleure.",
+            "runtime": 113,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "CN",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "　　故事设定在18世纪的英国，正值天花大流行与詹姆斯党起义的动荡时期。萨维奇爵士与野心勃勃的妻子萨维奇夫人，不顾一切地追逐地位与财富。他们对时代灾难视而不见，疯狂的执念让家族庄园沦为荒诞、奢靡与血腥的舞台：决斗频发、联盟在晚宴上轻易崩塌，家族姓氏“Savage”（野蛮）成了绝妙讽刺。这是一部黑色讽刺喜剧，辛辣解构阶级、权力与人性的贪婪 。",
+            "runtime": 0,
+            "tagline": "",
+            "title": "野蛮之屋"
+          }
+        },
+        {
+          "iso_3166_1": "BG",
+          "iso_639_1": "bg",
+          "name": "български език",
+          "english_name": "Bulgarian",
+          "data": {
+            "homepage": "",
+            "overview": "На фона на Англия през XVIII век, сред масова епидемия от шарка и якобитско въстание, сър Чонси Савидж и лейди Савидж отчаяно търсят по-добър живот. Иронично е, че носят фамилията Савидж, защото домът им наистина е Савидж Хаус - място на дуели, декаданс и кръвопролитие.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Савидж Хаус"
+          }
+        },
+        {
+          "iso_3166_1": "UA",
+          "iso_639_1": "uk",
+          "name": "Український",
+          "english_name": "Ukrainian",
+          "data": {
+            "homepage": "",
+            "overview": "Дія відбувається в Англії XVIII століття під час епідемії віспи та якобітського повстання. Сер Чонсі та леді Севідж сліпо прагнуть кращого життя. Їхні пошуки сповнені іронічної розкоші та кривавих подій.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Дім Севіджів"
+          }
+        },
+        {
+          "iso_3166_1": "DE",
+          "iso_639_1": "de",
+          "name": "Deutsch",
+          "english_name": "German",
+          "data": {
+            "homepage": "https://www.paramount.de/savage-house",
+            "overview": "Im England des 18. Jahrhunderts folgt Savage House Sir Chauncey Savage, einem Sozialaufsteiger, der verschuldet und großspurig ist. Als er eingeladen wird, Herzog und Herzogin von Devonshire zu empfangen, versuchen Chauncey und seine Frau, Lady Savage, zu beeindrucken.",
+            "runtime": 114,
+            "tagline": "Die feine Gesellschaft war noch nie so gnadenlos.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "NL",
+          "iso_639_1": "nl",
+          "name": "Nederlands",
+          "english_name": "Dutch",
+          "data": {
+            "homepage": "",
+            "overview": "Tegen de achtergrond van het 18e-eeuwse Engeland, een massale pokkenepidemie en een Jacobitische opstand, streven Sir Chauncey Savage en Lady Savage blindelings naar een beter leven. Het is niet zonder ironie dat hun familienaam Savage is, want dit is inderdaad een Savage House, vol duels, decadentie en bloedvergieten.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "TH",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย",
+          "english_name": "Thai",
+          "data": {
+            "homepage": "",
+            "overview": "ท่ามกลางฉากหลังของอังกฤษในศตวรรษที่ 18 การระบาดครั้งใหญ่ของโรคฝีดาษ และการก่อกบฏของพวกจาโคไบต์ เซอร์ ชอนซีย์ ซาเวจ และเลดี้ ซาเวจ ต่างมุ่งมั่นแสวงหาชีวิตที่ดีกว่าอย่างไม่ลืมหูลืมตา ชื่อสกุลของพวกเขาคือ ซาเวจ ซึ่งฟังดูย้อนแย้งเล็กน้อย เพราะนี่คือบ้านซาเวจอย่างแท้จริง ที่เต็มไปด้วยการดวล ความเสื่อมโทรม และการนองเลือด",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "HU",
+          "iso_639_1": "hu",
+          "name": "Magyar",
+          "english_name": "Hungarian",
+          "data": {
+            "homepage": "",
+            "overview": "A 18. századi Angliában, a himlőjárvány és a jakobita felkelés idején játszódó történetben Sir Chauncey és Lady Savage vakon keresik a jobb élet reményét. Törekvésük ironikus dekadenciával és vérontással teli. Sötéten szatirikus játék az osztályról és a hatalomról.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "BR",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "homepage": "",
+            "overview": "Tendo como pano de fundo a Inglaterra do século XVIII, um surto massivo de varíola e a revolta jacobita, Sir Chauncey Savage e Lady Savage buscam cegamente uma vida melhor. Não é sem uma pitada de ironia que seu sobrenome seja Savages (Os Selvagens), pois esta é de fato uma Casa Selvagem, repleta de duelos, decadência e derramamento de sangue.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "RO",
+          "iso_639_1": "ro",
+          "name": "Română",
+          "english_name": "Romanian",
+          "data": {
+            "homepage": "",
+            "overview": "În Anglia secolului al XVIII-lea, pe fondul unei epidemii de variolă și al revoltei iacobite, Sir Chauncey și Lady Savage pornesc orbește în căutarea unei vieți mai bune. Călătoria lor este marcată de o decadență ironică și de vărsare de sânge. O piesă de teatru cu o satiră sumbră asupra claselor sociale și a puterii.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Casa Savage"
+          }
+        },
+        {
+          "iso_3166_1": "RU",
+          "iso_639_1": "ru",
+          "name": "Pусский",
+          "english_name": "Russian",
+          "data": {
+            "homepage": "",
+            "overview": "Сэр Чонси Сэвидж, выходец из социальных низов, спекулянт, удачно женившийся, но так и не ставший своим в высших кругах, неожиданно получает уведомление о предстоящем визите герцога и герцогини. Члены семьи Сэвидж готовы использовать любые методы, чтобы предстать в наиболее выгодном свете.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Дом Сэвиджей"
+          }
+        },
+        {
+          "iso_3166_1": "GR",
+          "iso_639_1": "el",
+          "name": "ελληνικά",
+          "english_name": "Greek",
+          "data": {
+            "homepage": "",
+            "overview": "Με φόντο την Αγγλία του 18ου αιώνα, μια μαζική επιδημία ευλογιάς και την εξέγερση των Ιακωβιτών – ο Σερ Τσόνσι Σάβατζ και η Λαίδη Σάβατζ αναζητούν τυφλά μια καλύτερη ζωή. Δεν είναι χωρίς ειρωνεία που το επίθετό τους είναι Σάβατζ (Άγριοι), γιατί αυτό είναι πράγματι ένα Άγριο Σπίτι, γεμάτο μονομαχίες, παρακμή και αιματοχυσία.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        }
+      ]
+    },
+    "media_type": "movie",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "title_en": "Savage House",
+    "overview_en": "Against the backdrop of 18th century England a massive pox outbreak and Jacobite uprising Sir Chauncey Savage and Lady Savage blindly pursue a better life It s not without a tinge of irony that their family name is the Savages for this is a Savage House indeed filled with duels decadence and bloodshed"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
+    "id": 229544,
+    "name": "Among Us",
+    "original_name": "Among Us",
+    "overview": "يجب على أفراد طاقم سفينة غريبة الأطوار أحادية اللون تنقل الخردة عبر المجرة أن يكتشفوا وجود دخيل بينهم قبل أن يقعوا ضحية لمخططاته الشريرة",
+    "poster_path": "/efAvBtrLLqcxKvUEg4YDQgY0oLY.jpg",
+    "media_type": "tv",
+    "original_language": "en",
+    "genre_ids": [
+      16,
+      35,
+      9648,
+      10765
+    ],
+    "popularity": 11.5377,
+    "first_air_date": "2026-06-05",
+    "softcore": false,
+    "vote_average": 9.093,
+    "vote_count": 140,
+    "origin_country": [
+      "US"
+    ],
+    "seasons": [
+      {
+        "air_date": "2026-06-05",
+        "episode_count": 10,
+        "id": 346794,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/d9B1PJomFcKTSOghMTKN4fxcPX6.jpg",
+        "season_number": 1,
+        "vote_average": 8.6
+      }
+    ],
+    "title": "Among Us",
+    "title_en": "Among Us",
+    "overview_en": "Eccentric monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs"
+  }
+]
