@@ -3,19 +3,44 @@ const fs = require('fs');
 const path = require('path');
 
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
-const REQUEST_TITLE = process.env.REQUEST_TITLE; 
-const REQUEST_ID = process.env.REQUEST_ID; 
+const REQUEST_TITLE = process.env.REQUEST_TITLE;
+const REQUEST_ID = process.env.REQUEST_ID;
 const REQUEST_TYPE = process.env.REQUEST_TYPE;
-const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb'; 
-const OLD_ID = process.env.OLD_ID; 
-const SEASONS_SPLIT = process.env.SEASONS_SPLIT; 
+const REQUEST_ID_TYPE = process.env.REQUEST_ID_TYPE || 'tmdb';
+const OLD_ID = process.env.OLD_ID;
+const SEASONS_SPLIT = process.env.SEASONS_SPLIT;
 const BASE_URL = 'https://api.themoviedb.org/3';
+const IMG_PROFILE_BASE = 'https://image.tmdb.org/t/p/w185';
 
 // تجهيز مجلد البيانات
 const DATA_DIR = path.join(__dirname, 'data');
 if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, { recursive: true });
 }
+
+// عدد الساعات الدنيا بين تحديث كامل (شارتات حية + مكتبة) وآخر — قابل للتعديل عبر متغير بيئة
+// LIVE_REFRESH_HOURS بالـ workflow. هذا يمنع استهلاك حصة TMDB وإرباك السجل بتشغيل السكربت
+// كل 30 دقيقة بدل كل عدة ساعات، بغض النظر عن جدولة الـ cron نفسها.
+const LIVE_REFRESH_HOURS = parseFloat(process.env.LIVE_REFRESH_HOURS || '3');
+const META_FILE = path.join(DATA_DIR, '_scrape_meta.json');
+
+function readMeta() {
+    try { return JSON.parse(fs.readFileSync(META_FILE, 'utf8')); } catch (e) { return {}; }
+}
+
+function writeMeta(meta) {
+    fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
+}
+
+function hoursSince(ts) {
+    if (!ts) return Infinity;
+    return (Date.now() - ts) / (1000 * 60 * 60);
+}
+
+// فئات "الشارت الحي" — تُستبدل بالكامل كل تشغيل (بدون تراكم، بدون منع تكرار عبر الزمن).
+// هذا يطابق سلوك "الرسوم البيانية الأعلى" و"الأحدث على الإنترنت" بتطبيقات مثل HITV:
+// الترتيب لازم يعكس الوضع الحالي فعلياً، مو كومة قديمة متراكمة.
+const LIVE_CHART_CATEGORIES = new Set(['trending', 'latest']);
 
 function sanitizeText(text) {
     if (!text || typeof text !== 'string') return text;
@@ -24,10 +49,10 @@ function sanitizeText(text) {
 
 function injectDualLanguages(item, details) {
     if (!details) return;
-    
+
     item.title = sanitizeText(details.title || details.name || item.title || item.name || "");
     item.overview = sanitizeText(details.overview || item.overview || "");
-    
+
     if (details.translations && details.translations.translations) {
         const enTrans = details.translations.translations.find(t => t.iso_639_1 === 'en');
         if (enTrans && enTrans.data) {
@@ -35,9 +60,25 @@ function injectDualLanguages(item, details) {
             item.overview_en = sanitizeText(enTrans.data.overview || "");
         }
     }
-    
+
     if (!item.title_en) item.title_en = item.title;
     if (!item.overview_en) item.overview_en = item.overview;
+}
+
+// استخراج طاقم التمثيل من TMDB credits وتحويله لشكل CastMember اللي يتوقعه التطبيق
+// ({ name, role, photo_url }) — أعلى 8 أسماء حسب ترتيب الأهمية (order) اللي يرجعه TMDB.
+function extractCast(details) {
+    if (!details || !details.credits || !Array.isArray(details.credits.cast)) return [];
+    return details.credits.cast
+        .slice() // نسخة قبل الفرز
+        .sort((a, b) => (a.order ?? 999) - (b.order ?? 999))
+        .slice(0, 8)
+        .map(actor => ({
+            name: sanitizeText(actor.name || ""),
+            role: "بطوله",
+            photo_url: actor.profile_path ? `${IMG_PROFILE_BASE}${actor.profile_path}` : null
+        }))
+        .filter(a => a.name);
 }
 
 function applyManualSeasonsSplit(item) {
@@ -45,7 +86,7 @@ function applyManualSeasonsSplit(item) {
 
     console.log(`⚙️ جاري تطبيق التقسيم اليدوي للمواسم للمسلسل: [${SEASONS_SPLIT}]`);
     const episodeCounts = SEASONS_SPLIT.split(',').map(num => parseInt(num.trim())).filter(num => !isNaN(num) && num > 0);
-    
+
     if (episodeCounts.length > 0) {
         item.seasons = episodeCounts.map((count, index) => {
             return {
@@ -64,11 +105,15 @@ function filterValidSeasons(seasons) {
 }
 
 // قراءة جميع الملفات في مجلد data لجلب الأيديات القديمة ومنع التكرار
+// ملاحظة: فئات الشارت الحي (trending/latest) مستثناة من هذا الفحص عمداً —
+// نفس العنصر يجوز يظهر بالرائج اليوم وبمكتبة الأفلام كمان، هذا طبيعي وليس تكراراً خاطئاً.
 function getGlobalSeenIds() {
     let ids = new Set();
     const files = fs.readdirSync(DATA_DIR);
     for (let file of files) {
-        if (file.endsWith('.json') && file !== 'index.json') {
+        if (file.endsWith('.json') && file !== 'index.json' && file !== '_scrape_meta.json') {
+            const category = file.split('_')[0];
+            if (LIVE_CHART_CATEGORIES.has(category)) continue;
             try {
                 const data = JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), 'utf8'));
                 if (Array.isArray(data)) {
@@ -103,13 +148,36 @@ function removeDefectiveItem(oldId) {
     }
 }
 
+// يحذف كل الملفات القديمة العائدة لفئة شارت حي معينة (مثلاً كل trending_*.json)
+// قبل ما نكتب النسخة الجديدة — هذا هو المفتاح لمنع تراكم ملفات "رائج" قديمة وميتة.
+function replaceLiveChartFiles(category, items, timestamp) {
+    const files = fs.readdirSync(DATA_DIR);
+    let removedCount = 0;
+    for (let file of files) {
+        if (file.startsWith(`${category}_`) && file.endsWith('.json')) {
+            fs.unlinkSync(path.join(DATA_DIR, file));
+            removedCount++;
+        }
+    }
+    if (removedCount > 0) {
+        console.log(`🧹 تم حذف ${removedCount} ملف قديم من فئة [${category}] قبل التحديث.`);
+    }
+    if (items.length > 0) {
+        const fileName = `${category}_${timestamp}.json`;
+        fs.writeFileSync(path.join(DATA_DIR, fileName), JSON.stringify(items, null, 2));
+        console.log(`📁 تم إنشاء ملف الشارت الحي: ${fileName} (${items.length} عنصر)`);
+        return true;
+    }
+    return false;
+}
+
 async function fetchTmdbIdFromImdb(imdbId) {
     try {
         console.log(`🔎 جاري تحويل IMDb ID (${imdbId}) إلى TMDB ID...`);
         const url = `${BASE_URL}/find/${imdbId}?api_key=${TMDB_API_KEY}&external_source=imdb_id`;
         const res = await fetch(url);
         const data = await res.json();
-        
+
         if (data.movie_results && data.movie_results.length > 0) return { id: data.movie_results[0].id, type: 'movie' };
         if (data.tv_results && data.tv_results.length > 0) return { id: data.tv_results[0].id, type: 'tv' };
     } catch (e) { console.error('❌ خطأ أثناء الاتصال بخدمة التحويل من IMDb'); }
@@ -118,7 +186,7 @@ async function fetchTmdbIdFromImdb(imdbId) {
 
 async function fetchMediaDetails(id, mediaType) {
     try {
-        const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=ar-SA&append_to_response=translations`;
+        const url = `${BASE_URL}/${mediaType}/${id}?api_key=${TMDB_API_KEY}&language=ar-SA&append_to_response=translations,credits`;
         const res = await fetch(url);
         if (res.ok) return await res.json();
     } catch (e) { console.error(`فشل جلب التفاصيل للعنصر: ${id}`); }
@@ -147,13 +215,12 @@ async function saveMediaItem(currentRunData, globalSeenIds, item, mediaType) {
     const details = await fetchMediaDetails(item.id, mediaType);
     if (details) {
         if (!isTv) {
-            // دمج كافة الحقول الخام القادمة من TMDB (budget, genres, production_companies, imdb_id...)
-            // ليصبح شكل البيانات مطابقاً تماماً لملف "جون ويك الجزء الأول" - للأفلام فقط
             item = Object.assign({}, details, item);
         } else if (details.seasons) {
             item.seasons = filterValidSeasons(details.seasons);
         }
         injectDualLanguages(item, details);
+        item.cast = extractCast(details);
     } else {
         item.overview = sanitizeText(item.overview);
         item.title = sanitizeText(item.title || item.name);
@@ -163,6 +230,7 @@ async function saveMediaItem(currentRunData, globalSeenIds, item, mediaType) {
 
     if (item.original_title) item.original_title = sanitizeText(item.original_title);
     applyManualSeasonsSplit(item);
+    item.date_added = Date.now();
 
     let targetCategory = 'trending';
     if (isTv) {
@@ -193,24 +261,24 @@ async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraPara
             if (!data.results || data.results.length === 0) break;
 
             for (let item of data.results) {
-                if (categoryResults.length >= 100) break; 
-                
+                if (categoryResults.length >= 100) break;
+
                 if (item.poster_path && !globalSeenIds.has(item.id)) {
                     globalSeenIds.add(item.id);
-                    
+
                     const isTvShow = mediaType === 'tv' || item.media_type === 'tv' || (!item.title && item.name);
                     const actualType = isTvShow ? 'tv' : 'movie';
-                    item.media_type = actualType; 
+                    item.media_type = actualType;
 
                     const fullDetails = await fetchMediaDetails(item.id, actualType);
                     if (fullDetails) {
                         if (!isTvShow) {
-                            // دمج كافة الحقول الخام (نفس منطق جلب جزء واحد) - للأفلام فقط
                             item = Object.assign({}, fullDetails, item);
                         } else if (fullDetails.seasons) {
                             item.seasons = filterValidSeasons(fullDetails.seasons);
                         }
                         injectDualLanguages(item, fullDetails);
+                        item.cast = extractCast(fullDetails);
                     } else {
                         item.overview = sanitizeText(item.overview);
                         item.title = sanitizeText(item.title || item.name);
@@ -218,6 +286,7 @@ async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraPara
                         item.overview_en = item.overview;
                     }
                     if (item.original_title) item.original_title = sanitizeText(item.original_title);
+                    item.date_added = Date.now();
 
                     categoryResults.push(item);
                 }
@@ -226,6 +295,60 @@ async function fetchStrict100Items(endpoint, mediaType, globalSeenIds, extraPara
         } catch (error) { break; }
     }
     return categoryResults;
+}
+
+// جلب فئة "شارت حي" — بدون فحص globalSeenIds وبدون منع التكرار عبر التشغيلات،
+// لأن هذي الفئة تُستبدل بالكامل كل مرة (انظر replaceLiveChartFiles). تُستخدم لـ trending/latest.
+async function fetchLiveChart(endpoint, mediaType, extraParams = '', limit = 60) {
+    let results = [];
+    let page = 1;
+    const seenThisRun = new Set();
+    console.log(`=== تحديث شارت حي: [${endpoint}] ===`);
+
+    while (results.length < limit && page <= 10) {
+        try {
+            const separator = endpoint.includes('?') ? '&' : '?';
+            const url = `${BASE_URL}${endpoint}${separator}api_key=${TMDB_API_KEY}&language=ar-SA&page=${page}${extraParams}`;
+            const res = await fetch(url);
+            if (!res.ok) break;
+            const data = await res.json();
+            if (!data.results || data.results.length === 0) break;
+
+            for (let item of data.results) {
+                if (results.length >= limit) break;
+                if (item.media_type === 'person') continue;
+                if (!item.poster_path) continue;
+                if (seenThisRun.has(item.id)) continue;
+                seenThisRun.add(item.id);
+
+                const isTvShow = mediaType === 'tv' || item.media_type === 'tv' || (!item.title && item.name);
+                const actualType = isTvShow ? 'tv' : 'movie';
+                item.media_type = actualType;
+
+                const fullDetails = await fetchMediaDetails(item.id, actualType);
+                if (fullDetails) {
+                    if (!isTvShow) {
+                        item = Object.assign({}, fullDetails, item);
+                    } else if (fullDetails.seasons) {
+                        item.seasons = filterValidSeasons(fullDetails.seasons);
+                    }
+                    injectDualLanguages(item, fullDetails);
+                    item.cast = extractCast(fullDetails);
+                } else {
+                    item.overview = sanitizeText(item.overview);
+                    item.title = sanitizeText(item.title || item.name);
+                    item.title_en = item.title;
+                    item.overview_en = item.overview;
+                }
+                if (item.original_title) item.original_title = sanitizeText(item.original_title);
+                item.date_added = Date.now();
+
+                results.push(item);
+            }
+            page++;
+        } catch (error) { break; }
+    }
+    return results;
 }
 
 // دالة معالجة الريكوست المباشر عبر الـ ID مع دعم السلاسل (Collections)
@@ -241,22 +364,19 @@ async function handleDirectIdRequest(currentRunData, globalSeenIds, id, type) {
             break;
         }
     }
-    
+
     if (item) {
-        // التحقق مما إذا كان الفيلم جزءاً من سلسلة
         if (finalMediaType === 'movie' && item.belongs_to_collection) {
             console.log(`🔗 الفيلم ينتمي إلى سلسلة: [${item.belongs_to_collection.name}]. جاري سحب جميع الأجزاء...`);
             const collectionData = await fetchCollectionParts(item.belongs_to_collection.id);
-            
+
             if (collectionData && collectionData.parts) {
-                // ترتيب الأجزاء من الأقدم للأحدث بناءً على تاريخ الإصدار
                 const parts = collectionData.parts.sort((a, b) => new Date(a.release_date || 0) - new Date(b.release_date || 0));
                 for (let part of parts) {
                     await saveMediaItem(currentRunData, globalSeenIds, { id: part.id }, 'movie');
                 }
             }
         } else {
-            // إذا كان فيلماً عادياً أو مسلسلاً، يتم حفظه كالمعتاد
             await saveMediaItem(currentRunData, globalSeenIds, item, finalMediaType);
         }
     } else {
@@ -276,12 +396,12 @@ async function handleDirectRequest(currentRunData, globalSeenIds, queryTitle) {
             let relevantResults = searchData.results
                 .filter(r => r.media_type !== 'person')
                 .sort((a, b) => (b.popularity || 0) - (a.popularity || 0))
-                .slice(0, 3); 
+                .slice(0, 3);
 
             for (let rawItem of relevantResults) {
                 const mediaType = rawItem.media_type || ((rawItem.title) ? 'movie' : 'tv');
                 const item = await fetchMediaDetails(rawItem.id, mediaType);
-                
+
                 if (item && item.poster_path) {
                     if (mediaType === 'movie' && item.belongs_to_collection) {
                         console.log(`🔗 الفيلم ينتمي إلى سلسلة: [${item.belongs_to_collection.name}]. جاري سحب جميع الأجزاء...`);
@@ -311,6 +431,7 @@ async function runScraper() {
     let currentRunData = { trending: [], movies: [], series: [], kdrama: [], anime: [] };
     let globalSeenIds = getGlobalSeenIds();
     const timestamp = Date.now();
+    let generatedFiles = false;
 
     const isIdNumeric = REQUEST_TITLE && /^\d+$/.test(REQUEST_TITLE.trim());
     const targetIdRaw = REQUEST_ID ? REQUEST_ID.trim() : (isIdNumeric ? REQUEST_TITLE.trim() : null);
@@ -327,7 +448,7 @@ async function runScraper() {
                 console.log(`✅ تم تحويل المعرف بنجاح إلى TMDB ID: ${finalId} من نوع ${finalType}`);
             } else {
                 console.log(`❌ لم يتم العثور على أي عنصر يطابق معرف IMDb: ${targetIdRaw}`);
-                finalId = null; 
+                finalId = null;
             }
         }
         if (finalId) await handleDirectIdRequest(currentRunData, globalSeenIds, finalId, finalType);
@@ -335,17 +456,39 @@ async function runScraper() {
     } else if (REQUEST_TITLE && REQUEST_TITLE.trim() !== '') {
         await handleDirectRequest(currentRunData, globalSeenIds, REQUEST_TITLE.trim());
 
-    } else if (!OLD_ID) { 
-        console.log("🔄 جاري سحب الأقسام الخمسة لإنشاء ملفات البيانات الجديدة...");
-        currentRunData.trending = await fetchStrict100Items('/trending/all/day', 'mixed', globalSeenIds);
-        currentRunData.movies = await fetchStrict100Items('/discover/movie', 'movie', globalSeenIds);
-        currentRunData.series = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds);
-        currentRunData.kdrama = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds, '&with_original_language=ko&with_origin_country=KR');
-        currentRunData.anime = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds, '&with_genres=16&with_original_language=ja');
+    } else if (!OLD_ID) {
+        const meta = readMeta();
+        const elapsedHours = hoursSince(meta.lastFullRun);
+
+        if (elapsedHours < LIVE_REFRESH_HOURS) {
+            const remaining = (LIVE_REFRESH_HOURS - elapsedHours).toFixed(1);
+            console.log(`⏭️ تم تخطي التحديث الكامل — آخر تحديث كان قبل ${elapsedHours.toFixed(1)} ساعة فقط.`);
+            console.log(`⏭️ الحد الأدنى بين التحديثات هو ${LIVE_REFRESH_HOURS} ساعة (باقي ~${remaining} ساعة). لا شيء تغيّر بهذا التشغيل.`);
+        } else {
+            // === 1) الشارتات الحية — تُستبدل بالكامل كل تشغيل، تعكس الوضع الفعلي الآن ===
+            console.log("📈 جاري تحديث [الرائج] كشارت حي (استبدال كامل)...");
+            const freshTrending = await fetchLiveChart('/trending/all/week', 'mixed', '', 60);
+            if (replaceLiveChartFiles('trending', freshTrending, timestamp)) generatedFiles = true;
+
+            console.log("🆕 جاري تحديث [الأحدث] كشارت حي (استبدال كامل)...");
+            const nowPlayingMovies = await fetchLiveChart('/movie/now_playing', 'movie', '', 30);
+            const onTheAirTv = await fetchLiveChart('/tv/on_the_air', 'tv', '', 30);
+            if (replaceLiveChartFiles('latest', [...nowPlayingMovies, ...onTheAirTv], timestamp)) generatedFiles = true;
+
+            // === 2) المكتبة التراكمية — تكبر مع الوقت بدون تكرار (لا تُحذف أبداً) ===
+            console.log("📚 جاري إضافة عناصر جديدة لمكتبة الأفلام/المسلسلات...");
+            currentRunData.movies = await fetchStrict100Items('/discover/movie', 'movie', globalSeenIds);
+            currentRunData.series = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds);
+            currentRunData.kdrama = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds, '&with_original_language=ko&with_origin_country=KR');
+            currentRunData.anime = await fetchStrict100Items('/discover/tv', 'tv', globalSeenIds, '&with_genres=16&with_original_language=ja');
+            currentRunData.trending = []; // لا نكتب trending هنا، معالجته صار أعلاه كشارت حي
+
+            writeMeta({ ...meta, lastFullRun: Date.now() });
+            console.log(`✅ اكتمل التحديث الكامل. التحديث القادم مسموح بعد ${LIVE_REFRESH_HOURS} ساعة على الأقل.`);
+        }
     }
 
-    // كتابة الملفات الجديدة
-    let generatedFiles = false;
+    // كتابة ملفات المكتبة التراكمية (movies/series/kdrama/anime + طلبات مباشرة/إصلاح)
     for (const [category, items] of Object.entries(currentRunData)) {
         if (items.length > 0) {
             const fileName = `${category}_${timestamp}.json`;
@@ -356,7 +499,7 @@ async function runScraper() {
     }
 
     if (generatedFiles || OLD_ID) {
-        const allFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json') && f !== 'index.json');
+        const allFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith('.json') && f !== 'index.json' && f !== '_scrape_meta.json');
         fs.writeFileSync(path.join(DATA_DIR, 'index.json'), JSON.stringify(allFiles, null, 2));
         console.log(`📋 تم تحديث فهرس الملفات (index.json) بنجاح! الإجمالي: ${allFiles.length} ملف`);
     }
