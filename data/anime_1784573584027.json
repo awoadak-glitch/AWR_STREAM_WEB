@@ -1,0 +1,960 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "created_by": [],
+    "episode_run_time": [
+      25
+    ],
+    "first_air_date": "2016-04-04",
+    "genres": [
+      {
+        "id": 16,
+        "name": "رسوم متحركة"
+      },
+      {
+        "id": 18,
+        "name": "دراما"
+      },
+      {
+        "id": 9648,
+        "name": "غموض"
+      },
+      {
+        "id": 10759,
+        "name": "حركة ومغامرة"
+      },
+      {
+        "id": 10765,
+        "name": "خيال علمي وفانتازيا"
+      }
+    ],
+    "homepage": "http://re-zero-anime.jp/",
+    "id": 65942,
+    "in_production": true,
+    "languages": [
+      "ja"
+    ],
+    "last_air_date": "2026-06-17",
+    "last_episode_to_air": {
+      "id": 7130083,
+      "name": "الحلقة 77",
+      "overview": "",
+      "vote_average": 9.593,
+      "vote_count": 27,
+      "air_date": "2026-06-17",
+      "episode_number": 77,
+      "episode_type": "mid_season",
+      "production_code": "",
+      "runtime": 25,
+      "season_number": 1,
+      "show_id": 65942,
+      "still_path": "/4eNW0XqXhYuifOwbFje4fYWf3Gf.jpg"
+    },
+    "name": "الحياة في عالم مختلف من الصفر",
+    "next_episode_to_air": {
+      "id": 7130155,
+      "name": "الحلقة 78",
+      "overview": "",
+      "vote_average": 0,
+      "vote_count": 0,
+      "air_date": "2026-08-12",
+      "episode_number": 78,
+      "episode_type": "standard",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 1,
+      "show_id": 65942,
+      "still_path": null
+    },
+    "networks": [
+      {
+        "id": 98,
+        "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+        "name": "TV Tokyo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 173,
+        "logo_path": "/fERjndErEpveJmQZccJbJDi93rj.png",
+        "name": "AT-X",
+        "origin_country": "JP"
+      }
+    ],
+    "number_of_episodes": 85,
+    "number_of_seasons": 1,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Re:ゼロから始める異世界生活",
+    "overview": "القصة تتحدث عن سوبارو ناتسوكي و هو طالب عادي فُقد في العالم البديل و تم إنقاذه من قِبل فتاة جميلة ذات شعر فضي بقي سوبارو بالقرب منها كي يرد لها الجميل لكن مصيرها ثقيل بشكل أكبر من أن يتخيله بطلنا يقوم الأعداء بمهاجمتهما و يتقلانهما بعدها يكتشف بطلنا أن لديه القدرة على العودة من الموت إلى الوقت الذي قدم فيه إلى هذا العالم أول مرة لكنه الوحيد الذي يتذكر ما حدث في ذلك الحين",
+    "popularity": 117.4023,
+    "poster_path": "/x221LECWojgDTnXhWsaMIVmgM5h.jpg",
+    "production_companies": [
+      {
+        "id": 12569,
+        "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
+        "name": "White Fox",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2073,
+        "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+        "name": "KADOKAWA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 142186,
+        "logo_path": "/bdXTOuU7PdsDtQngyM7vb47zePs.png",
+        "name": "Hakuhodo DY Music & Pictures",
+        "origin_country": "JP"
+      },
+      {
+        "id": 157002,
+        "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+        "name": "Tokyo MX",
+        "origin_country": "JP"
+      },
+      {
+        "id": 17981,
+        "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+        "name": "AT-X",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12540,
+        "logo_path": null,
+        "name": "Memory-Tech",
+        "origin_country": "JP"
+      },
+      {
+        "id": 225089,
+        "logo_path": "/g2DdqSxJNOzr9uoEwAcOcSi6DRQ.png",
+        "name": "DAXEL",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 25,
+        "name": "الموسم 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 25,
+        "name": "الموسم 2"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 16,
+        "name": "الموسم 3"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 19,
+        "name": "الموسم 4"
+      }
+    ],
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "vote_average": 8.01,
+    "vote_count": 720,
+    "translations": {
+      "translations": [
+        {
+          "iso_3166_1": "US",
+          "iso_639_1": "en",
+          "name": "English",
+          "english_name": "English",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+            "homepage": "",
+            "tagline": "Racing through the journey of memories——"
+          }
+        },
+        {
+          "iso_3166_1": "RU",
+          "iso_639_1": "ru",
+          "name": "Pусский",
+          "english_name": "Russian",
+          "data": {
+            "name": "Re:ZERO – Жизнь с нуля в альтернативном мире",
+            "overview": "Субару Нацуки, ничем не примечательный затворник, вдруг попадает в другой мир! Казалось бы, всё теперь ему по плечу, а рядом будет красавица-призывательница. Да только вот реальность оказалась жестока: с магией он всё ещё не в ладах, сил не прибавилось, да и никакой красавицы рядом не предвидится. А тут ещё и разбойники напали! Вот только на помощь ему пришла сребровласая девушка, и встреча с ней изменила жизнь Субару... Но в лучшую ли сторону?",
+            "homepage": "",
+            "tagline": "Чтобы спасти тебя, я готов умирать снова и снова."
+          }
+        },
+        {
+          "iso_3166_1": "CN",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "Re：从零开始的异世界生活",
+            "overview": "在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。但想助她一臂之力的昴，却一次次地遭遇敌袭，背叛、暴力，甚至是死亡……“死亡回归”——无力的少年拥有的唯一能力，能将死后时间倒转回一开始。使用了这般力量，便会失去过去的回忆，可为了守护最重要的人们，昴必须抗争到底。“即使你忘却了我，我也不会遗忘你。”",
+            "homepage": "",
+            "tagline": "死亡不过是下一次重逢的起点"
+          }
+        },
+        {
+          "iso_3166_1": "FR",
+          "iso_639_1": "fr",
+          "name": "Français",
+          "english_name": "French",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "Subaru Natsuki a basculé dans un monde fantastique où il fait la connaissance d’Émilia, une jeune fille aux longs cheveux d’argent qu’il jure de protéger. Malheureusement, le jeune homme ne résiste pas longtemps en se faisant tuer rapidement. Pourtant, il revient d’entre les morts, un phénomène qui se répète sans cesse, le ramenant toujours à son point de départ. Subaru entame alors un combat perpétuel dans lequel il essaie, peu à peu, de changer le futur...",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "KR",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말",
+          "english_name": "Korean",
+          "data": {
+            "name": "Re: 제로부터 시작하는 이세계 생활",
+            "overview": "편의점에서 돌아가는 길. 갑자기 이세계로 날아간 소년, 나츠키 스바루.  무력한 소년이 손에 넣은 유일한 힘. 그것은 죽어서 시간을 되돌리는 사망귀환의 힘이었다.  소중한 사람을 지키기 위해. 그리고 분명히 존재했던 하나뿐인 시간을 되찾기 위해.  소년은 가혹한 운명에 맞선다.  널 구하기 위해서라면, 난 몇 번이든 죽겠어!",
+            "homepage": "",
+            "tagline": "너를 구하기 위해서라면 나는 몇 번이고 죽어도 좋다."
+          }
+        },
+        {
+          "iso_3166_1": "BR",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte. Subaru promete derrotar qualquer inimigo, qualquer destino, tudo para protegê-la. E assim, o pobre garoto sem poder algum obtém o \"Retorno da Morte\", uma habilidade única que permite ao usuário voltar no tempo ao morrer. Usando esse poder, o passado é perdido e as memórias são reescritas.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "name": "Re:Zero - Empezar de cero en un mundo diferente",
+            "overview": "Subaru Natsuki es un estudiante corriente de preparatoria que conoce a una hermosa chica de pelo plateado de otro mundo que lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Subaru no quiere que la chica resulte herida, con lo que jura acabar con cualquier enemigo, con cualquier destino que le aguarde, siempre por protegerla.",
+            "homepage": "",
+            "tagline": "¿Qué tiene de malo tomar el camino más fácil si me permitirá vivir más tiempo?"
+          }
+        },
+        {
+          "iso_3166_1": "DE",
+          "iso_639_1": "de",
+          "name": "Deutsch",
+          "english_name": "German",
+          "data": {
+            "name": "Re:ZERO - Starting Life in Another World",
+            "overview": "Natsuki Subaru, ein gewöhnlicher Oberschüler, trifft auf ein wunderschönes silberhaariges Mädchen aus einer anderen Welt. Subaru möchte an ihrer Seite sein und ihr helfen, doch hat sie eine Last zu tragen, die alles übersteigt, was sich Subaru jemals hätte ausmalen können. Zusammen müssen sie sich einem Monster nach dem anderen stellen – zudem Verrat, irrsinnige Gewalt und schließlich auch dem Tod. Subaru möchte jeden Schaden von ihr fernhalten und so schwört er, jedem Gegner und jedem Schicksal zu trotzen. Und so erlangt der eigentlich schwache Junge, die einzigartige Fähigkeit Return by Death, mit der er die Zeit zurückdrehen kann – indem er selbst stirbt.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "UA",
+          "iso_639_1": "uk",
+          "name": "Український",
+          "english_name": "Ukrainian",
+          "data": {
+            "name": "Переродження: Життя з нуля в іншому світі",
+            "overview": "Головний герой, Субару Нацукі, повертався зі звичайного магазину і неймовірним чином опинився у зовсім не звичайному світі. Він не знає хто чи навіщо його викликав, і все стає ще гірше, коли на нього нападають. Та раптово його рятує срібноволоса дівчина з незвичайною кішкою. Щоб повернути борг, Субару починає співпрацювати з ними, і ось коли ситуація поволі стає зрозумілою їх… вбивають.\n\nНаш герой прокидається в тому ж місці, де й з’явився в цьому світі та з подивом усвідомлює, що володіє здатністю «Повернення після смерті». А тепер питання: чи зможе він подолати сумніви та відчай, щоб врятувати дівчину від смерті?",
+            "homepage": "",
+            "tagline": "Новий світ, новий шанс… та нескінченний біль."
+          }
+        },
+        {
+          "iso_3166_1": "MX",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "Natsuki Subaru, un estudiante de secundaria ordinario, está en camino a casa desde la tienda de conveniencia cuando se encuentra transportado a otro mundo. Como está perdido y confundido en un mundo nuevo en el que ni siquiera sabe de izquierda a derecha, la única persona que le alcanzó fue una hermosa niña con cabello plateado. Determinada a pagarle de alguna manera por salvarlo de su propia desesperación, Subaru acepta ayudar a la niña a encontrar algo que está buscando.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "JP",
+          "iso_639_1": "ja",
+          "name": "日本語",
+          "english_name": "Japanese",
+          "data": {
+            "name": "",
+            "overview": "無力な少年が手にしたのは、死して時間を巻き戻す”死に戻り”の力。 コンビニからの帰り道、突如として異世界へと召喚されてしまった少年、菜月昴。頼れるものなど何一つない異世界で、無力な少年が手にした唯一の力……それは死して時間を巻き戻す《死に戻り》の力だった。大切な人たちを守るため、そして確かにあったかけがえのない時間を取り戻すため、少年は絶望に抗い、過酷な運命に立ち向かっていく。​",
+            "homepage": "",
+            "tagline": "君を救うためなら、俺は何度でも死ぬ。"
+          }
+        },
+        {
+          "iso_3166_1": "PT",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "Natsuki Subaru é um estudante de secundário comum que se encontra perdido num mundo alternativo, onde é resgatado por uma bela rapariga de cabelo prateado. Ele fica perto dela para retribuir o favor, mas o destino que a sobrecarrega é mais do que Subaru consegue imaginar. Inimigos atacam um a um, e ambos são mortos. Ele descobre então que tem o poder de reverter a morte, voltando ao momento em que chegou a este mundo. Mas apenas ele se lembra do que aconteceu desde então.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "SA",
+          "iso_639_1": "ar",
+          "name": "العربية",
+          "english_name": "Arabic",
+          "data": {
+            "name": "الحياة في عالم مختلف من الصفر",
+            "overview": "القصة تتحدث عن سوبارو ناتسوكي و هو طالب عادي فُقد في العالم البديل و تم إنقاذه من قِبل فتاة جميلة ذات شعر فضي، بقي سوبارو بالقرب منها كي يرد لها الجميل لكن مصيرها ثقيل بشكل أكبر من أن يتخيله بطلنا، يقوم الأعداء بمهاجمتهما و يتقلانهما، بعدها يكتشف بطلنا أن لديه القدرة على العودة من الموت إلى الوقت الذي قدم فيه إلى هذا العالم أول مرة، لكنه الوحيد الذي يتذكر ما حدث في ذلك الحين.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "IL",
+          "iso_639_1": "he",
+          "name": "עִבְרִית",
+          "english_name": "Hebrew",
+          "data": {
+            "name": "רי:זירו - מתחיל מאפס בעולם אחר-",
+            "overview": "כשנאטסוקי סוברו עוזב את המכולת, הדבר האחרון שאליו הוא מצפה הוא להימשך מחיי היום יום שלו ולהזרק לעולם פנטזיה. הדברים לא נראים טוב לנער המבולבל, למרות זאת: לא הרבה אחרי הגעתו, הוא מותקף על ידי כמה בריונים; חמוש רק בשקית מצרכים ופלאפון שעכשיו חסר תועלת, הוא במהירות מוכה עד זוב דם. למרבה המזל, יפהפיה מסתורית הנקראת סטלה, במרדף צמוד אחרי מי שגנב את הסמל שלה, מגיעה במקרה לסוברו ומצילה אותו. במטרה להודות לנערה הישרה וטובת הלב, סוברו מציע לעזור לה בחיפוש, ומאוחר יותר באותו הלילה, הוא אפילו מוצא את המיקום של מה שהיא מחפשת. אבל ללא ידיעתם, כוח הרבה יותר מרושע עוקב אחרי השניים מהצללים, ורק דקות אחרי איתור הסמל, סוברו וסטלה נרצחים באכזריות.\n\nלמרות זאת, סוברו מיד מתעורר מחדש לסצינה מוכרת – מתעמת עם אותה קבוצת בריונים, ופוגש את סטלה שוב – והתעלומה מתעמקת בעוד שההיסטוריה חוזרת על עצמה באופן בלתי מוסבר.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "TW",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "Re：從零開始的異世界生活",
+            "overview": "普通的高中生菜月昴從便利商店回家的路上，突然被召喚到異世界，遭遇強盜面臨性命危機，這時遇到了一位銀髮少女拯救了他，以報恩為名義，昴自告奮勇要幫助少女找東西。好不容易才掌握到線索，昴和少女卻被不明人士攻擊而死亡，但回過神來，昴卻發現自己置身在第一次被召喚到異世界時的所在位置，這是昴得到的能力 ──「死亡回歸」，死後時間會倒轉回到一開始。昴必須要跨越無數絕望，從死亡的命運中拯救少女！",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "TR",
+          "iso_639_1": "tr",
+          "name": "Türkçe",
+          "english_name": "Turkish",
+          "data": {
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "overview": "Lise öğrencisi Subaru Natsuki, bir gün bakkaldan dönerken öteki dünyaya çağırılır ve böylece hayatının en büyük dönüm noktası başlar. Kim tarafından çağrıldığını henüz bilmemekteydi ve saldırıya uğradığında işler çok daha kötü bir hal alır. Ancak gümüş saçlı gizemli bir kız ve onun sihirli kedisi kendisini kurtadığında Subaru, ona olan iyilik borcunu ödemek için iş birliği yapar. İkisi beraber ipuçlarını bir araya getirdiğinde Subaru ve kız, saldırıya uğrayıp öldürülür. Bundan sonra Subaru, \"Ölümden Dönüş\" adlı yeteneği kazanmış halde uyanır ve zamanı ölümden geri alabilen, çaresiz biri haline gelir ve umutsuzluğun ötesinde kızı, ölümün kaderinden kurtarmaya çalışır.(Acaba başarabilecek mi?)",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "PL",
+          "iso_639_1": "pl",
+          "name": "Polski",
+          "english_name": "Polish",
+          "data": {
+            "name": "Re: Zero – Życie w innym świecie od zera",
+            "overview": "Przeniesiony do innego świata Subaru odkrywa, że po śmierci cofa się w czasie, by przeżyć wszystko od nowa.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "HK",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "Re：從零開始的異世界生活",
+            "overview": "平凡的高中生菜月昴在從便利商店回家的途中，突然被召喚到了異世界。在毫無頭緒的狀況下，他立刻面臨了生命威脅，幸得神秘的銀髮美少女莎緹拉與貓精靈帕克相救。為了報答這份恩情，昴主動提議幫助少女尋找失物，卻在過程中慘遭殺害。當他以為一切都結束時，卻發現自己回到了最初被召喚的地點。原來，這名少年獲得了唯一的特權——「死亡回歸」。為了守護少女的微笑，為了奪回那無可取代的時間，昴將跨越無數次的死亡絕望，反抗殘酷的命運，在輪迴中編織出救贖的物語。",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "IT",
+          "iso_639_1": "it",
+          "name": "Italiano",
+          "english_name": "Italian",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "Di ritorno da un conbini lo studente Subaru Natsuki si ritrova catapultato in un altro mondo. Nel mezzo dello shock di ritrovarsi da solo in un mondo sconosciuto viene pure attaccato, ma una misteriosa ragazza dai capelli d'argento e un gatto fatato lo salvano. Subaru cerca di collaborare con la ragazza per ricambiare il favore quando vengono attaccati di nuovo e uccisi. Subaru si risveglia nello stesso posto in cui si è ritrovato in questo nuovo mondo per la prima volta e lì capisce di possedere l'abilità di \"ritornare indietro attraverso la morte\", ovvero di riavvolgere il tempo quando muore. E ora il suo scopo è di salvare la misteriosa ragazza dal tragico destino!",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "CZ",
+          "iso_639_1": "cs",
+          "name": "Český",
+          "english_name": "Czech",
+          "data": {
+            "name": "Re: Zero - Život od nuly",
+            "overview": "Velmi náhle a bez varování je student Subaru Natsuki, který se právě vracel z obchodního domu, přenesen do jiného tajemného fantasy světa. Bez jakéhokoli vysvětlení, jak se zde ocitl, čelí mladý chlapec největší výzvě svého života. Vše se ještě zhorší, když je během prvotního průzkumu svého okolí přepaden skupinou lupičů. Naštěstí jej v nejhorším zachrání mladá bělovlasá dívka s tajemnou magickou kočkou. Aby se Subaru dívce odvděčil, tak jí nabídne pomoc při pátrání po kapsáři, který dívce ukradl jistý pro ni důležitý předmět. Když se však dostanou zloději na stopu, jsou přepadeni a oba umírají. V momentě, kdy se již chlapec rozloučil se světem, se však náhle stane něco nečekaného! Subaru stojí opět na začátku své cesty v tomto tajemném světě a je na stejném místě i v čase, kdy se objevil poprvé... (Jeoffrey)",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "SK",
+          "iso_639_1": "sk",
+          "name": "Slovenčina",
+          "english_name": "Slovak",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "NO",
+          "iso_639_1": "nb",
+          "name": "Bokmål",
+          "english_name": "Norwegian Bokmål",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "VN",
+          "iso_639_1": "vi",
+          "name": "Tiếng Việt",
+          "english_name": "Vietnamese",
+          "data": {
+            "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác",
+            "overview": "Trên đường từ cửa hàng tiện lợi về nhà, cậu bé tuổi teen Natsuki Subaru bị đưa đến một thế giới khác, và ở đó cậu có được năng lực đảo ngược thời gian bằng cách chết đi.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "TH",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย",
+          "english_name": "Thai",
+          "data": {
+            "name": "รีเซทชีวิต ฝ่าวิกฤตต่างโลก",
+            "overview": "ระหว่างทางกลับบ้านจากร้านค้าสะดวกซื้อ ซูบารุ นัตสิกิ ถูกพลังบางอย่างส่งให้เขาไปยังโลกอื่น ที่เขาสามารถย้อนเวลาได้ด้วยการตาย",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "NL",
+          "iso_639_1": "nl",
+          "name": "Nederlands",
+          "english_name": "Dutch",
+          "data": {
+            "name": "",
+            "overview": "Natsuki Subaru, een gewone middelbare scholier, ontmoet een mooi zilverharig meisje uit een andere wereld. Subaru wil aan haar zijde staan ​​en haar helpen, maar ze moet een last dragen die alles te boven gaat wat Subaru zich ooit had kunnen voorstellen. Samen moeten ze het ene na het andere monster onder ogen zien: verraad, krankzinnig geweld en uiteindelijk de dood. Subaru wil haar van alle kwaad behoeden en daarom zweert hij elke tegenstander en elk lot te trotseren. En zo verkrijgt de feitelijk zwakke jongen de unieke vaardigheid Return by Death, waarmee hij de tijd kan terugdraaien - door zelf te sterven.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "NP",
+          "iso_639_1": "ne",
+          "name": "",
+          "english_name": "Nepali",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "IR",
+          "iso_639_1": "fa",
+          "name": "فارسی",
+          "english_name": "Persian",
+          "data": {
+            "name": "دوباره: هیچ، شروع زندگی در دنیایی دیگر",
+            "overview": "ناتسوکی سوبارو، یک دانش‌آموز دبیرستانی معمولی، در راه بازگشت از خواربارفروشی به خانه است که خود را در دنیایی دیگر می‌یابد. در حالی که در این دنیای جدید گم‌گشته و سردرگم است و حتی چپ و راست را نمی‌شناسد، تنها کسی که به او کمک می‌کند دختری زیبا با موهای نقره‌ای است. سوبارو که مصمم است به نوعی محبت او را در نجات دادنش از ناامیدی جبران کند، موافقت می‌کند به دختر در پیدا کردن چیزی که به دنبالش است کمک کند.",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "HU",
+          "iso_639_1": "hu",
+          "name": "Magyar",
+          "english_name": "Hungarian",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "ID",
+          "iso_639_1": "id",
+          "name": "Bahasa indonesia",
+          "english_name": "Indonesian",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "SE",
+          "iso_639_1": "sv",
+          "name": "svenska",
+          "english_name": "Swedish",
+          "data": {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "CA",
+          "iso_639_1": "fr",
+          "name": "Français",
+          "english_name": "French",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "SG",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "name": "",
+            "overview": "",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "IN",
+          "iso_639_1": "hi",
+          "name": "हिन्दी",
+          "english_name": "Hindi",
+          "data": {
+            "name": "विषय: शून्य - एक दूसरी दुनिया में जीवन की शुरुआत",
+            "overview": "किशोर सुबारू नात्सुकी एक रहस्यमय काल्पनिक दुनिया में जागता है और जल्द ही उसे एहसास होता है कि वह उसी स्थान पर पुनर्जीवित होने के बाद एक समय-चक्र में फंस गया है जहां से वह जागा था।",
+            "homepage": "",
+            "tagline": ""
+          }
+        },
+        {
+          "iso_3166_1": "BG",
+          "iso_639_1": "bg",
+          "name": "български език",
+          "english_name": "Bulgarian",
+          "data": {
+            "name": "Re:ZERO - Живот в друг свят-",
+            "overview": "Нацуки Субару, обикновен гимназист, се прибира от магазина, когато изведнъж се озовава в друг свят. Загубен и объркан, без дори да знае кое е ляво и кое e дясно, единствената, която му подава ръка, е красиво момиче със сребриста коса. Решен да ѝ се отблагодари за това, че го е измъкнала от отчаянието му, Субару се съгласява да ѝ помогне да открие нещо, което тя търси.",
+            "homepage": "",
+            "tagline": ""
+          }
+        }
+      ]
+    },
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1350418,
+          "known_for_department": "Acting",
+          "name": "小林裕介",
+          "original_name": "小林裕介",
+          "popularity": 0.9608,
+          "profile_path": "/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg",
+          "character": "Subaru Natsuki (voice)",
+          "credit_id": "5742e061c3a36852980001b4",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1492982,
+          "known_for_department": "Acting",
+          "name": "高橋李依",
+          "original_name": "高橋李依",
+          "popularity": 3.3063,
+          "profile_path": "/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg",
+          "character": "Emilia (voice)",
+          "credit_id": "5742e0d8c3a36877550024fb",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1321070,
+          "known_for_department": "Acting",
+          "name": "内山夕実",
+          "original_name": "内山夕実",
+          "popularity": 1.9299,
+          "profile_path": "/JvavoF3YOLCf4LHfl4XvYobANE.jpg",
+          "character": "Puck (voice)",
+          "credit_id": "5742e1e59251416ce6002901",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1324665,
+          "known_for_department": "Acting",
+          "name": "ريه موراكاوا",
+          "original_name": "村川梨衣",
+          "popularity": 0.8531,
+          "profile_path": "/pawIx7uhV1a2fAHjvTnrCP0KcHX.jpg",
+          "character": "Ram (voice)",
+          "credit_id": "5742e644925141019f00028f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1325949,
+          "known_for_department": "Acting",
+          "name": "إينوري ميناسي",
+          "original_name": "水瀬いのり",
+          "popularity": 1.8687,
+          "profile_path": "/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg",
+          "character": "Rem (voice)",
+          "credit_id": "5742e556925141111a001c79",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 219563,
+          "known_for_department": "Acting",
+          "name": "新井里美",
+          "original_name": "新井里美",
+          "popularity": 2.1966,
+          "profile_path": "/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg",
+          "character": "Beatrice (voice)",
+          "credit_id": "5742e6af925141111a001ca5",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3345100,
+          "known_for_department": "Production",
+          "name": "岩佐岳",
+          "original_name": "岩佐岳",
+          "popularity": 0.5668,
+          "profile_path": null,
+          "credit_id": "67bc2cb7741152b0420abacd",
+          "department": "Production",
+          "job": "Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1624757,
+          "known_for_department": "Camera",
+          "name": "峰岸健太郎",
+          "original_name": "峰岸健太郎",
+          "popularity": 0.1048,
+          "profile_path": null,
+          "credit_id": "67016734f878adfed0856902",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1624752,
+          "known_for_department": "Writing",
+          "name": "長月達平",
+          "original_name": "長月達平",
+          "popularity": 0.9352,
+          "profile_path": "/iaESXfS1xO3we5h319FWeOH1UuU.jpg",
+          "credit_id": "670127ebb146282f7b855589",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2392824,
+          "known_for_department": "Art",
+          "name": "岩畑剛一",
+          "original_name": "岩畑剛一",
+          "popularity": 0.3739,
+          "profile_path": null,
+          "credit_id": "657085f7d18fb9095ecf1656",
+          "department": "Art",
+          "job": "Prop Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1647492,
+          "known_for_department": "Production",
+          "name": "池本昌仁",
+          "original_name": "池本昌仁",
+          "popularity": 0.1715,
+          "profile_path": null,
+          "credit_id": "6570854979a1c3011b4208e5",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2174356,
+          "known_for_department": "Sound",
+          "name": "若林豪",
+          "original_name": "若林豪",
+          "popularity": 0.29,
+          "profile_path": null,
+          "credit_id": "657085d1383df200ae503e27",
+          "department": "Sound",
+          "job": "Music Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2362599,
+          "known_for_department": "Production",
+          "name": "飯塚彩",
+          "original_name": "飯塚彩",
+          "popularity": 0.2127,
+          "profile_path": null,
+          "credit_id": "657084efd18fb90958e9bdd2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1845876,
+          "known_for_department": "Sound",
+          "name": "古谷友二",
+          "original_name": "古谷友二",
+          "popularity": 0.2182,
+          "profile_path": null,
+          "credit_id": "6570862e41ad8d06e56ac548",
+          "department": "Sound",
+          "job": "Sound Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2403769,
+          "known_for_department": "Art",
+          "name": "鈴木典孝",
+          "original_name": "鈴木典孝",
+          "popularity": 0.3551,
+          "profile_path": null,
+          "credit_id": "6570860c0cb33500e4bd8d3d",
+          "department": "Art",
+          "job": "Prop Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1819782,
+          "known_for_department": "Production",
+          "name": "青木絵理子",
+          "original_name": "青木絵理子",
+          "popularity": 0.2365,
+          "profile_path": null,
+          "credit_id": "65708508fad8e900e39e7c36",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3173213,
+          "known_for_department": "Crew",
+          "name": "川西美保",
+          "original_name": "川西美保",
+          "popularity": 0.2102,
+          "profile_path": null,
+          "credit_id": "65708670fad8e900adbc5f12",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1565177,
+          "known_for_department": "Sound",
+          "name": "末廣健一郎",
+          "original_name": "末廣健一郎",
+          "popularity": 0.2958,
+          "profile_path": "/aNS2Hb3PfgckUMM8ELnbaDYIF7b.jpg",
+          "credit_id": "61931812957e6d0085c222b5",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 570486,
+          "known_for_department": "Sound",
+          "name": "明田川仁",
+          "original_name": "明田川仁",
+          "popularity": 0.5031,
+          "profile_path": "/3YMIlDX7ICCPH6TGoaewb4AcBZM.jpg",
+          "credit_id": "5742ec279251411dc8001ce6",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1624758,
+          "known_for_department": "Visual Effects",
+          "name": "坂本いづみ",
+          "original_name": "坂本いづみ",
+          "popularity": 0.1206,
+          "profile_path": null,
+          "credit_id": "5742ec8cc3a36868e4001aa4",
+          "department": "Visual Effects",
+          "job": "Color Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 550581,
+          "known_for_department": "Writing",
+          "name": "横谷昌宏",
+          "original_name": "横谷昌宏",
+          "popularity": 0.7834,
+          "profile_path": "/vFFo7ODIFfKuoKlRqGpGweIDFTE.jpg",
+          "credit_id": "5742e90cc3a368534200033d",
+          "department": "Writing",
+          "job": "Series Composition"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1624759,
+          "known_for_department": "Editing",
+          "name": "須藤瞳",
+          "original_name": "須藤瞳",
+          "popularity": 0.3362,
+          "profile_path": null,
+          "credit_id": "5742ecaac3a36852980003ac",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2355199,
+          "known_for_department": "Art",
+          "name": "大塚真一郎",
+          "original_name": "大塚真一郎",
+          "popularity": 0.2411,
+          "profile_path": null,
+          "credit_id": "67599a57ef269d0b88e3a935",
+          "department": "Visual Effects",
+          "job": "Character Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2355199,
+          "known_for_department": "Art",
+          "name": "大塚真一郎",
+          "original_name": "大塚真一郎",
+          "popularity": 0.2411,
+          "profile_path": null,
+          "credit_id": "67599a925c364c4a67ffdeec",
+          "department": "Art",
+          "job": "Original Series Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1624752,
+          "known_for_department": "Writing",
+          "name": "長月達平",
+          "original_name": "長月達平",
+          "popularity": 0.9352,
+          "profile_path": "/iaESXfS1xO3we5h319FWeOH1UuU.jpg",
+          "credit_id": "67599ab02d200c84f191281e",
+          "department": "Writing",
+          "job": "Novel"
+        }
+      ]
+    },
+    "media_type": "tv",
+    "title": "الحياة في عالم مختلف من الصفر",
+    "title_en": "Re ZERO Starting Life in Another World",
+    "overview_en": "Natsuki Subaru an ordinary high school student is on his way home from the convenience store when he finds himself transported to another world As he s lost and confused in a new world where he doesn t even know left from right the only person to reach out to him was a beautiful girl with silver hair Determined to repay her somehow for saving him from his own despair Subaru agrees to help the girl find something she s looking for",
+    "cast": [
+      {
+        "name": "小林裕介",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg"
+      },
+      {
+        "name": "高橋李依",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg"
+      },
+      {
+        "name": "内山夕実",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+      },
+      {
+        "name": "ريه موراكاوا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pawIx7uhV1a2fAHjvTnrCP0KcHX.jpg"
+      },
+      {
+        "name": "إينوري ميناسي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg"
+      },
+      {
+        "name": "新井里美",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
+      }
+    ],
+    "date_added": 1784573584230
+  }
+]
