@@ -1,0 +1,39 @@
+name: Daily Full Library Refresh
+
+on:
+  schedule:
+    # الساعة 3 فجراً UTC يومياً — عدّلها حسب توقيتك المفضل
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run full library refresh
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          MAX_REFRESH_ITEMS: "400"
+        run: node refresh_library.js
+
+      - name: Commit and push changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "لا توجد تغييرات لهذي الدفعة."
+          else
+            git commit -m "🔄 تحديث كلي يومي: مواسم/تقييمات جديدة"
+            git push
+          fi
