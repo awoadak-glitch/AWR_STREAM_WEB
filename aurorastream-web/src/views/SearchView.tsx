@@ -30,7 +30,14 @@ export default function SearchView({ onItemClick }: Props) {
     for (const item of searchPool) {
       const titleAr = (item.title ?? item.name ?? "").toLowerCase();
       const titleEn = (item.title_en ?? "").toLowerCase();
-      if ((titleAr.includes(q) || titleEn.includes(q)) && !seen.has(item.id)) {
+      // نضيف original_title/original_name كمصدر بحث ثالث — TMDB يرجّعه دايماً باللغة
+      // الأصلية للعمل بغض النظر عن توفر ترجمة، بعكس title_en اللي ممكن يرجع نسخة
+      // مكررة من العنوان العربي لو TMDB ما وفّر ترجمة إنجليزية صريحة لهذا العمل تحديداً.
+      const titleOriginal = (item.original_title ?? item.original_name ?? "").toLowerCase();
+      if (
+        (titleAr.includes(q) || titleEn.includes(q) || titleOriginal.includes(q)) &&
+        !seen.has(item.id)
+      ) {
         seen.add(item.id);
         matched.push(item);
       }

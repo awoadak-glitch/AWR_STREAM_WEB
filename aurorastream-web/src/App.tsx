@@ -5,7 +5,8 @@ import SearchView from "@/views/SearchView";
 import SettingsView from "@/views/SettingsView";
 import DetailsView from "@/views/DetailsView";
 import PlayerView from "@/views/PlayerView";
-import { HomeIcon, SearchIcon, SettingsIcon } from "@/components/Icons";
+import RequestDialog from "@/components/RequestDialog";
+import { HomeIcon, SearchIcon, SettingsIcon, PlusIcon } from "@/components/Icons";
 
 type Tab = "home" | "search" | "settings";
 
@@ -29,6 +30,7 @@ export default function App() {
     stopPlayback,
     hasNextEpisode,
     playNextEpisode,
+    openRequestDialog,
   } = useAppStore();
 
   return (
@@ -42,6 +44,18 @@ export default function App() {
 
         <FloatingTabBar active={tab} onChange={setTab} />
       </div>
+
+      {/* زر عائم لفتح نافذة "طلب إضافة / إصلاح / تقسيم مواسم" — نفس فكرة الـ FAB
+          بنسخة أندرويد، بس بدون تبويب مخصص عشان ما نزاحم شريط التنقل الأساسي. */}
+      <button
+        onClick={() => openRequestDialog()}
+        className="fixed bottom-24 left-5 z-10 flex h-14 w-14 items-center justify-center rounded-full bg-brandRed shadow-[0_4px_20px_rgba(255,45,120,0.5)] transition hover:scale-105 active:scale-95"
+        aria-label="طلب إضافة أو إصلاح"
+      >
+        <PlusIcon className="h-6 w-6 text-white" />
+      </button>
+
+      <RequestDialog />
 
       {/* الطبقات تُرسم آخر شي بترتيب واضح (تفاصيل ثم مشغّل) عشان تطلع دايماً فوق أي
           تبويب فعّال — بدون أي "نافذة منفصلة" ممكن يختل ترتيبها. تفاصيل العمل تبقى

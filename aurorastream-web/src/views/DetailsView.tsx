@@ -23,6 +23,7 @@ interface Props {
 
 export default function DetailsView({ item, onDismiss, onPlayMovie, onPlayEpisode }: Props) {
   const lastWatchedPosition = useAppStore((s) => s.lastWatchedPosition);
+  const openRequestDialog = useAppStore((s) => s.openRequestDialog);
   const initial = useMemo(() => lastWatchedPosition(item.id), [item.id, lastWatchedPosition]);
 
   const seasons = validSeasons(item);
@@ -122,10 +123,13 @@ export default function DetailsView({ item, onDismiss, onPlayMovie, onPlayEpisod
           </button>
         )}
 
-        <p className="mt-1 flex items-center gap-2 text-[13px] text-white/50">
+        <button
+          onClick={() => openRequestDialog(item)}
+          className="mt-1 flex items-center gap-2 text-[13px] text-white/50 transition hover:text-white/80"
+        >
           <AlertIcon className="h-4 w-4" />
-          واجهت مشكلة بهذا العمل؟ تواصل معنا من صفحة الإعدادات
-        </p>
+          واجهت مشكلة بهذا العمل؟ اطلب إصلاحه
+        </button>
       </div>
     </div>
   );

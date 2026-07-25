@@ -2,32 +2,42 @@ import { useState } from "react";
 import { useAppStore } from "@/store/useAppStore";
 
 export default function SettingsView() {
-  const { settings, updateRepo, updateBranch, loadInitial } = useAppStore();
-  const [repoInput, setRepoInput] = useState(settings.repo);
-  const [branchInput, setBranchInput] = useState(settings.branch);
+  const { settings, updateGithubToken } = useAppStore();
+  const [tokenInput, setTokenInput] = useState(settings.githubToken);
   const [saved, setSaved] = useState(false);
 
   const handleSave = () => {
-    updateRepo(repoInput);
-    updateBranch(branchInput);
+    updateGithubToken(tokenInput);
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
-    void loadInitial();
   };
 
   return (
     <div className="mx-auto flex max-w-lg flex-col gap-6 p-5">
       <div>
-        <h2 className="mb-4 text-lg font-bold text-white">مصدر البيانات</h2>
+        <h2 className="mb-2 text-lg font-bold text-white">توكن الطلبات (اختياري)</h2>
+        <p className="mb-3 text-[12.5px] leading-6 text-white/55">
+          يُستخدم فقط لميزة "طلب إضافة عمل / إصلاح / تقسيم مواسم" — يُخزَّن بمتصفحك أنت فقط
+          ولا يُرسَل أو يُخزَّن بأي مكان ثاني. استخدم توكن محدود الصلاحية (Fine-grained) بصلاحية
+          "Actions: Read and write" على هذا المستودع فقط.
+        </p>
 
-        <Field label="owner/repo" value={repoInput} onChange={setRepoInput} placeholder="مثال: username/my-anime-data" />
-        <Field label="الفرع (branch)" value={branchInput} onChange={setBranchInput} placeholder="main" />
+        <div className="flex flex-col gap-1.5">
+          <input
+            value={tokenInput}
+            onChange={(e) => setTokenInput(e.target.value)}
+            placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"
+            type="password"
+            dir="ltr"
+            className="rounded-xl bg-surfaceDark px-3.5 py-3 text-left text-[14px] text-white placeholder:text-white/30 focus:outline-none focus:ring-2 focus:ring-brandRed/50"
+          />
+        </div>
 
         <button
           onClick={handleSave}
-          className="mt-2 w-full rounded-2xl bg-brandRed py-3.5 font-bold text-white transition hover:brightness-110 active:scale-[0.98]"
+          className="mt-3 w-full rounded-2xl bg-brandRed py-3.5 font-bold text-white transition hover:brightness-110 active:scale-[0.98]"
         >
-          {saved ? "تم الحفظ ✓" : "حفظ وتحديث"}
+          {saved ? "تم الحفظ ✓" : "حفظ"}
         </button>
       </div>
 
@@ -36,8 +46,8 @@ export default function SettingsView() {
       <div>
         <h2 className="mb-2 text-lg font-bold text-white">عن التطبيق</h2>
         <p className="text-[13px] leading-6 text-white/60">
-          AuroraStream لـ الويب — نسخة كاملة بلغة React/TypeScript، تقرأ نفس بيانات مستودع GitHub اللي
-          تستخدمها إصدارات أندرويد وiOS. كل البيانات تُقرأ مباشرة من raw.githubusercontent.com بدون
+          AuroraStream لـ الويب — نسخة كاملة بلغة React/TypeScript، مصدر البيانات مضبوط تلقائياً
+          ولا يحتاج أي إعداد إضافي منك. كل البيانات تُقرأ مباشرة من raw.githubusercontent.com بدون
           أي سيرفر خلفي — هذا الموقع نفسه ملفات ثابتة بالكامل تُستضاف على GitHub Pages.
         </p>
       </div>
@@ -52,31 +62,6 @@ export default function SettingsView() {
           "افتح المصدر بتبويب جديد" داخل المشغّل.
         </p>
       </div>
-    </div>
-  );
-}
-
-function Field({
-  label,
-  value,
-  onChange,
-  placeholder,
-}: {
-  label: string;
-  value: string;
-  onChange: (v: string) => void;
-  placeholder?: string;
-}) {
-  return (
-    <div className="mb-4 flex flex-col gap-1.5">
-      <label className="text-[12px] text-white/50">{label}</label>
-      <input
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        placeholder={placeholder}
-        dir="ltr"
-        className="rounded-xl bg-surfaceDark px-3.5 py-3 text-left text-[14px] text-white placeholder:text-white/30 focus:outline-none focus:ring-2 focus:ring-brandRed/50"
-      />
     </div>
   );
 }

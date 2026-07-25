@@ -10,19 +10,31 @@ const SETTINGS_KEY = "aurora_settings_v1";
 const HISTORY_KEY = "aurora_watch_history_v1";
 const MAX_HISTORY = 25;
 
+// مصدر البيانات صار ثابتاً تلقائياً — مو معروض بواجهة المستخدم، عشان الزوار ما
+// يحتاجون يعرفون أو يعدّلون هذي القيم إطلاقاً.
+const FIXED_REPO = "awoadak-glitch/AWR_STREAM_WEB";
+const FIXED_BRANCH = "main";
+
 export interface AppSettings {
   repo: string;
   branch: string;
+  /** توكن GitHub لتشغيل ميزة "طلب/إصلاح" — يُخزَّن محلياً بمتصفح المستخدم فقط
+   * (localStorage)، أبداً داخل كود الموقع المبني أو المستودع. كل شخص يحط توكنه
+   * الخاص بمتصفحه لو يبي يستخدم الميزة؛ ما فيه توكن مشترك مبني بالموقع. */
+  githubToken: string;
 }
 
 function loadSettings(): AppSettings {
   try {
     const raw = localStorage.getItem(SETTINGS_KEY);
-    if (raw) return JSON.parse(raw);
+    if (raw) {
+      const parsed = JSON.parse(raw);
+      return { repo: FIXED_REPO, branch: FIXED_BRANCH, githubToken: parsed.githubToken ?? "" };
+    }
   } catch {
     /* ignore */
   }
-  return { repo: "", branch: "main" };
+  return { repo: FIXED_REPO, branch: FIXED_BRANCH, githubToken: "" };
 }
 
 function saveSettings(s: AppSettings) {
@@ -52,8 +64,7 @@ export interface EpisodeContext {
 interface AppState {
   // Settings
   settings: AppSettings;
-  updateRepo: (raw: string) => void;
-  updateBranch: (branch: string) => void;
+  updateGithubToken: (token: string) => void;
 
   // Library
   categories: Record<string, MediaItem[]>;
@@ -86,6 +97,12 @@ interface AppState {
   watchHistory: WatchHistoryEntry[];
   removeFromHistory: (itemId: number) => void;
   lastWatchedPosition: (itemId: number) => { season: number; episode: number } | null;
+
+  // Request / repair / seasons-split (triggers the GitHub Actions workflow)
+  requestDialogOpen: boolean;
+  openRequestDialog: (repairItem?: MediaItem) => void;
+  closeRequestDialog: () => void;
+  requestRepairItem: MediaItem | null;
 }
 
 const repository = new LibraryRepository();
@@ -93,18 +110,8 @@ const repository = new LibraryRepository();
 export const useAppStore = create<AppState>((set, get) => ({
   settings: loadSettings(),
 
-  updateRepo: (raw) => {
-    const cleaned = raw
-      .trim()
-      .replace(/^https:\/\/github\.com\//, "")
-      .replace(/\/+$/, "");
-    const next = { ...get().settings, repo: cleaned };
-    set({ settings: next });
-    saveSettings(next);
-  },
-
-  updateBranch: (branch) => {
-    const next = { ...get().settings, branch: branch || "main" };
+  updateGithubToken: (token) => {
+    const next = { ...get().settings, githubToken: token.trim() };
     set({ settings: next });
     saveSettings(next);
   },
@@ -217,6 +224,11 @@ export const useAppStore = create<AppState>((set, get) => ({
     if (!entry?.season || !entry?.episode) return null;
     return { season: entry.season, episode: entry.episode };
   },
+
+  requestDialogOpen: false,
+  requestRepairItem: null,
+  openRequestDialog: (repairItem) => set({ requestDialogOpen: true, requestRepairItem: repairItem ?? null }),
+  closeRequestDialog: () => set({ requestDialogOpen: false, requestRepairItem: null }),
 }));
 
 function recordHistory(
