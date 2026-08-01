@@ -6,7 +6,7 @@ import { CloseIcon } from "@/components/Icons";
 type Mode = "add" | "repair" | "split";
 
 export default function RequestDialog() {
-  const { requestDialogOpen, requestRepairItem, closeRequestDialog, settings } = useAppStore();
+  const { requestDialogOpen, requestRepairItem, closeRequestDialog } = useAppStore();
   const [mode, setMode] = useState<Mode>(requestRepairItem ? "repair" : "add");
 
   const [title, setTitle] = useState("");
@@ -20,15 +20,14 @@ export default function RequestDialog() {
 
   if (!requestDialogOpen) return null;
 
-  const hasToken = settings.githubToken.trim().length > 0;
 
   const handleSubmit = async () => {
     setSubmitting(true);
     setResult(null);
 
-    const res = await dispatchLibraryUpdate(settings.repo, settings.branch, settings.githubToken, {
+    const res = await dispatchLibraryUpdate({
       requestTitle: mode === "add" ? title.trim() : undefined,
-      requestId: mode === "add" && idValue.trim() ? idValue.trim() : undefined,
+      requestId: (mode === "add" || mode === "split") && idValue.trim() ? idValue.trim() : undefined,
       requestIdType: idType,
       requestType: mediaType || undefined,
       oldId: mode === "repair" ? String(requestRepairItem?.id ?? "") : undefined,
@@ -56,12 +55,6 @@ export default function RequestDialog() {
           </button>
         </div>
 
-        {!hasToken && (
-          <div className="mb-4 rounded-xl bg-warningYellow/15 p-3 text-[12.5px] leading-6 text-warningYellow">
-            ما فيه توكن GitHub محفوظ بمتصفحك. روح لتبويب الإعدادات وحطّه أول عشان تقدر تستخدم
-            هذي الميزة. التوكن يُخزَّن بمتصفحك فقط.
-          </div>
-        )}
 
         {!requestRepairItem && (
           <div className="mb-4 flex gap-2 rounded-xl bg-cardDark p-1">
@@ -124,7 +117,7 @@ export default function RequestDialog() {
 
         <button
           onClick={handleSubmit}
-          disabled={submitting || !hasToken}
+          disabled={submitting}
           className="mt-5 w-full rounded-xl bg-brandRed py-3 font-bold text-white transition disabled:opacity-40"
         >
           {submitting ? "جاري الإرسال…" : "إرسال الطلب"}

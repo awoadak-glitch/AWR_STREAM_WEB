@@ -6,7 +6,6 @@ import { LibraryRepository } from "@/lib/libraryRepository";
 
 const VIDAPI_BASE = "https://vaplayer.ru/embed";
 
-const SETTINGS_KEY = "aurora_settings_v1";
 const HISTORY_KEY = "aurora_watch_history_v1";
 const MAX_HISTORY = 25;
 
@@ -18,27 +17,16 @@ const FIXED_BRANCH = "main";
 export interface AppSettings {
   repo: string;
   branch: string;
-  /** توكن GitHub لتشغيل ميزة "طلب/إصلاح" — يُخزَّن محلياً بمتصفح المستخدم فقط
-   * (localStorage)، أبداً داخل كود الموقع المبني أو المستودع. كل شخص يحط توكنه
-   * الخاص بمتصفحه لو يبي يستخدم الميزة؛ ما فيه توكن مشترك مبني بالموقع. */
-  githubToken: string;
 }
 
 function loadSettings(): AppSettings {
+  // حذف الإعداد القديم الذي كان قد يحتوي توكن محفوظاً في المتصفح.
   try {
-    const raw = localStorage.getItem(SETTINGS_KEY);
-    if (raw) {
-      const parsed = JSON.parse(raw);
-      return { repo: FIXED_REPO, branch: FIXED_BRANCH, githubToken: parsed.githubToken ?? "" };
-    }
+    localStorage.removeItem("aurora_settings_v1");
   } catch {
     /* ignore */
   }
-  return { repo: FIXED_REPO, branch: FIXED_BRANCH, githubToken: "" };
-}
-
-function saveSettings(s: AppSettings) {
-  localStorage.setItem(SETTINGS_KEY, JSON.stringify(s));
+  return { repo: FIXED_REPO, branch: FIXED_BRANCH };
 }
 
 function loadHistory(): WatchHistoryEntry[] {
@@ -64,7 +52,6 @@ export interface EpisodeContext {
 interface AppState {
   // Settings
   settings: AppSettings;
-  updateGithubToken: (token: string) => void;
 
   // Library
   categories: Record<string, MediaItem[]>;
@@ -110,11 +97,6 @@ const repository = new LibraryRepository();
 export const useAppStore = create<AppState>((set, get) => ({
   settings: loadSettings(),
 
-  updateGithubToken: (token) => {
-    const next = { ...get().settings, githubToken: token.trim() };
-    set({ settings: next });
-    saveSettings(next);
-  },
 
   categories: {},
   heroCandidates: [],
