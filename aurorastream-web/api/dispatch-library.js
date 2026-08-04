@@ -60,9 +60,21 @@ function validateSameOrigin(request) {
   }
 }
 
-async function handler(request) {
+async function processRequest(request) {
+  // فحص سريع من المتصفح للتأكد أن Vercel Function تعمل وأن المتغير موجود.
+  if (request.method === "GET") {
+    return json({
+      ok: true,
+      service: "dispatch-library",
+      tokenConfigured: Boolean(process.env.GITHUB_ACTIONS_TOKEN),
+      repository: REPO,
+      branch: BRANCH,
+      workflow: WORKFLOW_FILE,
+    });
+  }
+
   if (request.method !== "POST") {
-    return json({ ok: false, message: "الطريقة غير مسموحة." }, 405, { Allow: "POST" });
+    return json({ ok: false, message: "الطريقة غير مسموحة." }, 405, { Allow: "GET, POST" });
   }
 
   if (!validateSameOrigin(request)) {
@@ -83,7 +95,7 @@ async function handler(request) {
     return json(
       {
         ok: false,
-        message: "ميزة الطلبات غير مفعلة على الخادم. أضف GITHUB_ACTIONS_TOKEN في إعدادات Vercel.",
+        message: "ميزة الطلبات غير مفعلة على الخادم. أضف GITHUB_ACTIONS_TOKEN في إعدادات Vercel ثم نفّذ Redeploy.",
       },
       503
     );
@@ -122,7 +134,6 @@ async function handler(request) {
     return json({ ok: false, message: "أدخل رقم المسلسل مع تقسيم المواسم." }, 400);
   }
 
-  // أسماء المفاتيح يجب أن تطابق inputs الموجودة في update-library.yml حرفيًا.
   const inputs = {};
   if (requestTitle) inputs.request_title = requestTitle;
   if (requestId) inputs.request_id = requestId;
@@ -132,53 +143,80 @@ async function handler(request) {
   if (seasonsSplit) inputs.seasons_split = seasonsSplit;
 
   const url = `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
+  const githubResponse = await fetch(url, {
+    method: "POST",
+    headers: {
+      Accept: "application/vnd.github+json",
+      Authorization: `Bearer ${token}`,
+      "X-GitHub-Api-Version": "2026-03-10",
+      "Content-Type": "application/json",
+      "User-Agent": "AuroraStream-Vercel-Function",
+    },
+    body: JSON.stringify({ ref: BRANCH, inputs }),
+  });
 
-  try {
-    const githubResponse = await fetch(url, {
-      method: "POST",
-      headers: {
-        Accept: "application/vnd.github+json",
-        Authorization: `Bearer ${token}`,
-        "X-GitHub-Api-Version": "2026-03-10",
-        "Content-Type": "application/json",
-        "User-Agent": "AuroraStream-Vercel-Function",
-      },
-      body: JSON.stringify({ ref: BRANCH, inputs }),
+  const githubText = await githubResponse.text().catch(() => "");
+
+  if (githubResponse.status === 200 || githubResponse.status === 204) {
+    return json({
+      ok: true,
+      message: "تم إرسال الطلب بنجاح. سيبدأ التحديث عبر GitHub Actions.",
     });
+  }
 
-    if (githubResponse.status === 200 || githubResponse.status === 204) {
-      return json({
-        ok: true,
-        message: "تم إرسال الطلب بنجاح. سيبدأ التحديث عبر GitHub Actions.",
-      });
-    }
+  console.error("GitHub workflow dispatch failed", {
+    status: githubResponse.status,
+    body: githubText.slice(0, 1000),
+    repository: REPO,
+    branch: BRANCH,
+    workflow: WORKFLOW_FILE,
+  });
 
-    if (githubResponse.status === 401 || githubResponse.status === 403) {
-      return json(
-        { ok: false, message: "توكن الخادم غير صالح أو لا يملك صلاحية Actions: write." },
-        502
-      );
-    }
-
-    if (githubResponse.status === 404) {
-      return json(
-        {
-          ok: false,
-          message: `لم يتم العثور على workflow باسم ${WORKFLOW_FILE} أو أن التوكن لا يصل للمستودع.`,
-        },
-        502
-      );
-    }
-
-    const details = await githubResponse.text().catch(() => "");
-    console.error("GitHub workflow dispatch failed", githubResponse.status, details);
+  if (githubResponse.status === 401 || githubResponse.status === 403) {
     return json(
-      { ok: false, message: `فشل إرسال الطلب إلى GitHub (HTTP ${githubResponse.status}).` },
+      { ok: false, message: "توكن الخادم غير صالح، لا يصل للمستودع، أو لا يملك صلاحية Actions: write." },
       502
     );
+  }
+
+  if (githubResponse.status === 404) {
+    return json(
+      {
+        ok: false,
+        message: `لم يتم العثور على workflow باسم ${WORKFLOW_FILE} في الفرع الافتراضي أو أن التوكن لا يصل للمستودع.`,
+      },
+      502
+    );
+  }
+
+  if (githubResponse.status === 422) {
+    return json(
+      {
+        ok: false,
+        message: "رفض GitHub بيانات التشغيل. تحقق من اسم الفرع وملف workflow وأسماء inputs.",
+      },
+      502
+    );
+  }
+
+  return json(
+    { ok: false, message: `فشل إرسال الطلب إلى GitHub (HTTP ${githubResponse.status}).` },
+    502
+  );
+}
+
+async function handler(request) {
+  try {
+    return await processRequest(request);
   } catch (error) {
-    console.error("GitHub workflow dispatch error", error);
-    return json({ ok: false, message: "تعذر اتصال الخادم بواجهة GitHub." }, 502);
+    console.error("dispatch-library unhandled error", error);
+    return json(
+      {
+        ok: false,
+        message: "حدث خطأ داخلي في Vercel Function. افتح Runtime Logs وابحث عن dispatch-library unhandled error.",
+      },
+      500
+    );
   }
 }
 

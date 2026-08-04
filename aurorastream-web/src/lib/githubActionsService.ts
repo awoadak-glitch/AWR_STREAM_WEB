@@ -25,19 +25,31 @@ export async function dispatchLibraryUpdate(payload: RequestPayload): Promise<Di
       body: JSON.stringify(payload),
     });
 
-    const data = (await res.json().catch(() => null)) as DispatchResult | null;
+    const responseText = await res.text();
+    let data: DispatchResult | null = null;
+
+    try {
+      data = JSON.parse(responseText) as DispatchResult;
+    } catch {
+      data = null;
+    }
+
     if (data && typeof data.ok === "boolean" && typeof data.message === "string") {
       return data;
     }
 
+    const vercelRequestId = res.headers.get("x-vercel-id");
+    const requestSuffix = vercelRequestId ? ` — Request ID: ${vercelRequestId}` : "";
+
     return {
       ok: false,
-      message: `فشل الطلب (HTTP ${res.status}).`,
+      message: `خادم Vercel أعاد استجابة غير صالحة (HTTP ${res.status})${requestSuffix}. راجع Runtime Logs.`,
     };
-  } catch {
+  } catch (error) {
+    console.error("dispatchLibraryUpdate network error", error);
     return {
       ok: false,
-      message: "تعذّر الاتصال بخادم الطلبات. تأكد أن الموقع منشور على Vercel.",
+      message: "تعذّر الاتصال بخادم الطلبات. تأكد أن الموقع منشور على Vercel وأن /api/dispatch-library موجود.",
     };
   }
 }
