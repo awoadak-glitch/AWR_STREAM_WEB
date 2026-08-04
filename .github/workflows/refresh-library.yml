@@ -24,7 +24,7 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           MAX_REFRESH_ITEMS: "400"
-        run: node refresh_library.js
+        run: node refresh_library.cjs
 
       - name: Commit and push changes (if any)
         run: |

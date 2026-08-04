@@ -54,7 +54,7 @@ jobs:
           REQUEST_ID_TYPE: ${{ github.event.inputs.request_id_type }}
           OLD_ID: ${{ github.event.inputs.old_id }} 
           SEASONS_SPLIT: ${{ github.event.inputs.seasons_split }}
-        run: node update_library.js
+        run: node update_library.cjs
 
       - name: Commit and Push Library Updates
         run: |
