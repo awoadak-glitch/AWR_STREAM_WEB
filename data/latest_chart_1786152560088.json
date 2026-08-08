@@ -67,7 +67,7 @@
       }
     ],
     "release_date": "2026-07-29",
-    "revenue": 1320000000,
+    "revenue": 1188176434,
     "runtime": 150,
     "softcore": false,
     "spoken_languages": [
@@ -899,7 +899,7 @@
           "name": "ماريسا تومي",
           "original_name": "Marisa Tomei",
           "popularity": 7.7559,
-          "profile_path": "/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg",
+          "profile_path": "/fj6t3XEXFTfA3mxicQAK3uZDdow.jpg",
           "cast_id": 236,
           "character": "May Parker",
           "credit_id": "6a69aeeda77a9356da3781cf",
@@ -5519,7 +5519,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qBb5eYEoZAlStrRXvsFlKukKJG8.jpg"
       }
     ],
-    "date_added": 1786138689413
+    "date_added": 1786152576596
   },
   {
     "adult": false,
@@ -8463,7 +8463,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1786138689435
+    "date_added": 1786152576602
   },
   {
     "adult": false,
@@ -12727,7 +12727,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
       }
     ],
-    "date_added": 1786138689477
+    "date_added": 1786152576706
   },
   {
     "adult": false,
@@ -15431,7 +15431,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dSCcuypWkQzspAQQq4AuejMzYfo.jpg"
       }
     ],
-    "date_added": 1786138689498
+    "date_added": 1786152576711
   },
   {
     "adult": false,
@@ -15785,7 +15785,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138689530
+    "date_added": 1786152576805
   },
   {
     "adult": false,
@@ -18585,7 +18585,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1786138689553
+    "date_added": 1786152576812
   },
   {
     "adult": false,
@@ -21051,7 +21051,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
       }
     ],
-    "date_added": 1786138689588
+    "date_added": 1786152576818
   },
   {
     "adult": false,
@@ -21853,58 +21853,6 @@
       "crew": [
         {
           "adult": false,
-          "gender": 2,
-          "id": 554,
-          "known_for_department": "Production",
-          "name": "Aaron Ryder",
-          "original_name": "Aaron Ryder",
-          "popularity": 0.7901,
-          "profile_path": "/2ReBSLRRFjud0Qp3BfnvLheddBj.jpg",
-          "credit_id": "66350370813cb6012487ba42",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2580328,
-          "known_for_department": "Directing",
-          "name": "Michael Sarnoski",
-          "original_name": "Michael Sarnoski",
-          "popularity": 1.6261,
-          "profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
-          "credit_id": "663503dc99d5c301265771f1",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2429311,
-          "known_for_department": "Production",
-          "name": "Andrew Swett",
-          "original_name": "Andrew Swett",
-          "popularity": 0.4116,
-          "profile_path": null,
-          "credit_id": "663503939590e3012cbb891c",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 4689938,
-          "known_for_department": "Production",
-          "name": "Alexander Black",
-          "original_name": "Alexander Black",
-          "popularity": 0.3065,
-          "profile_path": null,
-          "credit_id": "663503ac9590e3012cbb8924",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 4691915,
           "known_for_department": "Production",
@@ -21938,9 +21886,9 @@
           "original_name": "Michael Sarnoski",
           "popularity": 1.6261,
           "profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
-          "credit_id": "6635035466565a0126148e99",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "6635035fc3926601236e4545",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -21951,9 +21899,61 @@
           "original_name": "Michael Sarnoski",
           "popularity": 1.6261,
           "profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
-          "credit_id": "6635035fc3926601236e4545",
-          "department": "Writing",
-          "job": "Writer"
+          "credit_id": "6635035466565a0126148e99",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689938,
+          "known_for_department": "Production",
+          "name": "Alexander Black",
+          "original_name": "Alexander Black",
+          "popularity": 0.3065,
+          "profile_path": null,
+          "credit_id": "663503ac9590e3012cbb8924",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2580328,
+          "known_for_department": "Directing",
+          "name": "Michael Sarnoski",
+          "original_name": "Michael Sarnoski",
+          "popularity": 1.6261,
+          "profile_path": "/s2bl2Ct2BNLZjXqxHt7SpYgYzLD.jpg",
+          "credit_id": "663503dc99d5c301265771f1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2429311,
+          "known_for_department": "Production",
+          "name": "Andrew Swett",
+          "original_name": "Andrew Swett",
+          "popularity": 0.4116,
+          "profile_path": null,
+          "credit_id": "663503939590e3012cbb891c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554,
+          "known_for_department": "Production",
+          "name": "Aaron Ryder",
+          "original_name": "Aaron Ryder",
+          "popularity": 0.7901,
+          "profile_path": "/2ReBSLRRFjud0Qp3BfnvLheddBj.jpg",
+          "credit_id": "66350370813cb6012487ba42",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -22826,7 +22826,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg"
       }
     ],
-    "date_added": 1786138689609
+    "date_added": 1786152576886
   },
   {
     "adult": false,
@@ -24209,19 +24209,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1564846,
-          "known_for_department": "Acting",
-          "name": "أولي كرافايو",
-          "original_name": "Auliʻi Cravalho",
-          "popularity": 2.2014,
-          "profile_path": "/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
-          "credit_id": "642b4434ac8e6b0111c70185",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 9543,
           "known_for_department": "Production",
@@ -24232,6 +24219,19 @@
           "credit_id": "642b46ddc0a30800b43bd717",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1564846,
+          "known_for_department": "Acting",
+          "name": "أولي كرافايو",
+          "original_name": "Auliʻi Cravalho",
+          "popularity": 2.2014,
+          "profile_path": "/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
+          "credit_id": "642b4434ac8e6b0111c70185",
+          "department": "Production",
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -25898,7 +25898,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138689631
+    "date_added": 1786152576892
   },
   {
     "adult": false,
@@ -28232,7 +28232,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
       }
     ],
-    "date_added": 1786138689653
+    "date_added": 1786152576898
   },
   {
     "adult": false,
@@ -29402,7 +29402,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4SapY7LbHDHdNPV46uRUOujQJ2n.jpg"
       }
     ],
-    "date_added": 1786138689673
+    "date_added": 1786152576904
   },
   {
     "adult": false,
@@ -32918,7 +32918,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1786138689710
+    "date_added": 1786152576910
   },
   {
     "adult": false,
@@ -33331,6 +33331,19 @@
             "runtime": 0,
             "tagline": "",
             "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "DE",
+          "iso_639_1": "de",
+          "name": "Deutsch",
+          "english_name": "German",
+          "data": {
+            "homepage": "",
+            "overview": "Die Biotechnologie-Professorin Se-jeong nimmt an einer Konferenz teil, die ins Chaos stürzt, als ein schnell mutierendes Virus freigesetzt wird. Infizierte verwandeln sich, die Behörden riegeln das Gebäude ab, die Überlebenden sind einer wachsenden Bedrohung ausgeliefert.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Colony"
           }
         }
       ]
@@ -33911,7 +33924,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1786138689732
+    "date_added": 1786152576935
   },
   {
     "adult": false,
@@ -35583,7 +35596,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
       }
     ],
-    "date_added": 1786138689755
+    "date_added": 1786152577029
   },
   {
     "adult": false,
@@ -36939,7 +36952,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/offeicvD1BnhZ4S0yz3C3YwxWZS.jpg"
       }
     ],
-    "date_added": 1786138689777
+    "date_added": 1786152577036
   },
   {
     "adult": false,
@@ -39013,7 +39026,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6Gr0aT1Hux2P3KM35IXdXbXZABk.jpg"
       }
     ],
-    "date_added": 1786138689797
+    "date_added": 1786152577103
   },
   {
     "adult": false,
@@ -41923,7 +41936,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4quy82rUnOFDyEe8GWLUopSBd3s.jpg"
       }
     ],
-    "date_added": 1786138689818
+    "date_added": 1786152577109
   },
   {
     "adult": false,
@@ -42793,9 +42806,9 @@
           "original_name": "Kate Dolan",
           "popularity": 0.9978,
           "profile_path": "/zMlC9OG6tneEpJJOdqBLtDvFhR9.jpg",
-          "credit_id": "667476918c602d737c4ec118",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "667476996f1a1f7f458f1efb",
+          "department": "Writing",
+          "job": "Screenplay"
         },
         {
           "adult": false,
@@ -42806,35 +42819,9 @@
           "original_name": "Kate Dolan",
           "popularity": 0.9978,
           "profile_path": "/zMlC9OG6tneEpJJOdqBLtDvFhR9.jpg",
-          "credit_id": "667476996f1a1f7f458f1efb",
-          "department": "Writing",
-          "job": "Screenplay"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2302448,
-          "known_for_department": "Production",
-          "name": "Judson Scott",
-          "original_name": "Judson Scott",
-          "popularity": 0.6679,
-          "profile_path": "/8Z0AgsiQ3KAvgnluRTTCXSInnsF.jpg",
-          "credit_id": "66747b01169091fb92a3cb13",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 117656,
-          "known_for_department": "Acting",
-          "name": "Ingrid Bisu",
-          "original_name": "Ingrid Bisu",
-          "popularity": 1.7117,
-          "profile_path": "/ndXpP6itF7oSDQwIoHLVZCekNSg.jpg",
-          "credit_id": "66747a8f09f6775b1a250485",
-          "department": "Writing",
-          "job": "Story"
+          "credit_id": "667476918c602d737c4ec118",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -42851,6 +42838,19 @@
         },
         {
           "adult": false,
+          "gender": 2,
+          "id": 105828,
+          "known_for_department": "Writing",
+          "name": "Rafael Jordan",
+          "original_name": "Rafael Jordan",
+          "popularity": 0.9227,
+          "profile_path": "/uZg9JlTyFtafAdqvUtv975PQ6Ys.jpg",
+          "credit_id": "66747a6e4e62d93572d8cb0e",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
           "gender": 1,
           "id": 117656,
           "known_for_department": "Acting",
@@ -42859,6 +42859,19 @@
           "popularity": 1.7117,
           "profile_path": "/ndXpP6itF7oSDQwIoHLVZCekNSg.jpg",
           "credit_id": "66747aaaac6c58eee91a5f8f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2302448,
+          "known_for_department": "Production",
+          "name": "Judson Scott",
+          "original_name": "Judson Scott",
+          "popularity": 0.6679,
+          "profile_path": "/8Z0AgsiQ3KAvgnluRTTCXSInnsF.jpg",
+          "credit_id": "66747b01169091fb92a3cb13",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -42877,14 +42890,14 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 105828,
-          "known_for_department": "Writing",
-          "name": "Rafael Jordan",
-          "original_name": "Rafael Jordan",
-          "popularity": 0.9227,
-          "profile_path": "/uZg9JlTyFtafAdqvUtv975PQ6Ys.jpg",
-          "credit_id": "66747a6e4e62d93572d8cb0e",
+          "gender": 1,
+          "id": 117656,
+          "known_for_department": "Acting",
+          "name": "Ingrid Bisu",
+          "original_name": "Ingrid Bisu",
+          "popularity": 1.7117,
+          "profile_path": "/ndXpP6itF7oSDQwIoHLVZCekNSg.jpg",
+          "credit_id": "66747a8f09f6775b1a250485",
           "department": "Writing",
           "job": "Story"
         },
@@ -42903,19 +42916,6 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 3351598,
-          "known_for_department": "Directing",
-          "name": "Jonathan Quinlan",
-          "original_name": "Jonathan Quinlan",
-          "popularity": 0.2944,
-          "profile_path": null,
-          "credit_id": "66c597f8b4688a27a6f7383e",
-          "department": "Directing",
-          "job": "First Assistant Director"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 84348,
           "known_for_department": "Production",
@@ -42926,6 +42926,19 @@
           "credit_id": "66c5970e19fcb9bc26972b92",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3351598,
+          "known_for_department": "Directing",
+          "name": "Jonathan Quinlan",
+          "original_name": "Jonathan Quinlan",
+          "popularity": 0.2944,
+          "profile_path": null,
+          "credit_id": "66c597f8b4688a27a6f7383e",
+          "department": "Directing",
+          "job": "First Assistant Director"
         },
         {
           "adult": false,
@@ -43434,7 +43447,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138689844
+    "date_added": 1786152577114
   },
   {
     "adult": false,
@@ -44733,7 +44746,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138689877
+    "date_added": 1786152577243
   },
   {
     "adult": false,
@@ -45124,1435 +45137,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138689909
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
-    "belongs_to_collection": null,
-    "budget": 1000000,
-    "genres": [
-      {
-        "id": 27,
-        "name": "رعب"
-      },
-      {
-        "id": 28,
-        "name": "حركة"
-      },
-      {
-        "id": 53,
-        "name": "إثارة"
-      }
-    ],
-    "homepage": "",
-    "id": 1110034,
-    "imdb_id": "tt19838566",
-    "origin_country": [
-      "NO"
-    ],
-    "original_language": "no",
-    "original_title": "Kraken",
-    "overview": "تجري عالمة أحياء بحرية أبحاثًا في مزرعة أسماك فتصادف عدة أحداث غريبة فإلى جانب الموت الوحشي لمراهقين اثنين تشير كل الدلائل إلى أعماق المضيق البحري فهل من الممكن أن تخفي الأعماق ما لا تراه العين",
-    "popularity": 119.0081,
-    "poster_path": "/uvoKMovRqtmGj2WnDTWxoV8AuaV.jpg",
-    "production_companies": [
-      {
-        "id": 119141,
-        "logo_path": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
-        "name": "Handmade films in Norwegian Woods",
-        "origin_country": "NO"
-      },
-      {
-        "id": 38072,
-        "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
-        "name": "Nordisk Film Norway",
-        "origin_country": "NO"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "NO",
-        "name": "Norway"
-      }
-    ],
-    "release_date": "2026-02-06",
-    "revenue": 14329678,
-    "runtime": 94,
-    "softcore": false,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "english_name": "Japanese",
-        "iso_639_1": "ja",
-        "name": "日本語"
-      },
-      {
-        "english_name": "Norwegian",
-        "iso_639_1": "no",
-        "name": "Norsk"
-      }
-    ],
-    "status": "Released",
-    "tagline": "",
-    "title": "كراكن",
-    "video": false,
-    "vote_average": 6.314,
-    "vote_count": 263,
-    "translations": {
-      "translations": [
-        {
-          "iso_3166_1": "US",
-          "iso_639_1": "en",
-          "name": "English",
-          "english_name": "English",
-          "data": {
-            "homepage": "https://www.handmadefilms.no/nye-prosjekter",
-            "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
-            "runtime": 94,
-            "tagline": "Only 5% of the ocean has been explored for a reason…",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "NO",
-          "iso_639_1": "nb",
-          "name": "Bokmål",
-          "english_name": "Norwegian Bokmål",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 94,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "CN",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "在挪威壮丽的深峡湾畔，宁静的小渔村维加斯发生了一系列令人匪夷所思的事件。海洋生物学家约翰娜正在当地的鱼场进行一项常规科研项目，起初完全沉浸在这片世外桃源的自然美景中。然而，这份宁静被骤然打破：两名当地青少年相继离奇死亡，整个村庄陷入前所未有的恐慌与猜疑之中。随着调查的深入，约翰娜发现所有迹象都指向峡湾那深不见底的黑暗水域。她凭借专业知识和设备进行探测，最终揭示了令人窒息的真相！",
-            "runtime": 0,
-            "tagline": "",
-            "title": "深海魅影"
-          }
-        },
-        {
-          "iso_3166_1": "HK",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "一艘俄羅斯導彈潛艇在格陵蘭海執行秘密任務時失蹤，不知所蹤。北方艦隊最年輕的司令維克托·沃羅寧前去搜尋，他的哥哥正是這艘失蹤巡洋艦的指揮官。與此同時，由於極地站被毀，一頭怪物出現在北方海域。",
-            "runtime": 0,
-            "tagline": "",
-            "title": "極寒潛襲"
-          }
-        },
-        {
-          "iso_3166_1": "TW",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "一艘俄羅斯導彈潛艇在格陵蘭海執行秘密任務時失蹤，不知所蹤。北方艦隊最年輕的司令維克托·沃羅寧前去搜尋，他的哥哥正是這艘失蹤巡洋艦的指揮官。與此同時，由於極地站被毀，一頭怪物出現在北方海域。",
-            "runtime": 0,
-            "tagline": "",
-            "title": "極寒潛襲"
-          }
-        },
-        {
-          "iso_3166_1": "VN",
-          "iso_639_1": "vi",
-          "name": "Tiếng Việt",
-          "english_name": "Vietnamese",
-          "data": {
-            "homepage": "",
-            "overview": "Bối cảnh đặt vào thời Chiến tranh Lạnh, một tàu ngầm tên lửa Nga biến mất bí ẩn trên Biển Greenland. Đại úy Viktor Voronin (Alexander Petrov) — người em của chỉ huy tàu mất tích — dẫn đầu chiến dịch cứu hộ. Trong khi đó, một căn cứ địa chất ở Bắc Cực vô tình đánh thức con Kraken—một quái vật biển sâu khổng lồ với khả năng ngụy trang siêu việt và trí thông minh đáng sợ. Khi nhóm cứu hộ tiếp cận khu vực tàu ngầm mất tích, họ cũng phải đối mặt với sinh vật huyền thoại đang nổi lên từ đáy đại dương",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Quái Vật Biển"
-          }
-        },
-        {
-          "iso_3166_1": "BG",
-          "iso_639_1": "bg",
-          "name": "български език",
-          "english_name": "Bulgarian",
-          "data": {
-            "homepage": "",
-            "overview": "Руският ракетен подводен крайцер със специално предназначение безследно изчезва по време на секретна мисия в Гренландско море. За неговото търсене тръгва екипаж под командването на Виктор Воронин, чийто по-голям брат е командвал изчезналата подводница.  Пред моряците стои задачата с всякакви средства да намерят подводницата и да не допуснат новото секретно оръжие да попадне в ръцете на врага. В същото време, заради геоложките изследвания на полярната станция в северните води, се събужда Кракен - гигантско чудовище, способно да се слива с подводната тъма, притежаващо висок интелект. Именно с него ще се сблъскат моряците, търсещи изчезналата подводна лодка.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Кракен"
-          }
-        },
-        {
-          "iso_3166_1": "KR",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말",
-          "english_name": "Korean",
-          "data": {
-            "homepage": "",
-            "overview": "외딴 피오르드 마을의 양식장에서 일하던 해양생물학자 요한네는 설명할 수 없는 죽음과 실종이 잇따르자, 모든 단서가 바다 깊은 곳을 향하고 있음을 직감한다. 잔잔하던 물결 아래 감춰진 거대한 존재, 오래된 전설로만 여겨졌던 크라켄의 그림자가 서서히 마을을 집어삼키기 시작한다. 두려움과 불신 속에서도 진실을 쫓는 요한네는 누구도 마주하려 하지 않는 심해의 비밀에 다가서게 되는데...",
-            "runtime": 0,
-            "tagline": "깊은 피오르드 아래, 전설의 공포가 깨어난다",
-            "title": "크라켄"
-          }
-        },
-        {
-          "iso_3166_1": "PL",
-          "iso_639_1": "pl",
-          "name": "Polski",
-          "english_name": "Polish",
-          "data": {
-            "homepage": "",
-            "overview": "Biolog morska Johanne prowadzi badania na farmie rybnej w Vangsnes, wiejskiej społeczności położonej nad fiordem, gdy zaczyna doświadczać serii dziwnych zdarzeń. Wraz z brutalnymi śmierciami dwojga miejscowych nastolatków, wszystkie tropy prowadzą w głąb fiordu. Czy w jego głębinach kryje się coś więcej, niż można dostrzec gołym okiem? Na dnie najgłębszego fiordu spoczywa mityczne monstrum wielkie jak góra, z niezliczoną liczbą ramion gotowych zmiażdżyć i pożreć wszystko, co zdołają pochwycić.",
-            "runtime": 100,
-            "tagline": "",
-            "title": "Kraken"
-          }
-        },
-        {
-          "iso_3166_1": "NO",
-          "iso_639_1": "no",
-          "name": "Norsk",
-          "english_name": "Norwegian",
-          "data": {
-            "homepage": "",
-            "overview": "Når en bygd i Sognefjorden rammes av mystiske hendelser, blir marinbiologen Johanne Berge motvillig sendt til bygda for å undersøke. Rare naturfenomener, merkelige lyder fra dypet, og en tragisk ulykke vekker mistanke om noe farlig som truer fjorden. Mens Johanne kjemper mot både miljøødeleggelser og sin egen fortid, må hun avsløre sannheten før dypets skrekk tar over.",
-            "runtime": 102,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "PT",
-          "iso_639_1": "pt",
-          "name": "Português",
-          "english_name": "Portuguese",
-          "data": {
-            "homepage": "",
-            "overview": "A bióloga marinha Johanne está a pesquisar numa fazenda de peixes em Vangsnes, uma comunidade rural localizada perto do fiorde, quando se depara com vários acontecimentos estranhos. Além das mortes brutais de dois adolescentes locais, todos os sinais apontam para o fiorde profundo; será que há mais nas profundezas do que os olhos podem ver? No fundo do fiorde mais profundo, repousa um monstro mítico do tamanho de uma montanha, com uma miríade de braços prontos para esmagar e devorar qualquer coisa que consiga agarrar.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "name": "Español",
-          "english_name": "Spanish",
-          "data": {
-            "homepage": "",
-            "overview": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "IT",
-          "iso_639_1": "it",
-          "name": "Italiano",
-          "english_name": "Italian",
-          "data": {
-            "homepage": "",
-            "overview": "La biologa marina Johanne sta facendo ricerche in un allevamento ittico a Vangsnes, una comunità rurale situata vicino al fiordo, quando incontra diversi strani eventi. Insieme alla morte brutale di due adolescenti locali, tutti i segni indicano il fiordo profondo; può esserci di più in profondità di quanto l'occhio possa vedere? In fondo al fiordo più profondo riposa un mostro mitico grande come una montagna, con una miriade di braccia pronte a schiacciare e divorare qualsiasi cosa riescano ad afferrare.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "DE",
-          "iso_639_1": "de",
-          "name": "Deutsch",
-          "english_name": "German",
-          "data": {
-            "homepage": "",
-            "overview": "Eine Meeresbiologin untersucht eine Fischfarm, als mehrere Teenager unter mysteriösen Umständen ums Leben kommen. Ungewöhnliche Ereignisse lassen vermuten, dass in den Tiefen des Fjords ein riesiges, vielarmiges Wesen lauert. Auf der Suche nach Antworten geht sie der Frage nach, ob sich in Norwegens tiefstem Fjord tatsächlich ein legendäres Monster verbirgt.",
-            "runtime": 100,
-            "tagline": "Nur 5% des Ozeans wurden bisher erforscht, und das aus guten Grund...",
-            "title": "Kraken - Erwachen der Tiefe"
-          }
-        },
-        {
-          "iso_3166_1": "FR",
-          "iso_639_1": "fr",
-          "name": "Français",
-          "english_name": "French",
-          "data": {
-            "homepage": "",
-            "overview": "Johanne, biologiste marine, mène des recherches dans une ferme piscicole à Vangsnes, un petit village situé au bord de l'un des fjords les plus profonds de Norvège, suite à une série de morts mystérieuses.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "UA",
-          "iso_639_1": "uk",
-          "name": "Український",
-          "english_name": "Ukrainian",
-          "data": {
-            "homepage": "",
-            "overview": "Морський біолог під час дослідження стикається з кількома дивними явищами. Тіла двох жорстоко вбитих підлітків вказують на місце, де глибина приховує щось більше, ніж здатне побачити око. На дні цього найглибшого фіорду спочиває величезний глибоководний монстр зі щупальцями, готовими розчавити все, до чого дотягнуться. Група вчених через необачні експерименти розбудила цього гігантського восьминога, відомого лише з міфів, і тепер він зноситиме все на своєму шляху…",
-            "runtime": 0,
-            "tagline": "Гігантський монстр пробуджується в глибині.",
-            "title": "Кракен"
-          }
-        },
-        {
-          "iso_3166_1": "SI",
-          "iso_639_1": "sl",
-          "name": "Slovenščina",
-          "english_name": "Slovenian",
-          "data": {
-            "homepage": "",
-            "overview": "Morska biologinja Johanne izvaja raziskave na ribogojnici v Vangsnesu, podeželski skupnosti ob fjordu, ko naleti na več nenavadnih pojavov. Poleg brutalnih smrti dveh najstnikov vsi znaki kažejo na globoki fjord; je lahko v globinah več, kot vidi oko? Na dnu najglobljega fjorda počiva mitska pošast, velika kot gora, z neštetimi rokami, pripravljenimi zdrobiti in požreti vse, česar se lahko primejo.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "MX",
-          "iso_639_1": "es",
-          "name": "Español",
-          "english_name": "Spanish",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "SE",
-          "iso_639_1": "sv",
-          "name": "svenska",
-          "english_name": "Swedish",
-          "data": {
-            "homepage": "",
-            "overview": "Marinbiologen Johanne forskar vid en fiskodling i norska Vangsnes där hon upptäcker flera märkliga händelser. Efter två tonåringars brutala död, pekar allt mot den djupa fjorden; kan det finnas mer i djupet än vad ögat kan se?",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "DK",
-          "iso_639_1": "da",
-          "name": "Dansk",
-          "english_name": "Danish",
-          "data": {
-            "homepage": "",
-            "overview": "Marinbiolog Johanne forsker på en fiskefarm i Vangsnes, et landligt samfund beliggende ved fjorden, da hun støder på adskillige mærkelige hændelser. Sammen med de brutale dødsfald af to lokale teenagere peger alt på den dybe fjord; kan der være mere i dybet, end øjet kan se? På bunden af ​​den dybeste fjord hviler et mytisk monster så stort som et bjerg, med et utal af arme klar til at knuse og fortære alt, hvad det kan gribe fat i.",
-            "runtime": 94,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "RU",
-          "iso_639_1": "ru",
-          "name": "Pусский",
-          "english_name": "Russian",
-          "data": {
-            "homepage": "",
-            "overview": "Морской биолог Йоханна проводит исследование на рыбной ферме в Вангснесе, сельском поселении на берегу фьорда, и сталкивается с несколькими странными явлениями. Помимо жестокой расправы над двумя местными подростками, все указывает на глубины фьорда. Может ли там быть что-то, чего не видно глазу? На дне самого глубокого фьорда обитает мифическое чудовище размером с гору, с множеством щупалец, готовых раздавить и поглотить все, до чего они смогут дотянуться.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Кракен"
-          }
-        },
-        {
-          "iso_3166_1": "RO",
-          "iso_639_1": "ro",
-          "name": "Română",
-          "english_name": "Romanian",
-          "data": {
-            "homepage": "",
-            "overview": "În timpul unor cercetări la o fermă piscicolă, un biolog marin se confruntă cu o serie de evenimente ciudate. După moartea violentă a doi adolescenți, toate semnele indică spre adâncimile fiordului. Să fie în acele ape ceva mai mult decât poate vedea ochiul liber?",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "BR",
-          "iso_639_1": "pt",
-          "name": "Português",
-          "english_name": "Portuguese",
-          "data": {
-            "homepage": "",
-            "overview": "Um biólogo marinho investiga uma fazenda de peixe. Adolescentes mortos e curiosos acreditam que uma criatura gigantesca com vários tentáculos está localizada nas profundezas do fiordo, pronta para esmagar suas vítimas.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "FI",
-          "iso_639_1": "fi",
-          "name": "suomi",
-          "english_name": "Finnish",
-          "data": {
-            "homepage": "",
-            "overview": "Meribiologi Johanne saapuu komennukselle Vangsnesin kylään Norjan syvimmän vuonon Sognefjordin rannalle. Syynä ovat lohien joukkokuolemat, joiden hän epäilee liittyvän paikallisessa kasvattamossa testattavaan teknologiaan. Keksintö torjuu kalojen loiseläimiä ääniaalloilla. Myös poliisi joutuu puuttumaan peliin, kun rantaan huuhtoutuu ruumiita. Ääniaaltokokeet ovat sysänneet liikkeelle jotain suurempaa, joka on elänyt omissa oloissaan yli 1200 metrin syvyisen vuonon pohjavesissä.",
-            "runtime": 95,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "NL",
-          "iso_639_1": "nl",
-          "name": "Nederlands",
-          "english_name": "Dutch",
-          "data": {
-            "homepage": "",
-            "overview": "Een marien bioloog doet onderzoek op een viskwekerij wanneer ze verschillende vreemde gebeurtenissen tegenkomt. Samen met de brute dood van twee tieners wijzen alle aanwijzingen naar de diepe fjord; schuilt er meer in de diepte dan op het eerste gezicht lijkt?",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "LT",
-          "iso_639_1": "lt",
-          "name": "Lietuvių",
-          "english_name": "Lithuanian",
-          "data": {
-            "homepage": "",
-            "overview": "Jūrų biologė Johanne atlieka tyrimus žuvų fermoje Vangsneso kaimo bendruomenėje, esančioje prie fiordo, kai susiduria su keistais įvykiais. Kartu su žiauriomis dviejų vietinių paauglių mirtimis visi ženklai rodo į giliąją fiordo gelmę. Ar ten gali slypėti kažkas daugiau, nei akis mato? Giliausio fiordo dugne ilsisi mitinė pabaisa, didumo kaip kalnas, su daugybe rankų, pasirengusių sutraiškyti ir praryti viską, ką tik gali sugriebti. Paslaptingos gelmės slepia senovės siaubą, kuris grasina iškilti į paviršių, o Johanne privalo išsiaiškinti tiesą, kol dar ne per vėlu.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Krakenas"
-          }
-        },
-        {
-          "iso_3166_1": "CZ",
-          "iso_639_1": "cs",
-          "name": "Český",
-          "english_name": "Czech",
-          "data": {
-            "homepage": "",
-            "overview": "Mořská bioložka Johanna provádí výzkum na rybí farmě, když narazí na několik zvláštních událostí. Klidnou atmosféru naruší série brutálních a nevysvětlitelných úmrtí místních teenagerů, jejichž těla se najdou v blízkosti velké rybí farmy. Zpočátku jsou tragédie připisovány nehodám nebo útoku známého mořského dravce, ale Johanně při zkoumání vzorků a podmořských záznamů narazí na něco mnohem děsivějšího.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "SA",
-          "iso_639_1": "ar",
-          "name": "العربية",
-          "english_name": "Arabic",
-          "data": {
-            "homepage": "",
-            "overview": "تجري عالمة أحياء بحرية أبحاثًا في مزرعة أسماك، فتصادف عدة أحداث غريبة. فإلى جانب الموت الوحشي لمراهقين اثنين، تشير كل الدلائل إلى أعماق المضيق البحري؛ فهل من الممكن أن تخفي الأعماق ما لا تراه العين؟",
-            "runtime": 0,
-            "tagline": "",
-            "title": "كراكن"
-          }
-        },
-        {
-          "iso_3166_1": "GE",
-          "iso_639_1": "ka",
-          "name": "ქართული",
-          "english_name": "Georgian",
-          "data": {
-            "homepage": "",
-            "overview": "საზღვაო ბიოლოგი იოჰანა, რომელიც ვანგსნესის თევზსაშენ ფერმაში კვლევას ატარებს, რამდენიმე უცნაურ მოვლენას აწყდება. ორ ადგილობრივ მოზარდზე სასტიკი ანგარიშსწორების ჩათვლით, ყველა კვალი ფიორდის სიღრმეებისკენ მიდის. მის ფსკერზე მთისხელა, მრავალსაცეციანი მითიური მონსტრი ბინადრობს, რომელიც მზადაა, ყველაფერი შთანთქოს. შეუძლია კი ადამიანის თვალს დაინახოს ის, რაც ამ იდუმალ სიღრმეებში იმალება?",
-            "runtime": 0,
-            "tagline": "",
-            "title": "კრაკენი"
-          }
-        }
-      ]
-    },
-    "credits": {
-      "cast": [
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1904884,
-          "known_for_department": "Acting",
-          "name": "Sara Khorami",
-          "original_name": "Sara Khorami",
-          "popularity": 2.4834,
-          "profile_path": "/jh49k9oVAVGdApgSCiRyJmrAgoG.jpg",
-          "cast_id": 54,
-          "character": "Johanne",
-          "credit_id": "66e827c1dd224d1a3991db19",
-          "order": 0
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 234783,
-          "known_for_department": "Acting",
-          "name": "Mikkel Bratt Silset",
-          "original_name": "Mikkel Bratt Silset",
-          "popularity": 0.7297,
-          "profile_path": "/ooFYSgaxUxZHIwh1dYjs6qVerDK.jpg",
-          "cast_id": 53,
-          "character": "Erik",
-          "credit_id": "66e827a5050f14e4fccffb4e",
-          "order": 1
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1475929,
-          "known_for_department": "Acting",
-          "name": "Ingvild Holthe Bygdnes",
-          "original_name": "Ingvild Holthe Bygdnes",
-          "popularity": 0.6192,
-          "profile_path": "/3AABshTodEIQ9v5JCmEG10qgfSb.jpg",
-          "cast_id": 55,
-          "character": "Henriette",
-          "credit_id": "66ebf8f982ff873f7d1fc6b1",
-          "order": 2
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2302835,
-          "known_for_department": "Acting",
-          "name": "Øyvind Brandtzæg",
-          "original_name": "Øyvind Brandtzæg",
-          "popularity": 0.6239,
-          "profile_path": "/89knc7MjxpY4OJ7AxEnkpaUesVS.jpg",
-          "cast_id": 56,
-          "character": "Avaldsnes",
-          "credit_id": "66ebf921e43f07de82eb901b",
-          "order": 3
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3573975,
-          "known_for_department": "Acting",
-          "name": "Jenny Evensen",
-          "original_name": "Jenny Evensen",
-          "popularity": 0.7284,
-          "profile_path": null,
-          "cast_id": 57,
-          "character": "Maria",
-          "credit_id": "66ebf94b62c4bb18c974924e",
-          "order": 4
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1887978,
-          "known_for_department": "Acting",
-          "name": "Steinar Klouman Hallert",
-          "original_name": "Steinar Klouman Hallert",
-          "popularity": 0.6215,
-          "profile_path": "/gA6QvgLkvQ13JliAOu4M7ZjhHzJ.jpg",
-          "cast_id": 58,
-          "character": "Cato",
-          "credit_id": "66ebf96f82ff873f7d1fc6e1",
-          "order": 5
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3613559,
-          "known_for_department": "Acting",
-          "name": "Filip Bargee Ramberg",
-          "original_name": "Filip Bargee Ramberg",
-          "popularity": 0.6469,
-          "profile_path": "/kHvul9jNaLtSr0pCAdkQXXSO4lh.jpg",
-          "cast_id": 59,
-          "character": "Hallvard",
-          "credit_id": "66ebf98a82ff873f7d1fc6ea",
-          "order": 6
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2584408,
-          "known_for_department": "Production",
-          "name": "Jon Erik Myre",
-          "original_name": "Jon Erik Myre",
-          "popularity": 0.7972,
-          "profile_path": "/9AU9oYNBnI8yQsGLarm6IkgrFts.jpg",
-          "cast_id": 60,
-          "character": "Georg",
-          "credit_id": "66ebf9a49bd4250430748f11",
-          "order": 7
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 142000,
-          "known_for_department": "Acting",
-          "name": "Hans Morten Hansen",
-          "original_name": "Hans Morten Hansen",
-          "popularity": 0.7297,
-          "profile_path": "/q6avDYFpDLCNHV5x3ILE02i3GmH.jpg",
-          "cast_id": 61,
-          "character": "Olav",
-          "credit_id": "66ebf9ca62c4bb18c9749280",
-          "order": 8
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3925856,
-          "known_for_department": "Acting",
-          "name": "Magnús Blöndal Jóhannsson",
-          "original_name": "Magnús Blöndal Jóhannsson",
-          "popularity": 0.2523,
-          "profile_path": "/fZiZ6605EXPZpPlJ11gWeIydafb.jpg",
-          "cast_id": 67,
-          "character": "Preben",
-          "credit_id": "6737dfe3ad278a8963f82f85",
-          "order": 9
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3835093,
-          "known_for_department": "Acting",
-          "name": "Jon Kennedy Dushime Niyokindi",
-          "original_name": "Jon Kennedy Dushime Niyokindi",
-          "popularity": 0.3359,
-          "profile_path": "/xparnTrFOlJOl6rLvQAYpUSsCK1.jpg",
-          "cast_id": 64,
-          "character": "Tommy",
-          "credit_id": "66ebfa3662c4bb18c97492ae",
-          "order": 10
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 563063,
-          "known_for_department": "Acting",
-          "name": "Silje Breivik",
-          "original_name": "Silje Breivik",
-          "popularity": 0.4651,
-          "profile_path": "/1YF8671oiTta70aOgAOZo0Qibcx.jpg",
-          "cast_id": 65,
-          "character": "Vigdis",
-          "credit_id": "66ebfa615168a896e11ff243",
-          "order": 11
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 114737,
-          "known_for_department": "Acting",
-          "name": "Anderz Eide",
-          "original_name": "Anderz Eide",
-          "popularity": 0.6618,
-          "profile_path": "/5JKoRSss8ObTtOhEqComhAdrnPU.jpg",
-          "cast_id": 66,
-          "character": "Kayakinstruktør",
-          "credit_id": "66ebfa7ce43f07de82eb90c5",
-          "order": 12
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2483958,
-          "known_for_department": "Acting",
-          "name": "Tor Christian Bleikli",
-          "original_name": "Tor Christian Bleikli",
-          "popularity": 0.1686,
-          "profile_path": null,
-          "cast_id": 68,
-          "character": "Ribtur-arrangør",
-          "credit_id": "698e5ac623e69cad8d370dcf",
-          "order": 13
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 222735,
-          "known_for_department": "Acting",
-          "name": "Jon Bleiklie Devik",
-          "original_name": "Jon Bleiklie Devik",
-          "popularity": 0.5197,
-          "profile_path": "/lvAlHht4RMcxqflci57qyql5KtO.jpg",
-          "cast_id": 69,
-          "character": "Johannes sjef",
-          "credit_id": "698e5bb80a94afeb50109bd7",
-          "order": 14
-        }
-      ],
-      "crew": [
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3998714,
-          "known_for_department": "Writing",
-          "name": "Vilde Eide",
-          "original_name": "Vilde Eide",
-          "popularity": 0.6176,
-          "profile_path": null,
-          "credit_id": "643008309a643506ab77e917",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1945727,
-          "known_for_department": "Production",
-          "name": "Einar Loftesnes",
-          "original_name": "Einar Loftesnes",
-          "popularity": 0.3083,
-          "profile_path": "/yCCdJkrjsDWze5Qd2CXgqj7HwVk.jpg",
-          "credit_id": "6430085931032500bd55ccc4",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1984926,
-          "known_for_department": "Production",
-          "name": "Kristoffer Sindre Vittersø",
-          "original_name": "Kristoffer Sindre Vittersø",
-          "popularity": 0.5657,
-          "profile_path": null,
-          "credit_id": "6430086b1f98d101cba5bbc7",
-          "department": "Production",
-          "job": "Associate Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 111532,
-          "known_for_department": "Directing",
-          "name": "Pål Øie",
-          "original_name": "Pål Øie",
-          "popularity": 0.7262,
-          "profile_path": "/m7wKPkvWj0d9yPNSLapbXwg94at.jpg",
-          "credit_id": "6430081a9a6435065eacfe68",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1812970,
-          "known_for_department": "Production",
-          "name": "John Einar Hagen",
-          "original_name": "John Einar Hagen",
-          "popularity": 0.4436,
-          "profile_path": "/wNn6AEawmziFXb7UYNUljAa8e5X.jpg",
-          "credit_id": "643008459a643506f1afbfea",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1267294,
-          "known_for_department": "Production",
-          "name": "Jupe Louhelainen",
-          "original_name": "Jupe Louhelainen",
-          "popularity": 0.32,
-          "profile_path": null,
-          "credit_id": "66d1ab988e3780e1076e02eb",
-          "department": "Production",
-          "job": "Line Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1926708,
-          "known_for_department": "Acting",
-          "name": "Benedicte Westbye",
-          "original_name": "Benedicte Westbye",
-          "popularity": 0.3421,
-          "profile_path": null,
-          "credit_id": "66d1ad4cb6c634c8e8b5f184",
-          "department": "Production",
-          "job": "Associate Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 109936,
-          "known_for_department": "Writing",
-          "name": "Kjersti Helen Rasmussen",
-          "original_name": "Kjersti Helen Rasmussen",
-          "popularity": 0.6983,
-          "profile_path": "/V09fbQkJ0O0uJop6ffOKY8syOd.jpg",
-          "credit_id": "66d1ab0b8afc425a520033b8",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3363094,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Milana Keskikastari",
-          "original_name": "Milana Keskikastari",
-          "popularity": 0.2627,
-          "profile_path": null,
-          "credit_id": "66d1ade5f55a1bec036dff9e",
-          "department": "Costume & Make-Up",
-          "job": "Makeup & Hair"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2873221,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Tytti Vaaleri",
-          "original_name": "Tytti Vaaleri",
-          "popularity": 0.2835,
-          "profile_path": null,
-          "credit_id": "66d1ae02ac52e3192fb155c0",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913075,
-          "known_for_department": "Art",
-          "name": "Marjaana Virtanen",
-          "original_name": "Marjaana Virtanen",
-          "popularity": 0.1856,
-          "profile_path": null,
-          "credit_id": "66d1aeca63aa27a532811ccc",
-          "department": "Art",
-          "job": "Property Master"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 3574734,
-          "known_for_department": "Production",
-          "name": "Alicia M. Eidesund",
-          "original_name": "Alicia M. Eidesund",
-          "popularity": 0.2395,
-          "profile_path": null,
-          "credit_id": "66d1ad8c3f78a81e7601b8ca",
-          "department": "Production",
-          "job": "Casting Director"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913089,
-          "known_for_department": "Crew",
-          "name": "Nicolai Hervik Olsen",
-          "original_name": "Nicolai Hervik Olsen",
-          "popularity": 0.1919,
-          "profile_path": null,
-          "credit_id": "66d1b04f47e7115c66811c85",
-          "department": "Crew",
-          "job": "Catering"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2319583,
-          "known_for_department": "Art",
-          "name": "Okku Rahikainen",
-          "original_name": "Okku Rahikainen",
-          "popularity": 0.3276,
-          "profile_path": null,
-          "credit_id": "66d1adb05e6e2e859eb06aba",
-          "department": "Art",
-          "job": "Art Direction"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3574742,
-          "known_for_department": "Camera",
-          "name": "Petter Stokke",
-          "original_name": "Petter Stokke",
-          "popularity": 0.2605,
-          "profile_path": null,
-          "credit_id": "66d1af553074bc5ab7c0ba32",
-          "department": "Camera",
-          "job": "Second Assistant Camera"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2483483,
-          "known_for_department": "Art",
-          "name": "Vilja Katramo",
-          "original_name": "Vilja Katramo",
-          "popularity": 0.4262,
-          "profile_path": null,
-          "credit_id": "66d1ada14c2f4ec787c0ba92",
-          "department": "Art",
-          "job": "Art Direction"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1725732,
-          "known_for_department": "Directing",
-          "name": "Emeri Abel",
-          "original_name": "Emeri Abel",
-          "popularity": 0.3784,
-          "profile_path": "/w0aXEZBJLW88bOdfNtSgC8nJ74B.jpg",
-          "credit_id": "66d1ae1599001d751eb0687c",
-          "department": "Directing",
-          "job": "Second Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1637743,
-          "known_for_department": "Crew",
-          "name": "Oula Kitti",
-          "original_name": "Oula Kitti",
-          "popularity": 0.5296,
-          "profile_path": null,
-          "credit_id": "66d1af227be184cfaa4556e1",
-          "department": "Crew",
-          "job": "Stunt Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1095843,
-          "known_for_department": "Directing",
-          "name": "Amund Lie",
-          "original_name": "Amund Lie",
-          "popularity": 0.3084,
-          "profile_path": null,
-          "credit_id": "66d1af32050849fd3001b73b",
-          "department": "Camera",
-          "job": "Underwater Director of Photography"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913079,
-          "known_for_department": "Production",
-          "name": "Amina Reikvam",
-          "original_name": "Amina Reikvam",
-          "popularity": 0.259,
-          "profile_path": null,
-          "credit_id": "66d1af835e6e2e859eb06ace",
-          "department": "Production",
-          "job": "Extras Casting"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913090,
-          "known_for_department": "Production",
-          "name": "Emma Poutanen",
-          "original_name": "Emma Poutanen",
-          "popularity": 0.1496,
-          "profile_path": null,
-          "credit_id": "66d1b0687e47a693966dfddf",
-          "department": "Production",
-          "job": "Production Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2485901,
-          "known_for_department": "Directing",
-          "name": "Mika Purola",
-          "original_name": "Mika Purola",
-          "popularity": 0.4339,
-          "profile_path": null,
-          "credit_id": "66d1ae4a950a64219eb156af",
-          "department": "Directing",
-          "job": "First Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913084,
-          "known_for_department": "Production",
-          "name": "Rune Karlsen",
-          "original_name": "Rune Karlsen",
-          "popularity": 0.2288,
-          "profile_path": null,
-          "credit_id": "66d1afe1f28dbeb3e5a7ed8e",
-          "department": "Production",
-          "job": "Location Manager"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 4308154,
-          "known_for_department": "Production",
-          "name": "Emmi Gröhn",
-          "original_name": "Emmi Gröhn",
-          "popularity": 0.2266,
-          "profile_path": null,
-          "credit_id": "66d1b00d050849fd3001b745",
-          "department": "Crew",
-          "job": "Production Controller"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 3574734,
-          "known_for_department": "Production",
-          "name": "Alicia M. Eidesund",
-          "original_name": "Alicia M. Eidesund",
-          "popularity": 0.2395,
-          "profile_path": null,
-          "credit_id": "66d1ae3b98b5f591690fda7e",
-          "department": "Directing",
-          "job": "Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2204078,
-          "known_for_department": "Camera",
-          "name": "Kjetil Mathisen",
-          "original_name": "Kjetil Mathisen",
-          "popularity": 0.3424,
-          "profile_path": null,
-          "credit_id": "66d1af4ad43c03449303bf30",
-          "department": "Camera",
-          "job": "First Assistant Camera"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 67001,
-          "known_for_department": "Editing",
-          "name": "Sjur Aarthun",
-          "original_name": "Sjur Aarthun",
-          "popularity": 0.3192,
-          "profile_path": "/iXNntfMSws6IThJrz1UVb0Rz3Ee.jpg",
-          "credit_id": "66d1ad7d47e7115c66811c59",
-          "department": "Camera",
-          "job": "Director of Photography"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2873223,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Iida Rajaviita",
-          "original_name": "Iida Rajaviita",
-          "popularity": 0.2448,
-          "profile_path": null,
-          "credit_id": "66d1adf56cbf9623e6811c67",
-          "department": "Costume & Make-Up",
-          "job": "Makeup & Hair"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913086,
-          "known_for_department": "Production",
-          "name": "Beate Basso",
-          "original_name": "Beate Basso",
-          "popularity": 0.3765,
-          "profile_path": null,
-          "credit_id": "66d1afff7b5524fd9f0fd550",
-          "department": "Production",
-          "job": "Production Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3574744,
-          "known_for_department": "Directing",
-          "name": "Andreas Søfteland Milde",
-          "original_name": "Andreas Søfteland Milde",
-          "popularity": 0.2084,
-          "profile_path": null,
-          "credit_id": "66d1afec186716d33ba7ebc0",
-          "department": "Directing",
-          "job": "Script Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2204060,
-          "known_for_department": "Art",
-          "name": "Fredrik Sivertsen",
-          "original_name": "Fredrik Sivertsen",
-          "popularity": 0.3409,
-          "profile_path": null,
-          "credit_id": "66d1aeae186716d33ba7ebaa",
-          "department": "Art",
-          "job": "Set Dresser"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2375087,
-          "known_for_department": "Sound",
-          "name": "Bengt Öberg",
-          "original_name": "Bengt Öberg",
-          "popularity": 0.1894,
-          "profile_path": null,
-          "credit_id": "66d1aef5fbabbbff970c23ec",
-          "department": "Sound",
-          "job": "Boom Operator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4523095,
-          "known_for_department": "Sound",
-          "name": "Caja Magnussen",
-          "original_name": "Caja Magnussen",
-          "popularity": 0.1701,
-          "profile_path": null,
-          "credit_id": "66d1af63e782a58e4c0c2639",
-          "department": "Production",
-          "job": "Extras Casting"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913062,
-          "known_for_department": "Production",
-          "name": "Karen Rae Kaltenborn Nothstein",
-          "original_name": "Karen Rae Kaltenborn Nothstein",
-          "popularity": 0.1579,
-          "profile_path": null,
-          "credit_id": "66d1abf08f265bb6e9b5f34f",
-          "department": "Production",
-          "job": "Development Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913073,
-          "known_for_department": "Crew",
-          "name": "Juha-Pekka Palmulaakso",
-          "original_name": "Juha-Pekka Palmulaakso",
-          "popularity": 0.1562,
-          "profile_path": null,
-          "credit_id": "66d1aea0c18bcb252f003690",
-          "department": "Crew",
-          "job": "Carpenter"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 4913080,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Samir Bousseksou",
-          "original_name": "Samir Bousseksou",
-          "popularity": 0.1865,
-          "profile_path": null,
-          "credit_id": "66d1af9c532f6a08ae9437f0",
-          "department": "Costume & Make-Up",
-          "job": "Costume Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913088,
-          "known_for_department": "Production",
-          "name": "Saiju Nieminen",
-          "original_name": "Saiju Nieminen",
-          "popularity": 0.1519,
-          "profile_path": null,
-          "credit_id": "66d1b03b1141752d45b06a46",
-          "department": "Production",
-          "job": "Production Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4315367,
-          "known_for_department": "Directing",
-          "name": "Alv Myhre Fossum",
-          "original_name": "Alv Myhre Fossum",
-          "popularity": 0.194,
-          "profile_path": null,
-          "credit_id": "66d1afc47b5524fd9f0fd545",
-          "department": "Production",
-          "job": "Location Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1612439,
-          "known_for_department": "Art",
-          "name": "Kari Kankaanpää",
-          "original_name": "Kari Kankaanpää",
-          "popularity": 0.4801,
-          "profile_path": null,
-          "credit_id": "66d1ae7d8581b1f1ec811c66",
-          "department": "Art",
-          "job": "Production Design"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1336919,
-          "known_for_department": "Sound",
-          "name": "Mads Olsen",
-          "original_name": "Mads Olsen",
-          "popularity": 0.3001,
-          "profile_path": null,
-          "credit_id": "66d1aee95a8a9e5e2dc0bbff",
-          "department": "Sound",
-          "job": "Sound Recordist"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2147152,
-          "known_for_department": "Visual Effects",
-          "name": "Theodor Groeneboom",
-          "original_name": "Theodor Groeneboom",
-          "popularity": 0.3704,
-          "profile_path": null,
-          "credit_id": "66d1af0cd94dffd8f701b514",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913081,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Lari Lintumäki",
-          "original_name": "Lari Lintumäki",
-          "popularity": 0.1774,
-          "profile_path": null,
-          "credit_id": "66d1afb7a05b1ddd4078b469",
-          "department": "Costume & Make-Up",
-          "job": "Key Costumer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2884493,
-          "known_for_department": "Directing",
-          "name": "Natasha Arthur",
-          "original_name": "Natasha Arthur",
-          "popularity": 0.5457,
-          "profile_path": "/8GcsQqbTFvZZSlITE2ovtzig0oc.jpg",
-          "credit_id": "66d1ad5ac18bcb252f003674",
-          "department": "Production",
-          "job": "Associate Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2820042,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Janne Karjalainen",
-          "original_name": "Janne Karjalainen",
-          "popularity": 0.3576,
-          "profile_path": null,
-          "credit_id": "66d1adc41985bae42c01b86c",
-          "department": "Costume & Make-Up",
-          "job": "Costume Design"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1712233,
-          "known_for_department": "Crew",
-          "name": "Geir M.V. Andersen",
-          "original_name": "Geir M.V. Andersen",
-          "popularity": 0.3183,
-          "profile_path": null,
-          "credit_id": "66d1ae5f9d59ebc29d455875",
-          "department": "Art",
-          "job": "Props"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4894242,
-          "known_for_department": "Acting",
-          "name": "Elias Kleive",
-          "original_name": "Elias Kleive",
-          "popularity": 0.3534,
-          "profile_path": null,
-          "credit_id": "66d1b01ebf7c8bbd2c6e0051",
-          "department": "Production",
-          "job": "Production Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2659471,
-          "known_for_department": "Art",
-          "name": "Camilla Sofie Hugstmyr",
-          "original_name": "Camilla Sofie Hugstmyr",
-          "popularity": 0.3307,
-          "profile_path": null,
-          "credit_id": "66d1ae6fb27e5871c8811cc0",
-          "department": "Art",
-          "job": "Set Dressing Buyer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1114660,
-          "known_for_department": "Art",
-          "name": "Ville Väisänen",
-          "original_name": "Ville Väisänen",
-          "popularity": 0.2061,
-          "profile_path": null,
-          "credit_id": "66d1aed86cbf9623e6811c76",
-          "department": "Art",
-          "job": "Set Dresser"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913091,
-          "known_for_department": "Production",
-          "name": "Stina Samsten",
-          "original_name": "Stina Samsten",
-          "popularity": 0.1828,
-          "profile_path": null,
-          "credit_id": "66d1b080ea22ad562c943d62",
-          "department": "Production",
-          "job": "Production Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3574746,
-          "known_for_department": "Production",
-          "name": "Jon Helge Oleivsgard Stenslund",
-          "original_name": "Jon Helge Oleivsgard Stenslund",
-          "popularity": 0.287,
-          "profile_path": null,
-          "credit_id": "66d1b091b27e5871c8811cca",
-          "department": "Production",
-          "job": "Production Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4526737,
-          "known_for_department": "Production",
-          "name": "Oliver Wik",
-          "original_name": "Oliver Wik",
-          "popularity": 0.2254,
-          "profile_path": null,
-          "credit_id": "66d1b0aebf7c8bbd2c6e0055",
-          "department": "Production",
-          "job": "Production Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2884493,
-          "known_for_department": "Directing",
-          "name": "Natasha Arthur",
-          "original_name": "Natasha Arthur",
-          "popularity": 0.5457,
-          "profile_path": "/8GcsQqbTFvZZSlITE2ovtzig0oc.jpg",
-          "credit_id": "66ebfa215168a896e11ff228",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1770219,
-          "known_for_department": "Sound",
-          "name": "Roy Westad",
-          "original_name": "Roy Westad",
-          "popularity": 0.1878,
-          "profile_path": null,
-          "credit_id": "6a17d7a7567d5b88b81dc02a",
-          "department": "Sound",
-          "job": "Original Music Composer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 67001,
-          "known_for_department": "Editing",
-          "name": "Sjur Aarthun",
-          "original_name": "Sjur Aarthun",
-          "popularity": 0.3192,
-          "profile_path": "/iXNntfMSws6IThJrz1UVb0Rz3Ee.jpg",
-          "credit_id": "6a2c3aa1b555d8db1b34c923",
-          "department": "Editing",
-          "job": "Editor"
-        }
-      ]
-    },
-    "genre_ids": [
-      27,
-      28,
-      53
-    ],
-    "media_type": "movie",
-    "title_en": "كراكن",
-    "overview_en": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences Along with the brutal deaths of two teenagers all signs point to the deep fjord can there be more to the depths than the eye can see",
-    "cast": [
-      {
-        "name": "Sara Khorami",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jh49k9oVAVGdApgSCiRyJmrAgoG.jpg"
-      },
-      {
-        "name": "Mikkel Bratt Silset",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ooFYSgaxUxZHIwh1dYjs6qVerDK.jpg"
-      },
-      {
-        "name": "Ingvild Holthe Bygdnes",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3AABshTodEIQ9v5JCmEG10qgfSb.jpg"
-      },
-      {
-        "name": "Øyvind Brandtzæg",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/89knc7MjxpY4OJ7AxEnkpaUesVS.jpg"
-      },
-      {
-        "name": "Jenny Evensen",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Steinar Klouman Hallert",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gA6QvgLkvQ13JliAOu4M7ZjhHzJ.jpg"
-      },
-      {
-        "name": "Filip Bargee Ramberg",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/kHvul9jNaLtSr0pCAdkQXXSO4lh.jpg"
-      },
-      {
-        "name": "Jon Erik Myre",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9AU9oYNBnI8yQsGLarm6IkgrFts.jpg"
-      }
-    ],
-    "date_added": 1786138689970
+    "date_added": 1786152577336
   },
   {
     "adult": false,
@@ -46579,7 +45164,7 @@
     "original_language": "ru",
     "original_title": "Твоё сердце будет разбито",
     "overview": "",
-    "popularity": 106.4279,
+    "popularity": 103.7588,
     "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
     "production_companies": [
       {
@@ -47673,7 +46258,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZL6tYLqs5uhvqE4SM7GwJHxUz3.jpg"
       }
     ],
-    "date_added": 1786138690004
+    "date_added": 1786152577528
   },
   {
     "adult": false,
@@ -47700,7 +46285,7 @@
     "original_language": "en",
     "original_title": "Deep Water",
     "overview": "",
-    "popularity": 92.7167,
+    "popularity": 93.0217,
     "poster_path": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
     "production_companies": [
       {
@@ -47794,8 +46379,8 @@
     "tagline": "",
     "title": "Deep Water",
     "video": false,
-    "vote_average": 7.178,
-    "vote_count": 359,
+    "vote_average": 7.186,
+    "vote_count": 360,
     "translations": {
       "translations": [
         {
@@ -49364,7 +47949,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
       }
     ],
-    "date_added": 1786138690041
+    "date_added": 1786152577628
   },
   {
     "adult": false,
@@ -49395,7 +47980,7 @@
     "original_language": "zh",
     "original_title": "火遮眼",
     "overview": "بعد أن خُطفت ابنته من الشارع يبدأ صاحب متجر شيه مياو في تتبع شبكة إجرامية معقدة مستخدماً كل الطرق والوسائل الممكنة لاستعادة ابنته حليفه الوحيد في هذه الرحلة هو صحفي جو تاسليم حيث يتعين على هذين الشخصين القادمين من خلفيات مختلفة تماماً أن يتعلما كيف يثقا ببعضهما ويتعاونا معاً مستغلين مهارات قتالية منحتها لهما أسرار ماضيهما الغامض",
-    "popularity": 92.2235,
+    "popularity": 85.7903,
     "poster_path": "/twehTxCQx3zBbrGiZjWfcLAuajt.jpg",
     "production_companies": [
       {
@@ -50947,19 +49532,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1113443,
-          "known_for_department": "Crew",
-          "name": "谷垣健治",
-          "original_name": "谷垣健治",
-          "popularity": 2.9105,
-          "profile_path": "/2ZV2n02pZq1Sc2szQuyF1HVssi7.jpg",
-          "credit_id": "662c1e9a65e0a200bdb2dc90",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 1001659,
           "known_for_department": "Production",
@@ -50996,6 +49568,19 @@
           "credit_id": "662c21d7c433ea00c7a1b5bf",
           "department": "Production",
           "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1113443,
+          "known_for_department": "Crew",
+          "name": "谷垣健治",
+          "original_name": "谷垣健治",
+          "popularity": 2.9105,
+          "profile_path": "/2ZV2n02pZq1Sc2szQuyF1HVssi7.jpg",
+          "credit_id": "662c1e9a65e0a200bdb2dc90",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -51322,7 +49907,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
       }
     ],
-    "date_added": 1786138690079
+    "date_added": 1786152577726
   },
   {
     "adult": false,
@@ -51348,7 +49933,7 @@
     "original_language": "en",
     "original_title": "72 HOURS",
     "overview": "في محاولة لإنقاذ مسيرته المهنية ينضم مسؤول تنفيذي أربعيني إلى مجموعة من الشبان في رحلة صاخبة لتوديع العزوبية في ميامي بعد أن أضافوه إلى دردشتهم الجماعية عن طريق الخطأ",
-    "popularity": 85.235,
+    "popularity": 81.2247,
     "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
     "production_companies": [
       {
@@ -51409,8 +49994,8 @@
     "tagline": "",
     "title": "72 ساعة",
     "video": false,
-    "vote_average": 6.784,
-    "vote_count": 276,
+    "vote_average": 6.774,
+    "vote_count": 283,
     "translations": {
       "translations": [
         {
@@ -53096,7 +51681,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
       }
     ],
-    "date_added": 1786138690125
+    "date_added": 1786152577732
   },
   {
     "adult": false,
@@ -53118,7 +51703,7 @@
     "original_language": "tl",
     "original_title": "Siping",
     "overview": "",
-    "popularity": 80.6673,
+    "popularity": 75.4282,
     "poster_path": "/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg",
     "production_companies": [
       {
@@ -53149,8 +51734,8 @@
     "tagline": "",
     "title": "Siping",
     "video": false,
-    "vote_average": 2.833,
-    "vote_count": 3,
+    "vote_average": 4.625,
+    "vote_count": 4,
     "translations": {
       "translations": [
         {
@@ -53310,7 +51895,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kdgXU6b3cQ6dDgjn2bfIztyloyA.jpg"
       }
     ],
-    "date_added": 1786138690157
+    "date_added": 1786152577825
   },
   {
     "adult": false,
@@ -53340,7 +51925,7 @@
     "original_language": "pt",
     "original_title": "Elize Sombras de uma Mulher",
     "overview": "في هذه الرواية لقصة حقيقية تكتشف فتاة كانت تعمل مرافقة خيانة زوجها الثري وتكافح للتأقلم مع الوضع بينما تسمم الخيانة زواجهما",
-    "popularity": 70.277,
+    "popularity": 68.3297,
     "poster_path": "/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
     "production_companies": [
       {
@@ -53371,8 +51956,8 @@
     "tagline": "",
     "title": "إليز ظلال امرأة",
     "video": false,
-    "vote_average": 7.4,
-    "vote_count": 134,
+    "vote_average": 7.427,
+    "vote_count": 137,
     "translations": {
       "translations": [
         {
@@ -54256,7 +52841,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fNtieBDuyibQOOp31OMzhe2qTvv.jpg"
       }
     ],
-    "date_added": 1786138690194
+    "date_added": 1786152577918
   },
   {
     "adult": false,
@@ -54286,7 +52871,7 @@
     "original_language": "en",
     "original_title": "Her Private Hell",
     "overview": "",
-    "popularity": 70.0962,
+    "popularity": 60.8015,
     "poster_path": "/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
     "production_companies": [
       {
@@ -54342,7 +52927,7 @@
     "tagline": "",
     "title": "Her Private Hell",
     "video": false,
-    "vote_average": 5.4,
+    "vote_average": 5.371,
     "vote_count": 31,
     "translations": {
       "translations": [
@@ -54668,7 +53253,7 @@
           "gender": 2,
           "id": 1907002,
           "known_for_department": "Acting",
-          "name": "Charles Melton",
+          "name": "تشارلز ميلتون",
           "original_name": "Charles Melton",
           "popularity": 3.8379,
           "profile_path": "/dDDQELgDDNkGNvTBObfg2ubYaFq.jpg",
@@ -56291,7 +54876,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lQfSgP34VWtZXuyvULsA6ZZl3qE.jpg"
       },
       {
-        "name": "Charles Melton",
+        "name": "تشارلز ميلتون",
         "role": "بطوله",
         "photo_url": "https://image.tmdb.org/t/p/w185/dDDQELgDDNkGNvTBObfg2ubYaFq.jpg"
       },
@@ -56326,7 +54911,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lZ1sECPft5XHeVn6GFVmGReOWiJ.jpg"
       }
     ],
-    "date_added": 1786138690226
+    "date_added": 1786152578012
   },
   {
     "adult": false,
@@ -56352,7 +54937,7 @@
     "original_language": "en",
     "original_title": "The Bay",
     "overview": "",
-    "popularity": 67.8307,
+    "popularity": 63.9223,
     "poster_path": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
     "production_companies": [
       {
@@ -57039,7 +55624,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138690258
+    "date_added": 1786152578103
   },
   {
     "adult": false,
@@ -57074,7 +55659,7 @@
     "original_language": "zh",
     "original_title": "捕风追影",
     "overview": "يختفي طاقم من المجرمين العباقرة ومعهم مليارات مهربين من القبض عليهم بتفوقهم على نظام المراقبة عين السماء الهائل يائسين ومُتخاذلين تستعين شرطة ماكاو بأسطورة وونغ تاك تشونغ جاكي شان خبير تعقب متقاعد يُرشد وونغ الضابط المبتدئ هي تشيوغو تشانغ زيفنغ ويُعيد بناء وحدة مراقبة النخبة مهمتهم تعقب ملك الذئاب المراوغ فو لونغ شنغ ليونغ كا فاي توني العقل المدبر وراء السرقة مع اقتراب الشرطة يُنصب اللصوص فخًا خاصًا بهم تتصادم العقول وتُختبر الولاءات وتبدأ لعبة القط والفأر النهائية",
-    "popularity": 64.3202,
+    "popularity": 71.2308,
     "poster_path": "/90s6kuQ8qUHJFrjnCnUCWQXnu1V.jpg",
     "production_companies": [
       {
@@ -57127,8 +55712,8 @@
     "tagline": "في الظلال، لا يوجد مكان للاختباء.",
     "title": "حافة الظل",
     "video": false,
-    "vote_average": 7.957,
-    "vote_count": 1073,
+    "vote_average": 7.976,
+    "vote_count": 1091,
     "translations": {
       "translations": [
         {
@@ -58539,7 +57124,695 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
       }
     ],
-    "date_added": 1786138690296
+    "date_added": 1786152578198
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sUfwD6yMR740c2xvYopzv6JqOL3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "إثارة"
+      },
+      {
+        "id": 27,
+        "name": "رعب"
+      }
+    ],
+    "homepage": "",
+    "id": 1382832,
+    "imdb_id": "tt34494076",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hungry",
+    "overview": "",
+    "popularity": 62.381,
+    "poster_path": "/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+    "production_companies": [
+      {
+        "id": 114874,
+        "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+        "name": "Signature Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-03",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hungry",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 209,
+    "translations": {
+      "translations": [
+        {
+          "iso_3166_1": "US",
+          "iso_639_1": "en",
+          "name": "English",
+          "english_name": "English",
+          "data": {
+            "homepage": "",
+            "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+            "runtime": 93,
+            "tagline": "This hippo isn't playing games.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "FR",
+          "iso_639_1": "fr",
+          "name": "Français",
+          "english_name": "French",
+          "data": {
+            "homepage": "",
+            "overview": "Un groupe de vacanciers se retrouve au milieu des marécages de Louisiane poursuivi par un hippopotame.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "VN",
+          "iso_639_1": "vi",
+          "name": "Tiếng Việt",
+          "english_name": "Vietnamese",
+          "data": {
+            "homepage": "",
+            "overview": "Một nhóm du khách lạc vào vùng đầm lầy Louisiana buộc phải chiến đấu để sinh tồn khi bị một con hà mã hung hãn đang sổng chuồng truy sát.",
+            "runtime": 0,
+            "tagline": "Hhà mã này không hề đùa.",
+            "title": "Cơn Đói Khát Tử Thần"
+          }
+        },
+        {
+          "iso_3166_1": "BR",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "homepage": "",
+            "overview": "Um grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
+            "runtime": 93,
+            "tagline": "",
+            "title": "A Fera do Pântano"
+          }
+        },
+        {
+          "iso_3166_1": "KR",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말",
+          "english_name": "Korean",
+          "data": {
+            "homepage": "",
+            "overview": "루이지애나 늪지대의 미스터리하고 위험한 풍경 속, 한 무리의 여행객이 에어보트 투어에 나선다. 그들은 이곳 바이유에 도사린 진짜 위험을 알지 못한 채 특별한 모험을 약속하는 말에 따라 깊숙이 발을 들인다. 부푼 기대와 달리 이곳은 단순한 휴양지가 아니라 미쳐 날뛰는 하마에 의해 통제되는 끔찍한 생존 게임장. 무자비하게 돌변한 거대한 생명체와의 사투 속에서그들은 생존 본능을 꺼내야 한다.",
+            "runtime": 93,
+            "tagline": "",
+            "title": "히포 어택: 헝그리"
+          }
+        },
+        {
+          "iso_3166_1": "RU",
+          "iso_639_1": "ru",
+          "name": "Pусский",
+          "english_name": "Russian",
+          "data": {
+            "homepage": "",
+            "overview": "Группа туристов отправляется в круиз по озёрам Луизианы. Желая увидеть диких животных в естественной среде, они отклоняются от маршрута и встречают агрессивного и очень быстрого гиппопотама весом в 4 тонны. Лодка сломана, помощи ждать неоткуда, а путешествие превращается в борьбу за выживание.",
+            "runtime": 0,
+            "tagline": "«Большой. Быстрый. Смертоносный»",
+            "title": "Пасть"
+          }
+        },
+        {
+          "iso_3166_1": "TH",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย",
+          "english_name": "Thai",
+          "data": {
+            "homepage": "",
+            "overview": "เมื่อแผนพักผ่อนล่องเรือสุดชิลของกลุ่มเพื่อนถูกขัดจังหวะด้วยการจู่โจมจากวายร้ายใต้ผิวน้ำ เส้นทางแห่งความสุขจึงถูกเปลี่ยนเป็นสมรภูมิหนีตายสุดทรหดกลางหนองน้ำลึก สัญชาตญาณการเอาชีวิตรอดจึงถูกปลุกขึ้นมาเพื่อหนีให้พ้นจากความตาย ทุกวินาทีคือการไล่ล่าที่คาดเดาไม่ได้ เมื่อศัตรูตัวฉกาจไม่ได้โจมตีเพราะความหิวกระหาย แต่กำลังสนุกกับเกมล่าขย้ำเหยื่อให้จมกองเลือด",
+            "runtime": 0,
+            "tagline": "ไม่ได้น่ารักอย่างใครเขา",
+            "title": "มันเด้งขึ้นมาแดก"
+          }
+        },
+        {
+          "iso_3166_1": "LV",
+          "iso_639_1": "lv",
+          "name": "Latviešu",
+          "english_name": "Latvian",
+          "data": {
+            "homepage": "",
+            "overview": "Tūristu grupa dodas jautrā ekskursijā ar ātrlaivu pa skaisto Luiziānas upi. Perfekts nedēļas nogales izbrauciens! Taču idilliskā ekskursija drīz vien pārvēršas nāvējošā slazdā. Neko nenojaušot par briesmām, skaisto dabas skatu vilināti, viņi dodas uz priekšu pa nepazīstamo ceļu. Kad viņi attopas nomaļā purvā, viņi saprot, ka ir kļuvuši par daļu no iepriekš iecerētas spēles – viņus medī radījums, kuru vada mežonīgs instinkts. Jo dziļāk bīstamajā dumbrājā viņi iebrien, jo vairāk kļūst skaidrs, ka briesmas uzglūn ne tikai tumsā.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Izsalkums"
+          }
+        },
+        {
+          "iso_3166_1": "NL",
+          "iso_639_1": "nl",
+          "name": "Nederlands",
+          "english_name": "Dutch",
+          "data": {
+            "homepage": "",
+            "overview": "Een groep toeristen maakt een tocht door de moerassen van Louisiana, maar wanneer ze afdwalen van de bekende route komen ze oog in oog te staan met een gigantisch nijlpaard. Ver van de bewoonde wereld verandert hun uitstapje al snel in een wanhopige strijd om te overleven, terwijl het dier hen genadeloos op de hielen zit.Hungry is een survival thriller over een gevecht op leven en dood met een van de dodelijkste dieren ter wereld.",
+            "runtime": 92,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "LT",
+          "iso_639_1": "lt",
+          "name": "Lietuvių",
+          "english_name": "Lithuanian",
+          "data": {
+            "homepage": "",
+            "overview": "Tiesiog tobula savaitgalio išvyka! Tačiau idiliška kelionė netrukus virsta mirtinais spąstais. Negalvodami apie pavojus ir suvilioti išskirtinių gamtos vaizdų, jie išklysta iš praminto tako. Atsidūrę atokiuose pelkynuose jie supranta tapę neatsitiktinio žaidimo dalimi – juos medžioja kažkas, kas vadovaujasi tik vienu, žvėrišku instinktu. Kuo giliau jie grimzta į klaidžias pelkes, tuo darosi aiškiau, kad pavojus slypi ne tik tamsoje.",
+            "runtime": 92,
+            "tagline": "",
+            "title": "Alkis"
+          }
+        },
+        {
+          "iso_3166_1": "CN",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "一群度假者在路易斯安那州的沼泽地迷路后，必须与一头横冲直撞、四处乱窜的河马展开殊死搏斗。",
+            "runtime": 0,
+            "tagline": "",
+            "title": "饥饿河马"
+          }
+        },
+        {
+          "iso_3166_1": "CZ",
+          "iso_639_1": "cs",
+          "name": "Český",
+          "english_name": "Czech",
+          "data": {
+            "homepage": "",
+            "overview": "Skupina turistů se musí v louisianských bažinách, kde zabloudili, utkat o život s zuřícím hrochem, který se vymanil z ohrady.",
+            "runtime": 93,
+            "tagline": "Tento hroch si nedělá legraci.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "GE",
+          "iso_639_1": "ka",
+          "name": "ქართული",
+          "english_name": "Georgian",
+          "data": {
+            "homepage": "",
+            "overview": "ლუიზიანის ჭაობების მყრალი წყალი სიკვდილს მალავს. ტურისტების ჯგუფი კრუიზში მიემგზავრება იმ იმედით, რომ ველურ ბუნებას დაათვალიერებენ. საჭის ერთი არასწორი მოძრაობა — და ნავი ცივილიზაციისგან შორს ზიანდება. კავშირი არ არის, დამოუკიდებლად თავის დაღწევა შეუძლებელია. მღვრიე ზედაპირის ქვეშ კი ოთხი ტონა კოშმარული აგრესია მოძრაობს. სატვირთო ავტომობილის წონის ჰიპოპოტამი უფრო სწრაფად უტევს, ვიდრე ადამიანები საფრთხის მასშტაბს აცნობიერებენ. ვიწრო არხები მანევრისთვის ადგილს არ ტოვებს. ჭაობი ისრუტავს ყველას, ვინც ხმელეთზე გაქცევას გადაწყვეტს. პანიკის ყოველი წამი ფინალს აახლოებს...",
+            "runtime": 0,
+            "tagline": "",
+            "title": "მშიერი"
+          }
+        },
+        {
+          "iso_3166_1": "RO",
+          "iso_639_1": "ro",
+          "name": "Română",
+          "english_name": "Romanian",
+          "data": {
+            "homepage": "",
+            "overview": "După ce se rătăcește în mlaștinile din Louisiana, un grup de turiști trebuie să lupte pentru supraviețuire împotriva unui hipopotam furios care a scăpat în libertate.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "HK",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "一群度假者在路易斯安那州的沼泽地迷路后，必须与一头横冲直撞、四处乱窜的河马展开殊死搏斗。",
+            "runtime": 0,
+            "tagline": "",
+            "title": "飢餓河馬"
+          }
+        },
+        {
+          "iso_3166_1": "IL",
+          "iso_639_1": "he",
+          "name": "עִבְרִית",
+          "english_name": "Hebrew",
+          "data": {
+            "homepage": "",
+            "overview": "קבוצת נופשים חייבת להילחם על חייהם מול היפופוטם משתולל שהשתחרר, לאחר שהם הלכו לאיבוד בביצות לואיזיאנה.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "רעב"
+          }
+        },
+        {
+          "iso_3166_1": "SI",
+          "iso_639_1": "sl",
+          "name": "Slovenščina",
+          "english_name": "Slovenian",
+          "data": {
+            "homepage": "",
+            "overview": "Potem ko se izgubijo v močvirjih Louisiane, se skupina dopustnikov mora boriti za svoja življenja proti podivjanemu povodnemu konju.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Hungry"
+          }
+        },
+        {
+          "iso_3166_1": "MX",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "homepage": "",
+            "overview": "Un grupo de turistas deben luchar por sus vidas contra un hipopótamo desbocado, que anda suelto tras perderse en los pantanos de Luisiana.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "La Bestia Del Pantano"
+          }
+        },
+        {
+          "iso_3166_1": "UA",
+          "iso_639_1": "uk",
+          "name": "Український",
+          "english_name": "Ukrainian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Паща"
+          }
+        },
+        {
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "homepage": "",
+            "overview": "Un grupo de turistas deben luchar por sus vidas contra un hipopótamo desbocado, que anda suelto tras perderse en los pantanos de Luisiana.",
+            "runtime": 93,
+            "tagline": "",
+            "title": "La Bestia del Pantano"
+          }
+        },
+        {
+          "iso_3166_1": "BG",
+          "iso_639_1": "bg",
+          "name": "български език",
+          "english_name": "Bulgarian",
+          "data": {
+            "homepage": "",
+            "overview": "Група летовници трябва да се борят за живота си срещу разярения хипопотам, след като се изгубват в блатата на Луизиана.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Гладен"
+          }
+        },
+        {
+          "iso_3166_1": "PT",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "homepage": "",
+            "overview": "Duas amigas que passam férias em Nova Orleães vão a um passeio pelo pântano. Um guia leva-as pela água com mais quatro turistas e faz um desvio. De repente, o barco é atacado e capota. Há um hipopótamo à solta, um animal que não gosta nada de ver a sua casa invadida por turistas. Começa assim uma luta pela sobrevivência.",
+            "runtime": 93,
+            "tagline": "",
+            "title": "Hungry: 4 Toneladas de Raiva"
+          }
+        },
+        {
+          "iso_3166_1": "TR",
+          "iso_639_1": "tr",
+          "name": "Türkçe",
+          "english_name": "Turkish",
+          "data": {
+            "homepage": "",
+            "overview": "Louisiana bataklıklarında kaybolan bir grup tatilci, ortalıkta dehşet saçan firari bir hipopotama karşı hayatta kalma mücadelesi vermek zorunda kalır.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "DK",
+          "iso_639_1": "da",
+          "name": "Dansk",
+          "english_name": "Danish",
+          "data": {
+            "homepage": "",
+            "overview": "I det mystiske og farlige landskab i Louisianas sumpe begiver en gruppe feriegæster sig ud på en tur i en sumpbåd. Uvidende om farerne der lurer i sumpene og lokket af løftet om et eksklusivt eventyr, begiver de sig væk fra de officielle stier. De ved ikke, at deres rejse vil udvikle sig til en kamp for overlevelse mod en glubsk flodhest, der er gemt i sumpens dyb.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        }
+      ]
+    },
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 52869,
+          "known_for_department": "Acting",
+          "name": "Madison Davenport",
+          "original_name": "Madison Davenport",
+          "popularity": 2.1839,
+          "profile_path": "/8yIHX149UVVeoJfUbi4oOC1nGcI.jpg",
+          "cast_id": 6,
+          "character": "Sistine",
+          "credit_id": "698b5e0ea4aa32e01b8efc6c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1549537,
+          "known_for_department": "Acting",
+          "name": "Tracey Bonner",
+          "original_name": "Tracey Bonner",
+          "popularity": 1.2209,
+          "profile_path": "/1Y3dKqq9dkYIFYQZqgh7mB7Ts7g.jpg",
+          "cast_id": 8,
+          "character": "Dionne",
+          "credit_id": "698b5e1aa4aa32e01b8efc70",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22462,
+          "known_for_department": "Acting",
+          "name": "Joaquim de Almeida",
+          "original_name": "Joaquim de Almeida",
+          "popularity": 2.3505,
+          "profile_path": "/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg",
+          "cast_id": 7,
+          "character": "Walker",
+          "credit_id": "698b5e145bfb1e76c6c73298",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2242777,
+          "known_for_department": "Acting",
+          "name": "Michel Curiel",
+          "original_name": "Michel Curiel",
+          "popularity": 0.8389,
+          "profile_path": "/ml4NqwB24Vr0PpRXiKjelUAWab5.jpg",
+          "cast_id": 12,
+          "character": "Rodrigo",
+          "credit_id": "698b5e3bb30ae871974215c7",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1321622,
+          "known_for_department": "Acting",
+          "name": "Samantha Coughlan",
+          "original_name": "Samantha Coughlan",
+          "popularity": 2.1503,
+          "profile_path": "/oTcw7AFY52UYyIjPLp9ZjySwivy.jpg",
+          "cast_id": 10,
+          "character": "Sally",
+          "credit_id": "698b5e247a8886a3b58efd19",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1704853,
+          "known_for_department": "Acting",
+          "name": "Olivia Bernstone",
+          "original_name": "Olivia Bernstone",
+          "popularity": 0.8987,
+          "profile_path": "/7rQGrzEHEZ7iBIrlVzbBDIIhnvP.jpg",
+          "cast_id": 11,
+          "character": "Hannah",
+          "credit_id": "698b5e356dd2b98900d7f46c",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30697,
+          "known_for_department": "Acting",
+          "name": "Jim Meskimen",
+          "original_name": "Jim Meskimen",
+          "popularity": 1.3838,
+          "profile_path": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+          "cast_id": 9,
+          "character": "Tim",
+          "credit_id": "698b5e207a8886a3b58efd15",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4150510,
+          "known_for_department": "Acting",
+          "name": "River Codack",
+          "original_name": "River Codack",
+          "popularity": 0.7753,
+          "profile_path": "/linaIZJqleeWHjonIdDtISzVYrX.jpg",
+          "cast_id": 13,
+          "character": "Mikey",
+          "credit_id": "698b5e3f2db627ad6fb70e76",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1516315,
+          "known_for_department": "Acting",
+          "name": "Joe Azzopardi",
+          "original_name": "Joe Azzopardi",
+          "popularity": 1.0882,
+          "profile_path": "/pImRPY1hkIXU7oLZO1znJOdoDDg.jpg",
+          "cast_id": 16,
+          "character": "Captain James",
+          "credit_id": "69fb45be3f2eb08e53cd0f66",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4700526,
+          "known_for_department": "Acting",
+          "name": "Matthew Charlery-Smith",
+          "original_name": "Matthew Charlery-Smith",
+          "popularity": 0.5095,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Jazz Singer",
+          "credit_id": "69fb45c53b154ed61f1d2f9f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3531064,
+          "known_for_department": "Acting",
+          "name": "Maxime Durand",
+          "original_name": "Maxime Durand",
+          "popularity": 0.4708,
+          "profile_path": "/v863xgclqAGgqnTs5dVWjjgVRtl.jpg",
+          "cast_id": 19,
+          "character": "Gator Joe's tour guide (uncredited)",
+          "credit_id": "6a3dfc54054f4a51fca6a09c",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1088096,
+          "known_for_department": "Directing",
+          "name": "James Nunn",
+          "original_name": "James Nunn",
+          "popularity": 1.1199,
+          "profile_path": "/fa83eZedZOTM4DqkX1BrEUowkaT.jpg",
+          "credit_id": "6729589706dc88596323f808",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1088096,
+          "known_for_department": "Directing",
+          "name": "James Nunn",
+          "original_name": "James Nunn",
+          "popularity": 1.1199,
+          "profile_path": "/fa83eZedZOTM4DqkX1BrEUowkaT.jpg",
+          "credit_id": "6729599b425bdcd2ace31b74",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1400095,
+          "known_for_department": "Production",
+          "name": "Ben Jacques",
+          "original_name": "Ben Jacques",
+          "popularity": 0.4281,
+          "profile_path": null,
+          "credit_id": "672959ef06dc88596323f81c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2066378,
+          "known_for_department": "Production",
+          "name": "Marc Goldberg",
+          "original_name": "Marc Goldberg",
+          "popularity": 0.4983,
+          "profile_path": null,
+          "credit_id": "67295a0483e62f05c6b568b6",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3412584,
+          "known_for_department": "Production",
+          "name": "Sarah Gabriel",
+          "original_name": "Sarah Gabriel",
+          "popularity": 0.3688,
+          "profile_path": null,
+          "credit_id": "67295a18599da2898095121b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 939612,
+          "known_for_department": "Sound",
+          "name": "Austin Wintory",
+          "original_name": "Austin Wintory",
+          "popularity": 0.48,
+          "profile_path": "/vIxjXrBZuAj1mBScp2punq46O0r.jpg",
+          "credit_id": "69e803fd74d092ea9eceb9e6",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1622448,
+          "known_for_department": "Production",
+          "name": "Emma Gunnery",
+          "original_name": "Emma Gunnery",
+          "popularity": 0.6578,
+          "profile_path": "/doaX4CbI9cOEf7WbRk2I5X7I7a2.jpg",
+          "credit_id": "69fb458792ebd13dbeb9aaf7",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2064623,
+          "known_for_department": "Camera",
+          "name": "Job Reineke",
+          "original_name": "Job Reineke",
+          "popularity": 0.192,
+          "profile_path": null,
+          "credit_id": "6a3d50b2d09ae7f36f2acfa7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "genre_ids": [
+      53,
+      27
+    ],
+    "media_type": "movie",
+    "title_en": "Hungry",
+    "overview_en": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands",
+    "cast": [
+      {
+        "name": "Madison Davenport",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8yIHX149UVVeoJfUbi4oOC1nGcI.jpg"
+      },
+      {
+        "name": "Tracey Bonner",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1Y3dKqq9dkYIFYQZqgh7mB7Ts7g.jpg"
+      },
+      {
+        "name": "Joaquim de Almeida",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg"
+      },
+      {
+        "name": "Michel Curiel",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ml4NqwB24Vr0PpRXiKjelUAWab5.jpg"
+      },
+      {
+        "name": "Samantha Coughlan",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/oTcw7AFY52UYyIjPLp9ZjySwivy.jpg"
+      },
+      {
+        "name": "Olivia Bernstone",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7rQGrzEHEZ7iBIrlVzbBDIIhnvP.jpg"
+      },
+      {
+        "name": "Jim Meskimen",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg"
+      },
+      {
+        "name": "River Codack",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/linaIZJqleeWHjonIdDtISzVYrX.jpg"
+      }
+    ],
+    "date_added": 1786152578295
   },
   {
     "adult": false,
@@ -58556,13 +57829,13 @@
     "original_language": "en",
     "original_name": "House of the Dragon",
     "overview": "تدور الأحداث قبل 200 عام من أحداث مسلسل صراع العروش حيث سيركز على تفاصيل عائلة آل تارغيريان ولمحات هامة في تاريخ العائلة التي حكمت ويستروس منذ زمن بعيد وصولًا إلى رقصة التنانين والصراعات الداخلية في العائلة التي دمرت كل شيء وهددت بانقراض التنانين للأبد",
-    "popularity": 326.2501,
+    "popularity": 354.2155,
     "poster_path": "/3cV7NLkN8WY5LECzLxI73PXE5Oq.jpg",
     "first_air_date": "2022-08-21",
     "softcore": false,
     "name": "آل التنين",
-    "vote_average": 8.383,
-    "vote_count": 6857,
+    "vote_average": 8.381,
+    "vote_count": 6862,
     "media_type": "tv",
     "seasons": [
       {
@@ -58762,7 +58035,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
       }
     ],
-    "date_added": 1786138690420
+    "date_added": 1786152578409
   },
   {
     "adult": false,
@@ -58778,13 +58051,13 @@
     "original_language": "en",
     "original_name": "Lioness",
     "overview": "بينما تسعى جو للحفاظ على استقرار حياتها الشخصية والعملية في آن واحد تواجه العديد من العقبات في حرب المخابرات المركزية ضد الإرهاب وتستعين بـ كروز من قوات المارينز للعمل عميلة سرية لحسابها في إحدى المهمات",
-    "popularity": 243.8309,
+    "popularity": 300.8873,
     "poster_path": "/iuvropv4Fj1PQM2DSgYYzOtimm2.jpg",
     "first_air_date": "2023-07-23",
     "softcore": false,
     "name": "Lioness",
-    "vote_average": 8.015,
-    "vote_count": 1300,
+    "vote_average": 8.012,
+    "vote_count": 1302,
     "media_type": "tv",
     "seasons": [
       {
@@ -58989,7 +58262,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1786138690511
+    "date_added": 1786152578451
   },
   {
     "adult": false,
@@ -59005,13 +58278,13 @@
     "original_language": "en",
     "original_name": "Silo",
     "overview": "مسلسل Silo الصومعة هو عمل خيال علمي وتدور أحداثه في مستقبل بائس ومجهول حيث تعيش بقايا البشرية داخل صومعة عملاقة تمتد لـ 144 طابقاً تحت الأرض لحمايتهم من العالم الخارجي السام والقاتل تحكم هذه الصومعة قوانين صارمة للغاية تمنع التساؤل عن الماضي أو ما يوجد في الخارج لكن الأحداث تشتعل عندما تبدأ مهندسة ميكانيكية تُدعى جولييت بالتحقيق في موت غامض لأحد المقربين منها مما يقودها تدريجياً نحو كشف أسرار مظلمة ومؤامرات تخفيها السلطات عن حقيقة الصومعة والعالم الخارجي",
-    "popularity": 179.1034,
+    "popularity": 238.3357,
     "poster_path": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
     "first_air_date": "2023-05-04",
     "softcore": false,
     "name": "Silo",
     "vote_average": 8.186,
-    "vote_count": 2384,
+    "vote_count": 2385,
     "media_type": "tv",
     "seasons": [
       {
@@ -59243,7 +58516,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1786138690620
+    "date_added": 1786152578520
   },
   {
     "adult": false,
@@ -59260,7 +58533,7 @@
     "original_language": "ja",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "overview": "عندما تدهس شاحنة شابًا يبلغ من العمر 34 سنة لا تنتهي قصته هناك بل يعاد بعثه في عالم جديد كرضيع ينتهز رودي كلّ فرصة ليعيش الحياة التي لطالما أرادها مدعومًا بأصدقاء جُدد وبعض القدرات السحرية المكتسبة حديثًا والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا ينطلق في مغامرة ملحمية مع تذكره لكل تجربته السابقة",
-    "popularity": 149.1897,
+    "popularity": 146.0858,
     "poster_path": "/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
     "first_air_date": "2021-01-11",
     "softcore": false,
@@ -59381,7 +58654,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1786138690787
+    "date_added": 1786152578923
   },
   {
     "adult": false,
@@ -59398,13 +58671,13 @@
     "original_language": "en",
     "original_name": "Reacher",
     "overview": "حين يُعتقل جاك ريتشر ضابط الشرطة العسكرية على جريمة قتل لم يرتكبها يجد نفسه في وسط مؤامرة مميتة مليئة برجال الشرطة غير الشرفاء ورجال الأعمال المريبين والسياسيين الماكرين عليه أن يستخدم ذكاءه ليكتشف ما يحدث في مارغريف جورجيا",
-    "popularity": 147.5802,
+    "popularity": 174.338,
     "poster_path": "/uV4RKiU5uXOIuxTUy6NZbSYMY77.jpg",
     "first_air_date": "2022-02-03",
     "softcore": false,
     "name": "جاك ريتشر",
-    "vote_average": 8.081,
-    "vote_count": 2997,
+    "vote_average": 8.079,
+    "vote_count": 2998,
     "media_type": "tv",
     "seasons": [
       {
@@ -59616,7 +58889,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1786138691421
+    "date_added": 1786152579396
   },
   {
     "adult": false,
@@ -59632,7 +58905,7 @@
     "original_language": "en",
     "original_name": "Watch What Happens Live with Andy Cohen",
     "overview": "",
-    "popularity": 147.0535,
+    "popularity": 182.999,
     "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "first_air_date": "2009-07-16",
     "softcore": false,
@@ -60060,7 +59333,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1786138692521
+    "date_added": 1786152582103
   },
   {
     "adult": false,
@@ -60076,13 +59349,13 @@
     "original_language": "en",
     "original_name": "Ted Lasso",
     "overview": "يحكي العمل قصة لاعب الكرة المتقاعد تيد لاسو والذي يقرر السفر إلى المملكة المتحدة من أجل تدريب فريق فيكرة قدم في الدوري الممتاز يكافح من أجل البقاء",
-    "popularity": 142.8336,
+    "popularity": 140.322,
     "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
     "first_air_date": "2020-08-14",
     "softcore": false,
     "name": "Ted Lasso",
-    "vote_average": 8.343,
-    "vote_count": 2503,
+    "vote_average": 8.344,
+    "vote_count": 2505,
     "media_type": "tv",
     "seasons": [
       {
@@ -60329,7 +59602,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
       }
     ],
-    "date_added": 1786138692634
+    "date_added": 1786152582222
   },
   {
     "adult": false,
@@ -60345,7 +59618,7 @@
     "original_language": "de",
     "original_name": "Gute Zeiten, schlechte Zeiten",
     "overview": "",
-    "popularity": 136.0554,
+    "popularity": 106.8534,
     "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
     "first_air_date": "1992-05-11",
     "softcore": false,
@@ -62073,7 +61346,334 @@
     "title_en": "Gute Zeiten schlechte Zeiten",
     "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
     "cast": [],
-    "date_added": 1786138694413
+    "date_added": 1786152586068
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+    "genre_ids": [
+      35,
+      10767
+    ],
+    "id": 59941,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "",
+    "popularity": 166.9347,
+    "poster_path": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "first_air_date": "2014-02-17",
+    "softcore": false,
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "vote_average": 5.775,
+    "vote_count": 382,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2014-02-17",
+        "episode_count": 191,
+        "id": 61601,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/jZ4lEt1vT260afMQIwVQcVFsAys.jpg",
+        "season_number": 1,
+        "vote_average": 6.9,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-01-05",
+        "episode_count": 263,
+        "id": 67030,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/4K6wA4raiWSNRL7AWMM0oPbVr8m.jpg",
+        "season_number": 2,
+        "vote_average": 9,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-01-04",
+        "episode_count": 144,
+        "id": 73778,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/xFOVcKxo7SSexJiLsTw2PrbNGcZ.jpg",
+        "season_number": 3,
+        "vote_average": 4.8,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-09-19",
+        "episode_count": 208,
+        "id": 83758,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/xFOVcKxo7SSexJiLsTw2PrbNGcZ.jpg",
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2017-09-25",
+        "episode_count": 190,
+        "id": 110825,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/a8ZFFnuZsvRTNGbyqL3WKXNdMEn.jpg",
+        "season_number": 5,
+        "vote_average": 10,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2018-09-24",
+        "episode_count": 194,
+        "id": 112480,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/fyqYTmskIlZlKuTVoMr7lkam25y.jpg",
+        "season_number": 6,
+        "vote_average": 10,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2019-09-23",
+        "episode_count": 201,
+        "id": 137518,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/5bpeJ2JUToKB3EQrPs9AEd2noRs.jpg",
+        "season_number": 7,
+        "vote_average": 10,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2020-09-21",
+        "episode_count": 197,
+        "id": 173532,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/zGroKOCHxiG51dzwYdgRecE3moq.jpg",
+        "season_number": 8,
+        "vote_average": 2,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2021-09-19",
+        "episode_count": 194,
+        "id": 212214,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": "/zGroKOCHxiG51dzwYdgRecE3moq.jpg",
+        "season_number": 9,
+        "vote_average": 5.3,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-09-19",
+        "episode_count": 132,
+        "id": 309508,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": "/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
+        "season_number": 10,
+        "vote_average": 1,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-10-01",
+        "episode_count": 182,
+        "id": 358728,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": "/eFPIb584RMcDlvqcAtjS8Jjz7TM.jpg",
+        "season_number": 11,
+        "vote_average": 6.4,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-09-23",
+        "episode_count": 163,
+        "id": 421395,
+        "name": "الموسم 12",
+        "overview": "",
+        "poster_path": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+        "season_number": 12,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-09-22",
+        "episode_count": 143,
+        "id": 471516,
+        "name": "الموسم 13",
+        "overview": "",
+        "poster_path": "/eFPIb584RMcDlvqcAtjS8Jjz7TM.jpg",
+        "season_number": 13,
+        "vote_average": 2.2,
+        "cast": [
+          {
+            "name": "جيمي فالون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+          },
+          {
+            "name": "Steve Higgins",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "title_en": "The Tonight Show Starring Jimmy Fallon",
+    "overview_en": "After Jay Leno s second retirement from the program Jimmy Fallon stepped in as his permanent replacement After 42 years in Los Angeles the program was brought back to New York",
+    "cast": [
+      {
+        "name": "جيمي فالون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
+      },
+      {
+        "name": "Steve Higgins",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
+      }
+    ],
+    "date_added": 1786152587636
   },
   {
     "adult": false,
@@ -62089,7 +61689,7 @@
     "original_language": "en",
     "original_name": "All Elite Wrestling: Dynamite",
     "overview": "",
-    "popularity": 116.3146,
+    "popularity": 106.0334,
     "poster_path": "/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
     "first_air_date": "2019-10-02",
     "softcore": false,
@@ -62266,7 +61866,7 @@
     "title_en": "All Elite Wrestling Dynamite",
     "overview_en": "A world class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years",
     "cast": [],
-    "date_added": 1786138695171
+    "date_added": 1786152588739
   },
   {
     "adult": false,
@@ -62283,13 +61883,13 @@
     "original_language": "ja",
     "original_name": "BLEACH",
     "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
-    "popularity": 114.2729,
+    "popularity": 127.9272,
     "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
     "first_air_date": "2004-10-05",
     "softcore": false,
     "name": "المطهر",
-    "vote_average": 8.366,
-    "vote_count": 2205,
+    "vote_average": 8.367,
+    "vote_count": 2206,
     "media_type": "tv",
     "seasons": [
       {
@@ -62412,7 +62012,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
       }
     ],
-    "date_added": 1786138695358
+    "date_added": 1786152588793
   },
   {
     "adult": false,
@@ -62429,13 +62029,13 @@
     "original_language": "en",
     "original_name": "Futurama",
     "overview": "يحكي المسلسل مغامرات صبي توصيل البيتزا فيليب جي فراي في مدينة نيويورك في أواخر القرن العشرين الذي تم تجميده عن غير قصد لألف عام بعدها وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express",
-    "popularity": 110.4423,
+    "popularity": 115.2912,
     "poster_path": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
     "first_air_date": "1999-03-28",
     "softcore": false,
     "name": "فيوتشراما",
     "vote_average": 8.363,
-    "vote_count": 3830,
+    "vote_count": 3831,
     "media_type": "tv",
     "seasons": [
       {
@@ -63056,7 +62656,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
       }
     ],
-    "date_added": 1786138695634
+    "date_added": 1786152588911
   },
   {
     "adult": false,
@@ -63073,7 +62673,7 @@
     "original_language": "ja",
     "original_name": "仮面ライダー",
     "overview": "تدور أحداث المسلسل حول عالم يسمى عالم المرآة حيث تظهر وحوش تأكل البشر يقوم شخص يدعى جين بصنع بطاقات خاصة تمكن 13 مقاتلاً من التحول إلى دراجين لحماية الناس أو القتال فيما بينهم",
-    "popularity": 106.861,
+    "popularity": 113.7127,
     "poster_path": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
     "first_air_date": "1971-04-03",
     "softcore": false,
@@ -64901,7 +64501,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
       }
     ],
-    "date_added": 1786138697385
+    "date_added": 1786152592993
   },
   {
     "adult": false,
@@ -64918,7 +64518,7 @@
     "original_language": "en",
     "original_name": "X-Men '97",
     "overview": "تستخدم مجموعة من المتحولين مواهبها غير الطبيعية لحماية عالم يكرههم ويخافهم",
-    "popularity": 105.3449,
+    "popularity": 98.5697,
     "poster_path": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
     "first_air_date": "2024-03-20",
     "softcore": false,
@@ -64954,7 +64554,7 @@
     "title_en": "إكس مِن ٩٧",
     "overview_en": "The X Men a band of mutants who use their uncanny gifts to protect a world that hates and fears them are challenged like never before forced to face a dangerous and unexpected new future",
     "cast": [],
-    "date_added": 1786138697462
+    "date_added": 1786152593098
   },
   {
     "adult": false,
@@ -64971,7 +64571,7 @@
     "original_language": "zh",
     "original_name": "仙逆",
     "overview": "",
-    "popularity": 101.2836,
+    "popularity": 106.3371,
     "poster_path": "/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
     "first_air_date": "2023-09-25",
     "softcore": false,
@@ -65068,7 +64668,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
       }
     ],
-    "date_added": 1786138697537
+    "date_added": 1786152593293
   },
   {
     "adult": false,
@@ -65084,7 +64684,7 @@
     "original_language": "ko",
     "original_name": "런닝맨",
     "overview": "هو برنامج منوعات كوري جنوبي يقوم فيه المقدمون والضيوف وهم غالبا من المشاهير في كوريا الجنوبية بإكمال مهام تقع في عدة معالم للفوز بالسباق بعض المرات يكون السباق فردي أو مع فرق أو ثنائيات كما أن فكرته تعتمد على الألعاب الترفيهية وأيضا اللعبة الأساسية في هذا البرنامج هي لعبة مهمة السباق وهي عبارة عن توجد بطاقة أسماء ملتصقة وراء ظهر كل عضو ويجب على الأعضاء المنافسة على خلع بطاقات بعضهم البعض حتى الشخص الأخير الذي لم تنزع بطاقة إسمه هو الفائز لكن بالطبع تتغير مهمة السباق من مرة إلى أخرى ويتغير مفهومها وكان مثير للإهتمام أكثر بعد عودة مذيع كوريا الأول يو جاي سوك بعد تركه لبرنامج نزهة العائلة Family Outing في 2010 ومنذ ذلك الحين البرنامج حصل على لقب أشهر برنامج منوعات",
-    "popularity": 97.837,
+    "popularity": 107.3401,
     "poster_path": "/25J6ufUoyvRVd8M6SpIYse0Ph9P.jpg",
     "first_air_date": "2010-07-11",
     "softcore": false,
@@ -65191,7 +64791,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1786138697650
+    "date_added": 1786152593571
   },
   {
     "adult": false,
@@ -65207,7 +64807,7 @@
     "original_language": "en",
     "original_name": "Lucky",
     "overview": "عندما تفشل عملية سرقة بملايين الدولارات تُجبر المحتالة لاكي على الفرار وبين الهرب من الفيدراليين وزعيم جريمة لا يرحم تقاتل لاكي للنجاة بحياتها ولإيجاد مخرج",
-    "popularity": 95.8977,
+    "popularity": 103.1678,
     "poster_path": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
     "first_air_date": "2026-07-14",
     "softcore": false,
@@ -65284,11 +64884,11 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
       }
     ],
-    "date_added": 1786138697707
+    "date_added": 1786152593582
   },
   {
     "adult": false,
-    "backdrop_path": "/384Lam787FIDBnwjwQBvC8gjB2d.jpg",
+    "backdrop_path": "/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
     "genre_ids": [
       10764
     ],
@@ -65299,7 +64899,7 @@
     "original_language": "en",
     "original_name": "Raw",
     "overview": "",
-    "popularity": 89.3726,
+    "popularity": 92.934,
     "poster_path": "/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
     "first_air_date": "1993-01-11",
     "softcore": false,
@@ -65687,7 +65287,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1786138699624
+    "date_added": 1786152597398
   },
   {
     "adult": false,
@@ -65703,7 +65303,7 @@
     "original_language": "fi",
     "original_name": "Salatut elämät",
     "overview": "",
-    "popularity": 87.524,
+    "popularity": 65.5096,
     "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
     "first_air_date": "1999-01-25",
     "softcore": false,
@@ -66642,1216 +66242,130 @@
     "title_en": "Secret Lives",
     "overview_en": "Salatut elämät Secret Lives is a Finnish television soap opera that premiered on MTV3 on 25 January 1999 The series storylines follow the daily lives of several families who live in the same apartment block in Helsinki",
     "cast": [],
-    "date_added": 1786138701592
+    "date_added": 1786152600709
   },
   {
     "adult": false,
-    "backdrop_path": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "backdrop_path": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
     "genre_ids": [
-      10766
+      18,
+      35
     ],
-    "id": 206559,
+    "id": 291496,
     "origin_country": [
-      "ZA"
+      "KR"
     ],
-    "original_language": "af",
-    "original_name": "Binnelanders",
-    "overview": "",
-    "popularity": 86.5814,
-    "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "first_air_date": "2005-10-13",
+    "original_language": "ko",
+    "original_name": "이런 엿같은 사랑",
+    "overview": "تفقد مدّعية عامة طموحة ذاكرتها وتنتقل للعيش مع مدرب ملاكمة يدّعي أنه حبيبها فهل يمكن أن يتحول هذا الوضع الحرج إلى حب حقيقي",
+    "popularity": 87.5065,
+    "poster_path": "/s4QHevjGTGN3qfnA4TjkRVMGq8n.jpg",
+    "first_air_date": "2026-08-07",
     "softcore": false,
-    "name": "Binnelanders",
-    "vote_average": 5.5,
-    "vote_count": 111,
+    "name": "حب كحلوى التوفي",
+    "vote_average": 8,
+    "vote_count": 2,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2005-10-13",
-        "episode_count": 52,
-        "id": 301848,
-        "name": "الموسم 1",
+        "air_date": "2026-08-07",
+        "episode_count": 12,
+        "id": 456445,
+        "name": "مسلسل محدود",
         "overview": "",
-        "poster_path": null,
+        "poster_path": "/eiFUSgFwmgjZbtJAsbZDrQlK4m1.jpg",
         "season_number": 1,
-        "vote_average": 9.3,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Gys de Villiers",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/saIe2KMwwssTLnoghRdYlsLv6m0.jpg"
-          },
-          {
-            "name": "Rolanda Marais",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n4UYcUvd6usxcrsEy6yF66waWZm.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Jurgen Hellberg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mzzvkK95dDtY5x2lAq86bSrK6r4.jpg"
-          },
-          {
-            "name": "Milan Murray",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z6V1gnal58gPLJC8uSCglNf5V82.jpg"
-          },
-          {
-            "name": "Justin Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eSsrFy98hyeAvzTIAxNp8iSdX0h.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2006-04-13",
-        "episode_count": 88,
-        "id": 301849,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
         "vote_average": 0,
         "cast": [
           {
-            "name": "Hans Strydom",
+            "name": "جونغ هاي إن",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7ZMUHR2q0XTWMxuqijWSVfWQv14.jpg"
           },
           {
-            "name": "Rolanda Marais",
+            "name": "하영",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n4UYcUvd6usxcrsEy6yF66waWZm.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
           },
           {
-            "name": "Sandi Schultz",
+            "name": "허성태",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/j65kOkZ8RjGVuwNHjuIVbSD49tB.jpg"
           },
           {
-            "name": "Nadia Valvekens",
+            "name": "전배수",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7EhOO3xFN5FvEJwl0b0Eudab5bI.jpg"
           },
           {
-            "name": "Jurgen Hellberg",
+            "name": "서정연",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mzzvkK95dDtY5x2lAq86bSrK6r4.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/za1tTtSULKsZPN0u1oTs2Iival0.jpg"
           },
           {
-            "name": "Milan Murray",
+            "name": "جانغ هاي جين",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z6V1gnal58gPLJC8uSCglNf5V82.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
           },
           {
-            "name": "James Alexander",
+            "name": "김미화",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9s3mCfuvhKCZYe2bBMMLBX1RCFE.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/sIPiMfwY2WgOX4fE5wSQgknCyRl.jpg"
           },
           {
-            "name": "Neels Van Jaarsveld",
+            "name": "차청화",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1FlvrePMXJ6yKxzWoWUd1Vp1WAY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-05-09",
-        "episode_count": 260,
-        "id": 301850,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Rolanda Marais",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n4UYcUvd6usxcrsEy6yF66waWZm.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Jurgen Hellberg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mzzvkK95dDtY5x2lAq86bSrK6r4.jpg"
-          },
-          {
-            "name": "Dawid Minnaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/noiD3wPrCVLOsuefVfKonFgwyCs.jpg"
-          },
-          {
-            "name": "James Alexander",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9s3mCfuvhKCZYe2bBMMLBX1RCFE.jpg"
-          },
-          {
-            "name": "Lindie Stander",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7B29mNzGyhzSHgdURdZU9qdGltq.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-05-07",
-        "episode_count": 260,
-        "id": 301851,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Rolanda Marais",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n4UYcUvd6usxcrsEy6yF66waWZm.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Jurgen Hellberg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mzzvkK95dDtY5x2lAq86bSrK6r4.jpg"
-          },
-          {
-            "name": "Dawid Minnaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/noiD3wPrCVLOsuefVfKonFgwyCs.jpg"
-          },
-          {
-            "name": "Ramey Short",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k4iX0X0O6kTOUz6AftKgiavtAp.jpg"
-          },
-          {
-            "name": "Lindie Stander",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7B29mNzGyhzSHgdURdZU9qdGltq.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-05-07",
-        "episode_count": 237,
-        "id": 301852,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Rolanda Marais",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n4UYcUvd6usxcrsEy6yF66waWZm.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Jurgen Hellberg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mzzvkK95dDtY5x2lAq86bSrK6r4.jpg"
-          },
-          {
-            "name": "Dawid Minnaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/noiD3wPrCVLOsuefVfKonFgwyCs.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-04-05",
-        "episode_count": 260,
-        "id": 301853,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Dawid Minnaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/noiD3wPrCVLOsuefVfKonFgwyCs.jpg"
-          },
-          {
-            "name": "Ramey Short",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k4iX0X0O6kTOUz6AftKgiavtAp.jpg"
-          },
-          {
-            "name": "Lindie Stander",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7B29mNzGyhzSHgdURdZU9qdGltq.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-04-04",
-        "episode_count": 260,
-        "id": 301854,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 7,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Dawid Minnaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/noiD3wPrCVLOsuefVfKonFgwyCs.jpg"
-          },
-          {
-            "name": "Ramey Short",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k4iX0X0O6kTOUz6AftKgiavtAp.jpg"
-          },
-          {
-            "name": "Elma Postma",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2PDchATr1mB6Nnz4gFtBC0yCJD9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-04-02",
-        "episode_count": 260,
-        "id": 301855,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 8,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Sandi Schultz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ovfpEUckU9uFI3LQDGN4N320Ek.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Dawid Minnaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/noiD3wPrCVLOsuefVfKonFgwyCs.jpg"
-          },
-          {
-            "name": "Desiré Gardner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vxTOzRScsKu4uKQMcqAg1ZDQDqI.jpg"
-          },
-          {
-            "name": "Elma Postma",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2PDchATr1mB6Nnz4gFtBC0yCJD9.jpg"
-          },
-          {
-            "name": "Hanli Rolfes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eH1AOtHx4nd4BMc5ahnHV6G5tvE.jpg"
-          },
-          {
-            "name": "Stefan Ludik",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vMLmRBEFQsIgtoGCSXbof4H97cq.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-04-01",
-        "episode_count": 260,
-        "id": 301856,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 9,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Desiré Gardner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vxTOzRScsKu4uKQMcqAg1ZDQDqI.jpg"
-          },
-          {
-            "name": "Ramey Short",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k4iX0X0O6kTOUz6AftKgiavtAp.jpg"
-          },
-          {
-            "name": "Hanli Rolfes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eH1AOtHx4nd4BMc5ahnHV6G5tvE.jpg"
-          },
-          {
-            "name": "Stefan Ludik",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vMLmRBEFQsIgtoGCSXbof4H97cq.jpg"
-          },
-          {
-            "name": "Elma Postma",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2PDchATr1mB6Nnz4gFtBC0yCJD9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2014-03-31",
-        "episode_count": 260,
-        "id": 301857,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/n8or9JBQ52qELY7TccfLbB3FLws.jpg",
-        "season_number": 10,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Desiré Gardner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vxTOzRScsKu4uKQMcqAg1ZDQDqI.jpg"
-          },
-          {
-            "name": "Stefan Ludik",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vMLmRBEFQsIgtoGCSXbof4H97cq.jpg"
-          },
-          {
-            "name": "Erik Holm",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rJ5Q9M70fmxnqaGgIFVdpdOVtcO.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Quanita Adams",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/82YpVmf16cyuHyVzwIL06TBLZv7.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-03-30",
-        "episode_count": 260,
-        "id": 301858,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 11,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Erik Holm",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rJ5Q9M70fmxnqaGgIFVdpdOVtcO.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Pascal Pienaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gjXjj1caGTsKNyo74seiXDwbD3n.jpg"
-          },
-          {
-            "name": "Zeena Edwards",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-03-28",
-        "episode_count": 315,
-        "id": 301859,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 12,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Pascal Pienaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gjXjj1caGTsKNyo74seiXDwbD3n.jpg"
-          },
-          {
-            "name": "Nadia Valvekens",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ylV1cQWTIpyv2JUvalrLF2YRTs1.jpg"
-          },
-          {
-            "name": "Hannelie Warren",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1XlknQXS4eku5LycqpMwDAt5XPc.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2017-06-12",
-        "episode_count": 260,
-        "id": 301860,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 13,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Hannelie Warren",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1XlknQXS4eku5LycqpMwDAt5XPc.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Cindy Swanepoel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oxPBRQVwk5N5e16MSIzhEUUVEu5.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2018-06-11",
-        "episode_count": 260,
-        "id": 301861,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 14,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Ramey Short",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k4iX0X0O6kTOUz6AftKgiavtAp.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Hannelie Warren",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1XlknQXS4eku5LycqpMwDAt5XPc.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2019-06-10",
-        "episode_count": 260,
-        "id": 301862,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 15,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Ramey Short",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k4iX0X0O6kTOUz6AftKgiavtAp.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Hannelie Warren",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1XlknQXS4eku5LycqpMwDAt5XPc.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Bradley Olivier",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wUCUEVOqe3QyFLmmHcWjcQ9NJth.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2020-06-08",
-        "episode_count": 260,
-        "id": 301863,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/2g4RnUinfqMyeQnwNpRROkbgbRQ.jpg",
-        "season_number": 16,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Ben Kruger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMQLfTdDmC0vWbohVf88oXVClm2.jpg"
-          },
-          {
-            "name": "Hannelie Warren",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1XlknQXS4eku5LycqpMwDAt5XPc.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Bradley Olivier",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wUCUEVOqe3QyFLmmHcWjcQ9NJth.jpg"
-          },
-          {
-            "name": "Cindy Swanepoel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oxPBRQVwk5N5e16MSIzhEUUVEu5.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2021-06-07",
-        "episode_count": 260,
-        "id": 301864,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/5URikDdjnciD9t5VgqMpcIKQyVU.jpg",
-        "season_number": 17,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Bradley Olivier",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wUCUEVOqe3QyFLmmHcWjcQ9NJth.jpg"
-          },
-          {
-            "name": "Luandri Reynders",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/53oNdmkrQxY2eHFtPjk4H22pz82.jpg"
-          },
-          {
-            "name": "Maude Sandham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/q7R9i8eoIHp9mujfeLFrLGLir56.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2022-06-06",
-        "episode_count": 260,
-        "id": 351344,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/tdX2Fb6yXpxBolz0OXPp3JSQWB8.jpg",
-        "season_number": 18,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Bradley Olivier",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wUCUEVOqe3QyFLmmHcWjcQ9NJth.jpg"
-          },
-          {
-            "name": "Luandri Reynders",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/53oNdmkrQxY2eHFtPjk4H22pz82.jpg"
-          },
-          {
-            "name": "Maude Sandham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/q7R9i8eoIHp9mujfeLFrLGLir56.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-06-05",
-        "episode_count": 260,
-        "id": 351346,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/qPoSrOelpnCtZw63SKfl6KigmWH.jpg",
-        "season_number": 19,
-        "vote_average": 9.3,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Clint Brink",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2BkSQ9RtDtwmY9gdpm48YbfnL6y.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Luandri Reynders",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/53oNdmkrQxY2eHFtPjk4H22pz82.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Melinda Viljoen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8VviPGl59PZhHDXO4R5q0HrP95Q.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-06-03",
-        "episode_count": 260,
-        "id": 394733,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "season_number": 20,
-        "vote_average": 9.6,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Hykie Berg",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v4yr7aKtg1pa8Zl7vmwRF1RNK5x.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Kate Roothman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kVPlKSl7wNyGTnb0PVNDUROWwYi.jpg"
-          },
-          {
-            "name": "Gerald Steyn",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dYnfi6UYok930QgcqECBhKRdiWg.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-06-02",
-        "episode_count": 260,
-        "id": 457248,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/iwc1CFXTepqF3LuCi1P7crzL6Kr.jpg",
-        "season_number": 21,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Reynardt Hugo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bzRCvB5eCwfPNG22LraDmy8f0PZ.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Kate Roothman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kVPlKSl7wNyGTnb0PVNDUROWwYi.jpg"
-          },
-          {
-            "name": "Gerald Steyn",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dYnfi6UYok930QgcqECBhKRdiWg.jpg"
-          },
-          {
-            "name": "Marlee van der Merwe",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/epCX7JDvUxDI7JCrRFXw2FhQZ4.jpg"
-          },
-          {
-            "name": "Roberto Kyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6uQJc7epTqEJ1BsSrSpFFJ6YMyi.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-06-01",
-        "episode_count": 66,
-        "id": 517620,
-        "name": "الموسم 22",
-        "overview": "",
-        "poster_path": "/j4GU4T3F66j8Im1PfMsbJ1rQkMI.jpg",
-        "season_number": 22,
-        "vote_average": 9.9,
-        "cast": [
-          {
-            "name": "Hans Strydom",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
-          },
-          {
-            "name": "Germandt Geldenhuys",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
-          },
-          {
-            "name": "Je ani Swiegelaar",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
-          },
-          {
-            "name": "Gerald Steyn",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dYnfi6UYok930QgcqECBhKRdiWg.jpg"
-          },
-          {
-            "name": "Marlee van der Merwe",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/epCX7JDvUxDI7JCrRFXw2FhQZ4.jpg"
-          },
-          {
-            "name": "Roberto Kyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6uQJc7epTqEJ1BsSrSpFFJ6YMyi.jpg"
-          },
-          {
-            "name": "Melinda Viljoen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8VviPGl59PZhHDXO4R5q0HrP95Q.jpg"
-          },
-          {
-            "name": "Antoinette Modise",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5OEpJvTOpDh4snWx6eKWKcDgryV.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
           }
         ]
       }
     ],
-    "title": "Binnelanders",
-    "title_en": "Binnelanders",
-    "overview_en": "A South African Afrikaans soap opera It is set in and around the fictional private hospital Binneland Kliniek in Pretoria and the storyline follows the trials trauma and tribulations of the staff and patients of the hospital",
+    "title": "حب كحلوى التوفي",
+    "title_en": "Our Sticky Love",
+    "overview_en": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend Can this sticky situation turn into real love",
     "cast": [
       {
-        "name": "Hans Strydom",
+        "name": "جونغ هاي إن",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/7ZMUHR2q0XTWMxuqijWSVfWQv14.jpg"
       },
       {
-        "name": "Germandt Geldenhuys",
+        "name": "하영",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7ektNcRTOtIr4eopAybV00JiRN.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
       },
       {
-        "name": "Je ani Swiegelaar",
+        "name": "허성태",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/j65kOkZ8RjGVuwNHjuIVbSD49tB.jpg"
       },
       {
-        "name": "Gerald Steyn",
+        "name": "전배수",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dYnfi6UYok930QgcqECBhKRdiWg.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/7EhOO3xFN5FvEJwl0b0Eudab5bI.jpg"
       },
       {
-        "name": "Marlee van der Merwe",
+        "name": "서정연",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/epCX7JDvUxDI7JCrRFXw2FhQZ4.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/za1tTtSULKsZPN0u1oTs2Iival0.jpg"
       },
       {
-        "name": "Roberto Kyle",
+        "name": "جانغ هاي جين",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6uQJc7epTqEJ1BsSrSpFFJ6YMyi.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
       },
       {
-        "name": "Melinda Viljoen",
+        "name": "김미화",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8VviPGl59PZhHDXO4R5q0HrP95Q.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/sIPiMfwY2WgOX4fE5wSQgknCyRl.jpg"
       },
       {
-        "name": "Antoinette Modise",
+        "name": "차청화",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5OEpJvTOpDh4snWx6eKWKcDgryV.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
       }
     ],
-    "date_added": 1786138702949
+    "date_added": 1786152600761
   },
   {
     "adult": false,
@@ -67944,7 +66458,7 @@
           {
             "name": "تارا سترونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
           },
           {
             "name": "Hynden Walch",
@@ -67981,7 +66495,7 @@
           {
             "name": "تارا سترونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
           },
           {
             "name": "Hynden Walch",
@@ -68018,7 +66532,7 @@
           {
             "name": "تارا سترونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
           },
           {
             "name": "Hynden Walch",
@@ -68092,7 +66606,7 @@
           {
             "name": "تارا سترونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
           },
           {
             "name": "Hynden Walch",
@@ -68129,7 +66643,7 @@
           {
             "name": "تارا سترونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
           },
           {
             "name": "Hynden Walch",
@@ -68243,7 +66757,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
       }
     ],
-    "date_added": 1786138703373
+    "date_added": 1786152601943
   },
   {
     "adult": false,
@@ -68367,7 +66881,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg"
       }
     ],
-    "date_added": 1786138703470
+    "date_added": 1786152602140
   },
   {
     "adult": false,
@@ -68543,7 +67057,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
       }
     ],
-    "date_added": 1786138703528
+    "date_added": 1786152602155
   },
   {
     "adult": false,
@@ -68770,7 +67284,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138704038
+    "date_added": 1786152602616
   },
   {
     "adult": false,
@@ -69352,7 +67866,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6qu272gwn8JwLmKhianszBfGadL.jpg"
       }
     ],
-    "date_added": 1786138704474
+    "date_added": 1786152603776
   },
   {
     "adult": false,
@@ -70708,7 +69222,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rsgX6mHBt7hP540uUZ4CBwR21ru.jpg"
       }
     ],
-    "date_added": 1786138708086
+    "date_added": 1786152609604
   },
   {
     "adult": false,
@@ -71276,7 +69790,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786138708567
+    "date_added": 1786152611172
   },
   {
     "adult": false,
@@ -71489,7 +70003,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
       }
     ],
-    "date_added": 1786138708646
+    "date_added": 1786152611299
   },
   {
     "adult": false,
@@ -74861,7 +73375,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1786138712721
+    "date_added": 1786152618221
   },
   {
     "adult": false,
@@ -75770,119 +74284,6 @@
     "title_en": "BBC Proms",
     "overview_en": "The World s Greatest Classical Music Festival The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations Its aim to bring the best in classical music to the widest possible audience which remains true to founder conductor Henry Wood s original vision in 1895 Whether you are a classical connoisseur or think classical music isn t for you there is something for everyone in the eight week stretch of concerts",
     "cast": [],
-    "date_added": 1786138717295
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "id": 298168,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Shards",
-    "overview": "",
-    "popularity": 65.5378,
-    "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-    "first_air_date": "2026-08-05",
-    "softcore": false,
-    "name": "The Shards",
-    "vote_average": 7.7,
-    "vote_count": 13,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-08-05",
-        "episode_count": 10,
-        "id": 469445,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-        "season_number": 1,
-        "vote_average": 9.9,
-        "cast": [
-          {
-            "name": "Igby Rigney",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
-          },
-          {
-            "name": "كايا غربر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
-          },
-          {
-            "name": "Homer Gere",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
-          },
-          {
-            "name": "Hayes Warner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/53jrzoTL9ZiDVMrrYtvcF93fEyW.jpg"
-          },
-          {
-            "name": "Graham Campbell",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
-          },
-          {
-            "name": "إيفان رايتشل وود",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg"
-          },
-          {
-            "name": "ويس بنتلي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "The Shards",
-    "title_en": "The Shards",
-    "overview_en": "17 year old Bret Easton Ellis is in his final year at the elite Buckley prep school Upending his world is the arrival of a mysterious new student Robert Mallory whose unsettling presence coincides with the activities of a serial killer known as The Trawler",
-    "cast": [
-      {
-        "name": "Igby Rigney",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
-      },
-      {
-        "name": "كايا غربر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
-      },
-      {
-        "name": "Homer Gere",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
-      },
-      {
-        "name": "Hayes Warner",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/53jrzoTL9ZiDVMrrYtvcF93fEyW.jpg"
-      },
-      {
-        "name": "Graham Campbell",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
-      },
-      {
-        "name": "إيفان رايتشل وود",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg"
-      },
-      {
-        "name": "ويس بنتلي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
-      }
-    ],
-    "date_added": 1786138717340
+    "date_added": 1786152626111
   }
 ]
