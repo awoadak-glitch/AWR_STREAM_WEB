@@ -5675,7 +5675,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qBb5eYEoZAlStrRXvsFlKukKJG8.jpg"
       }
     ],
-    "date_added": 1786353584426
+    "date_added": 1786367139063
   },
   {
     "adult": false,
@@ -6408,10 +6408,10 @@
           "english_name": "Catalan",
           "data": {
             "homepage": "",
-            "overview": "Una epopeia mitològica que segueix la història d'Odisseu i el seu llarg viatge a casa, de 10 anys de durada, després de la guerra de Troia.",
+            "overview": "Una epopeia mitològica que segueix la història d’Odisseu i el seu llarg viatge a casa, de deu anys de durada, després de la guerra de Troia.",
             "runtime": 0,
             "tagline": "",
-            "title": "L'Odissea"
+            "title": "L’Odissea"
           }
         },
         {
@@ -7582,7 +7582,7 @@
         },
         {
           "adult": false,
-          "gender": 0,
+          "gender": 2,
           "id": 5392456,
           "known_for_department": "Crew",
           "name": "Redouane Ouadi",
@@ -8620,7 +8620,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1786353584433
+    "date_added": 1786367139081
   },
   {
     "adult": false,
@@ -10313,13 +10313,26 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 2441330,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Bridgit Crider",
-          "original_name": "Bridgit Crider",
-          "popularity": 0.4179,
+          "id": 3444371,
+          "known_for_department": "Art",
+          "name": "علی صفدری",
+          "original_name": "Ali Safdari",
+          "popularity": 0.4493,
           "profile_path": null,
-          "credit_id": "6219fece19ab59004298dc84",
+          "credit_id": "6219fd9792e55b0041f1f695",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3165992,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ellen Arden",
+          "original_name": "Ellen Arden",
+          "popularity": 0.6597,
+          "profile_path": null,
+          "credit_id": "6219fe437b7b4d006c86cc40",
           "department": "Costume & Make-Up",
           "job": "Key Makeup Artist"
         },
@@ -10335,6 +10348,32 @@
           "credit_id": "6219fe8a0e597b006924c955",
           "department": "Costume & Make-Up",
           "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2441330,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Bridgit Crider",
+          "original_name": "Bridgit Crider",
+          "popularity": 0.4179,
+          "profile_path": null,
+          "credit_id": "6219fece19ab59004298dc84",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3066573,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lane Friedman",
+          "original_name": "Lane Friedman",
+          "popularity": 0.5433,
+          "profile_path": null,
+          "credit_id": "6219ff667b7b4d004278c960",
+          "department": "Costume & Make-Up",
+          "job": "Hair Department Head"
         },
         {
           "adult": false,
@@ -10364,19 +10403,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1412767,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Yeşim \"Shimmy\" Osman",
-          "original_name": "Yeşim \"Shimmy\" Osman",
-          "popularity": 0.5529,
-          "profile_path": null,
-          "credit_id": "621a014379a1c30043fe0e48",
-          "department": "Costume & Make-Up",
-          "job": "Hairstylist"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 1971547,
           "known_for_department": "Costume & Make-Up",
@@ -10390,29 +10416,29 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 3165992,
+          "gender": 0,
+          "id": 3444384,
           "known_for_department": "Costume & Make-Up",
-          "name": "Ellen Arden",
-          "original_name": "Ellen Arden",
-          "popularity": 0.6597,
+          "name": "Shuayb Naimo",
+          "original_name": "Shuayb Naimo",
+          "popularity": 0.403,
           "profile_path": null,
-          "credit_id": "6219fe437b7b4d006c86cc40",
+          "credit_id": "621a00fba8858700421d86d9",
           "department": "Costume & Make-Up",
-          "job": "Key Makeup Artist"
+          "job": "Makeup Artist"
         },
         {
           "adult": false,
           "gender": 1,
-          "id": 1427498,
+          "id": 1412767,
           "known_for_department": "Costume & Make-Up",
-          "name": "Rachael Speke",
-          "original_name": "Rachael Speke",
-          "popularity": 0.6282,
+          "name": "Yeşim \"Shimmy\" Osman",
+          "original_name": "Yeşim \"Shimmy\" Osman",
+          "popularity": 0.5529,
           "profile_path": null,
-          "credit_id": "621a02c6383df2006c19c786",
+          "credit_id": "621a014379a1c30043fe0e48",
           "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
+          "job": "Hairstylist"
         },
         {
           "adult": false,
@@ -10430,41 +10456,15 @@
         {
           "adult": false,
           "gender": 1,
-          "id": 3066573,
+          "id": 1427498,
           "known_for_department": "Costume & Make-Up",
-          "name": "Lane Friedman",
-          "original_name": "Lane Friedman",
-          "popularity": 0.5433,
+          "name": "Rachael Speke",
+          "original_name": "Rachael Speke",
+          "popularity": 0.6282,
           "profile_path": null,
-          "credit_id": "6219ff667b7b4d004278c960",
-          "department": "Costume & Make-Up",
-          "job": "Hair Department Head"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3444384,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Shuayb Naimo",
-          "original_name": "Shuayb Naimo",
-          "popularity": 0.403,
-          "profile_path": null,
-          "credit_id": "621a00fba8858700421d86d9",
+          "credit_id": "621a02c6383df2006c19c786",
           "department": "Costume & Make-Up",
           "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3444371,
-          "known_for_department": "Art",
-          "name": "علی صفدری",
-          "original_name": "Ali Safdari",
-          "popularity": 0.4493,
-          "profile_path": null,
-          "credit_id": "6219fd9792e55b0041f1f695",
-          "department": "Art",
-          "job": "Art Direction"
         },
         {
           "adult": false,
@@ -10481,6 +10481,19 @@
         },
         {
           "adult": false,
+          "gender": 2,
+          "id": 57027,
+          "known_for_department": "Production",
+          "name": "Louis D'Esposito",
+          "original_name": "Louis D'Esposito",
+          "popularity": 3.0204,
+          "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
+          "credit_id": "612452e63a9650005c37018e",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
           "gender": 1,
           "id": 113674,
           "known_for_department": "Production",
@@ -10489,19 +10502,6 @@
           "popularity": 0.9718,
           "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg",
           "credit_id": "612452f1db4ed60045590aa1",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1774412,
-          "known_for_department": "Production",
-          "name": "Rachel O'Connor",
-          "original_name": "Rachel O'Connor",
-          "popularity": 0.9491,
-          "profile_path": null,
-          "credit_id": "6124530a0f2fbd004815b6cb",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -10520,27 +10520,14 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 57027,
+          "gender": 1,
+          "id": 1774412,
           "known_for_department": "Production",
-          "name": "Louis D'Esposito",
-          "original_name": "Louis D'Esposito",
-          "popularity": 3.0204,
-          "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
-          "credit_id": "612452e63a9650005c37018e",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 977941,
-          "known_for_department": "Production",
-          "name": "مات تولماش",
-          "original_name": "Matt Tolmach",
-          "popularity": 0.6731,
-          "profile_path": "/8mniHJVwoJdVpwxW278yJwz8c1T.jpg",
-          "credit_id": "61245326501cf20075ac6766",
+          "name": "Rachel O'Connor",
+          "original_name": "Rachel O'Connor",
+          "popularity": 0.9491,
+          "profile_path": null,
+          "credit_id": "6124530a0f2fbd004815b6cb",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -10559,6 +10546,19 @@
         },
         {
           "adult": false,
+          "gender": 2,
+          "id": 977941,
+          "known_for_department": "Production",
+          "name": "مات تولماش",
+          "original_name": "Matt Tolmach",
+          "popularity": 0.6731,
+          "profile_path": "/8mniHJVwoJdVpwxW278yJwz8c1T.jpg",
+          "credit_id": "61245326501cf20075ac6766",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
           "gender": 1,
           "id": 1463296,
           "known_for_department": "Art",
@@ -10567,6 +10567,19 @@
           "popularity": 0.5156,
           "profile_path": null,
           "credit_id": "6126ee4faaf897009475154b",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1741033,
+          "known_for_department": "Art",
+          "name": "Frances Lynn Lebar",
+          "original_name": "Frances Lynn Lebar",
+          "popularity": 0.3705,
+          "profile_path": null,
+          "credit_id": "6126ee59f29d660065323a6a",
           "department": "Art",
           "job": "Art Direction"
         },
@@ -10625,19 +10638,6 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 2189751,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Carla Wallace",
-          "original_name": "Carla Wallace",
-          "popularity": 0.4712,
-          "profile_path": null,
-          "credit_id": "6126eeb52dffd8008b651db1",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
           "id": 3212601,
           "known_for_department": "Costume & Make-Up",
           "name": "Yvonne Eagle",
@@ -10651,15 +10651,15 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 1741033,
-          "known_for_department": "Art",
-          "name": "Frances Lynn Lebar",
-          "original_name": "Frances Lynn Lebar",
-          "popularity": 0.3705,
+          "id": 2189751,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carla Wallace",
+          "original_name": "Carla Wallace",
+          "popularity": 0.4712,
           "profile_path": null,
-          "credit_id": "6126ee59f29d660065323a6a",
-          "department": "Art",
-          "job": "Art Direction"
+          "credit_id": "6126eeb52dffd8008b651db1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
         },
         {
           "adult": false,
@@ -10742,13 +10742,13 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 2647893,
-          "known_for_department": "Crew",
-          "name": "Dan Slott",
-          "original_name": "Dan Slott",
-          "popularity": 0.5425,
-          "profile_path": "/AphtKHHp9Nn8G9p3nSvfmidBUTQ.jpg",
-          "credit_id": "630321fedfe31d008010c91f",
+          "id": 1382000,
+          "known_for_department": "Writing",
+          "name": "براين مايكل بنديس",
+          "original_name": "Brian Michael Bendis",
+          "popularity": 0.9438,
+          "profile_path": "/hPafqzHFJ69Pc1rGq7oXGylcfUV.jpg",
+          "credit_id": "6303213821118f0080a0b60f",
           "department": "Crew",
           "job": "Thanks"
         },
@@ -10767,45 +10767,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 3672686,
-          "known_for_department": "Crew",
-          "name": "سارة بيتشيلي",
-          "original_name": "Sara Pichelli",
-          "popularity": 0.4307,
-          "profile_path": "/nGThOc0uBw67NvCRszP2Pw6Xvnv.jpg",
-          "credit_id": "630321ca5f4b73007faac99b",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 18877,
-          "known_for_department": "Writing",
-          "name": "دون هيك",
-          "original_name": "Don Heck",
-          "popularity": 1.1427,
-          "profile_path": "/i6LYusY0feetOUeyUx4eftNCmpt.jpg",
-          "credit_id": "630321b04fd141007fc52f25",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 128988,
-          "known_for_department": "Writing",
-          "name": "John Romita Jr.",
-          "original_name": "John Romita Jr.",
-          "popularity": 0.8779,
-          "profile_path": "/AjmWmwnDO8HPtWUYqQe8d9eFlWe.jpg",
-          "credit_id": "630321f5097c49009110ccdd",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 3611385,
           "known_for_department": "Crew",
@@ -10814,45 +10775,6 @@
           "popularity": 0.4519,
           "profile_path": null,
           "credit_id": "630321545f4b73007faac977",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3672687,
-          "known_for_department": "Crew",
-          "name": "باولو ريفيرا",
-          "original_name": "Paolo Rivera",
-          "popularity": 0.4149,
-          "profile_path": null,
-          "credit_id": "630321e67ad08c007d48f93c",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1770815,
-          "known_for_department": "Writing",
-          "name": "Bill Everett",
-          "original_name": "Bill Everett",
-          "popularity": 0.5561,
-          "profile_path": "/diBcPg2z5T3L7kIWoJzABFTwPik.jpg",
-          "credit_id": "630321a7dfe31d007b82cd1d",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 105644,
-          "known_for_department": "Writing",
-          "name": "Dwayne McDuffie",
-          "original_name": "Dwayne McDuffie",
-          "popularity": 1.129,
-          "profile_path": "/g72XJpetIstOArmmDKq5pHjfPTy.jpg",
-          "credit_id": "630321b97d41aa0079be1797",
           "department": "Crew",
           "job": "Thanks"
         },
@@ -10885,6 +10807,58 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 1770815,
+          "known_for_department": "Writing",
+          "name": "Bill Everett",
+          "original_name": "Bill Everett",
+          "popularity": 0.5561,
+          "profile_path": "/diBcPg2z5T3L7kIWoJzABFTwPik.jpg",
+          "credit_id": "630321a7dfe31d007b82cd1d",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18877,
+          "known_for_department": "Writing",
+          "name": "دون هيك",
+          "original_name": "Don Heck",
+          "popularity": 1.1427,
+          "profile_path": "/i6LYusY0feetOUeyUx4eftNCmpt.jpg",
+          "credit_id": "630321b04fd141007fc52f25",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 105644,
+          "known_for_department": "Writing",
+          "name": "Dwayne McDuffie",
+          "original_name": "Dwayne McDuffie",
+          "popularity": 1.129,
+          "profile_path": "/g72XJpetIstOArmmDKq5pHjfPTy.jpg",
+          "credit_id": "630321b97d41aa0079be1797",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3672686,
+          "known_for_department": "Crew",
+          "name": "سارة بيتشيلي",
+          "original_name": "Sara Pichelli",
+          "popularity": 0.4307,
+          "profile_path": "/nGThOc0uBw67NvCRszP2Pw6Xvnv.jpg",
+          "credit_id": "630321ca5f4b73007faac99b",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 1187909,
           "known_for_department": "Production",
           "name": "Joe Quesada",
@@ -10892,6 +10866,45 @@
           "popularity": 1.4479,
           "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg",
           "credit_id": "630321d37ad08c007d48f92f",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3672687,
+          "known_for_department": "Crew",
+          "name": "باولو ريفيرا",
+          "original_name": "Paolo Rivera",
+          "popularity": 0.4149,
+          "profile_path": null,
+          "credit_id": "630321e67ad08c007d48f93c",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 128988,
+          "known_for_department": "Writing",
+          "name": "John Romita Jr.",
+          "original_name": "John Romita Jr.",
+          "popularity": 0.8779,
+          "profile_path": "/AjmWmwnDO8HPtWUYqQe8d9eFlWe.jpg",
+          "credit_id": "630321f5097c49009110ccdd",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2647893,
+          "known_for_department": "Crew",
+          "name": "Dan Slott",
+          "original_name": "Dan Slott",
+          "popularity": 0.5425,
+          "profile_path": "/AphtKHHp9Nn8G9p3nSvfmidBUTQ.jpg",
+          "credit_id": "630321fedfe31d008010c91f",
           "department": "Crew",
           "job": "Thanks"
         },
@@ -10910,16 +10923,29 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1382000,
-          "known_for_department": "Writing",
-          "name": "براين مايكل بنديس",
-          "original_name": "Brian Michael Bendis",
-          "popularity": 0.9438,
-          "profile_path": "/hPafqzHFJ69Pc1rGq7oXGylcfUV.jpg",
-          "credit_id": "6303213821118f0080a0b60f",
-          "department": "Crew",
-          "job": "Thanks"
+          "gender": 0,
+          "id": 3299654,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sheika Daley",
+          "original_name": "Sheika Daley",
+          "popularity": 0.3514,
+          "profile_path": null,
+          "credit_id": "6186e8d7f8aee80091eea173",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2275985,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Shawn Janifer",
+          "original_name": "Shawn Janifer",
+          "popularity": 0.607,
+          "profile_path": null,
+          "credit_id": "6186e8e8c5c1ef0061ee3782",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
         },
         {
           "adult": false,
@@ -10933,6 +10959,71 @@
           "credit_id": "6186e8ffd388ae008a13c9c4",
           "department": "Costume & Make-Up",
           "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1842138,
+          "known_for_department": "Art",
+          "name": "Patrick Dunn-Baker",
+          "original_name": "Patrick Dunn-Baker",
+          "popularity": 0.5279,
+          "profile_path": null,
+          "credit_id": "6186e94bd48cee0024f11ee7",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2483629,
+          "known_for_department": "Art",
+          "name": "Sally Ledger",
+          "original_name": "Sally Ledger",
+          "popularity": 0.3595,
+          "profile_path": null,
+          "credit_id": "6186e95c63a6950045cf82bc",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2028806,
+          "known_for_department": "Art",
+          "name": "Kristen Jenkins",
+          "original_name": "Kristen Jenkins",
+          "popularity": 0.4208,
+          "profile_path": null,
+          "credit_id": "6186e979d48cee0024f11f8b",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1400555,
+          "known_for_department": "Art",
+          "name": "George Lee",
+          "original_name": "George Lee",
+          "popularity": 0.6341,
+          "profile_path": null,
+          "credit_id": "6186e990d388ae0043fe914d",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352962,
+          "known_for_department": "Art",
+          "name": "Tammy S. Lee",
+          "original_name": "Tammy S. Lee",
+          "popularity": 0.5497,
+          "profile_path": null,
+          "credit_id": "6186e99bcb6db5002c31f8a2",
+          "department": "Art",
+          "job": "Set Designer"
         },
         {
           "adult": false,
@@ -10950,13 +11041,13 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 1842138,
+          "id": 3078266,
           "known_for_department": "Art",
-          "name": "Patrick Dunn-Baker",
-          "original_name": "Patrick Dunn-Baker",
-          "popularity": 0.5279,
+          "name": "Nicanor Mendoza III",
+          "original_name": "Nicanor Mendoza III",
+          "popularity": 0.297,
           "profile_path": null,
-          "credit_id": "6186e94bd48cee0024f11ee7",
+          "credit_id": "6186e9b9a313b80042d4389d",
           "department": "Art",
           "job": "Set Designer"
         },
@@ -10976,65 +11067,13 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 2264331,
-          "known_for_department": "Sound",
-          "name": "Sam Fan",
-          "original_name": "Sam Fan",
-          "popularity": 0.4789,
-          "profile_path": null,
-          "credit_id": "6186ea2ed388ae00612e36f5",
-          "department": "Sound",
-          "job": "Sound Effects Editor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2275985,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Shawn Janifer",
-          "original_name": "Shawn Janifer",
-          "popularity": 0.607,
-          "profile_path": null,
-          "credit_id": "6186e8e8c5c1ef0061ee3782",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3078266,
+          "id": 1842147,
           "known_for_department": "Art",
-          "name": "Nicanor Mendoza III",
-          "original_name": "Nicanor Mendoza III",
-          "popularity": 0.297,
+          "name": "Chris Sanford",
+          "original_name": "Chris Sanford",
+          "popularity": 0.4637,
           "profile_path": null,
-          "credit_id": "6186e9b9a313b80042d4389d",
-          "department": "Art",
-          "job": "Set Designer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2483629,
-          "known_for_department": "Art",
-          "name": "Sally Ledger",
-          "original_name": "Sally Ledger",
-          "popularity": 0.3595,
-          "profile_path": null,
-          "credit_id": "6186e95c63a6950045cf82bc",
-          "department": "Art",
-          "job": "Assistant Art Director"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1352962,
-          "known_for_department": "Art",
-          "name": "Tammy S. Lee",
-          "original_name": "Tammy S. Lee",
-          "popularity": 0.5497,
-          "profile_path": null,
-          "credit_id": "6186e99bcb6db5002c31f8a2",
+          "credit_id": "6186e9d40752880063cd5b30",
           "department": "Art",
           "job": "Set Designer"
         },
@@ -11053,32 +11092,6 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 3299654,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Sheika Daley",
-          "original_name": "Sheika Daley",
-          "popularity": 0.3514,
-          "profile_path": null,
-          "credit_id": "6186e8d7f8aee80091eea173",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1400555,
-          "known_for_department": "Art",
-          "name": "George Lee",
-          "original_name": "George Lee",
-          "popularity": 0.6341,
-          "profile_path": null,
-          "credit_id": "6186e990d388ae0043fe914d",
-          "department": "Art",
-          "job": "Set Designer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 222362,
           "known_for_department": "Sound",
@@ -11092,29 +11105,42 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 2028806,
-          "known_for_department": "Art",
-          "name": "Kristen Jenkins",
-          "original_name": "Kristen Jenkins",
-          "popularity": 0.4208,
+          "gender": 0,
+          "id": 2264331,
+          "known_for_department": "Sound",
+          "name": "Sam Fan",
+          "original_name": "Sam Fan",
+          "popularity": 0.4789,
           "profile_path": null,
-          "credit_id": "6186e979d48cee0024f11f8b",
-          "department": "Art",
-          "job": "Set Designer"
+          "credit_id": "6186ea2ed388ae00612e36f5",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1389858,
+          "known_for_department": "Sound",
+          "name": "Jamie Hardt",
+          "original_name": "Jamie Hardt",
+          "popularity": 0.6337,
+          "profile_path": null,
+          "credit_id": "6186eb761fd36f00628453ee",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
         },
         {
           "adult": false,
           "gender": 0,
-          "id": 1842147,
-          "known_for_department": "Art",
-          "name": "Chris Sanford",
-          "original_name": "Chris Sanford",
-          "popularity": 0.4637,
+          "id": 1705807,
+          "known_for_department": "Sound",
+          "name": "Takako Ishikawa",
+          "original_name": "Takako Ishikawa",
+          "popularity": 0.4053,
           "profile_path": null,
-          "credit_id": "6186e9d40752880063cd5b30",
-          "department": "Art",
-          "job": "Set Designer"
+          "credit_id": "6186eb8cd388ae002c025575",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
         },
         {
           "adult": false,
@@ -11145,6 +11171,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 1378171,
+          "known_for_department": "Sound",
+          "name": "كيفن أوكونيل",
+          "original_name": "Kevin O'Connell",
+          "popularity": 1.0667,
+          "profile_path": "/3S1AGmA9zP8R1XmkVGQzwE4imZH.jpg",
+          "credit_id": "6186ebc2ddd52d0026baeff0",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 1395447,
           "known_for_department": "Sound",
           "name": "Steven Ticknor",
@@ -11154,32 +11193,6 @@
           "credit_id": "6186ebd0ddd52d008a025bbe",
           "department": "Sound",
           "job": "Supervising Sound Editor"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2783486,
-          "known_for_department": "Visual Effects",
-          "name": "Diana Cobo",
-          "original_name": "Diana Cobo",
-          "popularity": 0.3412,
-          "profile_path": null,
-          "credit_id": "6186ec1975f1ad0027468c92",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1705807,
-          "known_for_department": "Sound",
-          "name": "Takako Ishikawa",
-          "original_name": "Takako Ishikawa",
-          "popularity": 0.4053,
-          "profile_path": null,
-          "credit_id": "6186eb8cd388ae002c025575",
-          "department": "Sound",
-          "job": "Sound Effects Editor"
         },
         {
           "adult": false,
@@ -11193,6 +11206,19 @@
           "credit_id": "6186ebfde7414600438f8da3",
           "department": "Visual Effects",
           "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2783486,
+          "known_for_department": "Visual Effects",
+          "name": "Diana Cobo",
+          "original_name": "Diana Cobo",
+          "popularity": 0.3412,
+          "profile_path": null,
+          "credit_id": "6186ec1975f1ad0027468c92",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
         },
         {
           "adult": false,
@@ -11210,28 +11236,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1389858,
-          "known_for_department": "Sound",
-          "name": "Jamie Hardt",
-          "original_name": "Jamie Hardt",
-          "popularity": 0.6337,
+          "id": 1813981,
+          "known_for_department": "Visual Effects",
+          "name": "Michael Killoren",
+          "original_name": "Michael Killoren",
+          "popularity": 0.4643,
           "profile_path": null,
-          "credit_id": "6186eb761fd36f00628453ee",
-          "department": "Sound",
-          "job": "Sound Effects Editor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1378171,
-          "known_for_department": "Sound",
-          "name": "كيفن أوكونيل",
-          "original_name": "Kevin O'Connell",
-          "popularity": 1.0667,
-          "profile_path": "/3S1AGmA9zP8R1XmkVGQzwE4imZH.jpg",
-          "credit_id": "6186ebc2ddd52d0026baeff0",
-          "department": "Sound",
-          "job": "Sound Re-Recording Mixer"
+          "credit_id": "6186ec7addd52d008a025d3c",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
         },
         {
           "adult": false,
@@ -11248,14 +11261,53 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1418408,
+          "gender": 2,
+          "id": 1649516,
+          "known_for_department": "Visual Effects",
+          "name": "Brendan Seals",
+          "original_name": "Brendan Seals",
+          "popularity": 0.4501,
+          "profile_path": "/74uMNYmh5NHZRBHlhombpvgY1ar.jpg",
+          "credit_id": "6186ecdaddd52d008a025e15",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1928587,
+          "known_for_department": "Visual Effects",
+          "name": "Chris Waegner",
+          "original_name": "Chris Waegner",
+          "popularity": 0.717,
+          "profile_path": "/ecz4GEqJL8FxRwgyGaBkfCtpTVy.jpg",
+          "credit_id": "6186ed1869d2800093347fcc",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1460748,
           "known_for_department": "Costume & Make-Up",
-          "name": "Pamela Waggoner",
-          "original_name": "Pamela Waggoner",
-          "popularity": 0.3937,
+          "name": "Kate Abraham",
+          "original_name": "Kate Abraham",
+          "popularity": 0.5276,
           "profile_path": null,
-          "credit_id": "6186ed7813a3880044eeec7f",
+          "credit_id": "6186ed293faba0002c47a153",
+          "department": "Costume & Make-Up",
+          "job": "Set Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2014456,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kevin Boyett",
+          "original_name": "Kevin Boyett",
+          "popularity": 0.4105,
+          "profile_path": null,
+          "credit_id": "6186ed3470309f0043935a2e",
           "department": "Costume & Make-Up",
           "job": "Set Costumer"
         },
@@ -11287,19 +11339,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1649516,
-          "known_for_department": "Visual Effects",
-          "name": "Brendan Seals",
-          "original_name": "Brendan Seals",
-          "popularity": 0.4501,
-          "profile_path": "/74uMNYmh5NHZRBHlhombpvgY1ar.jpg",
-          "credit_id": "6186ecdaddd52d008a025e15",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 1439109,
           "known_for_department": "Costume & Make-Up",
@@ -11313,58 +11352,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1813981,
-          "known_for_department": "Visual Effects",
-          "name": "Michael Killoren",
-          "original_name": "Michael Killoren",
-          "popularity": 0.4643,
-          "profile_path": null,
-          "credit_id": "6186ec7addd52d008a025d3c",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2014456,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Kevin Boyett",
-          "original_name": "Kevin Boyett",
-          "popularity": 0.4105,
-          "profile_path": null,
-          "credit_id": "6186ed3470309f0043935a2e",
-          "department": "Costume & Make-Up",
-          "job": "Set Costumer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1928587,
-          "known_for_department": "Visual Effects",
-          "name": "Chris Waegner",
-          "original_name": "Chris Waegner",
-          "popularity": 0.717,
-          "profile_path": "/ecz4GEqJL8FxRwgyGaBkfCtpTVy.jpg",
-          "credit_id": "6186ed1869d2800093347fcc",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1460748,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Kate Abraham",
-          "original_name": "Kate Abraham",
-          "popularity": 0.5276,
-          "profile_path": null,
-          "credit_id": "6186ed293faba0002c47a153",
-          "department": "Costume & Make-Up",
-          "job": "Set Costumer"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 2092975,
           "known_for_department": "Costume & Make-Up",
@@ -11373,6 +11360,19 @@
           "popularity": 0.3433,
           "profile_path": null,
           "credit_id": "6186ed6c1fd36f00628457eb",
+          "department": "Costume & Make-Up",
+          "job": "Set Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1418408,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Pamela Waggoner",
+          "original_name": "Pamela Waggoner",
+          "popularity": 0.3937,
+          "profile_path": null,
+          "credit_id": "6186ed7813a3880044eeec7f",
           "department": "Costume & Make-Up",
           "job": "Set Costumer"
         },
@@ -11431,19 +11431,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1578283,
-          "known_for_department": "Acting",
-          "name": "Sergio Garcia",
-          "original_name": "Sergio Garcia",
-          "popularity": 0.4823,
-          "profile_path": null,
-          "credit_id": "61bfe8dff28838001cc70fe5",
-          "department": "Crew",
-          "job": "Stunt Double"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 7625,
           "known_for_department": "Writing",
           "name": "ستيف ديتكو",
@@ -11453,19 +11440,6 @@
           "credit_id": "61bfdda2383df20062cdf586",
           "department": "Writing",
           "job": "Comic Book"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1203115,
-          "known_for_department": "Crew",
-          "name": "Ben Jenkin",
-          "original_name": "Ben Jenkin",
-          "popularity": 0.5157,
-          "profile_path": "/gV6FlbpKCUrJIZfr2Ox18TfopX3.jpg",
-          "credit_id": "61bfe8f14da3d40040cb1232",
-          "department": "Crew",
-          "job": "Stunt Double"
         },
         {
           "adult": false,
@@ -11495,19 +11469,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1044956,
-          "known_for_department": "Acting",
-          "name": "Lloyd Pitts",
-          "original_name": "Lloyd Pitts",
-          "popularity": 0.4239,
-          "profile_path": "/xHbhOv2BzC3hKekpDDXK9Up4XYp.jpg",
-          "credit_id": "61bfe8a20143250065ddfa4c",
-          "department": "Crew",
-          "job": "Acting Double"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 1452866,
           "known_for_department": "Crew",
@@ -11516,6 +11477,19 @@
           "popularity": 0.5956,
           "profile_path": "/1rW45F4VBwBzaK2kXdCOQ6vjJuj.jpg",
           "credit_id": "61bfe88c873f000042c04451",
+          "department": "Crew",
+          "job": "Acting Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1044956,
+          "known_for_department": "Acting",
+          "name": "Lloyd Pitts",
+          "original_name": "Lloyd Pitts",
+          "popularity": 0.4239,
+          "profile_path": "/xHbhOv2BzC3hKekpDDXK9Up4XYp.jpg",
+          "credit_id": "61bfe8a20143250065ddfa4c",
           "department": "Crew",
           "job": "Acting Double"
         },
@@ -11547,16 +11521,29 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1204244,
-          "known_for_department": "Editing",
-          "name": "Leigh Folsom Boyd",
-          "original_name": "Leigh Folsom Boyd",
-          "popularity": 0.5701,
-          "profile_path": "/twDY2v2jGPc5d8KBNb2wzuDr1I0.jpg",
-          "credit_id": "61d2bbe71c09fb006e01e9c9",
-          "department": "Editing",
-          "job": "Editor"
+          "gender": 2,
+          "id": 1578283,
+          "known_for_department": "Acting",
+          "name": "Sergio Garcia",
+          "original_name": "Sergio Garcia",
+          "popularity": 0.4823,
+          "profile_path": null,
+          "credit_id": "61bfe8dff28838001cc70fe5",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1203115,
+          "known_for_department": "Crew",
+          "name": "Ben Jenkin",
+          "original_name": "Ben Jenkin",
+          "popularity": 0.5157,
+          "profile_path": "/gV6FlbpKCUrJIZfr2Ox18TfopX3.jpg",
+          "credit_id": "61bfe8f14da3d40040cb1232",
+          "department": "Crew",
+          "job": "Stunt Double"
         },
         {
           "adult": false,
@@ -11568,6 +11555,19 @@
           "popularity": 0.9133,
           "profile_path": "/fJePTuHsOeT8z4D6LFZlSMkDEqF.jpg",
           "credit_id": "61d2bbd542f19f0064820c1d",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1204244,
+          "known_for_department": "Editing",
+          "name": "Leigh Folsom Boyd",
+          "original_name": "Leigh Folsom Boyd",
+          "popularity": 0.5701,
+          "profile_path": "/twDY2v2jGPc5d8KBNb2wzuDr1I0.jpg",
+          "credit_id": "61d2bbe71c09fb006e01e9c9",
           "department": "Editing",
           "job": "Editor"
         },
@@ -11690,19 +11690,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1425616,
-          "known_for_department": "Production",
-          "name": "إيمي باسكال",
-          "original_name": "Amy Pascal",
-          "popularity": 2.1153,
-          "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg",
-          "credit_id": "5d8e333b8289a00029cc4377",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 10850,
           "known_for_department": "Production",
@@ -11711,6 +11698,19 @@
           "popularity": 3.6061,
           "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg",
           "credit_id": "5d8e28e38289a0000fcc3342",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1425616,
+          "known_for_department": "Production",
+          "name": "إيمي باسكال",
+          "original_name": "Amy Pascal",
+          "popularity": 2.1153,
+          "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg",
+          "credit_id": "5d8e333b8289a00029cc4377",
           "department": "Production",
           "job": "Producer"
         },
@@ -11859,16 +11859,16 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 83071,
-          "known_for_department": "Directing",
-          "name": "David H. Venghaus Jr.",
-          "original_name": "David H. Venghaus Jr.",
-          "popularity": 0.5652,
-          "profile_path": null,
-          "credit_id": "5fd051e9d7cd0600407cca77",
-          "department": "Directing",
-          "job": "First Assistant Director"
+          "gender": 1,
+          "id": 1408293,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Linda Flowers",
+          "original_name": "Linda Flowers",
+          "popularity": 0.5244,
+          "profile_path": "/sC9of3RKFQ3RYNQMeX1SbJI0dBe.jpg",
+          "credit_id": "5fd05142691cd5003d1c4fb7",
+          "department": "Costume & Make-Up",
+          "job": "Hair Department Head"
         },
         {
           "adult": false,
@@ -11886,15 +11886,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1787802,
-          "known_for_department": "Directing",
-          "name": "Brian Avery Galligan",
-          "original_name": "Brian Avery Galligan",
-          "popularity": 0.521,
+          "id": 2690276,
+          "known_for_department": "Production",
+          "name": "Steven S. Shapiro",
+          "original_name": "Steven S. Shapiro",
+          "popularity": 0.3111,
           "profile_path": null,
-          "credit_id": "5fd051d968929c003bc48070",
-          "department": "Directing",
-          "job": "Second Unit First Assistant Director"
+          "credit_id": "5fd05192798c94003fc10c9e",
+          "department": "Production",
+          "job": "Production Executive"
         },
         {
           "adult": false,
@@ -11912,41 +11912,41 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 2690276,
-          "known_for_department": "Production",
-          "name": "Steven S. Shapiro",
-          "original_name": "Steven S. Shapiro",
-          "popularity": 0.3111,
+          "id": 1787802,
+          "known_for_department": "Directing",
+          "name": "Brian Avery Galligan",
+          "original_name": "Brian Avery Galligan",
+          "popularity": 0.521,
           "profile_path": null,
-          "credit_id": "5fd05192798c94003fc10c9e",
-          "department": "Production",
-          "job": "Production Executive"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1408293,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Linda Flowers",
-          "original_name": "Linda Flowers",
-          "popularity": 0.5244,
-          "profile_path": "/sC9of3RKFQ3RYNQMeX1SbJI0dBe.jpg",
-          "credit_id": "5fd05142691cd5003d1c4fb7",
-          "department": "Costume & Make-Up",
-          "job": "Hair Department Head"
+          "credit_id": "5fd051d968929c003bc48070",
+          "department": "Directing",
+          "job": "Second Unit First Assistant Director"
         },
         {
           "adult": false,
           "gender": 2,
-          "id": 2057527,
-          "known_for_department": "Art",
-          "name": "Richard Bennett",
-          "original_name": "Richard Bennett",
-          "popularity": 0.6132,
+          "id": 83071,
+          "known_for_department": "Directing",
+          "name": "David H. Venghaus Jr.",
+          "original_name": "David H. Venghaus Jr.",
+          "popularity": 0.5652,
           "profile_path": null,
-          "credit_id": "5fd125d9691cd5003f1d8baa",
+          "credit_id": "5fd051e9d7cd0600407cca77",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 13588,
+          "known_for_department": "Art",
+          "name": "Rosemary Brandenburg",
+          "original_name": "Rosemary Brandenburg",
+          "popularity": 0.9002,
+          "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg",
+          "credit_id": "5fd112da0ce1bc0040f16f1f",
           "department": "Art",
-          "job": "Storyboard Artist"
+          "job": "Set Decoration"
         },
         {
           "adult": false,
@@ -11963,16 +11963,16 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 13588,
+          "gender": 2,
+          "id": 2057527,
           "known_for_department": "Art",
-          "name": "Rosemary Brandenburg",
-          "original_name": "Rosemary Brandenburg",
-          "popularity": 0.9002,
-          "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg",
-          "credit_id": "5fd112da0ce1bc0040f16f1f",
+          "name": "Richard Bennett",
+          "original_name": "Richard Bennett",
+          "popularity": 0.6132,
+          "profile_path": null,
+          "credit_id": "5fd125d9691cd5003f1d8baa",
           "department": "Art",
-          "job": "Set Decoration"
+          "job": "Storyboard Artist"
         },
         {
           "adult": false,
@@ -12884,7 +12884,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
       }
     ],
-    "date_added": 1786353584457
+    "date_added": 1786367139129
   },
   {
     "adult": false,
@@ -14214,19 +14214,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1691976,
-          "known_for_department": "Visual Effects",
-          "name": "Geoffrey Baumann",
-          "original_name": "Geoffrey Baumann",
-          "popularity": 0.6412,
-          "profile_path": "/A7U4w5phSSEj2vKakIieYLrA6PM.jpg",
-          "credit_id": "66cef94185f7b593372b9851",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1325211,
           "known_for_department": "Art",
           "name": "Neil Lamont",
@@ -14236,6 +14223,19 @@
           "credit_id": "66cefa2fa54b07197ca46f89",
           "department": "Art",
           "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1691976,
+          "known_for_department": "Visual Effects",
+          "name": "Geoffrey Baumann",
+          "original_name": "Geoffrey Baumann",
+          "popularity": 0.6412,
+          "profile_path": "/A7U4w5phSSEj2vKakIieYLrA6PM.jpg",
+          "credit_id": "66cef94185f7b593372b9851",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
         },
         {
           "adult": false,
@@ -15615,7 +15615,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dSCcuypWkQzspAQQq4AuejMzYfo.jpg"
       }
     ],
-    "date_added": 1786353584464
+    "date_added": 1786367139146
   },
   {
     "adult": false,
@@ -16213,10 +16213,10 @@
           "english_name": "Catalan",
           "data": {
             "homepage": "",
-            "overview": "Una família tancada a casa seva misteriosament s'haurà d'unir per sobreviure a l'escassetat de recursos ia la sinistra amenaça que no els deixa sortir.",
+            "overview": "Una família tancada a casa misteriosament s’haurà d’unir per sobreviure a l’escassetat de recursos i a la sinistra amenaça que no els deixa sortir.",
             "runtime": 0,
             "tagline": "",
-            "title": "L'última casa"
+            "title": "L’última casa"
           }
         },
         {
@@ -16513,6 +16513,19 @@
           "original_name": "Louis Leterrier",
           "popularity": 3.1606,
           "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
+          "credit_id": "6633e28d99d5c3012356d84d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18865,
+          "known_for_department": "Directing",
+          "name": "لويس ليترير",
+          "original_name": "Louis Leterrier",
+          "popularity": 3.1606,
+          "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
           "credit_id": "6633e29d0792e10123798562",
           "department": "Production",
           "job": "Producer"
@@ -16529,19 +16542,6 @@
           "credit_id": "6633e356a1c59d0123e6f4c6",
           "department": "Production",
           "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 18865,
-          "known_for_department": "Directing",
-          "name": "لويس ليترير",
-          "original_name": "Louis Leterrier",
-          "popularity": 3.1606,
-          "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
-          "credit_id": "6633e28d99d5c3012356d84d",
-          "department": "Directing",
-          "job": "Director"
         },
         {
           "adult": false,
@@ -18675,7 +18675,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aXuOgHcxoeSmhd1qY60nCISUVW9.jpg"
       }
     ],
-    "date_added": 1786353584471
+    "date_added": 1786367139162
   },
   {
     "adult": false,
@@ -21141,7 +21141,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
       }
     ],
-    "date_added": 1786353584478
+    "date_added": 1786367139219
   },
   {
     "adult": false,
@@ -22002,7 +22002,7 @@
           "known_for_department": "Acting",
           "name": "مايكل جونستون",
           "original_name": "Michael Johnston",
-          "popularity": 4.7864,
+          "popularity": 4.5093,
           "profile_path": "/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg",
           "cast_id": 58,
           "character": "Bear",
@@ -22016,7 +22016,7 @@
           "known_for_department": "Acting",
           "name": "إندي نافاريت",
           "original_name": "Inde Navarrette",
-          "popularity": 15.683,
+          "popularity": 15.1517,
           "profile_path": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg",
           "cast_id": 5,
           "character": "Nikki",
@@ -22030,7 +22030,7 @@
           "known_for_department": "Acting",
           "name": "Cooper Tomlinson",
           "original_name": "Cooper Tomlinson",
-          "popularity": 2.0693,
+          "popularity": 1.8552,
           "profile_path": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg",
           "cast_id": 6,
           "character": "Ian",
@@ -22044,7 +22044,7 @@
           "known_for_department": "Acting",
           "name": "Megan Lawless",
           "original_name": "Megan Lawless",
-          "popularity": 3.0237,
+          "popularity": 2.9306,
           "profile_path": "/6qW63YEgB1qro01sM7T2HvhtFkh.jpg",
           "cast_id": 7,
           "character": "Sarah",
@@ -22058,7 +22058,7 @@
           "known_for_department": "Acting",
           "name": "Andy Richter",
           "original_name": "Andy Richter",
-          "popularity": 2.6585,
+          "popularity": 2.7056,
           "profile_path": "/zaURoCFYhzzgmJ2GYZqIkhWACm6.jpg",
           "cast_id": 50,
           "character": "Carter",
@@ -22072,7 +22072,7 @@
           "known_for_department": "Acting",
           "name": "Haley Fitzgerald",
           "original_name": "Haley Fitzgerald",
-          "popularity": 1.1633,
+          "popularity": 1.3105,
           "profile_path": "/xbKqZ5Epz0IaSCPLXDnByDACw2X.jpg",
           "cast_id": 54,
           "character": "Viola",
@@ -22086,7 +22086,7 @@
           "known_for_department": "Acting",
           "name": "Darin Toonder",
           "original_name": "Darin Toonder",
-          "popularity": 2.124,
+          "popularity": 2.2104,
           "profile_path": "/bD7Y9T7Y6XwDXjGJ8Suabyt1ZGo.jpg",
           "cast_id": 52,
           "character": "Harry",
@@ -22100,7 +22100,7 @@
           "known_for_department": "Acting",
           "name": "Anthony Pavone",
           "original_name": "Anthony Pavone",
-          "popularity": 0.6057,
+          "popularity": 0.7445,
           "profile_path": "/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg",
           "cast_id": 56,
           "character": "Reggie",
@@ -22114,7 +22114,7 @@
           "known_for_department": "Acting",
           "name": "Justice",
           "original_name": "Justice",
-          "popularity": 0.6375,
+          "popularity": 0.6227,
           "profile_path": "/YFxKf2HHJvyavQf54NO5wXFOJX.jpg",
           "cast_id": 53,
           "character": "Joe",
@@ -22128,7 +22128,7 @@
           "known_for_department": "Acting",
           "name": "Anthony Casabianca",
           "original_name": "Anthony Casabianca",
-          "popularity": 0.5943,
+          "popularity": 0.6804,
           "profile_path": "/xNJUKqKQhMeyZ74erQvETr3AqV0.jpg",
           "cast_id": 55,
           "character": "Chris",
@@ -22142,7 +22142,7 @@
           "known_for_department": "Acting",
           "name": "Chloe Breen",
           "original_name": "Chloe Breen",
-          "popularity": 1.8367,
+          "popularity": 1.8439,
           "profile_path": "/oKBTQeGcQBM5aHNHwAqVWPjDVfz.jpg",
           "cast_id": 51,
           "character": "Ruthie",
@@ -22156,7 +22156,7 @@
           "known_for_department": "Acting",
           "name": "Malcolm Kelner",
           "original_name": "Malcolm Kelner",
-          "popularity": 0.8772,
+          "popularity": 0.7055,
           "profile_path": "/xlojlX1dlu1OY0Vf2owDWv5PV3l.jpg",
           "cast_id": 57,
           "character": "Bartender",
@@ -22170,7 +22170,7 @@
           "known_for_department": "Acting",
           "name": "Charles Santa Cruz",
           "original_name": "Charles Santa Cruz",
-          "popularity": 0.3317,
+          "popularity": 0.3603,
           "profile_path": null,
           "cast_id": 127,
           "character": "Background",
@@ -22184,7 +22184,7 @@
           "known_for_department": "Acting",
           "name": "Alex Maystrik",
           "original_name": "Alex Maystrik",
-          "popularity": 0.3072,
+          "popularity": 0.3226,
           "profile_path": null,
           "cast_id": 128,
           "character": "Background",
@@ -22198,7 +22198,7 @@
           "known_for_department": "Acting",
           "name": "Mariana Silva",
           "original_name": "Mariana Silva",
-          "popularity": 0.293,
+          "popularity": 0.3317,
           "profile_path": null,
           "cast_id": 129,
           "character": "Background",
@@ -22212,7 +22212,7 @@
           "known_for_department": "Acting",
           "name": "Kyle Blumenthal",
           "original_name": "Kyle Blumenthal",
-          "popularity": 0.4499,
+          "popularity": 0.4886,
           "profile_path": null,
           "cast_id": 62,
           "character": "Background",
@@ -22226,7 +22226,7 @@
           "known_for_department": "Directing",
           "name": "Jorge Luquin",
           "original_name": "Jorge Luquin",
-          "popularity": 0.327,
+          "popularity": 0.4035,
           "profile_path": null,
           "cast_id": 130,
           "character": "Background",
@@ -22240,7 +22240,7 @@
           "known_for_department": "Acting",
           "name": "Jose Herrera",
           "original_name": "Jose Herrera",
-          "popularity": 0.6685,
+          "popularity": 0.7596,
           "profile_path": null,
           "cast_id": 140,
           "character": "Background",
@@ -22254,7 +22254,7 @@
           "known_for_department": "Directing",
           "name": "Emilio Flores",
           "original_name": "Emilio Flores",
-          "popularity": 0.5242,
+          "popularity": 0.5368,
           "profile_path": "/j5HG24bZUjr7Nw8NtB4dGENelWx.jpg",
           "cast_id": 158,
           "character": "Background",
@@ -22268,7 +22268,7 @@
           "known_for_department": "Directing",
           "name": "Manny Liotta",
           "original_name": "Manny Liotta",
-          "popularity": 0.5935,
+          "popularity": 0.5314,
           "profile_path": "/sMOebSAJzglALejW2rNuPI0ii5r.jpg",
           "cast_id": 118,
           "character": "Background",
@@ -22282,7 +22282,7 @@
           "known_for_department": "Production",
           "name": "Mai Chi Nguyen",
           "original_name": "Mai Chi Nguyen",
-          "popularity": 0.3326,
+          "popularity": 0.2958,
           "profile_path": null,
           "cast_id": 137,
           "character": "Background",
@@ -22296,7 +22296,7 @@
           "known_for_department": "Acting",
           "name": "Tim Robinson",
           "original_name": "Tim Robinson",
-          "popularity": 0.3837,
+          "popularity": 0.3668,
           "profile_path": null,
           "cast_id": 139,
           "character": "Background",
@@ -22310,7 +22310,7 @@
           "known_for_department": "Acting",
           "name": "Evan Brown",
           "original_name": "Evan Brown",
-          "popularity": 0.3111,
+          "popularity": 0.2936,
           "profile_path": null,
           "cast_id": 135,
           "character": "Background",
@@ -22324,7 +22324,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Maddi Hulburt",
           "original_name": "Maddi Hulburt",
-          "popularity": 0.3227,
+          "popularity": 0.3582,
           "profile_path": null,
           "cast_id": 133,
           "character": "Background",
@@ -22338,7 +22338,7 @@
           "known_for_department": "Acting",
           "name": "Jacob Stephens",
           "original_name": "Jacob Stephens",
-          "popularity": 0.3133,
+          "popularity": 0.3592,
           "profile_path": null,
           "cast_id": 132,
           "character": "Background",
@@ -22352,7 +22352,7 @@
           "known_for_department": "Production",
           "name": "Skyler Zurn",
           "original_name": "Skyler Zurn",
-          "popularity": 0.5981,
+          "popularity": 0.5387,
           "profile_path": null,
           "cast_id": 131,
           "character": "Background",
@@ -22366,7 +22366,7 @@
           "known_for_department": "Acting",
           "name": "Danielle Krett",
           "original_name": "Danielle Krett",
-          "popularity": 0.3463,
+          "popularity": 0.356,
           "profile_path": null,
           "cast_id": 93,
           "character": "Background",
@@ -22380,7 +22380,7 @@
           "known_for_department": "Directing",
           "name": "Dylan Michael Searle",
           "original_name": "Dylan Michael Searle",
-          "popularity": 0.7904,
+          "popularity": 0.7655,
           "profile_path": "/iY6FI27HnsKs09Tmcio4tZHcqy6.jpg",
           "cast_id": 138,
           "character": "Background",
@@ -22394,7 +22394,7 @@
           "known_for_department": "Acting",
           "name": "Matthew Jackson",
           "original_name": "Matthew Jackson",
-          "popularity": 0.3984,
+          "popularity": 0.4636,
           "profile_path": null,
           "cast_id": 80,
           "character": "Background",
@@ -22408,7 +22408,7 @@
           "known_for_department": "Acting",
           "name": "Itzel Ximena Gonzalez",
           "original_name": "Itzel Ximena Gonzalez",
-          "popularity": 0.3734,
+          "popularity": 0.3547,
           "profile_path": null,
           "cast_id": 142,
           "character": "Background",
@@ -22422,7 +22422,7 @@
           "known_for_department": "Acting",
           "name": "Evan Lugo",
           "original_name": "Evan Lugo",
-          "popularity": 0.281,
+          "popularity": 0.3365,
           "profile_path": null,
           "cast_id": 143,
           "character": "Background",
@@ -22436,7 +22436,7 @@
           "known_for_department": "Acting",
           "name": "Kevin Kim",
           "original_name": "Kevin Kim",
-          "popularity": 0.3376,
+          "popularity": 0.3344,
           "profile_path": null,
           "cast_id": 144,
           "character": "Background",
@@ -22450,7 +22450,7 @@
           "known_for_department": "Acting",
           "name": "Dannell Brown",
           "original_name": "Dannell Brown",
-          "popularity": 0.3147,
+          "popularity": 0.3227,
           "profile_path": null,
           "cast_id": 145,
           "character": "Background",
@@ -22464,7 +22464,7 @@
           "known_for_department": "Art",
           "name": "Dario Ramos",
           "original_name": "Dario Ramos",
-          "popularity": 0.3089,
+          "popularity": 0.3058,
           "profile_path": null,
           "cast_id": 146,
           "character": "Background",
@@ -22478,7 +22478,7 @@
           "known_for_department": "Acting",
           "name": "Gabriel Rubalcava",
           "original_name": "Gabriel Rubalcava",
-          "popularity": 0.3042,
+          "popularity": 0.3257,
           "profile_path": null,
           "cast_id": 147,
           "character": "Background",
@@ -22492,7 +22492,7 @@
           "known_for_department": "Acting",
           "name": "Sabina Tenorio",
           "original_name": "Sabina Tenorio",
-          "popularity": 0.6077,
+          "popularity": 0.647,
           "profile_path": "/1l6OWPAO94BahAhgCHU3hUgsvBm.jpg",
           "cast_id": 117,
           "character": "Background",
@@ -22506,7 +22506,7 @@
           "known_for_department": "Acting",
           "name": "Claudio Parrone Jr.",
           "original_name": "Claudio Parrone Jr.",
-          "popularity": 0.445,
+          "popularity": 0.4303,
           "profile_path": null,
           "cast_id": 148,
           "character": "Background",
@@ -22520,7 +22520,7 @@
           "known_for_department": "Acting",
           "name": "Max Maher",
           "original_name": "Max Maher",
-          "popularity": 0.3783,
+          "popularity": 0.3584,
           "profile_path": null,
           "cast_id": 149,
           "character": "Background",
@@ -22534,7 +22534,7 @@
           "known_for_department": "Production",
           "name": "Travis Beck",
           "original_name": "Travis Beck",
-          "popularity": 0.3415,
+          "popularity": 0.3718,
           "profile_path": null,
           "cast_id": 61,
           "character": "Background",
@@ -22548,7 +22548,7 @@
           "known_for_department": "Acting",
           "name": "Ben Scattone",
           "original_name": "Ben Scattone",
-          "popularity": 0.4145,
+          "popularity": 0.4222,
           "profile_path": null,
           "cast_id": 150,
           "character": "Background",
@@ -22562,7 +22562,7 @@
           "known_for_department": "Acting",
           "name": "Ian Brown",
           "original_name": "Ian Brown",
-          "popularity": 0.3417,
+          "popularity": 0.3603,
           "profile_path": null,
           "cast_id": 151,
           "character": "Background",
@@ -22576,7 +22576,7 @@
           "known_for_department": "Acting",
           "name": "Chelsey Kaye",
           "original_name": "Chelsey Kaye",
-          "popularity": 0.3372,
+          "popularity": 0.3261,
           "profile_path": null,
           "cast_id": 156,
           "character": "Background",
@@ -22590,7 +22590,7 @@
           "known_for_department": "Production",
           "name": "Cydney Jenks",
           "original_name": "Cydney Jenks",
-          "popularity": 0.348,
+          "popularity": 0.343,
           "profile_path": null,
           "cast_id": 153,
           "character": "Background",
@@ -22604,7 +22604,7 @@
           "known_for_department": "Acting",
           "name": "Mikey Brockmann",
           "original_name": "Mikey Brockmann",
-          "popularity": 1.0028,
+          "popularity": 0.9655,
           "profile_path": "/o60zRu8xbBDg1PrOaslgdRQbDev.jpg",
           "cast_id": 154,
           "character": "Background",
@@ -22618,7 +22618,7 @@
           "known_for_department": "Acting",
           "name": "Iyana Fawcett",
           "original_name": "Iyana Fawcett",
-          "popularity": 0.3938,
+          "popularity": 0.3747,
           "profile_path": "/Rx2hd3uBLa8hJovAZPg0Q5iYeX.jpg",
           "cast_id": 155,
           "character": "Background",
@@ -22632,7 +22632,7 @@
           "known_for_department": "Directing",
           "name": "Curry Barker",
           "original_name": "Curry Barker",
-          "popularity": 3.5228,
+          "popularity": 3.5083,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
           "cast_id": 157,
           "character": "Customer Service Representative (voice) (uncredited)",
@@ -22646,12 +22646,26 @@
           "known_for_department": "Writing",
           "name": "Jeff Barker",
           "original_name": "Jeff Barker",
-          "popularity": 0.5717,
+          "popularity": 0.5951,
           "profile_path": "/ophn8MJHCtpGifBnNa4WsZ6mKLi.jpg",
           "cast_id": 86,
           "character": "Trivia Bar Host (uncredited)",
           "credit_id": "69701aed540889740b26ef01",
           "order": 46
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6401141,
+          "known_for_department": "Acting",
+          "name": "Lukas Davies",
+          "original_name": "Lukas Davies",
+          "popularity": 0,
+          "profile_path": null,
+          "cast_id": 161,
+          "character": "Background",
+          "credit_id": "6a79323182f269380bb4f0f8",
+          "order": 47
         }
       ],
       "crew": [
@@ -22662,7 +22676,7 @@
           "known_for_department": "Directing",
           "name": "Curry Barker",
           "original_name": "Curry Barker",
-          "popularity": 3.5228,
+          "popularity": 3.5083,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
           "credit_id": "66ce3c9dd8f4fa10a363a57c",
           "department": "Directing",
@@ -22675,7 +22689,7 @@
           "known_for_department": "Directing",
           "name": "Curry Barker",
           "original_name": "Curry Barker",
-          "popularity": 3.5228,
+          "popularity": 3.5083,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
           "credit_id": "66ce3ce46f680bc91897d416",
           "department": "Writing",
@@ -22688,7 +22702,7 @@
           "known_for_department": "Production",
           "name": "James Harris",
           "original_name": "James Harris",
-          "popularity": 0.7819,
+          "popularity": 0.7023,
           "profile_path": "/saC2CiD6PUazSJEeKJODHoI5VWE.jpg",
           "credit_id": "66cf3e8ded373c16d0e2f669",
           "department": "Production",
@@ -22701,7 +22715,7 @@
           "known_for_department": "Directing",
           "name": "Curry Barker",
           "original_name": "Curry Barker",
-          "popularity": 3.5228,
+          "popularity": 3.5083,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
           "credit_id": "68add896c6eff2f62ca9acd3",
           "department": "Editing",
@@ -22714,7 +22728,7 @@
           "known_for_department": "Production",
           "name": "Ruzanna Kegeyan",
           "original_name": "Ruzanna Kegeyan",
-          "popularity": 0.5672,
+          "popularity": 0.5532,
           "profile_path": null,
           "credit_id": "68add8a8eaf5c82d784499a2",
           "department": "Production",
@@ -22727,7 +22741,7 @@
           "known_for_department": "Production",
           "name": "David Haring",
           "original_name": "David Haring",
-          "popularity": 0.6357,
+          "popularity": 0.519,
           "profile_path": null,
           "credit_id": "68add8c022347146a8782ce1",
           "department": "Production",
@@ -22740,7 +22754,7 @@
           "known_for_department": "Production",
           "name": "Leonora Darby",
           "original_name": "Leonora Darby",
-          "popularity": 0.4821,
+          "popularity": 0.4493,
           "profile_path": null,
           "credit_id": "68add8d6be4dba06111e5913",
           "department": "Production",
@@ -22753,7 +22767,7 @@
           "known_for_department": "Production",
           "name": "Christian Mercuri",
           "original_name": "Christian Mercuri",
-          "popularity": 0.6402,
+          "popularity": 0.6313,
           "profile_path": "/vISkC384cFXhjKxPbdAhtSyoBDY.jpg",
           "credit_id": "68add8efbe4dba06111e5916",
           "department": "Production",
@@ -22766,7 +22780,7 @@
           "known_for_department": "Camera",
           "name": "Taylor Clemons",
           "original_name": "Taylor Clemons",
-          "popularity": 0.7553,
+          "popularity": 0.6063,
           "profile_path": "/xsYNnTC6YkuuAlTnkJrgfi6enxU.jpg",
           "credit_id": "68b8bb56bdb8f736629bb1f7",
           "department": "Camera",
@@ -22779,7 +22793,7 @@
           "known_for_department": "Acting",
           "name": "Cooper Tomlinson",
           "original_name": "Cooper Tomlinson",
-          "popularity": 2.0693,
+          "popularity": 1.8552,
           "profile_path": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg",
           "credit_id": "68b8bb8074df74d86a9bf31c",
           "department": "Production",
@@ -22792,7 +22806,7 @@
           "known_for_department": "Production",
           "name": "Haley Nicole Johnson",
           "original_name": "Haley Nicole Johnson",
-          "popularity": 0.5428,
+          "popularity": 0.5699,
           "profile_path": "/9TnLydfFTIXNZQWt3wvFCRsr8WK.jpg",
           "credit_id": "68bb624c5c1e4967ea069aae",
           "department": "Production",
@@ -22805,7 +22819,7 @@
           "known_for_department": "Art",
           "name": "Vivian Gray",
           "original_name": "Vivian Gray",
-          "popularity": 0.545,
+          "popularity": 0.3902,
           "profile_path": null,
           "credit_id": "68bb628f74c5e036819bfc32",
           "department": "Art",
@@ -22818,7 +22832,7 @@
           "known_for_department": "Camera",
           "name": "Sally Choi",
           "original_name": "Sally Choi",
-          "popularity": 0.3511,
+          "popularity": 0.3594,
           "profile_path": null,
           "credit_id": "68bb62a6688a1614eb1bc28a",
           "department": "Art",
@@ -22831,7 +22845,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Blair James",
           "original_name": "Blair James",
-          "popularity": 0.3688,
+          "popularity": 0.3555,
           "profile_path": null,
           "credit_id": "68bb62c038ae4bfab51f4947",
           "department": "Costume & Make-Up",
@@ -22844,7 +22858,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Allie Shehorn",
           "original_name": "Allie Shehorn",
-          "popularity": 0.7443,
+          "popularity": 0.7918,
           "profile_path": "/eoX2ihXTnYMvDTcJnIoCDw193Ng.jpg",
           "credit_id": "68bb62dbbe9f47ef5d946cb9",
           "department": "Costume & Make-Up",
@@ -22857,7 +22871,7 @@
           "known_for_department": "Camera",
           "name": "Grayson Alamango Shapiro",
           "original_name": "Grayson Alamango Shapiro",
-          "popularity": 0.3779,
+          "popularity": 0.3814,
           "profile_path": null,
           "credit_id": "68bb62f33881eb5887946d9e",
           "department": "Directing",
@@ -22870,7 +22884,7 @@
           "known_for_department": "Directing",
           "name": "Ricardo Padilla",
           "original_name": "Ricardo Padilla",
-          "popularity": 0.3292,
+          "popularity": 0.3216,
           "profile_path": null,
           "credit_id": "68bb632304dd0798a50698e2",
           "department": "Directing",
@@ -22883,7 +22897,7 @@
           "known_for_department": "Art",
           "name": "Luke Cull",
           "original_name": "Luke Cull",
-          "popularity": 0.3083,
+          "popularity": 0.3361,
           "profile_path": null,
           "credit_id": "68bb6341840ac1eeea9bbdb8",
           "department": "Art",
@@ -22896,7 +22910,7 @@
           "known_for_department": "Art",
           "name": "Em Kramer",
           "original_name": "Em Kramer",
-          "popularity": 0.3295,
+          "popularity": 0.3453,
           "profile_path": null,
           "credit_id": "68bb636725f494771c4e589b",
           "department": "Art",
@@ -22909,7 +22923,7 @@
           "known_for_department": "Sound",
           "name": "Gonzalo Espinoza",
           "original_name": "Gonzalo Espinoza",
-          "popularity": 0.6532,
+          "popularity": 0.6512,
           "profile_path": null,
           "credit_id": "68bb638534f75d1e3e98b67f",
           "department": "Sound",
@@ -22922,7 +22936,7 @@
           "known_for_department": "Sound",
           "name": "David Kitchens",
           "original_name": "David Kitchens",
-          "popularity": 0.6327,
+          "popularity": 0.5487,
           "profile_path": null,
           "credit_id": "68bb63e07e41965b91946cf2",
           "department": "Sound",
@@ -22935,7 +22949,7 @@
           "known_for_department": "Sound",
           "name": "Rock Burwell",
           "original_name": "Rock Burwell",
-          "popularity": 0.6474,
+          "popularity": 0.5486,
           "profile_path": "/wsI9xXhcKtZu5dRxR2inAPZh9CQ.jpg",
           "credit_id": "68bb64259f524398508ce66c",
           "department": "Sound",
@@ -22948,7 +22962,7 @@
           "known_for_department": "Sound",
           "name": "Ben Zarai",
           "original_name": "Ben Zarai",
-          "popularity": 0.5333,
+          "popularity": 0.5009,
           "profile_path": null,
           "credit_id": "68bb647a7618bd35c11bbe33",
           "department": "Sound",
@@ -22961,7 +22975,7 @@
           "known_for_department": "Crew",
           "name": "Jen Albert",
           "original_name": "Jen Albert",
-          "popularity": 0.4008,
+          "popularity": 0.4051,
           "profile_path": "/aPo3i3TGtdGlKvSlActWURFNE1O.jpg",
           "credit_id": "68bb649725f494771c4e58a6",
           "department": "Crew",
@@ -22974,7 +22988,7 @@
           "known_for_department": "Camera",
           "name": "Riley Barker",
           "original_name": "Riley Barker",
-          "popularity": 0.458,
+          "popularity": 0.4932,
           "profile_path": null,
           "credit_id": "68bb64b3538501451b4e5748",
           "department": "Camera",
@@ -22987,7 +23001,7 @@
           "known_for_department": "Lighting",
           "name": "Bicher Barmada",
           "original_name": "Bicher Barmada",
-          "popularity": 0.3097,
+          "popularity": 0.3071,
           "profile_path": null,
           "credit_id": "68bb64c4bf527c93a54e583e",
           "department": "Lighting",
@@ -23000,7 +23014,7 @@
           "known_for_department": "Lighting",
           "name": "Steven Escoboza",
           "original_name": "Steven Escoboza",
-          "popularity": 0.3853,
+          "popularity": 0.3889,
           "profile_path": null,
           "credit_id": "68bb64db21a023df8a9bff38",
           "department": "Camera",
@@ -23013,7 +23027,7 @@
           "known_for_department": "Camera",
           "name": "Richard Garcia",
           "original_name": "Richard Garcia",
-          "popularity": 0.3294,
+          "popularity": 0.3026,
           "profile_path": null,
           "credit_id": "68bb64f298c17ea86d0695a0",
           "department": "Camera",
@@ -23026,7 +23040,7 @@
           "known_for_department": "Lighting",
           "name": "Amir Ghani",
           "original_name": "Amir Ghani",
-          "popularity": 0.3229,
+          "popularity": 0.3236,
           "profile_path": null,
           "credit_id": "68bb650425f494771c4e58bc",
           "department": "Lighting",
@@ -23039,7 +23053,7 @@
           "known_for_department": "Directing",
           "name": "Christopher Oh",
           "original_name": "Christopher Oh",
-          "popularity": 0.4262,
+          "popularity": 0.3936,
           "profile_path": null,
           "credit_id": "68bb655ade6563fdec8ce692",
           "department": "Lighting",
@@ -23052,7 +23066,7 @@
           "known_for_department": "Camera",
           "name": "Casey Schoch",
           "original_name": "Casey Schoch",
-          "popularity": 0.3852,
+          "popularity": 0.4935,
           "profile_path": null,
           "credit_id": "68bb656fb2545dab0a1bbdd1",
           "department": "Camera",
@@ -23065,7 +23079,7 @@
           "known_for_department": "Writing",
           "name": "Jeff Barker",
           "original_name": "Jeff Barker",
-          "popularity": 0.5717,
+          "popularity": 0.5951,
           "profile_path": "/ophn8MJHCtpGifBnNa4WsZ6mKLi.jpg",
           "credit_id": "68bb65bf577236088a1bbd74",
           "department": "Writing",
@@ -23078,7 +23092,7 @@
           "known_for_department": "Directing",
           "name": "Kennedy Del Toro",
           "original_name": "Kennedy Del Toro",
-          "popularity": 0.4651,
+          "popularity": 0.4305,
           "profile_path": null,
           "credit_id": "68bb65d1857b91a4c18ce6aa",
           "department": "Directing",
@@ -23091,7 +23105,7 @@
           "known_for_department": "Production",
           "name": "Brennan Zhou",
           "original_name": "Brennan Zhou",
-          "popularity": 0.424,
+          "popularity": 0.4642,
           "profile_path": null,
           "credit_id": "68bb65e89dbd8458a28ceae2",
           "department": "Production",
@@ -23104,7 +23118,7 @@
           "known_for_department": "Writing",
           "name": "Jeff Barker",
           "original_name": "Jeff Barker",
-          "popularity": 0.5717,
+          "popularity": 0.5951,
           "profile_path": "/ophn8MJHCtpGifBnNa4WsZ6mKLi.jpg",
           "credit_id": "68bb664b60c9900124946b9b",
           "department": "Crew",
@@ -23117,7 +23131,7 @@
           "known_for_department": "Directing",
           "name": "Emilio Flores",
           "original_name": "Emilio Flores",
-          "popularity": 0.5242,
+          "popularity": 0.5368,
           "profile_path": "/j5HG24bZUjr7Nw8NtB4dGENelWx.jpg",
           "credit_id": "68d368a9623509586f719a10",
           "department": "Production",
@@ -23130,7 +23144,7 @@
           "known_for_department": "Directing",
           "name": "Manny Liotta",
           "original_name": "Manny Liotta",
-          "popularity": 0.5935,
+          "popularity": 0.5314,
           "profile_path": "/sMOebSAJzglALejW2rNuPI0ii5r.jpg",
           "credit_id": "68e8822388423261d830c0a3",
           "department": "Camera",
@@ -23143,7 +23157,7 @@
           "known_for_department": "Directing",
           "name": "Arnav Shah",
           "original_name": "Arnav Shah",
-          "popularity": 0.6801,
+          "popularity": 0.5919,
           "profile_path": null,
           "credit_id": "6911ac7edc7b73f47c31b4ad",
           "department": "Directing",
@@ -23156,7 +23170,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Allie Shehorn",
           "original_name": "Allie Shehorn",
-          "popularity": 0.7443,
+          "popularity": 0.7918,
           "profile_path": "/eoX2ihXTnYMvDTcJnIoCDw193Ng.jpg",
           "credit_id": "6911ad68a04bfc56e49ac311",
           "department": "Costume & Make-Up",
@@ -23169,7 +23183,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Alyssa Holbrook",
           "original_name": "Alyssa Holbrook",
-          "popularity": 0.3405,
+          "popularity": 0.2969,
           "profile_path": null,
           "credit_id": "6911adb7c06532554ed25cb3",
           "department": "Costume & Make-Up",
@@ -23182,7 +23196,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Alyssa Holbrook",
           "original_name": "Alyssa Holbrook",
-          "popularity": 0.3405,
+          "popularity": 0.2969,
           "profile_path": null,
           "credit_id": "6911add37be3c0786ace8cf7",
           "department": "Costume & Make-Up",
@@ -23195,7 +23209,7 @@
           "known_for_department": "Acting",
           "name": "Manny Shih",
           "original_name": "Manny Shih",
-          "popularity": 0.4753,
+          "popularity": 0.5239,
           "profile_path": null,
           "credit_id": "6911ae2b64907fabe331b62a",
           "department": "Sound",
@@ -23208,7 +23222,7 @@
           "known_for_department": "Visual Effects",
           "name": "Drew Lewis Guerra",
           "original_name": "Drew Lewis Guerra",
-          "popularity": 0.3554,
+          "popularity": 0.3233,
           "profile_path": null,
           "credit_id": "6911ae7764907fabe331b634",
           "department": "Visual Effects",
@@ -23221,7 +23235,7 @@
           "known_for_department": "Lighting",
           "name": "Christian Chico",
           "original_name": "Christian Chico",
-          "popularity": 0.6205,
+          "popularity": 0.7129,
           "profile_path": null,
           "credit_id": "6911aed6595b54d1ff31b62b",
           "department": "Camera",
@@ -23234,7 +23248,7 @@
           "known_for_department": "Writing",
           "name": "Michael Maske",
           "original_name": "Michael Maske",
-          "popularity": 0.415,
+          "popularity": 0.4737,
           "profile_path": null,
           "credit_id": "6911af2e9f53be2e004c8328",
           "department": "Lighting",
@@ -23247,7 +23261,7 @@
           "known_for_department": "Crew",
           "name": "Andrew Nibbi",
           "original_name": "Andrew Nibbi",
-          "popularity": 0.4993,
+          "popularity": 0.4951,
           "profile_path": null,
           "credit_id": "6911af62b71c88ee06d25baa",
           "department": "Camera",
@@ -23260,7 +23274,7 @@
           "known_for_department": "Editing",
           "name": "Leo Glam",
           "original_name": "Leo Glam",
-          "popularity": 0.3095,
+          "popularity": 0.3223,
           "profile_path": null,
           "credit_id": "6911afc90d1d06c2f031b327",
           "department": "Editing",
@@ -23273,7 +23287,7 @@
           "known_for_department": "Writing",
           "name": "Dom Lampasona",
           "original_name": "Dom Lampasona",
-          "popularity": 0.5,
+          "popularity": 0.3911,
           "profile_path": null,
           "credit_id": "6911afdbdc7b73f47c31b4b2",
           "department": "Production",
@@ -23286,7 +23300,7 @@
           "known_for_department": "Production",
           "name": "Travis Beck",
           "original_name": "Travis Beck",
-          "popularity": 0.3415,
+          "popularity": 0.3718,
           "profile_path": null,
           "credit_id": "6911b00b583f19f6ae9ac37a",
           "department": "Art",
@@ -23299,7 +23313,7 @@
           "known_for_department": "Sound",
           "name": "Phil Canning",
           "original_name": "Phil Canning",
-          "popularity": 0.4918,
+          "popularity": 0.4912,
           "profile_path": null,
           "credit_id": "6911b0352075737f024c8442",
           "department": "Sound",
@@ -23312,7 +23326,7 @@
           "known_for_department": "Editing",
           "name": "Jake White",
           "original_name": "Jake White",
-          "popularity": 0.3888,
+          "popularity": 0.3366,
           "profile_path": null,
           "credit_id": "6911b08a1416e111b6ce8e1b",
           "department": "Editing",
@@ -23325,7 +23339,7 @@
           "known_for_department": "Production",
           "name": "Cydney Jenks",
           "original_name": "Cydney Jenks",
-          "popularity": 0.348,
+          "popularity": 0.343,
           "profile_path": null,
           "credit_id": "6911b0f99f53be2e004c8334",
           "department": "Production",
@@ -23338,7 +23352,7 @@
           "known_for_department": "Production",
           "name": "Melanie Miller",
           "original_name": "Melanie Miller",
-          "popularity": 0.977,
+          "popularity": 0.9762,
           "profile_path": null,
           "credit_id": "6911b15bea3b47df3c4c828b",
           "department": "Crew",
@@ -23351,7 +23365,7 @@
           "known_for_department": "Production",
           "name": "جايسون بلوم",
           "original_name": "Jason Blum",
-          "popularity": 1.715,
+          "popularity": 1.5704,
           "profile_path": "/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
           "credit_id": "692f3109543db28f676e2f60",
           "department": "Production",
@@ -23364,7 +23378,7 @@
           "known_for_department": "Production",
           "name": "Mark Lane",
           "original_name": "Mark Lane",
-          "popularity": 0.9152,
+          "popularity": 0.8455,
           "profile_path": null,
           "credit_id": "6930002a6659c81957c95fb6",
           "department": "Production",
@@ -23377,7 +23391,7 @@
           "known_for_department": "Production",
           "name": "Cori Kim",
           "original_name": "Cori Kim",
-          "popularity": 0.3314,
+          "popularity": 0.4533,
           "profile_path": null,
           "credit_id": "693000d18f19749f8d76dc32",
           "department": "Production",
@@ -23390,7 +23404,7 @@
           "known_for_department": "Production",
           "name": "Aaron Folbe",
           "original_name": "Aaron Folbe",
-          "popularity": 0.3177,
+          "popularity": 0.3289,
           "profile_path": "/ph5TOFT4lrUISAu6t9Ti9lK1wb9.jpg",
           "credit_id": "69300303b43a6eae5e1727c0",
           "department": "Crew",
@@ -23403,7 +23417,7 @@
           "known_for_department": "Production",
           "name": "Skyler Zurn",
           "original_name": "Skyler Zurn",
-          "popularity": 0.5981,
+          "popularity": 0.5387,
           "profile_path": null,
           "credit_id": "6980f73b7ff8082ecb4c91da",
           "department": "Production",
@@ -23416,7 +23430,7 @@
           "known_for_department": "Production",
           "name": "Roman Viaris-de-Lesegno",
           "original_name": "Roman Viaris-de-Lesegno",
-          "popularity": 0.8509,
+          "popularity": 0.9678,
           "profile_path": null,
           "credit_id": "69b682669f0429a64821d3af",
           "department": "Production",
@@ -23429,7 +23443,7 @@
           "known_for_department": "Production",
           "name": "David Scharf",
           "original_name": "David Scharf",
-          "popularity": 0.4718,
+          "popularity": 0.5109,
           "profile_path": null,
           "credit_id": "69b68325a1f93b63c621d45b",
           "department": "Crew",
@@ -23442,7 +23456,7 @@
           "known_for_department": "Art",
           "name": "Abel Ryan",
           "original_name": "Abel Ryan",
-          "popularity": 0.8723,
+          "popularity": 0.7326,
           "profile_path": null,
           "credit_id": "69b6835eeae7fed4655c9bfd",
           "department": "Art",
@@ -23455,7 +23469,7 @@
           "known_for_department": "Visual Effects",
           "name": "Peter Timberlake",
           "original_name": "Peter Timberlake",
-          "popularity": 0.3638,
+          "popularity": 0.379,
           "profile_path": null,
           "credit_id": "69b683e344b4ac5f305a6c5f",
           "department": "Visual Effects",
@@ -23468,7 +23482,7 @@
           "known_for_department": "Crew",
           "name": "Rick Lowe",
           "original_name": "Rick Lowe",
-          "popularity": 0.3392,
+          "popularity": 0.3021,
           "profile_path": null,
           "credit_id": "69b685b0aafd15e03595f391",
           "department": "Crew",
@@ -23481,7 +23495,7 @@
           "known_for_department": "Production",
           "name": "Haley Nicole Johnson",
           "original_name": "Haley Nicole Johnson",
-          "popularity": 0.5428,
+          "popularity": 0.5699,
           "profile_path": "/9TnLydfFTIXNZQWt3wvFCRsr8WK.jpg",
           "credit_id": "69d979c5cb476f824c1d8c86",
           "department": "Production",
@@ -23494,7 +23508,7 @@
           "known_for_department": "Camera",
           "name": "Riley Barker",
           "original_name": "Riley Barker",
-          "popularity": 0.458,
+          "popularity": 0.4932,
           "profile_path": null,
           "credit_id": "69d979ed0b35bdec2a02679d",
           "department": "Camera",
@@ -23507,7 +23521,7 @@
           "known_for_department": "Art",
           "name": "Kaitlyn Scardino",
           "original_name": "Kaitlyn Scardino",
-          "popularity": 0.5303,
+          "popularity": 0.4649,
           "profile_path": null,
           "credit_id": "69d97a1331ad1491d5b64522",
           "department": "Lighting",
@@ -23520,7 +23534,7 @@
           "known_for_department": "Lighting",
           "name": "Dominik Czaczyk",
           "original_name": "Dominik Czaczyk",
-          "popularity": 0.3908,
+          "popularity": 0.4284,
           "profile_path": null,
           "credit_id": "69d97a28524dadd12db6456b",
           "department": "Lighting",
@@ -23533,7 +23547,7 @@
           "known_for_department": "Lighting",
           "name": "Tom Cosway",
           "original_name": "Tom Cosway",
-          "popularity": 0.3304,
+          "popularity": 0.308,
           "profile_path": null,
           "credit_id": "69d97a468ce4c191fb70997d",
           "department": "Lighting",
@@ -23546,7 +23560,7 @@
           "known_for_department": "Camera",
           "name": "Cody William Smith",
           "original_name": "Cody William Smith",
-          "popularity": 0.465,
+          "popularity": 0.5042,
           "profile_path": null,
           "credit_id": "69d97a4d2e474c9db2b646ff",
           "department": "Lighting",
@@ -23559,7 +23573,7 @@
           "known_for_department": "Lighting",
           "name": "Evan Aurelio",
           "original_name": "Evan Aurelio",
-          "popularity": 0.3686,
+          "popularity": 0.3553,
           "profile_path": null,
           "credit_id": "69d97a57b749b0869370996d",
           "department": "Lighting",
@@ -23572,7 +23586,7 @@
           "known_for_department": "Camera",
           "name": "Gustavo Perez",
           "original_name": "Gustavo Perez",
-          "popularity": 0.6574,
+          "popularity": 0.6962,
           "profile_path": null,
           "credit_id": "69d97a6d284f092363709b89",
           "department": "Lighting",
@@ -23585,7 +23599,7 @@
           "known_for_department": "Camera",
           "name": "Jake Glaviano",
           "original_name": "Jake Glaviano",
-          "popularity": 0.3953,
+          "popularity": 0.3423,
           "profile_path": null,
           "credit_id": "69d97a80284f092363709b98",
           "department": "Lighting",
@@ -23598,7 +23612,7 @@
           "known_for_department": "Lighting",
           "name": "Ethan Ortiz",
           "original_name": "Ethan Ortiz",
-          "popularity": 0.3662,
+          "popularity": 0.3592,
           "profile_path": null,
           "credit_id": "69d97a87b749b0869370997a",
           "department": "Lighting",
@@ -23611,7 +23625,7 @@
           "known_for_department": "Sound",
           "name": "Y.J. Gold",
           "original_name": "Y.J. Gold",
-          "popularity": 0.4197,
+          "popularity": 0.3486,
           "profile_path": null,
           "credit_id": "69d97a9b1e06ef73739b74fb",
           "department": "Sound",
@@ -23624,7 +23638,7 @@
           "known_for_department": "Art",
           "name": "Dario Ramos",
           "original_name": "Dario Ramos",
-          "popularity": 0.3089,
+          "popularity": 0.3058,
           "profile_path": null,
           "credit_id": "69d97ac1132842759537236a",
           "department": "Art",
@@ -23637,7 +23651,7 @@
           "known_for_department": "Art",
           "name": "Seth Morgan",
           "original_name": "Seth Morgan",
-          "popularity": 0.3656,
+          "popularity": 0.3156,
           "profile_path": null,
           "credit_id": "69d97acfe8e17853d1357a0a",
           "department": "Art",
@@ -23650,7 +23664,7 @@
           "known_for_department": "Production",
           "name": "Cori Kim",
           "original_name": "Cori Kim",
-          "popularity": 0.3314,
+          "popularity": 0.4533,
           "profile_path": null,
           "credit_id": "69d97add1c754963c41d8e73",
           "department": "Art",
@@ -23663,7 +23677,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Allie Shehorn",
           "original_name": "Allie Shehorn",
-          "popularity": 0.7443,
+          "popularity": 0.7918,
           "profile_path": "/eoX2ihXTnYMvDTcJnIoCDw193Ng.jpg",
           "credit_id": "69d97b0d31ad1491d5b64530",
           "department": "Costume & Make-Up",
@@ -23676,7 +23690,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Maxence Fleuret",
           "original_name": "Maxence Fleuret",
-          "popularity": 0.3574,
+          "popularity": 0.3339,
           "profile_path": null,
           "credit_id": "69d97b43023d85ef129b7445",
           "department": "Costume & Make-Up",
@@ -23689,7 +23703,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Kaitlin Lyerly",
           "original_name": "Kaitlin Lyerly",
-          "popularity": 0.4119,
+          "popularity": 0.3639,
           "profile_path": null,
           "credit_id": "69d97b4e90035d13241d8bb2",
           "department": "Costume & Make-Up",
@@ -23702,7 +23716,7 @@
           "known_for_department": "Visual Effects",
           "name": "Arun Khamu",
           "original_name": "Arun Khamu",
-          "popularity": 0.3201,
+          "popularity": 0.2919,
           "profile_path": null,
           "credit_id": "69d97b737c86cebefa70996e",
           "department": "Visual Effects",
@@ -23715,7 +23729,7 @@
           "known_for_department": "Sound",
           "name": "Ben Zarai",
           "original_name": "Ben Zarai",
-          "popularity": 0.5333,
+          "popularity": 0.5009,
           "profile_path": null,
           "credit_id": "69d97b8e023d85ef129b7456",
           "department": "Sound",
@@ -23728,7 +23742,7 @@
           "known_for_department": "Sound",
           "name": "David Kitchens",
           "original_name": "David Kitchens",
-          "popularity": 0.6327,
+          "popularity": 0.5487,
           "profile_path": null,
           "credit_id": "69d97ba82b1dadc8d5d92482",
           "department": "Sound",
@@ -23741,7 +23755,7 @@
           "known_for_department": "Sound",
           "name": "Jeffery Alan Jones",
           "original_name": "Jeffery Alan Jones",
-          "popularity": 0.8891,
+          "popularity": 0.8717,
           "profile_path": null,
           "credit_id": "69d97bbe2b1dadc8d5d92487",
           "department": "Sound",
@@ -23754,7 +23768,7 @@
           "known_for_department": "Production",
           "name": "Zoie Miller",
           "original_name": "Zoie Miller",
-          "popularity": 0.3131,
+          "popularity": 0.3007,
           "profile_path": null,
           "credit_id": "69d97bd94e434c7c1337238e",
           "department": "Production",
@@ -23767,7 +23781,7 @@
           "known_for_department": "Art",
           "name": "Maria Ruiz",
           "original_name": "Maria Ruiz",
-          "popularity": 0.3344,
+          "popularity": 0.3141,
           "profile_path": null,
           "credit_id": "6a1360c7575cacbaa26e939b",
           "department": "Art",
@@ -23780,7 +23794,7 @@
           "known_for_department": "Art",
           "name": "Rene Rey Romero",
           "original_name": "Rene Rey Romero",
-          "popularity": 0.306,
+          "popularity": 0.2976,
           "profile_path": null,
           "credit_id": "6a1360e040ddb43b0e6e9350",
           "department": "Crew",
@@ -23793,7 +23807,7 @@
           "known_for_department": "Crew",
           "name": "Mauro Pinedo",
           "original_name": "Mauro Pinedo",
-          "popularity": 0.3384,
+          "popularity": 0.363,
           "profile_path": null,
           "credit_id": "6a13612693c1d2b37702d1c4",
           "department": "Crew",
@@ -23806,7 +23820,7 @@
           "known_for_department": "Editing",
           "name": "Ethan Gulliford",
           "original_name": "Ethan Gulliford",
-          "popularity": 0.3651,
+          "popularity": 0.3575,
           "profile_path": null,
           "credit_id": "6a136156e3f612e14a6e947f",
           "department": "Editing",
@@ -23819,7 +23833,7 @@
           "known_for_department": "Editing",
           "name": "Romain Vaunois",
           "original_name": "Romain Vaunois",
-          "popularity": 0.38,
+          "popularity": 0.3221,
           "profile_path": null,
           "credit_id": "6a1361647188312232bf4cc5",
           "department": "Editing",
@@ -23832,7 +23846,7 @@
           "known_for_department": "Writing",
           "name": "Jeff Barker",
           "original_name": "Jeff Barker",
-          "popularity": 0.5717,
+          "popularity": 0.5951,
           "profile_path": "/ophn8MJHCtpGifBnNa4WsZ6mKLi.jpg",
           "credit_id": "6a169d65276f78d47f27add2",
           "department": "Production",
@@ -23845,7 +23859,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Maddi Hulburt",
           "original_name": "Maddi Hulburt",
-          "popularity": 0.3227,
+          "popularity": 0.3582,
           "profile_path": null,
           "credit_id": "6a169fb6f719769a5c90f72c",
           "department": "Costume & Make-Up",
@@ -23858,7 +23872,7 @@
           "known_for_department": "Production",
           "name": "Mai Chi Nguyen",
           "original_name": "Mai Chi Nguyen",
-          "popularity": 0.3326,
+          "popularity": 0.2958,
           "profile_path": null,
           "credit_id": "6a16a036ab1d2c74e127adf8",
           "department": "Production",
@@ -23871,7 +23885,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Kate Oja",
           "original_name": "Kate Oja",
-          "popularity": 0.4384,
+          "popularity": 0.5136,
           "profile_path": "/4cGr1aWS3BgvEdL9CI1rrLsdUoG.jpg",
           "credit_id": "6a5b5bfce7745f62bcf9739e",
           "department": "Costume & Make-Up",
@@ -23884,7 +23898,7 @@
           "known_for_department": "Costume & Make-Up",
           "name": "Ingrid Weeks",
           "original_name": "Ingrid Weeks",
-          "popularity": 0.574,
+          "popularity": 0.5402,
           "profile_path": null,
           "credit_id": "6a5b5ca921d0ef4c3bdd3c78",
           "department": "Costume & Make-Up",
@@ -23941,7 +23955,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1786353584485
+    "date_added": 1786367139235
   },
   {
     "adult": false,
@@ -25742,7 +25756,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg"
       }
     ],
-    "date_added": 1786353584502
+    "date_added": 1786367139251
   },
   {
     "adult": false,
@@ -27106,7 +27120,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/offeicvD1BnhZ4S0yz3C3YwxWZS.jpg"
       }
     ],
-    "date_added": 1786353584508
+    "date_added": 1786367139267
   },
   {
     "adult": false,
@@ -29435,7 +29449,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
       }
     ],
-    "date_added": 1786353584515
+    "date_added": 1786367139283
   },
   {
     "adult": false,
@@ -30818,19 +30832,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1564846,
-          "known_for_department": "Acting",
-          "name": "أولي كرافايو",
-          "original_name": "Auliʻi Cravalho",
-          "popularity": 2.5443,
-          "profile_path": "/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
-          "credit_id": "642b4434ac8e6b0111c70185",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 9543,
           "known_for_department": "Production",
@@ -30841,6 +30842,19 @@
           "credit_id": "642b46ddc0a30800b43bd717",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1564846,
+          "known_for_department": "Acting",
+          "name": "أولي كرافايو",
+          "original_name": "Auliʻi Cravalho",
+          "popularity": 2.5443,
+          "profile_path": "/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg",
+          "credit_id": "642b4434ac8e6b0111c70185",
+          "department": "Production",
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -32520,7 +32534,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353584524
+    "date_added": 1786367139311
   },
   {
     "adult": false,
@@ -33526,7 +33540,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1786353584544
+    "date_added": 1786367139326
   },
   {
     "adult": false,
@@ -34696,7 +34710,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4SapY7LbHDHdNPV46uRUOujQJ2n.jpg"
       }
     ],
-    "date_added": 1786353584551
+    "date_added": 1786367139342
   },
   {
     "adult": false,
@@ -35076,7 +35090,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353584948
+    "date_added": 1786367139367
   },
   {
     "adult": false,
@@ -38592,7 +38606,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1786353584956
+    "date_added": 1786367139384
   },
   {
     "adult": false,
@@ -40122,7 +40136,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353584963
+    "date_added": 1786367139445
   },
   {
     "adult": false,
@@ -42196,7 +42210,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6Gr0aT1Hux2P3KM35IXdXbXZABk.jpg"
       }
     ],
-    "date_added": 1786353584970
+    "date_added": 1786367139461
   },
   {
     "adult": false,
@@ -43868,7 +43882,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
       }
     ],
-    "date_added": 1786353584977
+    "date_added": 1786367139477
   },
   {
     "adult": false,
@@ -46804,7 +46818,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4quy82rUnOFDyEe8GWLUopSBd3s.jpg"
       }
     ],
-    "date_added": 1786353584984
+    "date_added": 1786367139494
   },
   {
     "adult": false,
@@ -48103,7 +48117,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353585488
+    "date_added": 1786367139540
   },
   {
     "adult": false,
@@ -48494,7 +48508,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353585526
+    "date_added": 1786367139642
   },
   {
     "adult": false,
@@ -49170,32 +49184,6 @@
       "crew": [
         {
           "adult": false,
-          "gender": 2,
-          "id": 111532,
-          "known_for_department": "Directing",
-          "name": "Pål Øie",
-          "original_name": "Pål Øie",
-          "popularity": 0.7519,
-          "profile_path": "/m7wKPkvWj0d9yPNSLapbXwg94at.jpg",
-          "credit_id": "6430081a9a6435065eacfe68",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1984926,
-          "known_for_department": "Production",
-          "name": "Kristoffer Sindre Vittersø",
-          "original_name": "Kristoffer Sindre Vittersø",
-          "popularity": 0.6059,
-          "profile_path": null,
-          "credit_id": "6430086b1f98d101cba5bbc7",
-          "department": "Production",
-          "job": "Associate Producer"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 3998714,
           "known_for_department": "Writing",
@@ -49219,6 +49207,32 @@
           "credit_id": "6430085931032500bd55ccc4",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1984926,
+          "known_for_department": "Production",
+          "name": "Kristoffer Sindre Vittersø",
+          "original_name": "Kristoffer Sindre Vittersø",
+          "popularity": 0.6059,
+          "profile_path": null,
+          "credit_id": "6430086b1f98d101cba5bbc7",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 111532,
+          "known_for_department": "Directing",
+          "name": "Pål Øie",
+          "original_name": "Pål Øie",
+          "popularity": 0.7519,
+          "profile_path": "/m7wKPkvWj0d9yPNSLapbXwg94at.jpg",
+          "credit_id": "6430081a9a6435065eacfe68",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -49249,58 +49263,6 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 2884493,
-          "known_for_department": "Directing",
-          "name": "Natasha Arthur",
-          "original_name": "Natasha Arthur",
-          "popularity": 0.7102,
-          "profile_path": "/8GcsQqbTFvZZSlITE2ovtzig0oc.jpg",
-          "credit_id": "66d1ad5ac18bcb252f003674",
-          "department": "Production",
-          "job": "Associate Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913081,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Lari Lintumäki",
-          "original_name": "Lari Lintumäki",
-          "popularity": 0.297,
-          "profile_path": null,
-          "credit_id": "66d1afb7a05b1ddd4078b469",
-          "department": "Costume & Make-Up",
-          "job": "Key Costumer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2820042,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Janne Karjalainen",
-          "original_name": "Janne Karjalainen",
-          "popularity": 0.4032,
-          "profile_path": null,
-          "credit_id": "66d1adc41985bae42c01b86c",
-          "department": "Costume & Make-Up",
-          "job": "Costume Design"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913086,
-          "known_for_department": "Production",
-          "name": "Beate Basso",
-          "original_name": "Beate Basso",
-          "popularity": 0.475,
-          "profile_path": null,
-          "credit_id": "66d1afff7b5524fd9f0fd550",
-          "department": "Production",
-          "job": "Production Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
           "id": 1926708,
           "known_for_department": "Acting",
           "name": "Benedicte Westbye",
@@ -49314,132 +49276,28 @@
         {
           "adult": false,
           "gender": 1,
-          "id": 2659471,
-          "known_for_department": "Art",
-          "name": "Camilla Sofie Hugstmyr",
-          "original_name": "Camilla Sofie Hugstmyr",
-          "popularity": 0.3433,
-          "profile_path": null,
-          "credit_id": "66d1ae6fb27e5871c8811cc0",
-          "department": "Art",
-          "job": "Set Dressing Buyer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2147152,
-          "known_for_department": "Visual Effects",
-          "name": "Theodor Groeneboom",
-          "original_name": "Theodor Groeneboom",
-          "popularity": 0.3608,
-          "profile_path": null,
-          "credit_id": "66d1af0cd94dffd8f701b514",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2204078,
-          "known_for_department": "Camera",
-          "name": "Kjetil Mathisen",
-          "original_name": "Kjetil Mathisen",
-          "popularity": 0.3956,
-          "profile_path": null,
-          "credit_id": "66d1af4ad43c03449303bf30",
-          "department": "Camera",
-          "job": "First Assistant Camera"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3574744,
-          "known_for_department": "Directing",
-          "name": "Andreas Søfteland Milde",
-          "original_name": "Andreas Søfteland Milde",
-          "popularity": 0.3541,
-          "profile_path": null,
-          "credit_id": "66d1afec186716d33ba7ebc0",
-          "department": "Directing",
-          "job": "Script Supervisor"
+          "id": 109936,
+          "known_for_department": "Writing",
+          "name": "Kjersti Helen Rasmussen",
+          "original_name": "Kjersti Helen Rasmussen",
+          "popularity": 0.5998,
+          "profile_path": "/V09fbQkJ0O0uJop6ffOKY8syOd.jpg",
+          "credit_id": "66d1ab0b8afc425a520033b8",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
           "gender": 0,
-          "id": 4913075,
-          "known_for_department": "Art",
-          "name": "Marjaana Virtanen",
-          "original_name": "Marjaana Virtanen",
-          "popularity": 0.2956,
+          "id": 3363094,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Milana Keskikastari",
+          "original_name": "Milana Keskikastari",
+          "popularity": 0.3245,
           "profile_path": null,
-          "credit_id": "66d1aeca63aa27a532811ccc",
-          "department": "Art",
-          "job": "Property Master"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4894242,
-          "known_for_department": "Acting",
-          "name": "Elias Kleive",
-          "original_name": "Elias Kleive",
-          "popularity": 0.5545,
-          "profile_path": null,
-          "credit_id": "66d1b01ebf7c8bbd2c6e0051",
-          "department": "Production",
-          "job": "Production Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913091,
-          "known_for_department": "Production",
-          "name": "Stina Samsten",
-          "original_name": "Stina Samsten",
-          "popularity": 0.2473,
-          "profile_path": null,
-          "credit_id": "66d1b080ea22ad562c943d62",
-          "department": "Production",
-          "job": "Production Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1725732,
-          "known_for_department": "Directing",
-          "name": "Emeri Abel",
-          "original_name": "Emeri Abel",
-          "popularity": 0.423,
-          "profile_path": "/w0aXEZBJLW88bOdfNtSgC8nJ74B.jpg",
-          "credit_id": "66d1ae1599001d751eb0687c",
-          "department": "Directing",
-          "job": "Second Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1336919,
-          "known_for_department": "Sound",
-          "name": "Mads Olsen",
-          "original_name": "Mads Olsen",
-          "popularity": 0.4097,
-          "profile_path": null,
-          "credit_id": "66d1aee95a8a9e5e2dc0bbff",
-          "department": "Sound",
-          "job": "Sound Recordist"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 4308154,
-          "known_for_department": "Production",
-          "name": "Emmi Gröhn",
-          "original_name": "Emmi Gröhn",
-          "popularity": 0.3204,
-          "profile_path": null,
-          "credit_id": "66d1b00d050849fd3001b745",
-          "department": "Crew",
-          "job": "Production Controller"
+          "credit_id": "66d1ade5f55a1bec036dff9e",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
         },
         {
           "adult": false,
@@ -49457,28 +49315,15 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 1712233,
-          "known_for_department": "Crew",
-          "name": "Geir M.V. Andersen",
-          "original_name": "Geir M.V. Andersen",
-          "popularity": 0.3421,
+          "id": 4913075,
+          "known_for_department": "Art",
+          "name": "Marjaana Virtanen",
+          "original_name": "Marjaana Virtanen",
+          "popularity": 0.2956,
           "profile_path": null,
-          "credit_id": "66d1ae5f9d59ebc29d455875",
+          "credit_id": "66d1aeca63aa27a532811ccc",
           "department": "Art",
-          "job": "Props"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 67001,
-          "known_for_department": "Editing",
-          "name": "Sjur Aarthun",
-          "original_name": "Sjur Aarthun",
-          "popularity": 0.4378,
-          "profile_path": "/iXNntfMSws6IThJrz1UVb0Rz3Ee.jpg",
-          "credit_id": "66d1ad7d47e7115c66811c59",
-          "department": "Camera",
-          "job": "Director of Photography"
+          "job": "Property Master"
         },
         {
           "adult": false,
@@ -49489,9 +49334,35 @@
           "original_name": "Alicia M. Eidesund",
           "popularity": 0.3367,
           "profile_path": null,
-          "credit_id": "66d1ae3b98b5f591690fda7e",
-          "department": "Directing",
-          "job": "Assistant Director"
+          "credit_id": "66d1ad8c3f78a81e7601b8ca",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913089,
+          "known_for_department": "Crew",
+          "name": "Nicolai Hervik Olsen",
+          "original_name": "Nicolai Hervik Olsen",
+          "popularity": 0.284,
+          "profile_path": null,
+          "credit_id": "66d1b04f47e7115c66811c85",
+          "department": "Crew",
+          "job": "Catering"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2319583,
+          "known_for_department": "Art",
+          "name": "Okku Rahikainen",
+          "original_name": "Okku Rahikainen",
+          "popularity": 0.4494,
+          "profile_path": null,
+          "credit_id": "66d1adb05e6e2e859eb06aba",
+          "department": "Art",
+          "job": "Art Direction"
         },
         {
           "adult": false,
@@ -49521,146 +49392,29 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 4523095,
-          "known_for_department": "Sound",
-          "name": "Caja Magnussen",
-          "original_name": "Caja Magnussen",
-          "popularity": 0.2312,
-          "profile_path": null,
-          "credit_id": "66d1af63e782a58e4c0c2639",
-          "department": "Production",
-          "job": "Extras Casting"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4315367,
+          "gender": 1,
+          "id": 1725732,
           "known_for_department": "Directing",
-          "name": "Alv Myhre Fossum",
-          "original_name": "Alv Myhre Fossum",
-          "popularity": 0.3379,
-          "profile_path": null,
-          "credit_id": "66d1afc47b5524fd9f0fd545",
-          "department": "Production",
-          "job": "Location Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913084,
-          "known_for_department": "Production",
-          "name": "Rune Karlsen",
-          "original_name": "Rune Karlsen",
-          "popularity": 0.2663,
-          "profile_path": null,
-          "credit_id": "66d1afe1f28dbeb3e5a7ed8e",
-          "department": "Production",
-          "job": "Location Manager"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 109936,
-          "known_for_department": "Writing",
-          "name": "Kjersti Helen Rasmussen",
-          "original_name": "Kjersti Helen Rasmussen",
-          "popularity": 0.5998,
-          "profile_path": "/V09fbQkJ0O0uJop6ffOKY8syOd.jpg",
-          "credit_id": "66d1ab0b8afc425a520033b8",
-          "department": "Writing",
-          "job": "Writer"
+          "name": "Emeri Abel",
+          "original_name": "Emeri Abel",
+          "popularity": 0.423,
+          "profile_path": "/w0aXEZBJLW88bOdfNtSgC8nJ74B.jpg",
+          "credit_id": "66d1ae1599001d751eb0687c",
+          "department": "Directing",
+          "job": "Second Assistant Director"
         },
         {
           "adult": false,
           "gender": 2,
-          "id": 4913080,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Samir Bousseksou",
-          "original_name": "Samir Bousseksou",
-          "popularity": 0.271,
-          "profile_path": null,
-          "credit_id": "66d1af9c532f6a08ae9437f0",
-          "department": "Costume & Make-Up",
-          "job": "Costume Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913088,
-          "known_for_department": "Production",
-          "name": "Saiju Nieminen",
-          "original_name": "Saiju Nieminen",
-          "popularity": 0.284,
-          "profile_path": null,
-          "credit_id": "66d1b03b1141752d45b06a46",
-          "department": "Production",
-          "job": "Production Assistant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913089,
+          "id": 1637743,
           "known_for_department": "Crew",
-          "name": "Nicolai Hervik Olsen",
-          "original_name": "Nicolai Hervik Olsen",
-          "popularity": 0.284,
+          "name": "Oula Kitti",
+          "original_name": "Oula Kitti",
+          "popularity": 0.5084,
           "profile_path": null,
-          "credit_id": "66d1b04f47e7115c66811c85",
+          "credit_id": "66d1af227be184cfaa4556e1",
           "department": "Crew",
-          "job": "Catering"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913062,
-          "known_for_department": "Production",
-          "name": "Karen Rae Kaltenborn Nothstein",
-          "original_name": "Karen Rae Kaltenborn Nothstein",
-          "popularity": 0.3029,
-          "profile_path": null,
-          "credit_id": "66d1abf08f265bb6e9b5f34f",
-          "department": "Production",
-          "job": "Development Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 3574734,
-          "known_for_department": "Production",
-          "name": "Alicia M. Eidesund",
-          "original_name": "Alicia M. Eidesund",
-          "popularity": 0.3367,
-          "profile_path": null,
-          "credit_id": "66d1ad8c3f78a81e7601b8ca",
-          "department": "Production",
-          "job": "Casting Director"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4913073,
-          "known_for_department": "Crew",
-          "name": "Juha-Pekka Palmulaakso",
-          "original_name": "Juha-Pekka Palmulaakso",
-          "popularity": 0.1786,
-          "profile_path": null,
-          "credit_id": "66d1aea0c18bcb252f003690",
-          "department": "Crew",
-          "job": "Carpenter"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1114660,
-          "known_for_department": "Art",
-          "name": "Ville Väisänen",
-          "original_name": "Ville Väisänen",
-          "popularity": 0.3119,
-          "profile_path": null,
-          "credit_id": "66d1aed86cbf9623e6811c76",
-          "department": "Art",
-          "job": "Set Dresser"
+          "job": "Stunt Coordinator"
         },
         {
           "adult": false,
@@ -49674,97 +49428,6 @@
           "credit_id": "66d1af32050849fd3001b73b",
           "department": "Camera",
           "job": "Underwater Director of Photography"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2319583,
-          "known_for_department": "Art",
-          "name": "Okku Rahikainen",
-          "original_name": "Okku Rahikainen",
-          "popularity": 0.4494,
-          "profile_path": null,
-          "credit_id": "66d1adb05e6e2e859eb06aba",
-          "department": "Art",
-          "job": "Art Direction"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2873223,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Iida Rajaviita",
-          "original_name": "Iida Rajaviita",
-          "popularity": 0.3756,
-          "profile_path": null,
-          "credit_id": "66d1adf56cbf9623e6811c67",
-          "department": "Costume & Make-Up",
-          "job": "Makeup & Hair"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2485901,
-          "known_for_department": "Directing",
-          "name": "Mika Purola",
-          "original_name": "Mika Purola",
-          "popularity": 0.5136,
-          "profile_path": null,
-          "credit_id": "66d1ae4a950a64219eb156af",
-          "department": "Directing",
-          "job": "First Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2204060,
-          "known_for_department": "Art",
-          "name": "Fredrik Sivertsen",
-          "original_name": "Fredrik Sivertsen",
-          "popularity": 0.3604,
-          "profile_path": null,
-          "credit_id": "66d1aeae186716d33ba7ebaa",
-          "department": "Art",
-          "job": "Set Dresser"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2375087,
-          "known_for_department": "Sound",
-          "name": "Bengt Öberg",
-          "original_name": "Bengt Öberg",
-          "popularity": 0.3012,
-          "profile_path": null,
-          "credit_id": "66d1aef5fbabbbff970c23ec",
-          "department": "Sound",
-          "job": "Boom Operator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3363094,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Milana Keskikastari",
-          "original_name": "Milana Keskikastari",
-          "popularity": 0.3245,
-          "profile_path": null,
-          "credit_id": "66d1ade5f55a1bec036dff9e",
-          "department": "Costume & Make-Up",
-          "job": "Makeup & Hair"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1612439,
-          "known_for_department": "Art",
-          "name": "Kari Kankaanpää",
-          "original_name": "Kari Kankaanpää",
-          "popularity": 0.5074,
-          "profile_path": null,
-          "credit_id": "66d1ae7d8581b1f1ec811c66",
-          "department": "Art",
-          "job": "Production Design"
         },
         {
           "adult": false,
@@ -49795,26 +49458,364 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1637743,
-          "known_for_department": "Crew",
-          "name": "Oula Kitti",
-          "original_name": "Oula Kitti",
-          "popularity": 0.5084,
+          "id": 2485901,
+          "known_for_department": "Directing",
+          "name": "Mika Purola",
+          "original_name": "Mika Purola",
+          "popularity": 0.5136,
           "profile_path": null,
-          "credit_id": "66d1af227be184cfaa4556e1",
-          "department": "Crew",
-          "job": "Stunt Coordinator"
+          "credit_id": "66d1ae4a950a64219eb156af",
+          "department": "Directing",
+          "job": "First Assistant Director"
         },
         {
           "adult": false,
           "gender": 0,
-          "id": 4526737,
+          "id": 4913084,
           "known_for_department": "Production",
-          "name": "Oliver Wik",
-          "original_name": "Oliver Wik",
-          "popularity": 0.3259,
+          "name": "Rune Karlsen",
+          "original_name": "Rune Karlsen",
+          "popularity": 0.2663,
           "profile_path": null,
-          "credit_id": "66d1b0aebf7c8bbd2c6e0055",
+          "credit_id": "66d1afe1f28dbeb3e5a7ed8e",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4308154,
+          "known_for_department": "Production",
+          "name": "Emmi Gröhn",
+          "original_name": "Emmi Gröhn",
+          "popularity": 0.3204,
+          "profile_path": null,
+          "credit_id": "66d1b00d050849fd3001b745",
+          "department": "Crew",
+          "job": "Production Controller"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3574734,
+          "known_for_department": "Production",
+          "name": "Alicia M. Eidesund",
+          "original_name": "Alicia M. Eidesund",
+          "popularity": 0.3367,
+          "profile_path": null,
+          "credit_id": "66d1ae3b98b5f591690fda7e",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2204078,
+          "known_for_department": "Camera",
+          "name": "Kjetil Mathisen",
+          "original_name": "Kjetil Mathisen",
+          "popularity": 0.3956,
+          "profile_path": null,
+          "credit_id": "66d1af4ad43c03449303bf30",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67001,
+          "known_for_department": "Editing",
+          "name": "Sjur Aarthun",
+          "original_name": "Sjur Aarthun",
+          "popularity": 0.4378,
+          "profile_path": "/iXNntfMSws6IThJrz1UVb0Rz3Ee.jpg",
+          "credit_id": "66d1ad7d47e7115c66811c59",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2873223,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Iida Rajaviita",
+          "original_name": "Iida Rajaviita",
+          "popularity": 0.3756,
+          "profile_path": null,
+          "credit_id": "66d1adf56cbf9623e6811c67",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913086,
+          "known_for_department": "Production",
+          "name": "Beate Basso",
+          "original_name": "Beate Basso",
+          "popularity": 0.475,
+          "profile_path": null,
+          "credit_id": "66d1afff7b5524fd9f0fd550",
+          "department": "Production",
+          "job": "Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3574744,
+          "known_for_department": "Directing",
+          "name": "Andreas Søfteland Milde",
+          "original_name": "Andreas Søfteland Milde",
+          "popularity": 0.3541,
+          "profile_path": null,
+          "credit_id": "66d1afec186716d33ba7ebc0",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2204060,
+          "known_for_department": "Art",
+          "name": "Fredrik Sivertsen",
+          "original_name": "Fredrik Sivertsen",
+          "popularity": 0.3604,
+          "profile_path": null,
+          "credit_id": "66d1aeae186716d33ba7ebaa",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2375087,
+          "known_for_department": "Sound",
+          "name": "Bengt Öberg",
+          "original_name": "Bengt Öberg",
+          "popularity": 0.3012,
+          "profile_path": null,
+          "credit_id": "66d1aef5fbabbbff970c23ec",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4523095,
+          "known_for_department": "Sound",
+          "name": "Caja Magnussen",
+          "original_name": "Caja Magnussen",
+          "popularity": 0.2312,
+          "profile_path": null,
+          "credit_id": "66d1af63e782a58e4c0c2639",
+          "department": "Production",
+          "job": "Extras Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913062,
+          "known_for_department": "Production",
+          "name": "Karen Rae Kaltenborn Nothstein",
+          "original_name": "Karen Rae Kaltenborn Nothstein",
+          "popularity": 0.3029,
+          "profile_path": null,
+          "credit_id": "66d1abf08f265bb6e9b5f34f",
+          "department": "Production",
+          "job": "Development Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913073,
+          "known_for_department": "Crew",
+          "name": "Juha-Pekka Palmulaakso",
+          "original_name": "Juha-Pekka Palmulaakso",
+          "popularity": 0.1786,
+          "profile_path": null,
+          "credit_id": "66d1aea0c18bcb252f003690",
+          "department": "Crew",
+          "job": "Carpenter"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4913080,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Samir Bousseksou",
+          "original_name": "Samir Bousseksou",
+          "popularity": 0.271,
+          "profile_path": null,
+          "credit_id": "66d1af9c532f6a08ae9437f0",
+          "department": "Costume & Make-Up",
+          "job": "Costume Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913088,
+          "known_for_department": "Production",
+          "name": "Saiju Nieminen",
+          "original_name": "Saiju Nieminen",
+          "popularity": 0.284,
+          "profile_path": null,
+          "credit_id": "66d1b03b1141752d45b06a46",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4315367,
+          "known_for_department": "Directing",
+          "name": "Alv Myhre Fossum",
+          "original_name": "Alv Myhre Fossum",
+          "popularity": 0.3379,
+          "profile_path": null,
+          "credit_id": "66d1afc47b5524fd9f0fd545",
+          "department": "Production",
+          "job": "Location Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1612439,
+          "known_for_department": "Art",
+          "name": "Kari Kankaanpää",
+          "original_name": "Kari Kankaanpää",
+          "popularity": 0.5074,
+          "profile_path": null,
+          "credit_id": "66d1ae7d8581b1f1ec811c66",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1336919,
+          "known_for_department": "Sound",
+          "name": "Mads Olsen",
+          "original_name": "Mads Olsen",
+          "popularity": 0.4097,
+          "profile_path": null,
+          "credit_id": "66d1aee95a8a9e5e2dc0bbff",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2147152,
+          "known_for_department": "Visual Effects",
+          "name": "Theodor Groeneboom",
+          "original_name": "Theodor Groeneboom",
+          "popularity": 0.3608,
+          "profile_path": null,
+          "credit_id": "66d1af0cd94dffd8f701b514",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913081,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lari Lintumäki",
+          "original_name": "Lari Lintumäki",
+          "popularity": 0.297,
+          "profile_path": null,
+          "credit_id": "66d1afb7a05b1ddd4078b469",
+          "department": "Costume & Make-Up",
+          "job": "Key Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2884493,
+          "known_for_department": "Directing",
+          "name": "Natasha Arthur",
+          "original_name": "Natasha Arthur",
+          "popularity": 0.7102,
+          "profile_path": "/8GcsQqbTFvZZSlITE2ovtzig0oc.jpg",
+          "credit_id": "66d1ad5ac18bcb252f003674",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2820042,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Janne Karjalainen",
+          "original_name": "Janne Karjalainen",
+          "popularity": 0.4032,
+          "profile_path": null,
+          "credit_id": "66d1adc41985bae42c01b86c",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1712233,
+          "known_for_department": "Crew",
+          "name": "Geir M.V. Andersen",
+          "original_name": "Geir M.V. Andersen",
+          "popularity": 0.3421,
+          "profile_path": null,
+          "credit_id": "66d1ae5f9d59ebc29d455875",
+          "department": "Art",
+          "job": "Props"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4894242,
+          "known_for_department": "Acting",
+          "name": "Elias Kleive",
+          "original_name": "Elias Kleive",
+          "popularity": 0.5545,
+          "profile_path": null,
+          "credit_id": "66d1b01ebf7c8bbd2c6e0051",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2659471,
+          "known_for_department": "Art",
+          "name": "Camilla Sofie Hugstmyr",
+          "original_name": "Camilla Sofie Hugstmyr",
+          "popularity": 0.3433,
+          "profile_path": null,
+          "credit_id": "66d1ae6fb27e5871c8811cc0",
+          "department": "Art",
+          "job": "Set Dressing Buyer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1114660,
+          "known_for_department": "Art",
+          "name": "Ville Väisänen",
+          "original_name": "Ville Väisänen",
+          "popularity": 0.3119,
+          "profile_path": null,
+          "credit_id": "66d1aed86cbf9623e6811c76",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4913091,
+          "known_for_department": "Production",
+          "name": "Stina Samsten",
+          "original_name": "Stina Samsten",
+          "popularity": 0.2473,
+          "profile_path": null,
+          "credit_id": "66d1b080ea22ad562c943d62",
           "department": "Production",
           "job": "Production Coordinator"
         },
@@ -49830,6 +49831,19 @@
           "credit_id": "66d1b091b27e5871c8811cca",
           "department": "Production",
           "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4526737,
+          "known_for_department": "Production",
+          "name": "Oliver Wik",
+          "original_name": "Oliver Wik",
+          "popularity": 0.3259,
+          "profile_path": null,
+          "credit_id": "66d1b0aebf7c8bbd2c6e0055",
+          "department": "Production",
+          "job": "Production Coordinator"
         },
         {
           "adult": false,
@@ -49922,7 +49936,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9AU9oYNBnI8yQsGLarm6IkgrFts.jpg"
       }
     ],
-    "date_added": 1786353585546
+    "date_added": 1786367139690
   },
   {
     "adult": false,
@@ -50043,8 +50057,8 @@
     "tagline": "",
     "title": "Deep Water",
     "video": false,
-    "vote_average": 7.173,
-    "vote_count": 375,
+    "vote_average": 7.167,
+    "vote_count": 377,
     "translations": {
       "translations": [
         {
@@ -51626,7 +51640,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
       }
     ],
-    "date_added": 1786353585568
+    "date_added": 1786367139733
   },
   {
     "adult": false,
@@ -51695,7 +51709,7 @@
     "tagline": "",
     "title": "ضربة حظ",
     "video": false,
-    "vote_average": 7.25,
+    "vote_average": 7.2,
     "vote_count": 19,
     "translations": {
       "translations": [
@@ -53039,7 +53053,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pnn5PwmyTJSBIjK2n8HPJn2GqtK.jpg"
       }
     ],
-    "date_added": 1786353585576
+    "date_added": 1786367139758
   },
   {
     "adult": false,
@@ -54160,7 +54174,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZL6tYLqs5uhvqE4SM7GwJHxUz3.jpg"
       }
     ],
-    "date_added": 1786353585597
+    "date_added": 1786367139813
   },
   {
     "adult": false,
@@ -54258,8 +54272,8 @@
     "tagline": "سيقاتلون الجميع لإنقاذ أحبّائهم.",
     "title": "الغاضبون",
     "video": false,
-    "vote_average": 7.346,
-    "vote_count": 296,
+    "vote_average": 7.354,
+    "vote_count": 298,
     "translations": {
       "translations": [
         {
@@ -56131,7 +56145,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
       }
     ],
-    "date_added": 1786353585622
+    "date_added": 1786367139833
   },
   {
     "adult": false,
@@ -56719,7 +56733,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353585639
+    "date_added": 1786367139880
   },
   {
     "adult": false,
@@ -56806,8 +56820,8 @@
     "tagline": "",
     "title": "72 ساعة",
     "video": false,
-    "vote_average": 6.8,
-    "vote_count": 314,
+    "vote_average": 6.806,
+    "vote_count": 315,
     "translations": {
       "translations": [
         {
@@ -58105,6 +58119,32 @@
       "crew": [
         {
           "adult": false,
+          "gender": 0,
+          "id": 1182349,
+          "known_for_department": "Production",
+          "name": "Jeremy Stein",
+          "original_name": "Jeremy Stein",
+          "popularity": 0.5387,
+          "profile_path": null,
+          "credit_id": "6230f1beda10f000468bd916",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2043,
+          "known_for_department": "Production",
+          "name": "جون ديفيس",
+          "original_name": "John Davis",
+          "popularity": 1.125,
+          "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+          "credit_id": "6230f162c3bffe0046ccedfb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
           "gender": 2,
           "id": 68843,
           "known_for_department": "Writing",
@@ -58132,6 +58172,32 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 68843,
+          "known_for_department": "Writing",
+          "name": "جون هورويتز",
+          "original_name": "Jon Hurwitz",
+          "popularity": 1.2204,
+          "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
+          "credit_id": "6230f172fcadb4001cdf7b68",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 347335,
+          "known_for_department": "Writing",
+          "name": "Josh Heald",
+          "original_name": "Josh Heald",
+          "popularity": 0.8545,
+          "profile_path": "/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg",
+          "credit_id": "6230f1966517d6001c0df8a2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 68844,
           "known_for_department": "Writing",
           "name": "هايدن شلوسبيرغ",
@@ -58152,58 +58218,6 @@
           "popularity": 0.7029,
           "profile_path": null,
           "credit_id": "6230f1addf2945001cb11ad5",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 347335,
-          "known_for_department": "Writing",
-          "name": "Josh Heald",
-          "original_name": "Josh Heald",
-          "popularity": 0.8545,
-          "profile_path": "/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg",
-          "credit_id": "6230f1966517d6001c0df8a2",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2043,
-          "known_for_department": "Production",
-          "name": "جون ديفيس",
-          "original_name": "John Davis",
-          "popularity": 1.125,
-          "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
-          "credit_id": "6230f162c3bffe0046ccedfb",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 68843,
-          "known_for_department": "Writing",
-          "name": "جون هورويتز",
-          "original_name": "Jon Hurwitz",
-          "popularity": 1.2204,
-          "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
-          "credit_id": "6230f172fcadb4001cdf7b68",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1182349,
-          "known_for_department": "Production",
-          "name": "Jeremy Stein",
-          "original_name": "Jeremy Stein",
-          "popularity": 0.5387,
-          "profile_path": null,
-          "credit_id": "6230f1beda10f000468bd916",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -58479,7 +58493,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
       }
     ],
-    "date_added": 1786353585665
+    "date_added": 1786367139929
   },
   {
     "adult": false,
@@ -58567,8 +58581,8 @@
     "tagline": "في الظلال، لا يوجد مكان للاختباء.",
     "title": "حافة الظل",
     "video": false,
-    "vote_average": 8.04,
-    "vote_count": 1138,
+    "vote_average": 8.042,
+    "vote_count": 1140,
     "translations": {
       "translations": [
         {
@@ -59979,7 +59993,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
       }
     ],
-    "date_added": 1786353585684
+    "date_added": 1786367139984
   },
   {
     "adult": false,
@@ -60100,7 +60114,7 @@
           "known_for_department": "Acting",
           "name": "Cheena Dizon",
           "original_name": "Cheena Dizon",
-          "popularity": 3.7847,
+          "popularity": 3.7736,
           "profile_path": "/aNZHynNSy2JBvBxsSEys9cXzALV.jpg",
           "cast_id": 2,
           "character": "Mariel",
@@ -60193,7 +60207,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kdgXU6b3cQ6dDgjn2bfIztyloyA.jpg"
       }
     ],
-    "date_added": 1786353585699
+    "date_added": 1786367140047
   },
   {
     "adult": false,
@@ -60231,7 +60245,7 @@
           {
             "name": "زوي سالدانا",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
           },
           {
             "name": "Laysla De Oliveira",
@@ -60330,12 +60344,12 @@
         "overview": "",
         "poster_path": "/aNeXjZkHrnG5XdoSsnqKTH2SK72.jpg",
         "season_number": 3,
-        "vote_average": 9.3,
+        "vote_average": 9.4,
         "cast": [
           {
             "name": "زوي سالدانا",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
           },
           {
             "name": "Laysla De Oliveira",
@@ -60420,7 +60434,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1786353585998
+    "date_added": 1786367140164
   },
   {
     "adult": false,
@@ -60674,7 +60688,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1786353586045
+    "date_added": 1786367140264
   },
   {
     "adult": false,
@@ -60909,7 +60923,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1786353586141
+    "date_added": 1786367140352
   },
   {
     "adult": false,
@@ -61353,7 +61367,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1786353587859
+    "date_added": 1786367141752
   },
   {
     "adult": false,
@@ -61680,7 +61694,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1786353588313
+    "date_added": 1786367142579
   },
   {
     "adult": false,
@@ -61818,7 +61832,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1786353588417
+    "date_added": 1786367142648
   },
   {
     "adult": false,
@@ -62087,7 +62101,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
       }
     ],
-    "date_added": 1786353588458
+    "date_added": 1786367142740
   },
   {
     "adult": false,
@@ -62314,7 +62328,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353588545
+    "date_added": 1786367142908
   },
   {
     "adult": false,
@@ -63112,7 +63126,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zsFA322OuskJ2dRUwkFtzVByAu6.jpg"
       }
     ],
-    "date_added": 1786353589303
+    "date_added": 1786367143690
   },
   {
     "adult": false,
@@ -63258,7 +63272,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
       }
     ],
-    "date_added": 1786353589339
+    "date_added": 1786367143756
   },
   {
     "adult": false,
@@ -65103,7 +65117,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
       }
     ],
-    "date_added": 1786353591605
+    "date_added": 1786367146028
   },
   {
     "adult": false,
@@ -65135,7 +65149,7 @@
         "id": 1868,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/fFmcuUsz3Z2c2Kn9AgjJKP5WWNG.jpg",
+        "poster_path": "/zJvhAgtA37QwntMc59CHCjRjW50.jpg",
         "season_number": 1,
         "vote_average": 7.6,
         "cast": [
@@ -65747,7 +65761,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
       }
     ],
-    "date_added": 1786353591730
+    "date_added": 1786367146252
   },
   {
     "adult": false,
@@ -66656,7 +66670,7 @@
     "title_en": "BBC Proms",
     "overview_en": "The World s Greatest Classical Music Festival The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations Its aim to bring the best in classical music to the widest possible audience which remains true to founder conductor Henry Wood s original vision in 1895 Whether you are a classical connoisseur or think classical music isn t for you there is something for everyone in the eight week stretch of concerts",
     "cast": [],
-    "date_added": 1786353595473
+    "date_added": 1786367150684
   },
   {
     "adult": false,
@@ -66779,7 +66793,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1786353595563
+    "date_added": 1786367150834
   },
   {
     "adult": false,
@@ -66872,7 +66886,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
       }
     ],
-    "date_added": 1786353595580
+    "date_added": 1786367150928
   },
   {
     "adult": false,
@@ -66996,7 +67010,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg"
       }
     ],
-    "date_added": 1786353595632
+    "date_added": 1786367151024
   },
   {
     "adult": false,
@@ -67388,7 +67402,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
       }
     ],
-    "date_added": 1786353595895
+    "date_added": 1786367151581
   },
   {
     "adult": false,
@@ -67791,7 +67805,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1786353597690
+    "date_added": 1786367154401
   },
   {
     "adult": false,
@@ -68359,7 +68373,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786353598369
+    "date_added": 1786367155126
   },
   {
     "adult": false,
@@ -68412,7 +68426,121 @@
     "title_en": "إكس مِن ٩٧",
     "overview_en": "The X Men a band of mutants who use their uncanny gifts to protect a world that hates and fears them are challenged like never before forced to face a dangerous and unexpected new future",
     "cast": [],
-    "date_added": 1786353598395
+    "date_added": 1786367155187
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sx0YsPHZhh8PQRStXwF03XOMDvc.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10759
+    ],
+    "id": 223911,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "仙逆",
+    "overview": "",
+    "popularity": 109.5928,
+    "poster_path": "/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+    "first_air_date": "2023-09-25",
+    "softcore": false,
+    "name": "仙逆",
+    "vote_average": 8.2,
+    "vote_count": 40,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2023-09-25",
+        "episode_count": 200,
+        "id": 335851,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/jNi6szgL3KwMuVExxockGNT4Wzq.jpg",
+        "season_number": 1,
+        "vote_average": 10,
+        "cast": [
+          {
+            "name": "史泽鲲",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg"
+          },
+          {
+            "name": "Huilin Zhang",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg"
+          },
+          {
+            "name": "Wentao Chang",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg"
+          },
+          {
+            "name": "刘思岑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8AKjKsjULYhCw0zkaVNQHa1V65X.jpg"
+          },
+          {
+            "name": "白雪岑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hU7V64dz0qruxptwUeLQnkJiMcD.jpg"
+          },
+          {
+            "name": "王婧兒",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uizsOjlfYcmHTlblawwSJ1FfzEm.jpg"
+          },
+          {
+            "name": "乔苏",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "仙逆",
+    "title_en": "Renegade Immortal",
+    "overview_en": "It tells the story of Wang Lin an ordinary young man in the countryside who is moved by his heart and cultivates against immortality His pursuit is not only for longevity but also for getting rid of the ants behind it He firmly believed in human beings and entered the path of cultivation with mediocre qualifications After experiencing ups and downs with his wise mind he gradually reached the pinnacle and became famous in the cultivation world with his own strength",
+    "cast": [
+      {
+        "name": "史泽鲲",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg"
+      },
+      {
+        "name": "Huilin Zhang",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg"
+      },
+      {
+        "name": "Wentao Chang",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg"
+      },
+      {
+        "name": "刘思岑",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8AKjKsjULYhCw0zkaVNQHa1V65X.jpg"
+      },
+      {
+        "name": "白雪岑",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hU7V64dz0qruxptwUeLQnkJiMcD.jpg"
+      },
+      {
+        "name": "王婧兒",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uizsOjlfYcmHTlblawwSJ1FfzEm.jpg"
+      },
+      {
+        "name": "乔苏",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
+      }
+    ],
+    "date_added": 1786367155318
   },
   {
     "adult": false,
@@ -68605,121 +68733,7 @@
     "title_en": "All Elite Wrestling Dynamite",
     "overview_en": "A world class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years",
     "cast": [],
-    "date_added": 1786353598760
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10759
-    ],
-    "id": 223911,
-    "origin_country": [
-      "CN"
-    ],
-    "original_language": "zh",
-    "original_name": "仙逆",
-    "overview": "",
-    "popularity": 109.5928,
-    "poster_path": "/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
-    "first_air_date": "2023-09-25",
-    "softcore": false,
-    "name": "仙逆",
-    "vote_average": 8.2,
-    "vote_count": 40,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2023-09-25",
-        "episode_count": 200,
-        "id": 335851,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/jNi6szgL3KwMuVExxockGNT4Wzq.jpg",
-        "season_number": 1,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "史泽鲲",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg"
-          },
-          {
-            "name": "Huilin Zhang",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg"
-          },
-          {
-            "name": "Wentao Chang",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg"
-          },
-          {
-            "name": "刘思岑",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8AKjKsjULYhCw0zkaVNQHa1V65X.jpg"
-          },
-          {
-            "name": "白雪岑",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hU7V64dz0qruxptwUeLQnkJiMcD.jpg"
-          },
-          {
-            "name": "王婧兒",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uizsOjlfYcmHTlblawwSJ1FfzEm.jpg"
-          },
-          {
-            "name": "乔苏",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "仙逆",
-    "title_en": "Renegade Immortal",
-    "overview_en": "It tells the story of Wang Lin an ordinary young man in the countryside who is moved by his heart and cultivates against immortality His pursuit is not only for longevity but also for getting rid of the ants behind it He firmly believed in human beings and entered the path of cultivation with mediocre qualifications After experiencing ups and downs with his wise mind he gradually reached the pinnacle and became famous in the cultivation world with his own strength",
-    "cast": [
-      {
-        "name": "史泽鲲",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg"
-      },
-      {
-        "name": "Huilin Zhang",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg"
-      },
-      {
-        "name": "Wentao Chang",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg"
-      },
-      {
-        "name": "刘思岑",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8AKjKsjULYhCw0zkaVNQHa1V65X.jpg"
-      },
-      {
-        "name": "白雪岑",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hU7V64dz0qruxptwUeLQnkJiMcD.jpg"
-      },
-      {
-        "name": "王婧兒",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uizsOjlfYcmHTlblawwSJ1FfzEm.jpg"
-      },
-      {
-        "name": "乔苏",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
-      }
-    ],
-    "date_added": 1786353599127
+    "date_added": 1786367155929
   },
   {
     "adult": false,
@@ -68825,7 +68839,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1786353599199
+    "date_added": 1786367156065
   },
   {
     "adult": false,
@@ -69151,7 +69165,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
       }
     ],
-    "date_added": 1786353599440
+    "date_added": 1786367156757
   },
   {
     "adult": false,
@@ -69172,8 +69186,8 @@
     "first_air_date": "2026-08-05",
     "softcore": false,
     "name": "The Shards",
-    "vote_average": 7.8,
-    "vote_count": 15,
+    "vote_average": 7.938,
+    "vote_count": 16,
     "media_type": "tv",
     "seasons": [
       {
@@ -69264,7 +69278,183 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
       }
     ],
-    "date_added": 1786353599460
+    "date_added": 1786367156803
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      9648
+    ],
+    "id": 215072,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "킬러들의 쇼핑몰",
+    "overview": "تضحى حياتها متاهة من الغموض غداة الانتحار المزعوم لعمّها إذ ينهال عليها وابل من الرصاص تارة وتُحاصر بطائرات مُسيّرة للقتل تارّة وللنجاة يتعين عليها كشف طلاسم وفاة عمّها وسبب استهدافها بلا رحمة من كلّ جانب",
+    "popularity": 80.8948,
+    "poster_path": "/AvrBbDO8Fhtcey94877eqOg1VOn.jpg",
+    "first_air_date": "2024-01-17",
+    "softcore": false,
+    "name": "متجر للقتلة",
+    "vote_average": 8.4,
+    "vote_count": 206,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2024-01-17",
+        "episode_count": 8,
+        "id": 317519,
+        "name": "الموسم 1",
+        "overview": "دراما أكشن تدور أحداثها حول ابنة الأخت التي فقدت والديها ونشأت في كنف عمها الذي يدير مركزًا تجاريًا، وتواجه حقيقة جديدة بعد وفاة عمها المفاجئة.",
+        "poster_path": "/83CG9d9tYoIgL0zC1L1R3kmcGnr.jpg",
+        "season_number": 1,
+        "vote_average": 8.6,
+        "cast": [
+          {
+            "name": "لي دونغ ووك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
+          },
+          {
+            "name": "كيم هاي جون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
+          },
+          {
+            "name": "금해나",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
+          },
+          {
+            "name": "Min Kim",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
+          },
+          {
+            "name": "이태영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
+          },
+          {
+            "name": "조한선",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
+          },
+          {
+            "name": "서현우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+          },
+          {
+            "name": "박지빈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8vTvdIBdcpNgciuhiLJlgT6nKWG.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-07-22",
+        "episode_count": 8,
+        "id": 481757,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/nTBL5NMS5tKt2RxpkyNJbu63Dlm.jpg",
+        "season_number": 2,
+        "vote_average": 9.4,
+        "cast": [
+          {
+            "name": "لي دونغ ووك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
+          },
+          {
+            "name": "كيم هاي جون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
+          },
+          {
+            "name": "금해나",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
+          },
+          {
+            "name": "Min Kim",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
+          },
+          {
+            "name": "이태영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
+          },
+          {
+            "name": "조한선",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
+          },
+          {
+            "name": "서현우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+          },
+          {
+            "name": "정윤하",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "متجر للقتلة",
+    "title_en": "A Shop for Killers",
+    "overview_en": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle s sudden death",
+    "cast": [
+      {
+        "name": "لي دونغ ووك",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
+      },
+      {
+        "name": "كيم هاي جون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
+      },
+      {
+        "name": "금해나",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
+      },
+      {
+        "name": "Min Kim",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
+      },
+      {
+        "name": "이태영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
+      },
+      {
+        "name": "조한선",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
+      },
+      {
+        "name": "서현우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+      },
+      {
+        "name": "정윤하",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
+      }
+    ],
+    "date_added": 1786367156947
   },
   {
     "adult": false,
@@ -70473,183 +70663,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5OEpJvTOpDh4snWx6eKWKcDgryV.jpg"
       }
     ],
-    "date_added": 1786353601077
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-    "genre_ids": [
-      18,
-      10759,
-      9648
-    ],
-    "id": 215072,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "킬러들의 쇼핑몰",
-    "overview": "تضحى حياتها متاهة من الغموض غداة الانتحار المزعوم لعمّها إذ ينهال عليها وابل من الرصاص تارة وتُحاصر بطائرات مُسيّرة للقتل تارّة وللنجاة يتعين عليها كشف طلاسم وفاة عمّها وسبب استهدافها بلا رحمة من كلّ جانب",
-    "popularity": 80.8948,
-    "poster_path": "/AvrBbDO8Fhtcey94877eqOg1VOn.jpg",
-    "first_air_date": "2024-01-17",
-    "softcore": false,
-    "name": "متجر للقتلة",
-    "vote_average": 8.439,
-    "vote_count": 205,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2024-01-17",
-        "episode_count": 8,
-        "id": 317519,
-        "name": "الموسم 1",
-        "overview": "دراما أكشن تدور أحداثها حول ابنة الأخت التي فقدت والديها ونشأت في كنف عمها الذي يدير مركزًا تجاريًا، وتواجه حقيقة جديدة بعد وفاة عمها المفاجئة.",
-        "poster_path": "/83CG9d9tYoIgL0zC1L1R3kmcGnr.jpg",
-        "season_number": 1,
-        "vote_average": 8.6,
-        "cast": [
-          {
-            "name": "لي دونغ ووك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
-          },
-          {
-            "name": "كيم هاي جون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
-          },
-          {
-            "name": "금해나",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
-          },
-          {
-            "name": "Min Kim",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
-          },
-          {
-            "name": "이태영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
-          },
-          {
-            "name": "조한선",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
-          },
-          {
-            "name": "서현우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
-          },
-          {
-            "name": "박지빈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8vTvdIBdcpNgciuhiLJlgT6nKWG.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-07-22",
-        "episode_count": 8,
-        "id": 481757,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/nTBL5NMS5tKt2RxpkyNJbu63Dlm.jpg",
-        "season_number": 2,
-        "vote_average": 9.4,
-        "cast": [
-          {
-            "name": "لي دونغ ووك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
-          },
-          {
-            "name": "كيم هاي جون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
-          },
-          {
-            "name": "금해나",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
-          },
-          {
-            "name": "Min Kim",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
-          },
-          {
-            "name": "이태영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
-          },
-          {
-            "name": "조한선",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
-          },
-          {
-            "name": "서현우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
-          },
-          {
-            "name": "정윤하",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "متجر للقتلة",
-    "title_en": "A Shop for Killers",
-    "overview_en": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle s sudden death",
-    "cast": [
-      {
-        "name": "لي دونغ ووك",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
-      },
-      {
-        "name": "كيم هاي جون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
-      },
-      {
-        "name": "금해나",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
-      },
-      {
-        "name": "Min Kim",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
-      },
-      {
-        "name": "이태영",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
-      },
-      {
-        "name": "조한선",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
-      },
-      {
-        "name": "서현우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
-      },
-      {
-        "name": "정윤하",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
-      }
-    ],
-    "date_added": 1786353601101
+    "date_added": 1786367158635
   },
   {
     "adult": false,
@@ -74021,7 +74035,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1786353604474
+    "date_added": 1786367162667
   },
   {
     "adult": false,
@@ -75765,7 +75779,7 @@
     "title_en": "Gute Zeiten schlechte Zeiten",
     "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
     "cast": [],
-    "date_added": 1786353606873
+    "date_added": 1786367165028
   },
   {
     "adult": false,
@@ -76347,6 +76361,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6qu272gwn8JwLmKhianszBfGadL.jpg"
       }
     ],
-    "date_added": 1786353607145
+    "date_added": 1786367165586
   }
 ]
