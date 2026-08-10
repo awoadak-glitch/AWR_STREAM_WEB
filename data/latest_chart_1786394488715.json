@@ -5675,7 +5675,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qBb5eYEoZAlStrRXvsFlKukKJG8.jpg"
       }
     ],
-    "date_added": 1786381317094
+    "date_added": 1786394501247
   },
   {
     "adult": false,
@@ -7421,6 +7421,20 @@
           "character": "Shade (uncredited)",
           "credit_id": "6a779b997d0e423ea6cb9827",
           "order": 67
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 6251816,
+          "known_for_department": "Acting",
+          "name": "Oğuz Sasi",
+          "original_name": "Oğuz Sasi",
+          "popularity": 0.255,
+          "profile_path": "/6L3iZ1ZDYgURl1yExNamTQ0iVDo.jpg",
+          "cast_id": 325,
+          "character": "captain",
+          "credit_id": "6a79d4872541b7ba5f49d530",
+          "order": 68
         }
       ],
       "crew": [
@@ -8620,7 +8634,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1786381317099
+    "date_added": 1786394501270
   },
   {
     "adult": false,
@@ -10313,15 +10327,15 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 3444371,
-          "known_for_department": "Art",
-          "name": "علی صفدری",
-          "original_name": "Ali Safdari",
-          "popularity": 0.4493,
+          "id": 2441330,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Bridgit Crider",
+          "original_name": "Bridgit Crider",
+          "popularity": 0.4179,
           "profile_path": null,
-          "credit_id": "6219fd9792e55b0041f1f695",
-          "department": "Art",
-          "job": "Art Direction"
+          "credit_id": "6219fece19ab59004298dc84",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
         },
         {
           "adult": false,
@@ -10339,6 +10353,19 @@
         {
           "adult": false,
           "gender": 0,
+          "id": 3444371,
+          "known_for_department": "Art",
+          "name": "علی صفدری",
+          "original_name": "Ali Safdari",
+          "popularity": 0.4493,
+          "profile_path": null,
+          "credit_id": "6219fd9792e55b0041f1f695",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
           "id": 3444374,
           "known_for_department": "Costume & Make-Up",
           "name": "Kat Connelly",
@@ -10352,15 +10379,28 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 2441330,
+          "id": 3444382,
           "known_for_department": "Costume & Make-Up",
-          "name": "Bridgit Crider",
-          "original_name": "Bridgit Crider",
-          "popularity": 0.4179,
+          "name": "Dominic Mombrun",
+          "original_name": "Dominic Mombrun",
+          "popularity": 0.3975,
           "profile_path": null,
-          "credit_id": "6219fece19ab59004298dc84",
+          "credit_id": "621a006990cf510018a98a15",
           "department": "Costume & Make-Up",
-          "job": "Key Makeup Artist"
+          "job": "Prosthetics"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1427498,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Rachael Speke",
+          "original_name": "Rachael Speke",
+          "popularity": 0.6282,
+          "profile_path": null,
+          "credit_id": "621a02c6383df2006c19c786",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
         },
         {
           "adult": false,
@@ -10374,19 +10414,6 @@
           "credit_id": "6219ff667b7b4d004278c960",
           "department": "Costume & Make-Up",
           "job": "Hair Department Head"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3444382,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Dominic Mombrun",
-          "original_name": "Dominic Mombrun",
-          "popularity": 0.3975,
-          "profile_path": null,
-          "credit_id": "621a006990cf510018a98a15",
-          "department": "Costume & Make-Up",
-          "job": "Prosthetics"
         },
         {
           "adult": false,
@@ -10456,19 +10483,6 @@
         {
           "adult": false,
           "gender": 1,
-          "id": 1427498,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Rachael Speke",
-          "original_name": "Rachael Speke",
-          "popularity": 0.6282,
-          "profile_path": null,
-          "credit_id": "621a02c6383df2006c19c786",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 1,
           "id": 3462666,
           "known_for_department": "Production",
           "name": "Emily Fong",
@@ -10489,45 +10503,6 @@
           "popularity": 3.0204,
           "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg",
           "credit_id": "612452e63a9650005c37018e",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 113674,
-          "known_for_department": "Production",
-          "name": "Victoria Alonso",
-          "original_name": "Victoria Alonso",
-          "popularity": 0.9718,
-          "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg",
-          "credit_id": "612452f1db4ed60045590aa1",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 59834,
-          "known_for_department": "Production",
-          "name": "JoAnn Perritano",
-          "original_name": "JoAnn Perritano",
-          "popularity": 0.6795,
-          "profile_path": null,
-          "credit_id": "612452fd66ae4d005b58ad0d",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1774412,
-          "known_for_department": "Production",
-          "name": "Rachel O'Connor",
-          "original_name": "Rachel O'Connor",
-          "popularity": 0.9491,
-          "profile_path": null,
-          "credit_id": "6124530a0f2fbd004815b6cb",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -10560,15 +10535,67 @@
         {
           "adult": false,
           "gender": 1,
-          "id": 1463296,
-          "known_for_department": "Art",
-          "name": "Samantha Avila",
-          "original_name": "Samantha Avila",
-          "popularity": 0.5156,
+          "id": 1774412,
+          "known_for_department": "Production",
+          "name": "Rachel O'Connor",
+          "original_name": "Rachel O'Connor",
+          "popularity": 0.9491,
           "profile_path": null,
-          "credit_id": "6126ee4faaf897009475154b",
-          "department": "Art",
-          "job": "Art Direction"
+          "credit_id": "6124530a0f2fbd004815b6cb",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 113674,
+          "known_for_department": "Production",
+          "name": "Victoria Alonso",
+          "original_name": "Victoria Alonso",
+          "popularity": 0.9718,
+          "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg",
+          "credit_id": "612452f1db4ed60045590aa1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 59834,
+          "known_for_department": "Production",
+          "name": "JoAnn Perritano",
+          "original_name": "JoAnn Perritano",
+          "popularity": 0.6795,
+          "profile_path": null,
+          "credit_id": "612452fd66ae4d005b58ad0d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1521454,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Nancy Cummings",
+          "original_name": "Nancy Cummings",
+          "popularity": 0.3753,
+          "profile_path": "/vZqIeaMevpPBwEfVLoRWwGVZhrf.jpg",
+          "credit_id": "6126ee9be8a3e1008cf490b4",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3162820,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Heather Benson",
+          "original_name": "Heather Benson",
+          "popularity": 0.383,
+          "profile_path": null,
+          "credit_id": "6126ee9155c926008edc49fb",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
         },
         {
           "adult": false,
@@ -10580,6 +10607,45 @@
           "popularity": 0.3705,
           "profile_path": null,
           "credit_id": "6126ee59f29d660065323a6a",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2189751,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carla Wallace",
+          "original_name": "Carla Wallace",
+          "popularity": 0.4712,
+          "profile_path": null,
+          "credit_id": "6126eeb52dffd8008b651db1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1046602,
+          "known_for_department": "Art",
+          "name": "Brian Stultz",
+          "original_name": "Brian Stultz",
+          "popularity": 0.4348,
+          "profile_path": null,
+          "credit_id": "6126ee6f2dffd8006152886d",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1463296,
+          "known_for_department": "Art",
+          "name": "Samantha Avila",
+          "original_name": "Samantha Avila",
+          "popularity": 0.5156,
+          "profile_path": null,
+          "credit_id": "6126ee4faaf897009475154b",
           "department": "Art",
           "job": "Art Direction"
         },
@@ -10598,45 +10664,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1046602,
-          "known_for_department": "Art",
-          "name": "Brian Stultz",
-          "original_name": "Brian Stultz",
-          "popularity": 0.4348,
-          "profile_path": null,
-          "credit_id": "6126ee6f2dffd8006152886d",
-          "department": "Art",
-          "job": "Art Direction"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 3162820,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Heather Benson",
-          "original_name": "Heather Benson",
-          "popularity": 0.383,
-          "profile_path": null,
-          "credit_id": "6126ee9155c926008edc49fb",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1521454,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Nancy Cummings",
-          "original_name": "Nancy Cummings",
-          "popularity": 0.3753,
-          "profile_path": "/vZqIeaMevpPBwEfVLoRWwGVZhrf.jpg",
-          "credit_id": "6126ee9be8a3e1008cf490b4",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 3212601,
           "known_for_department": "Costume & Make-Up",
@@ -10645,19 +10672,6 @@
           "popularity": 0.3615,
           "profile_path": null,
           "credit_id": "6126eea8f29d660065323b59",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2189751,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Carla Wallace",
-          "original_name": "Carla Wallace",
-          "popularity": 0.4712,
-          "profile_path": null,
-          "credit_id": "6126eeb52dffd8008b651db1",
           "department": "Costume & Make-Up",
           "job": "Makeup Artist"
         },
@@ -10755,13 +10769,13 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 2136834,
-          "known_for_department": "Crew",
-          "name": "روبرت بيرنستاين",
-          "original_name": "Robert Bernstein",
-          "popularity": 0.54,
-          "profile_path": null,
-          "credit_id": "630321465f4b730082684ab9",
+          "id": 1187909,
+          "known_for_department": "Production",
+          "name": "Joe Quesada",
+          "original_name": "Joe Quesada",
+          "popularity": 1.4479,
+          "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg",
+          "credit_id": "630321d37ad08c007d48f92f",
           "department": "Crew",
           "job": "Thanks"
         },
@@ -10775,19 +10789,6 @@
           "popularity": 0.4519,
           "profile_path": null,
           "credit_id": "630321545f4b73007faac977",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2727055,
-          "known_for_department": "Crew",
-          "name": "Olivier Coipel",
-          "original_name": "Olivier Coipel",
-          "popularity": 0.4009,
-          "profile_path": null,
-          "credit_id": "6303215d7ad08c0082503d86",
           "department": "Crew",
           "job": "Thanks"
         },
@@ -10820,6 +10821,71 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 128988,
+          "known_for_department": "Writing",
+          "name": "John Romita Jr.",
+          "original_name": "John Romita Jr.",
+          "popularity": 0.8779,
+          "profile_path": "/AjmWmwnDO8HPtWUYqQe8d9eFlWe.jpg",
+          "credit_id": "630321f5097c49009110ccdd",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3672686,
+          "known_for_department": "Crew",
+          "name": "سارة بيتشيلي",
+          "original_name": "Sara Pichelli",
+          "popularity": 0.4307,
+          "profile_path": "/nGThOc0uBw67NvCRszP2Pw6Xvnv.jpg",
+          "credit_id": "630321ca5f4b73007faac99b",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3672687,
+          "known_for_department": "Crew",
+          "name": "باولو ريفيرا",
+          "original_name": "Paolo Rivera",
+          "popularity": 0.4149,
+          "profile_path": null,
+          "credit_id": "630321e67ad08c007d48f93c",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2647893,
+          "known_for_department": "Crew",
+          "name": "Dan Slott",
+          "original_name": "Dan Slott",
+          "popularity": 0.5425,
+          "profile_path": "/AphtKHHp9Nn8G9p3nSvfmidBUTQ.jpg",
+          "credit_id": "630321fedfe31d008010c91f",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2727055,
+          "known_for_department": "Crew",
+          "name": "Olivier Coipel",
+          "original_name": "Olivier Coipel",
+          "popularity": 0.4009,
+          "profile_path": null,
+          "credit_id": "6303215d7ad08c0082503d86",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 18877,
           "known_for_department": "Writing",
           "name": "دون هيك",
@@ -10845,66 +10911,14 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 3672686,
-          "known_for_department": "Crew",
-          "name": "سارة بيتشيلي",
-          "original_name": "Sara Pichelli",
-          "popularity": 0.4307,
-          "profile_path": "/nGThOc0uBw67NvCRszP2Pw6Xvnv.jpg",
-          "credit_id": "630321ca5f4b73007faac99b",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
           "gender": 2,
-          "id": 1187909,
-          "known_for_department": "Production",
-          "name": "Joe Quesada",
-          "original_name": "Joe Quesada",
-          "popularity": 1.4479,
-          "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg",
-          "credit_id": "630321d37ad08c007d48f92f",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3672687,
+          "id": 2136834,
           "known_for_department": "Crew",
-          "name": "باولو ريفيرا",
-          "original_name": "Paolo Rivera",
-          "popularity": 0.4149,
+          "name": "روبرت بيرنستاين",
+          "original_name": "Robert Bernstein",
+          "popularity": 0.54,
           "profile_path": null,
-          "credit_id": "630321e67ad08c007d48f93c",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 128988,
-          "known_for_department": "Writing",
-          "name": "John Romita Jr.",
-          "original_name": "John Romita Jr.",
-          "popularity": 0.8779,
-          "profile_path": "/AjmWmwnDO8HPtWUYqQe8d9eFlWe.jpg",
-          "credit_id": "630321f5097c49009110ccdd",
-          "department": "Crew",
-          "job": "Thanks"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2647893,
-          "known_for_department": "Crew",
-          "name": "Dan Slott",
-          "original_name": "Dan Slott",
-          "popularity": 0.5425,
-          "profile_path": "/AphtKHHp9Nn8G9p3nSvfmidBUTQ.jpg",
-          "credit_id": "630321fedfe31d008010c91f",
+          "credit_id": "630321465f4b730082684ab9",
           "department": "Crew",
           "job": "Thanks"
         },
@@ -10924,58 +10938,6 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 3299654,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Sheika Daley",
-          "original_name": "Sheika Daley",
-          "popularity": 0.3514,
-          "profile_path": null,
-          "credit_id": "6186e8d7f8aee80091eea173",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2275985,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Shawn Janifer",
-          "original_name": "Shawn Janifer",
-          "popularity": 0.607,
-          "profile_path": null,
-          "credit_id": "6186e8e8c5c1ef0061ee3782",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2895516,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Darla Wigley",
-          "original_name": "Darla Wigley",
-          "popularity": 0.4122,
-          "profile_path": null,
-          "credit_id": "6186e8ffd388ae008a13c9c4",
-          "department": "Costume & Make-Up",
-          "job": "Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1842138,
-          "known_for_department": "Art",
-          "name": "Patrick Dunn-Baker",
-          "original_name": "Patrick Dunn-Baker",
-          "popularity": 0.5279,
-          "profile_path": null,
-          "credit_id": "6186e94bd48cee0024f11ee7",
-          "department": "Art",
-          "job": "Set Designer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
           "id": 2483629,
           "known_for_department": "Art",
           "name": "Sally Ledger",
@@ -10985,58 +10947,6 @@
           "credit_id": "6186e95c63a6950045cf82bc",
           "department": "Art",
           "job": "Assistant Art Director"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2028806,
-          "known_for_department": "Art",
-          "name": "Kristen Jenkins",
-          "original_name": "Kristen Jenkins",
-          "popularity": 0.4208,
-          "profile_path": null,
-          "credit_id": "6186e979d48cee0024f11f8b",
-          "department": "Art",
-          "job": "Set Designer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1400555,
-          "known_for_department": "Art",
-          "name": "George Lee",
-          "original_name": "George Lee",
-          "popularity": 0.6341,
-          "profile_path": null,
-          "credit_id": "6186e990d388ae0043fe914d",
-          "department": "Art",
-          "job": "Set Designer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1352962,
-          "known_for_department": "Art",
-          "name": "Tammy S. Lee",
-          "original_name": "Tammy S. Lee",
-          "popularity": 0.5497,
-          "profile_path": null,
-          "credit_id": "6186e99bcb6db5002c31f8a2",
-          "department": "Art",
-          "job": "Set Designer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 3119239,
-          "known_for_department": "Art",
-          "name": "Silvia Mahapatra",
-          "original_name": "Silvia Mahapatra",
-          "popularity": 0.4891,
-          "profile_path": null,
-          "credit_id": "6186e9a970309f00439352e1",
-          "department": "Art",
-          "job": "Set Designer"
         },
         {
           "adult": false,
@@ -11067,15 +10977,15 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 1842147,
-          "known_for_department": "Art",
-          "name": "Chris Sanford",
-          "original_name": "Chris Sanford",
-          "popularity": 0.4637,
+          "id": 2275985,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Shawn Janifer",
+          "original_name": "Shawn Janifer",
+          "popularity": 0.607,
           "profile_path": null,
-          "credit_id": "6186e9d40752880063cd5b30",
-          "department": "Art",
-          "job": "Set Designer"
+          "credit_id": "6186e8e8c5c1ef0061ee3782",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
         },
         {
           "adult": false,
@@ -11087,6 +10997,110 @@
           "popularity": 0.6138,
           "profile_path": null,
           "credit_id": "6186e9e4c5c1ef0043e6f067",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2028806,
+          "known_for_department": "Art",
+          "name": "Kristen Jenkins",
+          "original_name": "Kristen Jenkins",
+          "popularity": 0.4208,
+          "profile_path": null,
+          "credit_id": "6186e979d48cee0024f11f8b",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1400555,
+          "known_for_department": "Art",
+          "name": "George Lee",
+          "original_name": "George Lee",
+          "popularity": 0.6341,
+          "profile_path": null,
+          "credit_id": "6186e990d388ae0043fe914d",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1669138,
+          "known_for_department": "Sound",
+          "name": "Ken McGill",
+          "original_name": "Ken McGill",
+          "popularity": 0.5437,
+          "profile_path": null,
+          "credit_id": "6186ebae595a5600438eea0d",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2264331,
+          "known_for_department": "Sound",
+          "name": "Sam Fan",
+          "original_name": "Sam Fan",
+          "popularity": 0.4789,
+          "profile_path": null,
+          "credit_id": "6186ea2ed388ae00612e36f5",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3299654,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sheika Daley",
+          "original_name": "Sheika Daley",
+          "popularity": 0.3514,
+          "profile_path": null,
+          "credit_id": "6186e8d7f8aee80091eea173",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352962,
+          "known_for_department": "Art",
+          "name": "Tammy S. Lee",
+          "original_name": "Tammy S. Lee",
+          "popularity": 0.5497,
+          "profile_path": null,
+          "credit_id": "6186e99bcb6db5002c31f8a2",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1842138,
+          "known_for_department": "Art",
+          "name": "Patrick Dunn-Baker",
+          "original_name": "Patrick Dunn-Baker",
+          "popularity": 0.5279,
+          "profile_path": null,
+          "credit_id": "6186e94bd48cee0024f11ee7",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1842147,
+          "known_for_department": "Art",
+          "name": "Chris Sanford",
+          "original_name": "Chris Sanford",
+          "popularity": 0.4637,
+          "profile_path": null,
+          "credit_id": "6186e9d40752880063cd5b30",
           "department": "Art",
           "job": "Set Designer"
         },
@@ -11105,16 +11119,42 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 2264331,
+          "gender": 2,
+          "id": 1575769,
+          "known_for_department": "Visual Effects",
+          "name": "Scott Edelstein",
+          "original_name": "Scott Edelstein",
+          "popularity": 0.5233,
+          "profile_path": "/4Ksj0LB63qFzhDeXcsnaBJ0cEzG.jpg",
+          "credit_id": "6186ec313faba0002c479f53",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1378171,
           "known_for_department": "Sound",
-          "name": "Sam Fan",
-          "original_name": "Sam Fan",
-          "popularity": 0.4789,
-          "profile_path": null,
-          "credit_id": "6186ea2ed388ae00612e36f5",
+          "name": "كيفن أوكونيل",
+          "original_name": "Kevin O'Connell",
+          "popularity": 1.0667,
+          "profile_path": "/3S1AGmA9zP8R1XmkVGQzwE4imZH.jpg",
+          "credit_id": "6186ebc2ddd52d0026baeff0",
           "department": "Sound",
-          "job": "Sound Effects Editor"
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1806023,
+          "known_for_department": "Visual Effects",
+          "name": "Nicholas Murphy",
+          "original_name": "Nicholas Murphy",
+          "popularity": 0.4144,
+          "profile_path": null,
+          "credit_id": "6186ecbfa313b80042d43e49",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
         },
         {
           "adult": false,
@@ -11128,6 +11168,58 @@
           "credit_id": "6186eb761fd36f00628453ee",
           "department": "Sound",
           "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1395447,
+          "known_for_department": "Sound",
+          "name": "Steven Ticknor",
+          "original_name": "Steven Ticknor",
+          "popularity": 0.6322,
+          "profile_path": null,
+          "credit_id": "6186ebd0ddd52d008a025bbe",
+          "department": "Sound",
+          "job": "Supervising Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3119239,
+          "known_for_department": "Art",
+          "name": "Silvia Mahapatra",
+          "original_name": "Silvia Mahapatra",
+          "popularity": 0.4891,
+          "profile_path": null,
+          "credit_id": "6186e9a970309f00439352e1",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2895516,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Darla Wigley",
+          "original_name": "Darla Wigley",
+          "popularity": 0.4122,
+          "profile_path": null,
+          "credit_id": "6186e8ffd388ae008a13c9c4",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2783486,
+          "known_for_department": "Visual Effects",
+          "name": "Diana Cobo",
+          "original_name": "Diana Cobo",
+          "popularity": 0.3412,
+          "profile_path": null,
+          "credit_id": "6186ec1975f1ad0027468c92",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
         },
         {
           "adult": false,
@@ -11154,162 +11246,6 @@
           "credit_id": "6186eb9b1c6aa7002ca2ffb0",
           "department": "Sound",
           "job": "Sound Re-Recording Mixer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1669138,
-          "known_for_department": "Sound",
-          "name": "Ken McGill",
-          "original_name": "Ken McGill",
-          "popularity": 0.5437,
-          "profile_path": null,
-          "credit_id": "6186ebae595a5600438eea0d",
-          "department": "Sound",
-          "job": "Sound Designer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1378171,
-          "known_for_department": "Sound",
-          "name": "كيفن أوكونيل",
-          "original_name": "Kevin O'Connell",
-          "popularity": 1.0667,
-          "profile_path": "/3S1AGmA9zP8R1XmkVGQzwE4imZH.jpg",
-          "credit_id": "6186ebc2ddd52d0026baeff0",
-          "department": "Sound",
-          "job": "Sound Re-Recording Mixer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1395447,
-          "known_for_department": "Sound",
-          "name": "Steven Ticknor",
-          "original_name": "Steven Ticknor",
-          "popularity": 0.6322,
-          "profile_path": null,
-          "credit_id": "6186ebd0ddd52d008a025bbe",
-          "department": "Sound",
-          "job": "Supervising Sound Editor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1354927,
-          "known_for_department": "Visual Effects",
-          "name": "Ed Bruce",
-          "original_name": "Ed Bruce",
-          "popularity": 0.5308,
-          "profile_path": null,
-          "credit_id": "6186ebfde7414600438f8da3",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2783486,
-          "known_for_department": "Visual Effects",
-          "name": "Diana Cobo",
-          "original_name": "Diana Cobo",
-          "popularity": 0.3412,
-          "profile_path": null,
-          "credit_id": "6186ec1975f1ad0027468c92",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1575769,
-          "known_for_department": "Visual Effects",
-          "name": "Scott Edelstein",
-          "original_name": "Scott Edelstein",
-          "popularity": 0.5233,
-          "profile_path": "/4Ksj0LB63qFzhDeXcsnaBJ0cEzG.jpg",
-          "credit_id": "6186ec313faba0002c479f53",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1813981,
-          "known_for_department": "Visual Effects",
-          "name": "Michael Killoren",
-          "original_name": "Michael Killoren",
-          "popularity": 0.4643,
-          "profile_path": null,
-          "credit_id": "6186ec7addd52d008a025d3c",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1806023,
-          "known_for_department": "Visual Effects",
-          "name": "Nicholas Murphy",
-          "original_name": "Nicholas Murphy",
-          "popularity": 0.4144,
-          "profile_path": null,
-          "credit_id": "6186ecbfa313b80042d43e49",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1649516,
-          "known_for_department": "Visual Effects",
-          "name": "Brendan Seals",
-          "original_name": "Brendan Seals",
-          "popularity": 0.4501,
-          "profile_path": "/74uMNYmh5NHZRBHlhombpvgY1ar.jpg",
-          "credit_id": "6186ecdaddd52d008a025e15",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1928587,
-          "known_for_department": "Visual Effects",
-          "name": "Chris Waegner",
-          "original_name": "Chris Waegner",
-          "popularity": 0.717,
-          "profile_path": "/ecz4GEqJL8FxRwgyGaBkfCtpTVy.jpg",
-          "credit_id": "6186ed1869d2800093347fcc",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1460748,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Kate Abraham",
-          "original_name": "Kate Abraham",
-          "popularity": 0.5276,
-          "profile_path": null,
-          "credit_id": "6186ed293faba0002c47a153",
-          "department": "Costume & Make-Up",
-          "job": "Set Costumer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2014456,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Kevin Boyett",
-          "original_name": "Kevin Boyett",
-          "popularity": 0.4105,
-          "profile_path": null,
-          "credit_id": "6186ed3470309f0043935a2e",
-          "department": "Costume & Make-Up",
-          "job": "Set Costumer"
         },
         {
           "adult": false,
@@ -11340,6 +11276,45 @@
         {
           "adult": false,
           "gender": 1,
+          "id": 1418408,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Pamela Waggoner",
+          "original_name": "Pamela Waggoner",
+          "popularity": 0.3937,
+          "profile_path": null,
+          "credit_id": "6186ed7813a3880044eeec7f",
+          "department": "Costume & Make-Up",
+          "job": "Set Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1813981,
+          "known_for_department": "Visual Effects",
+          "name": "Michael Killoren",
+          "original_name": "Michael Killoren",
+          "popularity": 0.4643,
+          "profile_path": null,
+          "credit_id": "6186ec7addd52d008a025d3c",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2014456,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kevin Boyett",
+          "original_name": "Kevin Boyett",
+          "popularity": 0.4105,
+          "profile_path": null,
+          "credit_id": "6186ed3470309f0043935a2e",
+          "department": "Costume & Make-Up",
+          "job": "Set Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
           "id": 1439109,
           "known_for_department": "Costume & Make-Up",
           "name": "Nava R. Sadan",
@@ -11349,6 +11324,32 @@
           "credit_id": "6186ed611fd36f00628457e5",
           "department": "Costume & Make-Up",
           "job": "Costume Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1649516,
+          "known_for_department": "Visual Effects",
+          "name": "Brendan Seals",
+          "original_name": "Brendan Seals",
+          "popularity": 0.4501,
+          "profile_path": "/74uMNYmh5NHZRBHlhombpvgY1ar.jpg",
+          "credit_id": "6186ecdaddd52d008a025e15",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1928587,
+          "known_for_department": "Visual Effects",
+          "name": "Chris Waegner",
+          "original_name": "Chris Waegner",
+          "popularity": 0.717,
+          "profile_path": "/ecz4GEqJL8FxRwgyGaBkfCtpTVy.jpg",
+          "credit_id": "6186ed1869d2800093347fcc",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
         },
         {
           "adult": false,
@@ -11365,16 +11366,29 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1418408,
+          "gender": 0,
+          "id": 1460748,
           "known_for_department": "Costume & Make-Up",
-          "name": "Pamela Waggoner",
-          "original_name": "Pamela Waggoner",
-          "popularity": 0.3937,
+          "name": "Kate Abraham",
+          "original_name": "Kate Abraham",
+          "popularity": 0.5276,
           "profile_path": null,
-          "credit_id": "6186ed7813a3880044eeec7f",
+          "credit_id": "6186ed293faba0002c47a153",
           "department": "Costume & Make-Up",
           "job": "Set Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1354927,
+          "known_for_department": "Visual Effects",
+          "name": "Ed Bruce",
+          "original_name": "Ed Bruce",
+          "popularity": 0.5308,
+          "profile_path": null,
+          "credit_id": "6186ebfde7414600438f8da3",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
         },
         {
           "adult": false,
@@ -11418,19 +11432,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 7624,
-          "known_for_department": "Writing",
-          "name": "ستان لي",
-          "original_name": "Stan Lee",
-          "popularity": 4.6204,
-          "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
-          "credit_id": "61bfdd94f28838008fd644dd",
-          "department": "Writing",
-          "job": "Comic Book"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 7625,
           "known_for_department": "Writing",
           "name": "ستيف ديتكو",
@@ -11440,6 +11441,58 @@
           "credit_id": "61bfdda2383df20062cdf586",
           "department": "Writing",
           "job": "Comic Book"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1203115,
+          "known_for_department": "Crew",
+          "name": "Ben Jenkin",
+          "original_name": "Ben Jenkin",
+          "popularity": 0.5157,
+          "profile_path": "/gV6FlbpKCUrJIZfr2Ox18TfopX3.jpg",
+          "credit_id": "61bfe8f14da3d40040cb1232",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2899668,
+          "known_for_department": "Crew",
+          "name": "William R. Spencer",
+          "original_name": "William R. Spencer",
+          "popularity": 0.384,
+          "profile_path": null,
+          "credit_id": "61bfe8b72da846009294d0f7",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1578283,
+          "known_for_department": "Acting",
+          "name": "Sergio Garcia",
+          "original_name": "Sergio Garcia",
+          "popularity": 0.4823,
+          "profile_path": null,
+          "credit_id": "61bfe8dff28838001cc70fe5",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1452866,
+          "known_for_department": "Crew",
+          "name": "Martin De Boer",
+          "original_name": "Martin De Boer",
+          "popularity": 0.5956,
+          "profile_path": "/1rW45F4VBwBzaK2kXdCOQ6vjJuj.jpg",
+          "credit_id": "61bfe88c873f000042c04451",
+          "department": "Crew",
+          "job": "Acting Double"
         },
         {
           "adult": false,
@@ -11457,6 +11510,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 2224833,
+          "known_for_department": "Crew",
+          "name": "David Elson",
+          "original_name": "David Elson",
+          "popularity": 0.488,
+          "profile_path": "/8KM7BfZXgVqaAWjXqPS6hEdWWQI.jpg",
+          "credit_id": "61bfe8cefcadb40042ac5a55",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 1278128,
           "known_for_department": "Crew",
           "name": "Luke Scott",
@@ -11464,19 +11530,6 @@
           "popularity": 1.6084,
           "profile_path": "/aOuKuY9DAQnNd5sLZUQcNq9xhsz.jpg",
           "credit_id": "61bfe87ea44d090064b55657",
-          "department": "Crew",
-          "job": "Acting Double"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1452866,
-          "known_for_department": "Crew",
-          "name": "Martin De Boer",
-          "original_name": "Martin De Boer",
-          "popularity": 0.5956,
-          "profile_path": "/1rW45F4VBwBzaK2kXdCOQ6vjJuj.jpg",
-          "credit_id": "61bfe88c873f000042c04451",
           "department": "Crew",
           "job": "Acting Double"
         },
@@ -11496,54 +11549,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 2899668,
-          "known_for_department": "Crew",
-          "name": "William R. Spencer",
-          "original_name": "William R. Spencer",
-          "popularity": 0.384,
-          "profile_path": null,
-          "credit_id": "61bfe8b72da846009294d0f7",
-          "department": "Crew",
-          "job": "Stunt Double"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2224833,
-          "known_for_department": "Crew",
-          "name": "David Elson",
-          "original_name": "David Elson",
-          "popularity": 0.488,
-          "profile_path": "/8KM7BfZXgVqaAWjXqPS6hEdWWQI.jpg",
-          "credit_id": "61bfe8cefcadb40042ac5a55",
-          "department": "Crew",
-          "job": "Stunt Double"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1578283,
-          "known_for_department": "Acting",
-          "name": "Sergio Garcia",
-          "original_name": "Sergio Garcia",
-          "popularity": 0.4823,
-          "profile_path": null,
-          "credit_id": "61bfe8dff28838001cc70fe5",
-          "department": "Crew",
-          "job": "Stunt Double"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1203115,
-          "known_for_department": "Crew",
-          "name": "Ben Jenkin",
-          "original_name": "Ben Jenkin",
-          "popularity": 0.5157,
-          "profile_path": "/gV6FlbpKCUrJIZfr2Ox18TfopX3.jpg",
-          "credit_id": "61bfe8f14da3d40040cb1232",
-          "department": "Crew",
-          "job": "Stunt Double"
+          "id": 7624,
+          "known_for_department": "Writing",
+          "name": "ستان لي",
+          "original_name": "Stan Lee",
+          "popularity": 4.6204,
+          "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+          "credit_id": "61bfdd94f28838008fd644dd",
+          "department": "Writing",
+          "job": "Comic Book"
         },
         {
           "adult": false,
@@ -11833,19 +11847,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1081074,
-          "known_for_department": "Crew",
-          "name": "George Cottle",
-          "original_name": "George Cottle",
-          "popularity": 2.3784,
-          "profile_path": "/hGvlKt3Zm7rpO6I9RXFRWGmZUw0.jpg",
-          "credit_id": "5fda3a3dcf4b8b00429e6a01",
-          "department": "Crew",
-          "job": "Stunt Coordinator"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 1653682,
           "known_for_department": "Production",
@@ -11859,16 +11860,16 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1408293,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Linda Flowers",
-          "original_name": "Linda Flowers",
-          "popularity": 0.5244,
-          "profile_path": "/sC9of3RKFQ3RYNQMeX1SbJI0dBe.jpg",
-          "credit_id": "5fd05142691cd5003d1c4fb7",
-          "department": "Costume & Make-Up",
-          "job": "Hair Department Head"
+          "gender": 2,
+          "id": 1081074,
+          "known_for_department": "Crew",
+          "name": "George Cottle",
+          "original_name": "George Cottle",
+          "popularity": 2.3784,
+          "profile_path": "/hGvlKt3Zm7rpO6I9RXFRWGmZUw0.jpg",
+          "credit_id": "5fda3a3dcf4b8b00429e6a01",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
         },
         {
           "adult": false,
@@ -11882,32 +11883,6 @@
           "credit_id": "5fd0514c1c635b003baddb5b",
           "department": "Costume & Make-Up",
           "job": "Makeup Department Head"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2690276,
-          "known_for_department": "Production",
-          "name": "Steven S. Shapiro",
-          "original_name": "Steven S. Shapiro",
-          "popularity": 0.3111,
-          "profile_path": null,
-          "credit_id": "5fd05192798c94003fc10c9e",
-          "department": "Production",
-          "job": "Production Executive"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1081074,
-          "known_for_department": "Crew",
-          "name": "George Cottle",
-          "original_name": "George Cottle",
-          "popularity": 2.3784,
-          "profile_path": "/hGvlKt3Zm7rpO6I9RXFRWGmZUw0.jpg",
-          "credit_id": "5fd051ca38e5100041dc1dee",
-          "department": "Directing",
-          "job": "Second Unit Director"
         },
         {
           "adult": false,
@@ -11938,15 +11913,41 @@
         {
           "adult": false,
           "gender": 1,
-          "id": 13588,
-          "known_for_department": "Art",
-          "name": "Rosemary Brandenburg",
-          "original_name": "Rosemary Brandenburg",
-          "popularity": 0.9002,
-          "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg",
-          "credit_id": "5fd112da0ce1bc0040f16f1f",
-          "department": "Art",
-          "job": "Set Decoration"
+          "id": 1408293,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Linda Flowers",
+          "original_name": "Linda Flowers",
+          "popularity": 0.5244,
+          "profile_path": "/sC9of3RKFQ3RYNQMeX1SbJI0dBe.jpg",
+          "credit_id": "5fd05142691cd5003d1c4fb7",
+          "department": "Costume & Make-Up",
+          "job": "Hair Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2690276,
+          "known_for_department": "Production",
+          "name": "Steven S. Shapiro",
+          "original_name": "Steven S. Shapiro",
+          "popularity": 0.3111,
+          "profile_path": null,
+          "credit_id": "5fd05192798c94003fc10c9e",
+          "department": "Production",
+          "job": "Production Executive"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1081074,
+          "known_for_department": "Crew",
+          "name": "George Cottle",
+          "original_name": "George Cottle",
+          "popularity": 2.3784,
+          "profile_path": "/hGvlKt3Zm7rpO6I9RXFRWGmZUw0.jpg",
+          "credit_id": "5fd051ca38e5100041dc1dee",
+          "department": "Directing",
+          "job": "Second Unit Director"
         },
         {
           "adult": false,
@@ -11963,16 +11964,16 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 2057527,
+          "gender": 1,
+          "id": 13588,
           "known_for_department": "Art",
-          "name": "Richard Bennett",
-          "original_name": "Richard Bennett",
-          "popularity": 0.6132,
-          "profile_path": null,
-          "credit_id": "5fd125d9691cd5003f1d8baa",
+          "name": "Rosemary Brandenburg",
+          "original_name": "Rosemary Brandenburg",
+          "popularity": 0.9002,
+          "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg",
+          "credit_id": "5fd112da0ce1bc0040f16f1f",
           "department": "Art",
-          "job": "Storyboard Artist"
+          "job": "Set Decoration"
         },
         {
           "adult": false,
@@ -11986,6 +11987,19 @@
           "credit_id": "5fd125ea1443f400422cfd3f",
           "department": "Art",
           "job": "Property Master"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2057527,
+          "known_for_department": "Art",
+          "name": "Richard Bennett",
+          "original_name": "Richard Bennett",
+          "popularity": 0.6132,
+          "profile_path": null,
+          "credit_id": "5fd125d9691cd5003f1d8baa",
+          "department": "Art",
+          "job": "Storyboard Artist"
         },
         {
           "adult": false,
@@ -12884,7 +12898,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
       }
     ],
-    "date_added": 1786381317196
+    "date_added": 1786394501348
   },
   {
     "adult": false,
@@ -15615,7 +15629,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dSCcuypWkQzspAQQq4AuejMzYfo.jpg"
       }
     ],
-    "date_added": 1786381317202
+    "date_added": 1786394501370
   },
   {
     "adult": false,
@@ -16513,19 +16527,6 @@
           "original_name": "Louis Leterrier",
           "popularity": 3.1606,
           "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
-          "credit_id": "6633e28d99d5c3012356d84d",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 18865,
-          "known_for_department": "Directing",
-          "name": "لويس ليترير",
-          "original_name": "Louis Leterrier",
-          "popularity": 3.1606,
-          "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
           "credit_id": "6633e29d0792e10123798562",
           "department": "Production",
           "job": "Producer"
@@ -16542,6 +16543,19 @@
           "credit_id": "6633e356a1c59d0123e6f4c6",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18865,
+          "known_for_department": "Directing",
+          "name": "لويس ليترير",
+          "original_name": "Louis Leterrier",
+          "popularity": 3.1606,
+          "profile_path": "/bpqqRRyCLeoAup2OAv1Dtm5C8Tn.jpg",
+          "credit_id": "6633e28d99d5c3012356d84d",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -18675,7 +18689,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aXuOgHcxoeSmhd1qY60nCISUVW9.jpg"
       }
     ],
-    "date_added": 1786381317207
+    "date_added": 1786394501393
   },
   {
     "adult": false,
@@ -21141,7 +21155,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
       }
     ],
-    "date_added": 1786381317212
+    "date_added": 1786394501417
   },
   {
     "adult": false,
@@ -22942,7 +22956,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uREVbfIi4rD2W29zWbtzNqIhP4u.jpg"
       }
     ],
-    "date_added": 1786381317240
+    "date_added": 1786394501441
   },
   {
     "adult": false,
@@ -23463,7 +23477,7 @@
             "homepage": "",
             "overview": "Ένας υπάλληλος μουσικού καταστήματος και απελπισμένος ρομαντικός, ο Μπέαρ, χρησιμοποιεί ένα υπερφυσικό παιχνίδι, που ονομάζεται \"One Wish Willow\", για να ευχηθεί για την αγαπημένη του, Νίκι, την οποία έχει ερωτευτεί εδώ και καιρό, να τον ερωτευτεί κι αυτή. Ωστόσο, η ευχή εκπληρώνεται με απροσδόκητα σκοτεινές συνέπειες και για τους δύο.",
             "runtime": 108,
-            "tagline": "Πρόσεχε για τι εύχεσαι...",
+            "tagline": "Έχεις μόνο μια ευχή.",
             "title": "Εμμονή"
           }
         },
@@ -24462,7 +24476,7 @@
           "name": "Lukas Davies",
           "original_name": "Lukas Davies",
           "popularity": 0,
-          "profile_path": null,
+          "profile_path": "/tFVZJAmgigNlOuY0p9I4wEEeU0L.jpg",
           "cast_id": 161,
           "character": "Background",
           "credit_id": "6a79323182f269380bb4f0f8",
@@ -24479,9 +24493,9 @@
           "original_name": "Curry Barker",
           "popularity": 3.5083,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3c9dd8f4fa10a363a57c",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "66ce3ce46f680bc91897d416",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -24492,9 +24506,9 @@
           "original_name": "Curry Barker",
           "popularity": 3.5083,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3ce46f680bc91897d416",
-          "department": "Writing",
-          "job": "Writer"
+          "credit_id": "66ce3c9dd8f4fa10a363a57c",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -25756,7 +25770,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1786381317245
+    "date_added": 1786394501464
   },
   {
     "adult": false,
@@ -28085,7 +28099,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
       }
     ],
-    "date_added": 1786381317251
+    "date_added": 1786394501512
   },
   {
     "adult": false,
@@ -29449,7 +29463,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/offeicvD1BnhZ4S0yz3C3YwxWZS.jpg"
       }
     ],
-    "date_added": 1786381317256
+    "date_added": 1786394501535
   },
   {
     "adult": false,
@@ -30619,7 +30633,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4SapY7LbHDHdNPV46uRUOujQJ2n.jpg"
       }
     ],
-    "date_added": 1786381317356
+    "date_added": 1786394501558
   },
   {
     "adult": false,
@@ -31625,7 +31639,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1786381317361
+    "date_added": 1786394501632
   },
   {
     "adult": false,
@@ -34710,7 +34724,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381317367
+    "date_added": 1786394501655
   },
   {
     "adult": false,
@@ -38226,7 +38240,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1786381317459
+    "date_added": 1786394501678
   },
   {
     "adult": false,
@@ -38606,7 +38620,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381317561
+    "date_added": 1786394501745
   },
   {
     "adult": false,
@@ -40278,7 +40292,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
       }
     ],
-    "date_added": 1786381317567
+    "date_added": 1786394501769
   },
   {
     "adult": false,
@@ -43214,7 +43228,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4quy82rUnOFDyEe8GWLUopSBd3s.jpg"
       }
     ],
-    "date_added": 1786381317572
+    "date_added": 1786394501793
   },
   {
     "adult": false,
@@ -44744,7 +44758,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381317578
+    "date_added": 1786394501839
   },
   {
     "adult": false,
@@ -46818,7 +46832,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6Gr0aT1Hux2P3KM35IXdXbXZABk.jpg"
       }
     ],
-    "date_added": 1786381317670
+    "date_added": 1786394501862
   },
   {
     "adult": false,
@@ -48117,7 +48131,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381317759
+    "date_added": 1786394501933
   },
   {
     "adult": false,
@@ -48508,7 +48522,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381317979
+    "date_added": 1786394502065
   },
   {
     "adult": false,
@@ -48566,19 +48580,9 @@
     "softcore": false,
     "spoken_languages": [
       {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "english_name": "Japanese",
-        "iso_639_1": "ja",
-        "name": "日本語"
-      },
-      {
-        "english_name": "Norwegian",
-        "iso_639_1": "no",
-        "name": "Norsk"
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
       }
     ],
     "status": "Released",
@@ -49936,7 +49940,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9AU9oYNBnI8yQsGLarm6IkgrFts.jpg"
       }
     ],
-    "date_added": 1786381318076
+    "date_added": 1786394502139
   },
   {
     "adult": false,
@@ -50142,6 +50146,19 @@
             "runtime": 95,
             "tagline": "",
             "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "RU",
+          "iso_639_1": "ru",
+          "name": "Pусский",
+          "english_name": "Russian",
+          "data": {
+            "homepage": "",
+            "overview": "Молодая женщина отчаянно пытается спрятать золото, которое выкрала у беспощадной банды, захватившей власть на её далёком форпосте. Преступники не намерены прощать утрату и начинают охоту, сжимая кольцо всё теснее. Ей приходится действовать на опережение: запутывать следы, играть на жадности и подозрительности врагов и искать союзников там, где доверять опасно. Но главный противник - не только люди. Смертельно холодная зима превращает каждый шаг в испытание, лишая сил и надежды на спасение. В этой ледяной ловушке выживает лишь тот, кто способен быть хитрее, быстрее и безжалостнее, ведь любая ошибка оборачивается предательством и смертью.",
+            "runtime": 95,
+            "tagline": "",
+            "title": "Вор-одиночка"
           }
         }
       ]
@@ -50524,7 +50541,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381318194
+    "date_added": 1786394502210
   },
   {
     "adult": false,
@@ -51937,7 +51954,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pnn5PwmyTJSBIjK2n8HPJn2GqtK.jpg"
       }
     ],
-    "date_added": 1786381318199
+    "date_added": 1786394502231
   },
   {
     "adult": false,
@@ -53058,7 +53075,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZL6tYLqs5uhvqE4SM7GwJHxUz3.jpg"
       }
     ],
-    "date_added": 1786381318302
+    "date_added": 1786394502300
   },
   {
     "adult": false,
@@ -55029,7 +55046,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
       }
     ],
-    "date_added": 1786381318397
+    "date_added": 1786394502373
   },
   {
     "adult": false,
@@ -56733,7 +56750,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
       }
     ],
-    "date_added": 1786381318489
+    "date_added": 1786394502439
   },
   {
     "adult": false,
@@ -58119,32 +58136,6 @@
       "crew": [
         {
           "adult": false,
-          "gender": 0,
-          "id": 1182349,
-          "known_for_department": "Production",
-          "name": "Jeremy Stein",
-          "original_name": "Jeremy Stein",
-          "popularity": 0.5387,
-          "profile_path": null,
-          "credit_id": "6230f1beda10f000468bd916",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2043,
-          "known_for_department": "Production",
-          "name": "جون ديفيس",
-          "original_name": "John Davis",
-          "popularity": 1.125,
-          "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
-          "credit_id": "6230f162c3bffe0046ccedfb",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 68843,
           "known_for_department": "Writing",
@@ -58172,32 +58163,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 68843,
-          "known_for_department": "Writing",
-          "name": "جون هورويتز",
-          "original_name": "Jon Hurwitz",
-          "popularity": 1.2204,
-          "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
-          "credit_id": "6230f172fcadb4001cdf7b68",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 347335,
-          "known_for_department": "Writing",
-          "name": "Josh Heald",
-          "original_name": "Josh Heald",
-          "popularity": 0.8545,
-          "profile_path": "/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg",
-          "credit_id": "6230f1966517d6001c0df8a2",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 68844,
           "known_for_department": "Writing",
           "name": "هايدن شلوسبيرغ",
@@ -58218,6 +58183,58 @@
           "popularity": 0.7029,
           "profile_path": null,
           "credit_id": "6230f1addf2945001cb11ad5",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 347335,
+          "known_for_department": "Writing",
+          "name": "Josh Heald",
+          "original_name": "Josh Heald",
+          "popularity": 0.8545,
+          "profile_path": "/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg",
+          "credit_id": "6230f1966517d6001c0df8a2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2043,
+          "known_for_department": "Production",
+          "name": "جون ديفيس",
+          "original_name": "John Davis",
+          "popularity": 1.125,
+          "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+          "credit_id": "6230f162c3bffe0046ccedfb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 68843,
+          "known_for_department": "Writing",
+          "name": "جون هورويتز",
+          "original_name": "Jon Hurwitz",
+          "popularity": 1.2204,
+          "profile_path": "/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg",
+          "credit_id": "6230f172fcadb4001cdf7b68",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1182349,
+          "known_for_department": "Production",
+          "name": "Jeremy Stein",
+          "original_name": "Jeremy Stein",
+          "popularity": 0.5387,
+          "profile_path": null,
+          "credit_id": "6230f1beda10f000468bd916",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -58493,7 +58510,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
       }
     ],
-    "date_added": 1786381318593
+    "date_added": 1786394502505
   },
   {
     "adult": false,
@@ -58707,7 +58724,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kdgXU6b3cQ6dDgjn2bfIztyloyA.jpg"
       }
     ],
-    "date_added": 1786381318682
+    "date_added": 1786394502571
   },
   {
     "adult": false,
@@ -60207,7 +60224,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
       }
     ],
-    "date_added": 1786381318777
+    "date_added": 1786394502644
   },
   {
     "adult": false,
@@ -60434,7 +60451,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1786381318970
+    "date_added": 1786394502821
   },
   {
     "adult": false,
@@ -60688,7 +60705,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1786381319061
+    "date_added": 1786394502935
   },
   {
     "adult": false,
@@ -60923,7 +60940,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1786381319553
+    "date_added": 1786394503043
   },
   {
     "adult": false,
@@ -61721,7 +61738,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zsFA322OuskJ2dRUwkFtzVByAu6.jpg"
       }
     ],
-    "date_added": 1786381321021
+    "date_added": 1786394504251
   },
   {
     "adult": false,
@@ -62048,7 +62065,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1786381322686
+    "date_added": 1786394505424
   },
   {
     "adult": false,
@@ -62492,7 +62509,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1786381325542
+    "date_added": 1786394507823
   },
   {
     "adult": false,
@@ -62630,7 +62647,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1786381325637
+    "date_added": 1786394508128
   },
   {
     "adult": false,
@@ -62899,7 +62916,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
       }
     ],
-    "date_added": 1786381325732
+    "date_added": 1786394508320
   },
   {
     "adult": false,
@@ -63126,7 +63143,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381326192
+    "date_added": 1786394508598
   },
   {
     "adult": false,
@@ -63272,7 +63289,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
       }
     ],
-    "date_added": 1786381326223
+    "date_added": 1786394508691
   },
   {
     "adult": false,
@@ -63386,7 +63403,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
       }
     ],
-    "date_added": 1786381326416
+    "date_added": 1786394508819
   },
   {
     "adult": false,
@@ -64030,7 +64047,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
       }
     ],
-    "date_added": 1786381326474
+    "date_added": 1786394509127
   },
   {
     "adult": false,
@@ -65875,7 +65892,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
       }
     ],
-    "date_added": 1786381330941
+    "date_added": 1786394512393
   },
   {
     "adult": false,
@@ -66784,7 +66801,7 @@
     "title_en": "BBC Proms",
     "overview_en": "The World s Greatest Classical Music Festival The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations Its aim to bring the best in classical music to the widest possible audience which remains true to founder conductor Henry Wood s original vision in 1895 Whether you are a classical connoisseur or think classical music isn t for you there is something for everyone in the eight week stretch of concerts",
     "cast": [],
-    "date_added": 1786381339455
+    "date_added": 1786394518534
   },
   {
     "adult": false,
@@ -67176,7 +67193,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
       }
     ],
-    "date_added": 1786381340572
+    "date_added": 1786394519263
   },
   {
     "adult": false,
@@ -67269,7 +67286,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
       }
     ],
-    "date_added": 1786381340581
+    "date_added": 1786394519306
   },
   {
     "adult": false,
@@ -67392,7 +67409,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1786381340874
+    "date_added": 1786394519491
   },
   {
     "adult": false,
@@ -67795,7 +67812,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1786381345131
+    "date_added": 1786394522353
   },
   {
     "adult": false,
@@ -68170,7 +68187,7 @@
           {
             "name": "Joey Nijem",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/nGjSMHEJQ4h2omvB8d7PRjyoEvr.jpg"
           },
           {
             "name": "Luxton Handspiker",
@@ -68363,7 +68380,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786381346700
+    "date_added": 1786394523423
   },
   {
     "adult": false,
@@ -68416,7 +68433,7 @@
     "title_en": "إكس مِن ٩٧",
     "overview_en": "The X Men a band of mutants who use their uncanny gifts to protect a world that hates and fears them are challenged like never before forced to face a dangerous and unexpected new future",
     "cast": [],
-    "date_added": 1786381346718
+    "date_added": 1786394523542
   },
   {
     "adult": false,
@@ -68609,7 +68626,244 @@
     "title_en": "All Elite Wrestling Dynamite",
     "overview_en": "A world class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years",
     "cast": [],
-    "date_added": 1786381348188
+    "date_added": 1786394524536
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      18
+    ],
+    "id": 106449,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "凡人修仙传",
+    "overview": "",
+    "popularity": 88.2479,
+    "poster_path": "/u1VRjvvCIVwb1MUhoxSAUimhoKZ.jpg",
+    "first_air_date": "2020-07-25",
+    "softcore": false,
+    "name": "凡人修仙传",
+    "vote_average": 8.4,
+    "vote_count": 83,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2020-07-25",
+        "episode_count": 206,
+        "id": 157272,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/usVmlxcd6PF9aiUqOPoLVss105v.jpg",
+        "season_number": 1,
+        "vote_average": 9.9,
+        "cast": [
+          {
+            "name": "錢文靑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/42V5un2Vw23rfU4NWWi1VLox31D.jpg"
+          },
+          {
+            "name": "宋伊人",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/q97r6UwDSuNeWk0eq3ddXKBCspz.jpg"
+          },
+          {
+            "name": "李詩萌",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/i7hKjBsuxiMHuj3v68yWhbLXNbi.jpg"
+          },
+          {
+            "name": "徐佳琦",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/km2vHirWi4yMvlUU0j3Ge70smA7.jpg"
+          },
+          {
+            "name": "楊默",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3LtgZ7r9vEQ0lxONharP7vq8GfT.jpg"
+          },
+          {
+            "name": "谷江山",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9AHZohwKutKWdsexJDbfFf1SP6i.jpg"
+          },
+          {
+            "name": "喬詩語",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pRz9GB7toXRPlAUSTs0jSiU2nU6.jpg"
+          },
+          {
+            "name": "张福正",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "凡人修仙传",
+    "title_en": "A Record of a Mortal s Journey to Immortality",
+    "overview_en": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance How will Han Li a commoner by birth establish a foothold for himself in his sect With his mediocre aptitude he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm This is a story of an ordinary mortal who against all odds clashes with devilish demons and ancient celestials in order to find his own path towards immortality",
+    "cast": [
+      {
+        "name": "錢文靑",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/42V5un2Vw23rfU4NWWi1VLox31D.jpg"
+      },
+      {
+        "name": "宋伊人",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/q97r6UwDSuNeWk0eq3ddXKBCspz.jpg"
+      },
+      {
+        "name": "李詩萌",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/i7hKjBsuxiMHuj3v68yWhbLXNbi.jpg"
+      },
+      {
+        "name": "徐佳琦",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/km2vHirWi4yMvlUU0j3Ge70smA7.jpg"
+      },
+      {
+        "name": "楊默",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3LtgZ7r9vEQ0lxONharP7vq8GfT.jpg"
+      },
+      {
+        "name": "谷江山",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9AHZohwKutKWdsexJDbfFf1SP6i.jpg"
+      },
+      {
+        "name": "喬詩語",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pRz9GB7toXRPlAUSTs0jSiU2nU6.jpg"
+      },
+      {
+        "name": "张福正",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg"
+      }
+    ],
+    "date_added": 1786394524688
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "id": 298168,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Shards",
+    "overview": "",
+    "popularity": 87.8557,
+    "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+    "first_air_date": "2026-08-05",
+    "softcore": false,
+    "name": "The Shards",
+    "vote_average": 8.1,
+    "vote_count": 17,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-08-05",
+        "episode_count": 10,
+        "id": 469445,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+        "season_number": 1,
+        "vote_average": 9.3,
+        "cast": [
+          {
+            "name": "Igby Rigney",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
+          },
+          {
+            "name": "كايا غربر",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
+          },
+          {
+            "name": "Homer Gere",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
+          },
+          {
+            "name": "Hayes Warner",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/53jrzoTL9ZiDVMrrYtvcF93fEyW.jpg"
+          },
+          {
+            "name": "Graham Campbell",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
+          },
+          {
+            "name": "إيفان رايتشل وود",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg"
+          },
+          {
+            "name": "ويس بنتلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "The Shards",
+    "title_en": "The Shards",
+    "overview_en": "17 year old Bret Easton Ellis is in his final year at the elite Buckley prep school Upending his world is the arrival of a mysterious new student Robert Mallory whose unsettling presence coincides with the activities of a serial killer known as The Trawler",
+    "cast": [
+      {
+        "name": "Igby Rigney",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
+      },
+      {
+        "name": "كايا غربر",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
+      },
+      {
+        "name": "Homer Gere",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
+      },
+      {
+        "name": "Hayes Warner",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/53jrzoTL9ZiDVMrrYtvcF93fEyW.jpg"
+      },
+      {
+        "name": "Graham Campbell",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
+      },
+      {
+        "name": "إيفان رايتشل وود",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg"
+      },
+      {
+        "name": "ويس بنتلي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+      }
+    ],
+    "date_added": 1786394524757
   },
   {
     "adult": false,
@@ -68715,7 +68969,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1786381348206
+    "date_added": 1786394524929
   },
   {
     "adult": false,
@@ -69041,120 +69295,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
       }
     ],
-    "date_added": 1786381349758
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "id": 298168,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Shards",
-    "overview": "",
-    "popularity": 87.8557,
-    "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-    "first_air_date": "2026-08-05",
-    "softcore": false,
-    "name": "The Shards",
-    "vote_average": 7.938,
-    "vote_count": 16,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-08-05",
-        "episode_count": 10,
-        "id": 469445,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-        "season_number": 1,
-        "vote_average": 9.3,
-        "cast": [
-          {
-            "name": "Igby Rigney",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
-          },
-          {
-            "name": "كايا غربر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
-          },
-          {
-            "name": "Homer Gere",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
-          },
-          {
-            "name": "Hayes Warner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/53jrzoTL9ZiDVMrrYtvcF93fEyW.jpg"
-          },
-          {
-            "name": "Graham Campbell",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
-          },
-          {
-            "name": "إيفان رايتشل وود",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg"
-          },
-          {
-            "name": "ويس بنتلي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "The Shards",
-    "title_en": "The Shards",
-    "overview_en": "17 year old Bret Easton Ellis is in his final year at the elite Buckley prep school Upending his world is the arrival of a mysterious new student Robert Mallory whose unsettling presence coincides with the activities of a serial killer known as The Trawler",
-    "cast": [
-      {
-        "name": "Igby Rigney",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fky5xTDneWgX6stcDK4QLEFI3Qv.jpg"
-      },
-      {
-        "name": "كايا غربر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wO3y1JaO32GhqTVE7AE3ABkz1o7.jpg"
-      },
-      {
-        "name": "Homer Gere",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bZAfJ2GbeCCYGEDDz25hPBdqMHD.jpg"
-      },
-      {
-        "name": "Hayes Warner",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/53jrzoTL9ZiDVMrrYtvcF93fEyW.jpg"
-      },
-      {
-        "name": "Graham Campbell",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
-      },
-      {
-        "name": "إيفان رايتشل وود",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mRJ5WgP7UyQXcYHRiWKERJAfNke.jpg"
-      },
-      {
-        "name": "ويس بنتلي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
-      }
-    ],
-    "date_added": 1786381349956
+    "date_added": 1786394525966
   },
   {
     "adult": false,
@@ -69330,7 +69471,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
       }
     ],
-    "date_added": 1786381349970
+    "date_added": 1786394526068
   },
   {
     "adult": false,
@@ -70539,7 +70680,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5OEpJvTOpDh4snWx6eKWKcDgryV.jpg"
       }
     ],
-    "date_added": 1786381352590
+    "date_added": 1786394528346
   },
   {
     "adult": false,
@@ -73911,1751 +74052,220 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1786381360446
+    "date_added": 1786394533862
   },
   {
     "adult": false,
-    "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+    "backdrop_path": "/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
     "genre_ids": [
+      10759,
       18,
-      10766
+      10765
     ],
-    "id": 13945,
+    "id": 194583,
     "origin_country": [
-      "DE"
+      "US"
     ],
-    "original_language": "de",
-    "original_name": "Gute Zeiten, schlechte Zeiten",
-    "overview": "",
-    "popularity": 62.2565,
-    "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "first_air_date": "1992-05-11",
+    "original_language": "en",
+    "original_name": "The Walking Dead: Dead City",
+    "overview": "مشتق من مسلسل The Walking Dead بعد أن تم اختطاف ابن ماغي تنطلق ماغي رفقة نيغان في رحلة محفوفة بالمخاطر إلى جزيرة مانهاتن لاستعادة ابنها",
+    "popularity": 73.064,
+    "poster_path": "/UTWy0tRyns0nnlXDR2XdMykT6H.jpg",
+    "first_air_date": "2023-06-18",
     "softcore": false,
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "vote_average": 5.458,
-    "vote_count": 48,
+    "name": "الموتى السائرون: المدينة الميتة",
+    "vote_average": 7.901,
+    "vote_count": 769,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "1992-05-11",
-        "episode_count": 160,
-        "id": 25198,
+        "air_date": "2023-06-18",
+        "episode_count": 6,
+        "id": 282384,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/AfOEFu8zXzAHuABj7TzEn45VrB1.jpg",
+        "poster_path": "/88ZAgQ9fH3x7PRhQjtkFHE30Fpo.jpg",
         "season_number": 1,
-        "vote_average": 10,
+        "vote_average": 8.1,
         "cast": [
           {
-            "name": "Matthias Hinze",
+            "name": "Lauren Cohan",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
           },
           {
-            "name": "Frank Thomas Mende",
+            "name": "جيفري دين مورغان",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
           },
           {
-            "name": "Hans Christiani",
+            "name": "زيليكو افانيك",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
           },
           {
-            "name": "Lisa Riecken",
+            "name": "Gaius Charles",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/jv3yclr8GMW0krvEIF9k5F298KU.jpg"
           },
           {
-            "name": "Claudia Weiske",
+            "name": "Mahina Napoleon",
             "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Andreas Elsholz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7gehFtf2id1RoqZOpa5g8UeNstD.jpg"
-          },
-          {
-            "name": "Marie Christine Herriger",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Bernhard Heinrich Herzog",
-            "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/yVP4aniJbEHyDoKMsl4sbGuGszd.jpg"
           }
         ]
       },
       {
-        "air_date": "1993-01-01",
-        "episode_count": 242,
-        "id": 131248,
+        "air_date": "2025-05-04",
+        "episode_count": 8,
+        "id": 395922,
         "name": "الموسم 2",
         "overview": "",
-        "poster_path": "/jqoiYjFuD0j8yeSTPwjBjucK98H.jpg",
+        "poster_path": "/rP5x2dRgdXMU2nUHXeAERqwDujK.jpg",
         "season_number": 2,
-        "vote_average": 0,
+        "vote_average": 7.1,
         "cast": [
           {
-            "name": "Wolfgang Bahro",
+            "name": "Lauren Cohan",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
           },
           {
-            "name": "Frank Thomas Mende",
+            "name": "جيفري دين مورغان",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
           },
           {
-            "name": "Hans Christiani",
+            "name": "زيليكو افانيك",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
           },
           {
-            "name": "Lisa Riecken",
+            "name": "ليزا ايمري",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
           },
           {
-            "name": "Claudia Weiske",
+            "name": "Gaius Charles",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/jv3yclr8GMW0krvEIF9k5F298KU.jpg"
           },
           {
-            "name": "Andreas Elsholz",
+            "name": "Logan Kim",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7gehFtf2id1RoqZOpa5g8UeNstD.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
           },
           {
-            "name": "Sali Landricina",
+            "name": "Mahina Napoleon",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/yVP4aniJbEHyDoKMsl4sbGuGszd.jpg"
           },
           {
-            "name": "Johannes Berenz",
+            "name": "داشا بولانكو",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/bIIjxz1EKZEtHeGjju82FkObyl2.jpg"
           }
         ]
       },
       {
-        "air_date": "1994-01-03",
-        "episode_count": 245,
-        "id": 131249,
+        "air_date": "2026-07-26",
+        "episode_count": 8,
+        "id": 516724,
         "name": "الموسم 3",
         "overview": "",
-        "poster_path": "/9iFkGLBhlqZGVvYBye0wnx8TyZ.jpg",
+        "poster_path": "/2aqj8cq8Jsfj13oXNUwgTfy6AMj.jpg",
         "season_number": 3,
-        "vote_average": 0,
+        "vote_average": 8.6,
         "cast": [
           {
-            "name": "Wolfgang Bahro",
+            "name": "Lauren Cohan",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
           },
           {
-            "name": "Frank Thomas Mende",
+            "name": "جيفري دين مورغان",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
           },
           {
-            "name": "Hans Christiani",
+            "name": "زيليكو افانيك",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
           },
           {
-            "name": "Lisa Riecken",
+            "name": "ليزا ايمري",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
           },
           {
-            "name": "Claudia Weiske",
+            "name": "Raúl Castillo",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
           },
           {
-            "name": "Andreas Elsholz",
+            "name": "Logan Kim",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7gehFtf2id1RoqZOpa5g8UeNstD.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
           },
           {
-            "name": "Sali Landricina",
+            "name": "آيمي غارسيا",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
           },
           {
-            "name": "Angela Neumann",
+            "name": "جيمي سيمبسون",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/byTCrA6qWd5BQQTBKIjxDJnEwnl.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
           }
         ]
-      },
-      {
-        "air_date": "1995-01-02",
-        "episode_count": 241,
-        "id": 131250,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/7P2bAVMjSAEzewzJmFup2sbFHIp.jpg",
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Andreas Elsholz",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7gehFtf2id1RoqZOpa5g8UeNstD.jpg"
-          },
-          {
-            "name": "Sali Landricina",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Julian Scheunemann",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Angela Neumann",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/byTCrA6qWd5BQQTBKIjxDJnEwnl.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1996-01-02",
-        "episode_count": 249,
-        "id": 131251,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/dajzy6PppZHIwchssfKK1T0hmIO.jpg",
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Ralf Benson",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maren Thurm",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Nadine Dehmel",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1997-01-02",
-        "episode_count": 245,
-        "id": 131252,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/ssKXbJgurmeuMmcPoIqGYOoImOy.jpg",
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Julian Scheunemann",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Angela Neumann",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/byTCrA6qWd5BQQTBKIjxDJnEwnl.jpg"
-          },
-          {
-            "name": "Claudia Weiske",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1998-01-02",
-        "episode_count": 253,
-        "id": 131253,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/x0t65yT09sQ8TueFFdfVsizcrah.jpg",
-        "season_number": 7,
-        "vote_average": 6,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Ralf Benson",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Nadine Dehmel",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maren Turm",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1999-01-04",
-        "episode_count": 253,
-        "id": 131254,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/91cFWV7IRteyAK0rCT2BymYehAx.jpg",
-        "season_number": 8,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2000-01-03",
-        "episode_count": 250,
-        "id": 131255,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": "/qTKHT60nnaRw9sj8zDjLGLi3WXp.jpg",
-        "season_number": 9,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2001-01-02",
-        "episode_count": 244,
-        "id": 131256,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/oyTbpRRpNlsq3RfPv5dgOgvMrGD.jpg",
-        "season_number": 10,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2002-01-02",
-        "episode_count": 250,
-        "id": 131257,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/v0Xy7e3FiNDAg2BimlUEKY1B5CE.jpg",
-        "season_number": 11,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2003-01-02",
-        "episode_count": 249,
-        "id": 131258,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": "/x1QH3TfodvIXVrr7WtDoz4jo3t1.jpg",
-        "season_number": 12,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2004-01-02",
-        "episode_count": 253,
-        "id": 131259,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/3u5olfQl3rW1WEGuu86enTZzUpa.jpg",
-        "season_number": 13,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2005-01-03",
-        "episode_count": 255,
-        "id": 131260,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": "/hSyNPbiAC600Ixm00skBZ2wutAJ.jpg",
-        "season_number": 14,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2006-01-02",
-        "episode_count": 257,
-        "id": 131261,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/qKWbvKxJpb1H9Ug999nRYJKnfq.jpg",
-        "season_number": 15,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-01-02",
-        "episode_count": 249,
-        "id": 131262,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/9wh8MCtx56zOR4wlYwhKFhb0UXe.jpg",
-        "season_number": 16,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-01-02",
-        "episode_count": 252,
-        "id": 131263,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/rKzPRHMLmJbE4X8aHnaZOOMy0dS.jpg",
-        "season_number": 17,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-01-02",
-        "episode_count": 252,
-        "id": 131264,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/8B73xJ3wZoQuQuHHrqVKq4eYXLw.jpg",
-        "season_number": 18,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Hans Christiani",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-01-04",
-        "episode_count": 248,
-        "id": 131265,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/lyPdR8CqIeM7npTRQfbA5uGCsVv.jpg",
-        "season_number": 19,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Frank Thomas Mende",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lisa Riecken",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNVc08jeyrvnmodhDTd4a4dDEWx.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-01-03",
-        "episode_count": 254,
-        "id": 131266,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/oNF58NO3I3wfxyuFcDxxZFlL3p7.jpg",
-        "season_number": 20,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-01-02",
-        "episode_count": 251,
-        "id": 131267,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/6W4hvjYQ0UlvT9PrYoz6Fbox0SY.jpg",
-        "season_number": 21,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-01-02",
-        "episode_count": 250,
-        "id": 131268,
-        "name": "الموسم 22",
-        "overview": "",
-        "poster_path": "/ybC8xIvHOkjmKBZxnNquZn9RnRv.jpg",
-        "season_number": 22,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2014-01-02",
-        "episode_count": 250,
-        "id": 131269,
-        "name": "الموسم 23",
-        "overview": "",
-        "poster_path": "/coeS0dyld2PcFmKES4NosB7FvnB.jpg",
-        "season_number": 23,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-01-02",
-        "episode_count": 252,
-        "id": 131270,
-        "name": "الموسم 24",
-        "overview": "",
-        "poster_path": "/nznARm5Y89jridoAFiwhZ3MJp3k.jpg",
-        "season_number": 24,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-01-04",
-        "episode_count": 256,
-        "id": 131271,
-        "name": "الموسم 25",
-        "overview": "",
-        "poster_path": "/w7AMk2zIBDqqMfV3S9FxPT457D9.jpg",
-        "season_number": 25,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2017-01-02",
-        "episode_count": 254,
-        "id": 131272,
-        "name": "الموسم 26",
-        "overview": "",
-        "poster_path": "/6NkDBFfbh2kYsMSdxIfY7FVLF3N.jpg",
-        "season_number": 26,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2018-01-02",
-        "episode_count": 252,
-        "id": 131273,
-        "name": "الموسم 27",
-        "overview": "",
-        "poster_path": "/13vyWhBVBB5FTAkB6hVOipyliKK.jpg",
-        "season_number": 27,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Jörn Schlönvoigt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3gucghKwA1RNVRN9RHpXWHv0bXj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2019-01-02",
-        "episode_count": 251,
-        "id": 131274,
-        "name": "الموسم 28",
-        "overview": "",
-        "poster_path": "/g9dCuoRDueNdjChz9c3nyYivVtj.jpg",
-        "season_number": 28,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Timur Ülker",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cot1pLchzJ1OjR8jO5MEZwNqmyh.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          },
-          {
-            "name": "Iris Mareike Steen",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2020-01-02",
-        "episode_count": 248,
-        "id": 144089,
-        "name": "الموسم 29",
-        "overview": "",
-        "poster_path": "/zcc8lxRTSvndK4neaeUWaETpqhB.jpg",
-        "season_number": 29,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Gisa Zach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8V5XotNGshFg64TbACcLSF765u.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Timur Ülker",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cot1pLchzJ1OjR8jO5MEZwNqmyh.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2021-01-04",
-        "episode_count": 252,
-        "id": 186998,
-        "name": "الموسم 30",
-        "overview": "",
-        "poster_path": "/3tCnAR3ZEm5aibrgfzvzNxufDp9.jpg",
-        "season_number": 30,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Gisa Zach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8V5XotNGshFg64TbACcLSF765u.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Daniel Fehlow",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Chryssanthi Kavazi",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maria Wedig",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2022-01-03",
-        "episode_count": 256,
-        "id": 238509,
-        "name": "الموسم 31",
-        "overview": "",
-        "poster_path": "/dNpqh5zRV2HPRv1Z95Fgghb0zRx.jpg",
-        "season_number": 31,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Gisa Zach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8V5XotNGshFg64TbACcLSF765u.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Chryssanthi Kavazi",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maria Wedig",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Timur Ülker",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cot1pLchzJ1OjR8jO5MEZwNqmyh.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-01-02",
-        "episode_count": 254,
-        "id": 315027,
-        "name": "الموسم 32",
-        "overview": "",
-        "poster_path": "/aiu3GrUJY3wSOKJwdncRfAlDAaM.jpg",
-        "season_number": 32,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Gisa Zach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8V5XotNGshFg64TbACcLSF765u.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maria Wedig",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Timur Ülker",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cot1pLchzJ1OjR8jO5MEZwNqmyh.jpg"
-          },
-          {
-            "name": "Lennart Borchert",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2024-01-02",
-        "episode_count": 252,
-        "id": 369662,
-        "name": "الموسم 33",
-        "overview": "",
-        "poster_path": "/tfPHC0WqoNAYxvtJOXiqC81IJeJ.jpg",
-        "season_number": 33,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Gisa Zach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8V5XotNGshFg64TbACcLSF765u.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maria Wedig",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Timur Ülker",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cot1pLchzJ1OjR8jO5MEZwNqmyh.jpg"
-          },
-          {
-            "name": "Lennart Borchert",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2025-01-02",
-        "episode_count": 250,
-        "id": 433683,
-        "name": "الموسم 34",
-        "overview": "",
-        "poster_path": "/yOPhbZK4w1byT8A7Imp84HpqXU.jpg",
-        "season_number": 34,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Wolfgang Bahro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hGwwtRfwnRg5Q7bfCQ8NlmPxUKO.jpg"
-          },
-          {
-            "name": "Gisa Zach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8V5XotNGshFg64TbACcLSF765u.jpg"
-          },
-          {
-            "name": "Ulrike Frank",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jsfNKI63vxQQZypGG1h511zyomQ.jpg"
-          },
-          {
-            "name": "Felix von Jascheroff",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cr9zrLu55gwx6xzdHE3nLAl4RET.jpg"
-          },
-          {
-            "name": "Eva Mona Rodekirchen",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maria Wedig",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Timur Ülker",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cot1pLchzJ1OjR8jO5MEZwNqmyh.jpg"
-          },
-          {
-            "name": "Anne Menden",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iq2fCO6g1xBDToe3hKSo0J9A6Cw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-01-02",
-        "episode_count": 167,
-        "id": 489670,
-        "name": "الموسم 35",
-        "overview": "",
-        "poster_path": "/gaCWgIiu45ZvF8a5YG3b00VAHIi.jpg",
-        "season_number": 35,
-        "vote_average": 0,
-        "cast": []
       }
     ],
-    "title": "Gute Zeiten schlechte Zeiten",
-    "title_en": "Gute Zeiten schlechte Zeiten",
-    "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
-    "cast": [],
-    "date_added": 1786381364143
+    "title": "الموتى السائرون المدينة الميتة",
+    "title_en": "الموتى السائرون المدينة الميتة",
+    "overview_en": "Maggie and Negan travel to post apocalyptic Manhattan long ago cut off from the mainland The crumbling city is filled with the dead and denizens who have made it a world full of anarchy danger beauty and terror",
+    "cast": [
+      {
+        "name": "Lauren Cohan",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
+      },
+      {
+        "name": "جيفري دين مورغان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+      },
+      {
+        "name": "زيليكو افانيك",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+      },
+      {
+        "name": "ليزا ايمري",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
+      },
+      {
+        "name": "Raúl Castillo",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
+      },
+      {
+        "name": "Logan Kim",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
+      },
+      {
+        "name": "آيمي غارسيا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
+      },
+      {
+        "name": "جيمي سيمبسون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+      }
+    ],
+    "date_added": 1786394533973
   },
   {
     "adult": false,
@@ -75678,7 +74288,7 @@
     "softcore": false,
     "name": "El señor de los cielos",
     "vote_average": 7.99,
-    "vote_count": 3572,
+    "vote_count": 3573,
     "media_type": "tv",
     "seasons": [
       {
@@ -76237,219 +74847,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6qu272gwn8JwLmKhianszBfGadL.jpg"
       }
     ],
-    "date_added": 1786381365312
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10765
-    ],
-    "id": 194583,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Walking Dead: Dead City",
-    "overview": "مشتق من مسلسل The Walking Dead بعد أن تم اختطاف ابن ماغي تنطلق ماغي رفقة نيغان في رحلة محفوفة بالمخاطر إلى جزيرة مانهاتن لاستعادة ابنها",
-    "popularity": 73.064,
-    "poster_path": "/UTWy0tRyns0nnlXDR2XdMykT6H.jpg",
-    "first_air_date": "2023-06-18",
-    "softcore": false,
-    "name": "الموتى السائرون: المدينة الميتة",
-    "vote_average": 7.902,
-    "vote_count": 768,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2023-06-18",
-        "episode_count": 6,
-        "id": 282384,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/88ZAgQ9fH3x7PRhQjtkFHE30Fpo.jpg",
-        "season_number": 1,
-        "vote_average": 8.1,
-        "cast": [
-          {
-            "name": "Lauren Cohan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
-          },
-          {
-            "name": "جيفري دين مورغان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
-          },
-          {
-            "name": "زيليكو افانيك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
-          },
-          {
-            "name": "Gaius Charles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jv3yclr8GMW0krvEIF9k5F298KU.jpg"
-          },
-          {
-            "name": "Mahina Napoleon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yVP4aniJbEHyDoKMsl4sbGuGszd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-05-04",
-        "episode_count": 8,
-        "id": 395922,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/rP5x2dRgdXMU2nUHXeAERqwDujK.jpg",
-        "season_number": 2,
-        "vote_average": 7.1,
-        "cast": [
-          {
-            "name": "Lauren Cohan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
-          },
-          {
-            "name": "جيفري دين مورغان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
-          },
-          {
-            "name": "زيليكو افانيك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
-          },
-          {
-            "name": "ليزا ايمري",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
-          },
-          {
-            "name": "Gaius Charles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jv3yclr8GMW0krvEIF9k5F298KU.jpg"
-          },
-          {
-            "name": "Logan Kim",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
-          },
-          {
-            "name": "Mahina Napoleon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yVP4aniJbEHyDoKMsl4sbGuGszd.jpg"
-          },
-          {
-            "name": "داشا بولانكو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bIIjxz1EKZEtHeGjju82FkObyl2.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-07-26",
-        "episode_count": 8,
-        "id": 516724,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/2aqj8cq8Jsfj13oXNUwgTfy6AMj.jpg",
-        "season_number": 3,
-        "vote_average": 8.6,
-        "cast": [
-          {
-            "name": "Lauren Cohan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
-          },
-          {
-            "name": "جيفري دين مورغان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
-          },
-          {
-            "name": "زيليكو افانيك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
-          },
-          {
-            "name": "ليزا ايمري",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
-          },
-          {
-            "name": "Raúl Castillo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
-          },
-          {
-            "name": "Logan Kim",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
-          },
-          {
-            "name": "آيمي غارسيا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
-          },
-          {
-            "name": "جيمي سيمبسون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "الموتى السائرون المدينة الميتة",
-    "title_en": "الموتى السائرون المدينة الميتة",
-    "overview_en": "Maggie and Negan travel to post apocalyptic Manhattan long ago cut off from the mainland The crumbling city is filled with the dead and denizens who have made it a world full of anarchy danger beauty and terror",
-    "cast": [
-      {
-        "name": "Lauren Cohan",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
-      },
-      {
-        "name": "جيفري دين مورغان",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
-      },
-      {
-        "name": "زيليكو افانيك",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
-      },
-      {
-        "name": "ليزا ايمري",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
-      },
-      {
-        "name": "Raúl Castillo",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
-      },
-      {
-        "name": "Logan Kim",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
-      },
-      {
-        "name": "آيمي غارسيا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
-      },
-      {
-        "name": "جيمي سيمبسون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
-      }
-    ],
-    "date_added": 1786381365395
+    "date_added": 1786394534817
   }
 ]
