@@ -19,8 +19,8 @@
     "first_air_date": "2022-02-03",
     "softcore": false,
     "name": "جاك ريتشر",
-    "vote_average": 8.1,
-    "vote_count": 3040,
+    "vote_average": 8.08,
+    "vote_count": 3045,
     "media_type": "tv",
     "seasons": [
       {
@@ -232,7 +232,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1786768220837
+    "date_added": 1786780546676
   },
   {
     "adult": false,
@@ -254,8 +254,8 @@
     "first_air_date": "2022-08-21",
     "softcore": false,
     "name": "آل التنين",
-    "vote_average": 8.385,
-    "vote_count": 6953,
+    "vote_average": 8.386,
+    "vote_count": 6955,
     "media_type": "tv",
     "seasons": [
       {
@@ -455,7 +455,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
       }
     ],
-    "date_added": 1786768220875
+    "date_added": 1786780546778
   },
   {
     "adult": false,
@@ -835,7 +835,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "A group of hot singles check into a luxury hotel in Mexico Prepare for love partying betrayal and tears Half a million kronor is at stake and anything can happen in paradise",
     "cast": [],
-    "date_added": 1786768222182
+    "date_added": 1786780548062
   },
   {
     "adult": false,
@@ -1262,7 +1262,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "Danish version of the reality series Paradise Hotel",
     "cast": [],
-    "date_added": 1786768223171
+    "date_added": 1786780549305
   },
   {
     "adult": false,
@@ -1588,7 +1588,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
       }
     ],
-    "date_added": 1786768223698
+    "date_added": 1786780549766
   },
   {
     "adult": false,
@@ -1609,8 +1609,8 @@
     "first_air_date": "2023-07-23",
     "softcore": false,
     "name": "Lioness",
-    "vote_average": 8.1,
-    "vote_count": 1339,
+    "vote_average": 8.053,
+    "vote_count": 1341,
     "media_type": "tv",
     "seasons": [
       {
@@ -1815,7 +1815,333 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1786768223807
+    "date_added": 1786780549796
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 37528,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Gran hermano",
+    "overview": "",
+    "popularity": 298.7537,
+    "poster_path": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+    "first_air_date": "2001-03-10",
+    "softcore": false,
+    "name": "Gran hermano",
+    "vote_average": 4.5,
+    "vote_count": 4,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2001-03-09",
+        "episode_count": 18,
+        "id": 341754,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Soledad Silveyra",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2001-08-03",
+        "episode_count": 18,
+        "id": 528830,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Soledad Silveyra",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2002-10-14",
+        "episode_count": 18,
+        "id": 528833,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Soledad Silveyra",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-01-08",
+        "episode_count": 34,
+        "id": 529004,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Jorge Rial",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-08-08",
+        "episode_count": 35,
+        "id": 530764,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 5,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Jorge Rial",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-12-12",
+        "episode_count": 39,
+        "id": 533034,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 6,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Jorge Rial",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2011-11-02",
+        "episode_count": 52,
+        "id": 533061,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 7,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Jorge Rial",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-04-28",
+        "episode_count": 24,
+        "id": 341755,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 8,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-05-18",
+        "episode_count": 15,
+        "id": 533245,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 9,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Jorge Rial",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Mariano Peluffo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-10-17",
+        "episode_count": 144,
+        "id": 341756,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+        "season_number": 10,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Santiago del Moro",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-12-10",
+        "episode_count": 171,
+        "id": 461835,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": "/3JPu4k2SP0TOlt9LZAGcddMIk8d.jpg",
+        "season_number": 11,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Santiago del Moro",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-12-02",
+        "episode_count": 162,
+        "id": 461836,
+        "name": "الموسم 12",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 12,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Santiago del Moro",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-02-23",
+        "episode_count": 149,
+        "id": 502682,
+        "name": "الموسم 13",
+        "overview": "",
+        "poster_path": "/6l9cTIYgrJDXEFtLrwmgjZdtc2U.jpg",
+        "season_number": 13,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Santiago del Moro",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
+          },
+          {
+            "name": "Gastón Trezeguet",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Ceferino Reato",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Maria Sol Perez",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "Gran hermano",
+    "title_en": "Gran hermano",
+    "overview_en": "Argentina s version of the Big Brother franchise",
+    "cast": [
+      {
+        "name": "Santiago del Moro",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
+      },
+      {
+        "name": "Gastón Trezeguet",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "Ceferino Reato",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "Maria Sol Perez",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
+      }
+    ],
+    "date_added": 1786780549980
   },
   {
     "adult": false,
@@ -2613,333 +2939,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zsFA322OuskJ2dRUwkFtzVByAu6.jpg"
       }
     ],
-    "date_added": 1786768223938
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 37528,
-    "origin_country": [
-      "AR"
-    ],
-    "original_language": "es",
-    "original_name": "Gran hermano",
-    "overview": "",
-    "popularity": 298.7537,
-    "poster_path": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-    "first_air_date": "2001-03-10",
-    "softcore": false,
-    "name": "Gran hermano",
-    "vote_average": 4.5,
-    "vote_count": 4,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2001-03-09",
-        "episode_count": 18,
-        "id": 341754,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Soledad Silveyra",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2001-08-03",
-        "episode_count": 18,
-        "id": 528830,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Soledad Silveyra",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2002-10-14",
-        "episode_count": 18,
-        "id": 528833,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Soledad Silveyra",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hfxpBj3E5g8QeBu135IGCYlAqid.jpg"
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-01-08",
-        "episode_count": 34,
-        "id": 529004,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Jorge Rial",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-08-08",
-        "episode_count": 35,
-        "id": 530764,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Jorge Rial",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-12-12",
-        "episode_count": 39,
-        "id": 533034,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Jorge Rial",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-11-02",
-        "episode_count": 52,
-        "id": 533061,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 7,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Jorge Rial",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-04-28",
-        "episode_count": 24,
-        "id": 341755,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 8,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-05-18",
-        "episode_count": 15,
-        "id": 533245,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 9,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Jorge Rial",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Mariano Peluffo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hjpCdURq0QbLmRM822s1h1XHx4U.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2022-10-17",
-        "episode_count": 144,
-        "id": 341756,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-        "season_number": 10,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Santiago del Moro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-12-10",
-        "episode_count": 171,
-        "id": 461835,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/3JPu4k2SP0TOlt9LZAGcddMIk8d.jpg",
-        "season_number": 11,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Santiago del Moro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-12-02",
-        "episode_count": 162,
-        "id": 461836,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 12,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Santiago del Moro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-02-23",
-        "episode_count": 149,
-        "id": 502682,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/6l9cTIYgrJDXEFtLrwmgjZdtc2U.jpg",
-        "season_number": 13,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Santiago del Moro",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
-          },
-          {
-            "name": "Gastón Trezeguet",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Ceferino Reato",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Maria Sol Perez",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "Gran hermano",
-    "title_en": "Gran hermano",
-    "overview_en": "Argentina s version of the Big Brother franchise",
-    "cast": [
-      {
-        "name": "Santiago del Moro",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg"
-      },
-      {
-        "name": "Gastón Trezeguet",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Ceferino Reato",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Maria Sol Perez",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
-      }
-    ],
-    "date_added": 1786768224066
+    "date_added": 1786780550131
   },
   {
     "adult": false,
@@ -3315,7 +3315,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/34ivXmllDg33Ivumx87q2oKHMtS.jpg"
       }
     ],
-    "date_added": 1786768224583
+    "date_added": 1786780551850
   },
   {
     "adult": false,
@@ -3377,7 +3377,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/idV7H8BvkcMvbFFHtqmQ5E0A19f.jpg"
       }
     ],
-    "date_added": 1786768224762
+    "date_added": 1786780551865
   },
   {
     "adult": false,
@@ -4560,7 +4560,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mF5BMaACeb1rlqp9Fz0f5z7N69H.jpg"
       }
     ],
-    "date_added": 1786768225958
+    "date_added": 1786780553895
   },
   {
     "adult": false,
@@ -5327,7 +5327,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u0OMYtsv7MapoXDqbafgGH1raRv.jpg"
       }
     ],
-    "date_added": 1786768227216
+    "date_added": 1786780555213
   },
   {
     "adult": false,
@@ -6568,7 +6568,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg"
       }
     ],
-    "date_added": 1786768228260
+    "date_added": 1786780556861
   },
   {
     "adult": false,
@@ -6691,7 +6691,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
       }
     ],
-    "date_added": 1786768228278
+    "date_added": 1786780556877
   },
   {
     "adult": false,
@@ -7135,7 +7135,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1786768228699
+    "date_added": 1786780557202
   },
   {
     "adult": false,
@@ -7645,7 +7645,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg"
       }
     ],
-    "date_added": 1786768229275
+    "date_added": 1786780557749
   },
   {
     "adult": false,
@@ -7994,7 +7994,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1786768230085
+    "date_added": 1786780558795
   },
   {
     "adult": false,
@@ -8016,7 +8016,7 @@
     "softcore": false,
     "name": "آل سيمبسون",
     "vote_average": 8.022,
-    "vote_count": 10932,
+    "vote_count": 10933,
     "media_type": "tv",
     "seasons": [
       {
@@ -8351,7 +8351,7 @@
           {
             "name": "هاري شيرر",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
           }
         ]
       },
@@ -9651,7 +9651,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1786768231866
+    "date_added": 1786780561139
   },
   {
     "adult": false,
@@ -10585,7 +10585,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
       }
     ],
-    "date_added": 1786768233486
+    "date_added": 1786780562480
   },
   {
     "adult": false,
@@ -10839,7 +10839,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1786768233614
+    "date_added": 1786780562521
   },
   {
     "adult": false,
@@ -11693,7 +11693,7 @@
     "title_en": "Tagesschau",
     "overview_en": "German daily news program the oldest still existing program on German television",
     "cast": [],
-    "date_added": 1786768237311
+    "date_added": 1786780567265
   },
   {
     "adult": false,
@@ -11962,7 +11962,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg"
       }
     ],
-    "date_added": 1786768237580
+    "date_added": 1786780567816
   },
   {
     "adult": false,
@@ -13110,7 +13110,7 @@
     "title_en": "إن سي آي أس",
     "overview_en": "From murder and espionage to terrorism and stolen submarines a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel regardless of rank or position",
     "cast": [],
-    "date_added": 1786768238954
+    "date_added": 1786780569498
   },
   {
     "adult": false,
@@ -14181,7 +14181,7 @@
     "title_en": "القانون والنظام",
     "overview_en": "In cases ripped from the headlines police investigate serious and often deadly crimes weighing the evidence and questioning the suspects until someone is taken into custody The district attorney s office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt Working together these expert teams navigate all sides of the complex criminal justice system to make New York a safer place",
     "cast": [],
-    "date_added": 1786768241092
+    "date_added": 1786780571081
   },
   {
     "adult": false,
@@ -14244,7 +14244,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hUG0u8TpaaiFZS6co5FJLzgapi8.jpg"
       }
     ],
-    "date_added": 1786768241204
+    "date_added": 1786780571187
   },
   {
     "adult": false,
@@ -14681,7 +14681,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szigprnenokR4yOpELIB2rj1Er2.jpg"
       }
     ],
-    "date_added": 1786768241847
+    "date_added": 1786780572526
   },
   {
     "adult": false,
@@ -15042,7 +15042,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg"
       }
     ],
-    "date_added": 1786768241954
+    "date_added": 1786780573027
   },
   {
     "adult": false,
@@ -15214,7 +15214,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/avAbkkbbYKDRumklH1kV4fWSzkz.jpg"
       }
     ],
-    "date_added": 1786768242373
+    "date_added": 1786780573592
   },
   {
     "adult": false,
@@ -15494,7 +15494,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8K8D5ZQIb4fDSGxTKL2FVjFloWW.jpg"
       }
     ],
-    "date_added": 1786768242644
+    "date_added": 1786780573890
   },
   {
     "adult": false,
@@ -15982,7 +15982,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
       }
     ],
-    "date_added": 1786768243142
+    "date_added": 1786780574379
   },
   {
     "adult": false,
@@ -16972,7 +16972,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7yBbtb5zCJyWq7gWPDCZR3kmWMh.jpg"
       }
     ],
-    "date_added": 1786768244021
+    "date_added": 1786780575635
   },
   {
     "adult": false,
@@ -17521,7 +17521,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1786768245732
+    "date_added": 1786780577478
   },
   {
     "adult": false,
@@ -17649,7 +17649,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4zX8lI4QG7U9Kl3jzRccT7DV9c4.jpg"
       }
     ],
-    "date_added": 1786768246056
+    "date_added": 1786780577543
   },
   {
     "adult": false,
@@ -17771,7 +17771,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5KPzT3U58y9Ef0PEu8gjiPAz0LS.jpg"
       }
     ],
-    "date_added": 1786768246271
+    "date_added": 1786780577559
   },
   {
     "adult": false,
@@ -18050,7 +18050,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
       }
     ],
-    "date_added": 1786768246369
+    "date_added": 1786780577667
   },
   {
     "adult": false,
@@ -18356,7 +18356,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
       }
     ],
-    "date_added": 1786768246893
+    "date_added": 1786780577925
   },
   {
     "adult": false,
@@ -18428,7 +18428,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
       }
     ],
-    "date_added": 1786768247095
+    "date_added": 1786780577941
   },
   {
     "adult": false,
@@ -19427,7 +19427,7 @@
     "title_en": "Pili",
     "overview_en": "Pili is a puppet show from Taiwan It is made by Pili International Multimedia The TV series started in 1985 and it still continues today It is one of the most popular TV shows in Taiwan Pili puppet show is performed by many kinds of puppets some of them are cool some are intelligent and some are funny Unlike traditional puppet shows Pili puppet show uses state of the art animation to help present its fighting art The delicate design of the appearance and characteristics of each puppet has made Pili puppet show a well known entertainment in Taiwan",
     "cast": [],
-    "date_added": 1786768250637
+    "date_added": 1786780582281
   },
   {
     "adult": false,
@@ -19863,814 +19863,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1lNDk1RfiGlGdgLEF5E35PpEc22.jpg"
       }
     ],
-    "date_added": 1786768251096
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 1431,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "CSI: Crime Scene Investigation",
-    "overview": "في إطار من الجريمة والغموض تدور الأحداث حول مجموعة من خبراء الطب الشرعى التابعين للشرطة في وﻻية لوس أنجلوس الأمريكية الذين يقومون بالتحقيق فى القضايا الغامضة",
-    "popularity": 141.3073,
-    "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
-    "first_air_date": "2000-10-06",
-    "softcore": false,
-    "name": "سي اس آي: التحقيق في مسرح الجريمة",
-    "vote_average": 7.6,
-    "vote_count": 1414,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2000-10-06",
-        "episode_count": 23,
-        "id": 3792,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/4476Frhzun0BilSwZFgiQ6Nkrb8.jpg",
-        "season_number": 1,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2001-09-27",
-        "episode_count": 23,
-        "id": 3793,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/vPNwbSgfIrTsKbRPElYQ5OdDSOv.jpg",
-        "season_number": 2,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2002-09-25",
-        "episode_count": 23,
-        "id": 3794,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/t7A6CvGB4zElX8DKv7srwFVQUBo.jpg",
-        "season_number": 3,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2003-09-24",
-        "episode_count": 23,
-        "id": 3795,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/b5ya3S8ErtamIWvNORnf1BFA3Dz.jpg",
-        "season_number": 4,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2004-09-23",
-        "episode_count": 25,
-        "id": 3796,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/d9zBALX3L8f347LKB64KWBL5Fwx.jpg",
-        "season_number": 5,
-        "vote_average": 7.5,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2005-09-22",
-        "episode_count": 24,
-        "id": 3797,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/tgVt1Rub8FmW0tlpBjWeUYMYsYw.jpg",
-        "season_number": 6,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2006-09-21",
-        "episode_count": 24,
-        "id": 3798,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/6IHQ6w0vaDOhXciwXYLlavnwB9d.jpg",
-        "season_number": 7,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-09-27",
-        "episode_count": 17,
-        "id": 3799,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/fRIDRonYf5twnnIhmGXIuEQHV6h.jpg",
-        "season_number": 8,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "وليام بيترسين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "Gary Dourdan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xsxjlW98I8ml4FCHV040b3XaBOi.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-10-09",
-        "episode_count": 24,
-        "id": 3800,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": "/zzh7ejjQ3t56IGmdMekrPO4PmHU.jpg",
-        "season_number": 9,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          },
-          {
-            "name": "Wallace Langham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-09-24",
-        "episode_count": 23,
-        "id": 3801,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/b18YZzXdiTtsMJP0OosYSwHV9Pc.jpg",
-        "season_number": 10,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "Laurence Fishburne",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          },
-          {
-            "name": "Wallace Langham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-09-23",
-        "episode_count": 22,
-        "id": 3802,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/o5aqgaVdaqx9MnwKvMBvBtYZd9c.jpg",
-        "season_number": 11,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "Laurence Fishburne",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-          },
-          {
-            "name": "Marg Helgenberger",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          },
-          {
-            "name": "Wallace Langham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-09-21",
-        "episode_count": 22,
-        "id": 3804,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": "/sgSRAvaCmEHPNFKddlzVtBHOavq.jpg",
-        "season_number": 12,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "Ted Danson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-09-26",
-        "episode_count": 22,
-        "id": 3805,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/8xg1EYYN7owHAzUubyMRY2O4V6U.jpg",
-        "season_number": 13,
-        "vote_average": 7.2,
-        "cast": [
-          {
-            "name": "Ted Danson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          },
-          {
-            "name": "Wallace Langham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-          },
-          {
-            "name": "Jon Wellner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-09-25",
-        "episode_count": 22,
-        "id": 3806,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": "/qNa0GND7eCX1UVRTpyv3Bvd1EZ9.jpg",
-        "season_number": 14,
-        "vote_average": 7.3,
-        "cast": [
-          {
-            "name": "Ted Danson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Paul Guilfoyle",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
-          },
-          {
-            "name": "Wallace Langham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-          },
-          {
-            "name": "Jon Wellner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2014-09-28",
-        "episode_count": 18,
-        "id": 62053,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/uQeaYhBz9jnMaDgM0sZXv5HTbTG.jpg",
-        "season_number": 15,
-        "vote_average": 7.2,
-        "cast": [
-          {
-            "name": "Ted Danson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
-          },
-          {
-            "name": "George Eads",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-          },
-          {
-            "name": "Jorja Fox",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-          },
-          {
-            "name": "Eric Szmanda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-          },
-          {
-            "name": "Robert David Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-          },
-          {
-            "name": "Wallace Langham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-          },
-          {
-            "name": "Jon Wellner",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg"
-          },
-          {
-            "name": "Elisabeth Harnois",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "سي اس آي التحقيق في مسرح الجريمة",
-    "title_en": "سي اس آي التحقيق في مسرح الجريمة",
-    "overview_en": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene collecting irrefutable evidence and finding the missing pieces that solve the mystery",
-    "cast": [
-      {
-        "name": "Ted Danson",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
-      },
-      {
-        "name": "George Eads",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
-      },
-      {
-        "name": "Jorja Fox",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-      },
-      {
-        "name": "Eric Szmanda",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
-      },
-      {
-        "name": "Robert David Hall",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
-      },
-      {
-        "name": "Wallace Langham",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
-      },
-      {
-        "name": "Jon Wellner",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg"
-      },
-      {
-        "name": "Elisabeth Harnois",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
-      }
-    ],
-    "date_added": 1786768251817
+    "date_added": 1786780582836
   },
   {
     "adult": false,
@@ -20686,13 +19879,13 @@
     "original_language": "ko",
     "original_name": "제발 조용히 좀 해!",
     "overview": "",
-    "popularity": 141.2807,
+    "popularity": 138.5027,
     "poster_path": "/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
     "first_air_date": "2025-09-02",
     "softcore": false,
     "name": "제발 조용히 좀 해!",
-    "vote_average": 7.6,
-    "vote_count": 15,
+    "vote_average": 7.688,
+    "vote_count": 16,
     "media_type": "tv",
     "seasons": [
       {
@@ -20743,7 +19936,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1786768251832
+    "date_added": 1786780583126
   },
   {
     "adult": false,
@@ -20759,7 +19952,7 @@
     "original_language": "en",
     "original_name": "The Late Show with Stephen Colbert",
     "overview": "",
-    "popularity": 141.1556,
+    "popularity": 136.1879,
     "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
     "first_air_date": "2015-09-08",
     "softcore": false,
@@ -20966,7 +20159,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg"
       }
     ],
-    "date_added": 1786768252475
+    "date_added": 1786780583663
   },
   {
     "adult": false,
@@ -20982,7 +20175,7 @@
     "original_language": "en",
     "original_name": "Shameless",
     "overview": "شيكاقو فرانك أب وحيد فخور بستة أطفال أذكياء مثقلين مستقلين والذين بدونه سيكونون أفضل حالاً ينفق المال القليل الذي يملكه في الحانات لكن الأطفال وجدوا طرقاً اخرى على الرغم من ذلك قد لا يكونوا مثل أي عائلة تعرفهم لكنهم لا يعتذرون عن كونهم بالضبط من هم",
-    "popularity": 136.6894,
+    "popularity": 134.4347,
     "poster_path": "/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
     "first_air_date": "2011-01-09",
     "softcore": false,
@@ -21609,7 +20802,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
       }
     ],
-    "date_added": 1786768252674
+    "date_added": 1786780584693
   },
   {
     "adult": false,
@@ -21624,13 +20817,13 @@
     "original_language": "en",
     "original_name": "Friends",
     "overview": "مغامرات مجموعة من الأصدقاء وهم يبحرون في مطبات العمل والحياة والحب في مانهاتن",
-    "popularity": 136.2783,
+    "popularity": 132.7883,
     "poster_path": "/lMqqaErxkHLpRoR2byygKhpvCLp.jpg",
     "first_air_date": "1994-09-22",
     "softcore": false,
     "name": "أصدقاء",
     "vote_average": 8.413,
-    "vote_count": 9287,
+    "vote_count": 9289,
     "media_type": "tv",
     "seasons": [
       {
@@ -22089,7 +21282,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
       }
     ],
-    "date_added": 1786768253348
+    "date_added": 1786780585128
   },
   {
     "adult": false,
@@ -22104,7 +21297,7 @@
     "original_language": "sr",
     "original_name": "Државни посао",
     "overview": "",
-    "popularity": 133.0063,
+    "popularity": 134.1233,
     "poster_path": "/sceVlRK5RvnU1qjNipyWDHQXB7x.jpg",
     "first_air_date": "2012-09-24",
     "softcore": false,
@@ -22512,7 +21705,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
       }
     ],
-    "date_added": 1786768253912
+    "date_added": 1786780585867
   },
   {
     "adult": false,
@@ -22528,7 +21721,7 @@
     "original_language": "en",
     "original_name": "Late Night with Seth Meyers",
     "overview": "",
-    "popularity": 132.4788,
+    "popularity": 129.8827,
     "poster_path": "/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
     "first_air_date": "2014-02-25",
     "softcore": false,
@@ -22786,7 +21979,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1786768255301
+    "date_added": 1786780586655
   },
   {
     "adult": false,
@@ -22803,13 +21996,13 @@
     "original_language": "en",
     "original_name": "The Walking Dead",
     "overview": "يستيقظ ضابط الشرطة ريك من الغيبوبة التي كان بها لعدة أشهر نتيجة ﻹصابته بطلق ناري أثناء عمله ليجد أن العالم قد أجتيج من قبل الموتى الأحياء وهو الناجي الوحيد يعود ريك الى منزله فيجد أن زوجته وابنه مفقودان فيتوجه للبحث عنه ليجد نفسه امام جيش من الموتى الأحياء وتتصاعد الأحداث",
-    "popularity": 132.4324,
+    "popularity": 125.3531,
     "poster_path": "/u5jkdUFMGI2CG4kz1wjbA6Wiilr.jpg",
     "first_air_date": "2010-10-31",
     "softcore": false,
     "name": "الموتى السائرون",
     "vote_average": 8.083,
-    "vote_count": 18077,
+    "vote_count": 18080,
     "media_type": "tv",
     "seasons": [
       {
@@ -23430,7 +22623,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
       }
     ],
-    "date_added": 1786768256110
+    "date_added": 1786780587141
   },
   {
     "adult": false,
@@ -23445,7 +22638,7 @@
     "original_language": "ja",
     "original_name": "森のくまさん、冬眠中。",
     "overview": "",
-    "popularity": 131.9341,
+    "popularity": 149.4135,
     "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
     "first_air_date": "2022-07-04",
     "softcore": false,
@@ -23512,7 +22705,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
       }
     ],
-    "date_added": 1786768256195
+    "date_added": 1786780587227
   },
   {
     "adult": false,
@@ -23527,7 +22720,7 @@
     "original_language": "en",
     "original_name": "The Tonight Show Starring Johnny Carson",
     "overview": "",
-    "popularity": 130.7957,
+    "popularity": 123.4116,
     "poster_path": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
     "first_air_date": "1962-10-01",
     "softcore": false,
@@ -24074,7 +23267,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg"
       }
     ],
-    "date_added": 1786768257164
+    "date_added": 1786780589545
   },
   {
     "adult": false,
@@ -24090,7 +23283,7 @@
     "original_language": "ca",
     "original_name": "Com si fos ahir",
     "overview": "",
-    "popularity": 129.7331,
+    "popularity": 106.2245,
     "poster_path": "/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
     "first_air_date": "2017-09-11",
     "softcore": false,
@@ -24501,7 +23694,7 @@
     "title_en": "Com si fos ahir",
     "overview_en": "A group of high school friends meet again after 25 years to attend the funeral of a mutual friend and from that point on they try to recover their friendship",
     "cast": [],
-    "date_added": 1786768257423
+    "date_added": 1786780590283
   },
   {
     "adult": false,
@@ -24518,13 +23711,13 @@
     "original_language": "en",
     "original_name": "Dexter",
     "overview": "يعيش دكستر مورغان حياة مزدوجة في مدينة ميامي حيث يعمل خبيرًا في تحليل أنماط الدم لدى الشرطة بينما يخفي عن الجميع جانبًا مظلمًا من شخصيته يستغل دكستر مهاراته وخبرته في التحقيق لتعقب القتلة والمجرمين الذين تمكنوا من الإفلات من العدالة ثم يأخذ القانون بيده وفق قواعد صارمة وضعها له والده بالتبني ومع استمراره في إخفاء جرائمه عن زملائه وأسرته يجد دكستر نفسه أمام قتلة متسلسلين وأعداء يقتربون من كشف حقيقته مما يهدد حياته السرية ويضعه في مواجهات خطيرة تختبر قدرته على السيطرة على جانبه المظلم",
-    "popularity": 128.1368,
+    "popularity": 122.8711,
     "poster_path": "/ivs37ueaO7jac4NXkfBRT9u3Say.jpg",
     "first_air_date": "2006-10-01",
     "softcore": false,
     "name": "دكستر",
     "vote_average": 8.243,
-    "vote_count": 5747,
+    "vote_count": 5748,
     "media_type": "tv",
     "seasons": [
       {
@@ -24964,7 +24157,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
       }
     ],
-    "date_added": 1786768257842
+    "date_added": 1786780590733
   },
   {
     "adult": false,
@@ -24981,7 +24174,7 @@
     "original_language": "en",
     "original_name": "Midsomer Murders",
     "overview": "",
-    "popularity": 126.4598,
+    "popularity": 119.9184,
     "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
     "first_air_date": "1997-03-23",
     "softcore": false,
@@ -25866,7 +25059,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
       }
     ],
-    "date_added": 1786768259471
+    "date_added": 1786780592560
   },
   {
     "adult": false,
@@ -25883,13 +25076,13 @@
     "original_language": "ja",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "overview": "عندما تدهس شاحنة شابًا يبلغ من العمر 34 سنة لا تنتهي قصته هناك بل يعاد بعثه في عالم جديد كرضيع ينتهز رودي كلّ فرصة ليعيش الحياة التي لطالما أرادها مدعومًا بأصدقاء جُدد وبعض القدرات السحرية المكتسبة حديثًا والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا ينطلق في مغامرة ملحمية مع تذكره لكل تجربته السابقة",
-    "popularity": 125.8095,
+    "popularity": 119.8859,
     "poster_path": "/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
     "first_air_date": "2021-01-11",
     "softcore": false,
     "name": "موشوكو تينسي",
-    "vote_average": 8.45,
-    "vote_count": 1656,
+    "vote_average": 8.452,
+    "vote_count": 1658,
     "media_type": "tv",
     "seasons": [
       {
@@ -26004,7 +25197,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1786768259533
+    "date_added": 1786780592603
   },
   {
     "adult": false,
@@ -26021,7 +25214,7 @@
     "original_language": "en",
     "original_name": "Vikings",
     "overview": "راغنار لوثبروك محارب وفلاح من الفايكنغ يحلم باكتشاف أراضٍ جديدة خلف البحار فيتحدى تقاليد قومه ويقود رحلات جريئة نحو الغرب بحثًا عن الثروات والمجد وبفضل طموحه وشجاعته يصعد راغنار من محارب مغمور إلى قائد قوي وملك يفرض نفوذه بين الفايكنغ بينما يخوض حروبًا دامية ضد ممالك إنجلترا وفرنسا ومع اتساع نفوذه تتعقد علاقاته بعائلته وحلفائه وخصومه وتصبح رحلة أبنائه من بعده جزءًا من صراع طويل على السلطة والانتقام والمجد",
-    "popularity": 124.8739,
+    "popularity": 117.7443,
     "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
     "first_air_date": "2013-03-03",
     "softcore": false,
@@ -26368,7 +25561,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/agVuijZjWfDX5klBNmBM1PS9CU0.jpg"
       }
     ],
-    "date_added": 1786768259764
+    "date_added": 1786780593177
   },
   {
     "adult": false,
@@ -26384,13 +25577,13 @@
     "original_language": "en",
     "original_name": "The Boys",
     "overview": "يعيش هيوي كامبل حياة هادئة إلى أن يفقد الشخص الذي يحبه في حادث مأساوي يتسبب فيه أحد الأبطال الخارقين فيكتشف أن أصحاب القدرات الخارقة ليسوا أبطالًا مثاليين كما يعتقد الناس يلتقي هيوي ببيلي بوتشر الذي يقوده إلى مجموعة سرية تُعرف باسم الرفاق مهمتها كشف فساد الأبطال الخارقين ومحاسبتهم وفي الجهة الأخرى يواجه هوملاندر ضغوطًا متزايدة للحفاظ على صورته المثالية أمام الجمهور ومع تصاعد المواجهة بين الطرفين تنكشف أسرار خطيرة تهدد بتغيير عالم الأبطال الخارقين بالكامل",
-    "popularity": 124.1691,
+    "popularity": 122.5181,
     "poster_path": "/l1S7IHu5S4VyYpP0Z4lh6MLfK6g.jpg",
     "first_air_date": "2019-07-25",
     "softcore": false,
     "name": "الرفاق",
-    "vote_average": 8.439,
-    "vote_count": 13271,
+    "vote_average": 8.438,
+    "vote_count": 13273,
     "media_type": "tv",
     "seasons": [
       {
@@ -26699,7 +25892,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg"
       }
     ],
-    "date_added": 1786768260191
+    "date_added": 1786780593645
   },
   {
     "adult": false,
@@ -26714,7 +25907,7 @@
     "original_language": "pt",
     "original_name": "Altas Horas",
     "overview": "",
-    "popularity": 123.1529,
+    "popularity": 121.7536,
     "poster_path": "/jvmHmuRCOo1ZqPAxKgA54C1XD5e.jpg",
     "first_air_date": "2000-10-14",
     "softcore": false,
@@ -27193,7 +26386,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8rQL1zsvNUmcHGxaPPPPXy1D05o.jpg"
       }
     ],
-    "date_added": 1786768261041
+    "date_added": 1786780595153
   },
   {
     "adult": false,
@@ -27209,7 +26402,7 @@
     "original_language": "en",
     "original_name": "Isidingo",
     "overview": "",
-    "popularity": 123.0493,
+    "popularity": 101.0165,
     "poster_path": "/hxJdczj4roJ9OtqSJcuAkD2TK6y.jpg",
     "first_air_date": "1998-07-07",
     "softcore": false,
@@ -27547,7 +26740,7 @@
     "title_en": "Isidingo",
     "overview_en": "South African soap opera centering around the lives of the wealthy Haines family the Matabanes and the lives of the inhabitants of the mining town Horizon Deep",
     "cast": [],
-    "date_added": 1786768261719
+    "date_added": 1786780596399
   },
   {
     "adult": false,
@@ -27563,7 +26756,7 @@
     "original_language": "fi",
     "original_name": "Salatut elämät",
     "overview": "",
-    "popularity": 122.7376,
+    "popularity": 115.8334,
     "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
     "first_air_date": "1999-01-25",
     "softcore": false,
@@ -28502,7 +27695,7 @@
     "title_en": "Secret Lives",
     "overview_en": "Salatut elämät Secret Lives is a Finnish television soap opera that premiered on MTV3 on 25 January 1999 The series storylines follow the daily lives of several families who live in the same apartment block in Helsinki",
     "cast": [],
-    "date_added": 1786768262097
+    "date_added": 1786780596819
   },
   {
     "adult": false,
@@ -28519,13 +27712,13 @@
     "original_language": "en",
     "original_name": "Stranger Things",
     "overview": "يختفي ويل بايرز فجأة في بلدة هوكينز فتبدأ والدته وأصدقاؤه المقربون البحث عنه لكن محاولاتهم تقودهم إلى أسرار غامضة تتجاوز ما يمكن تفسيره يظهر في الوقت نفسه فتاة غامضة تُدعى إليفن تمتلك قدرات خارقة وتعرف شيئًا عن اختفاء ويل لتكشف لهم وجود عالم مظلم وخطير يُعرف باسم العالم المقلوب ومع ازدياد التهديد يتعاون الأطفال مع عائلاتهم والشرطة لمواجهة مخلوقات غريبة وقوى خارقة تهدد حياتهم وبلدتهم بينما يحاولون كشف الحقيقة وراء التجارب السرية التي فتحت الطريق إلى ذلك العالم",
-    "popularity": 122.2436,
+    "popularity": 121.3827,
     "poster_path": "/ptZf94OK4MBphCy0KBvkxyXKqNL.jpg",
     "first_air_date": "2016-07-15",
     "softcore": false,
     "name": "Stranger Things",
     "vote_average": 8.555,
-    "vote_count": 21641,
+    "vote_count": 21644,
     "media_type": "tv",
     "seasons": [
       {
@@ -28834,7 +28027,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
       }
     ],
-    "date_added": 1786768262388
+    "date_added": 1786780597134
   },
   {
     "adult": false,
@@ -28850,7 +28043,7 @@
     "original_language": "en",
     "original_name": "American Dad!",
     "overview": "يتناول المسلسل قصة أسرة من الطبقة المتوسطة مكونة من الأب ستان سميث والذي يعمل كوكيل وكالة المخابرات المركزية وزوجته ربة المنزل فرانسين وابنتهما المراهقة التي تدرس بالجامعة هايلي وابنهما في سن المدرسة الثانوية ستيف وما يتعرضون له في حياتهم اليومية",
-    "popularity": 121.7438,
+    "popularity": 113.9256,
     "poster_path": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
     "first_air_date": "2005-02-06",
     "softcore": false,
@@ -29719,6 +28912,332 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       }
     ],
-    "date_added": 1786768263963
+    "date_added": 1786780598600
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/390GKeZ6GLJNEbazLq7SFIYLvxW.jpg",
+    "genre_ids": [
+      10767
+    ],
+    "id": 6836,
+    "origin_country": [
+      "TW"
+    ],
+    "original_language": "zh",
+    "original_name": "康熙來了",
+    "overview": "",
+    "popularity": 113.7365,
+    "poster_path": "/bVWEPDZHRSdd7voVled6CLLq1zB.jpg",
+    "first_air_date": "2004-01-05",
+    "softcore": false,
+    "name": "康熙來了",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2004-01-05",
+        "episode_count": 256,
+        "id": 192630,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/ehirWsniby6o3RvbH377qDAFd4F.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2005-01-03",
+        "episode_count": 246,
+        "id": 209217,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/pQJelMEyoyi6Wsvvi7TUEXZ21ji.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2006-01-02",
+        "episode_count": 262,
+        "id": 209218,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/zU8Yji3adx3vao8joHZWaXp7QMm.jpg",
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-01-01",
+        "episode_count": 263,
+        "id": 209219,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/2G4YSAKOgEysDNHrpJNR6omd6XR.jpg",
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2008-01-01",
+        "episode_count": 262,
+        "id": 209220,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/mfs58AFk6T1okvJjOjp7KW6Y3hI.jpg",
+        "season_number": 5,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2009-01-01",
+        "episode_count": 262,
+        "id": 209221,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/wPMI09hQHNYLz1BNhzhWqjW8nD0.jpg",
+        "season_number": 6,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-01-01",
+        "episode_count": 262,
+        "id": 209222,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/dXi7Pc7UAQAEbovbFZPGVu6xXaz.jpg",
+        "season_number": 7,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2011-01-03",
+        "episode_count": 260,
+        "id": 209223,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/ckZuZkc1zdnuU3S5zwHwDD5RljZ.jpg",
+        "season_number": 8,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2012-01-02",
+        "episode_count": 261,
+        "id": 209224,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": "/eHTQbIgmB9nleyMXZhZfmSuAzd4.jpg",
+        "season_number": 9,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2013-01-01",
+        "episode_count": 259,
+        "id": 209225,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": "/oHOjxhA6hFV1XpVY644zVxhhV1.jpg",
+        "season_number": 10,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2014-01-01",
+        "episode_count": 258,
+        "id": 209226,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": "/cvTLdfo3tQINNyGCaTz9GH9993W.jpg",
+        "season_number": 11,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-01-01",
+        "episode_count": 253,
+        "id": 209227,
+        "name": "الموسم 12",
+        "overview": "",
+        "poster_path": "/aboXLAY0G74GlKq985H8jIBaQ7r.jpg",
+        "season_number": 12,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-01-04",
+        "episode_count": 8,
+        "id": 209228,
+        "name": "الموسم 13",
+        "overview": "",
+        "poster_path": "/sCYgfCwV2vdc99XCLbuLmklMvoh.jpg",
+        "season_number": 13,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "蔡康永",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bC9TA3FVzbovw9gpZa9eD7dn1pB.jpg"
+          },
+          {
+            "name": "Dee Hsu",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z0BtvLRNbcAtdRQR2a3KB4UPPBS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-01-25",
+        "episode_count": 164,
+        "id": 340063,
+        "name": "الموسم 14",
+        "overview": "",
+        "poster_path": "/oUBGcJOJT1qEhmAew5xDNvYglzG.jpg",
+        "season_number": 14,
+        "vote_average": 0,
+        "cast": []
+      }
+    ],
+    "title": "康熙來了",
+    "title_en": "Kangxi Coming",
+    "overview_en": "Kang Xi Lai Le is a Taiwanese variety comedy talk show hosted by variety show veterans Dee Hsu and Kevin Tsai It was produced by Chungta Production from 2004 to 2009 and currently produced by Gold Star Production along with the writing and production staff of GUESS It was first broadcast on 5 January 2004 and currently airs Monday to Friday at 22 00 23 00 on cable TV CTi Variety In most episodes the hosts interview a panel of celebrities in various and controversial topics while employing their signature comedic bantering It is broadcast in Hong Kong on ATV Home under the name of Variety Show of Mr Con and Ms Csi Although it is broadcast in Taiwan the show is very successful and popular among Chinese speaking audiences across the world who watch uploaded re runs over the internet or through bootleg DVDs The show has been mentioned in other Taiwanese variety and talk shows mainly from presenters who appeared on the show",
+    "cast": [],
+    "date_added": 1786780600058
   }
 ]
