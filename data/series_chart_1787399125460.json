@@ -18,8 +18,8 @@
     "first_air_date": "2022-02-03",
     "softcore": false,
     "name": "جاك ريتشر",
-    "vote_average": 8.086,
-    "vote_count": 3104,
+    "vote_average": 8.088,
+    "vote_count": 3107,
     "media_type": "tv",
     "seasons": [
       {
@@ -231,7 +231,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1787387332337
+    "date_added": 1787399198817
   },
   {
     "adult": false,
@@ -557,7 +557,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
       }
     ],
-    "date_added": 1787387332642
+    "date_added": 1787399199515
   },
   {
     "adult": false,
@@ -1411,7 +1411,7 @@
     "title_en": "Tagesschau",
     "overview_en": "German daily news program the oldest still existing program on German television",
     "cast": [],
-    "date_added": 1787387337443
+    "date_added": 1787399206761
   },
   {
     "adult": false,
@@ -1432,8 +1432,8 @@
     "first_air_date": "2023-07-23",
     "softcore": false,
     "name": "ليونيس",
-    "vote_average": 8.075,
-    "vote_count": 1385,
+    "vote_average": 8.078,
+    "vote_count": 1387,
     "media_type": "tv",
     "seasons": [
       {
@@ -1548,7 +1548,7 @@
         "overview": "",
         "poster_path": "/aNeXjZkHrnG5XdoSsnqKTH2SK72.jpg",
         "season_number": 3,
-        "vote_average": 7.9,
+        "vote_average": 7.6,
         "cast": [
           {
             "name": "زوي سالدانا",
@@ -1638,7 +1638,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1787387337470
+    "date_added": 1787399206791
   },
   {
     "adult": false,
@@ -2065,7 +2065,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "Danish version of the reality series Paradise Hotel",
     "cast": [],
-    "date_added": 1787387338507
+    "date_added": 1787399208969
   },
   {
     "adult": false,
@@ -2999,7 +2999,101 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
       }
     ],
-    "date_added": 1787387339547
+    "date_added": 1787399211467
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 95350,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lanterns",
+    "overview": "شرطيان من شرطة الفضاء المجند الجديد جون ستيوارت والأسطورة هال جوردان من فيلق الفوانيس يجدان نفسيهما متورطين في لغز غامض على الأرض أثناء تحقيقهما في جريمة قتل وقعت في قلب الولايات المتحدة",
+    "popularity": 281.2723,
+    "poster_path": "/mmCFAAwU7VcLyGCbMpMWJOFA3PK.jpg",
+    "first_air_date": "2026-08-16",
+    "softcore": false,
+    "name": "الفوانيس",
+    "vote_average": 8.1,
+    "vote_count": 130,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-08-16",
+        "episode_count": 8,
+        "id": 165308,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/qbTO96IcUmkyJLmNbFeFdHlt7f6.jpg",
+        "season_number": 1,
+        "vote_average": 3.9,
+        "cast": [
+          {
+            "name": "كايل تشاندلر",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+          },
+          {
+            "name": "آرون بيير",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+          },
+          {
+            "name": "كيلي ماكدونالد",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+          },
+          {
+            "name": "غاريت ديلاهونت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+          },
+          {
+            "name": "بورنا جاجاناثان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "الفوانيس",
+    "title_en": "الفوانيس",
+    "overview_en": "Two intergalactic cops new recruit John Stewart and Lantern legend Hal Jordan are drawn into a dark Earth based mystery as they investigate a murder in the American heartland",
+    "cast": [
+      {
+        "name": "كايل تشاندلر",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+      },
+      {
+        "name": "آرون بيير",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+      },
+      {
+        "name": "كيلي ماكدونالد",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+      },
+      {
+        "name": "غاريت ديلاهونت",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+      },
+      {
+        "name": "بورنا جاجاناثان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg"
+      }
+    ],
+    "date_added": 1787399211487
   },
   {
     "adult": false,
@@ -4182,101 +4276,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mF5BMaACeb1rlqp9Fz0f5z7N69H.jpg"
       }
     ],
-    "date_added": 1787387341563
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      10765
-    ],
-    "id": 95350,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lanterns",
-    "overview": "شرطيان من شرطة الفضاء المجند الجديد جون ستيوارت والأسطورة هال جوردان من فيلق الفوانيس يجدان نفسيهما متورطين في لغز غامض على الأرض أثناء تحقيقهما في جريمة قتل وقعت في قلب الولايات المتحدة",
-    "popularity": 281.2723,
-    "poster_path": "/mmCFAAwU7VcLyGCbMpMWJOFA3PK.jpg",
-    "first_air_date": "2026-08-16",
-    "softcore": false,
-    "name": "الفوانيس",
-    "vote_average": 8.1,
-    "vote_count": 130,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-08-16",
-        "episode_count": 8,
-        "id": 165308,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/qbTO96IcUmkyJLmNbFeFdHlt7f6.jpg",
-        "season_number": 1,
-        "vote_average": 3.9,
-        "cast": [
-          {
-            "name": "كايل تشاندلر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
-          },
-          {
-            "name": "آرون بيير",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
-          },
-          {
-            "name": "كيلي ماكدونالد",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
-          },
-          {
-            "name": "غاريت ديلاهونت",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
-          },
-          {
-            "name": "بورنا جاجاناثان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "الفوانيس",
-    "title_en": "الفوانيس",
-    "overview_en": "Two intergalactic cops new recruit John Stewart and Lantern legend Hal Jordan are drawn into a dark Earth based mystery as they investigate a murder in the American heartland",
-    "cast": [
-      {
-        "name": "كايل تشاندلر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
-      },
-      {
-        "name": "آرون بيير",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
-      },
-      {
-        "name": "كيلي ماكدونالد",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
-      },
-      {
-        "name": "غاريت ديلاهونت",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
-      },
-      {
-        "name": "بورنا جاجاناثان",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg"
-      }
-    ],
-    "date_added": 1787387341572
+    "date_added": 1787399214511
   },
   {
     "adult": false,
@@ -4297,7 +4297,7 @@
     "softcore": false,
     "name": "تشريح غراي",
     "vote_average": 8.206,
-    "vote_count": 11018,
+    "vote_count": 11019,
     "media_type": "tv",
     "seasons": [
       {
@@ -5492,230 +5492,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
       }
     ],
-    "date_added": 1787387342616
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      10759
-    ],
-    "id": 94997,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "House of the Dragon",
-    "overview": "تدور الأحداث قبل 200 عام من أحداث مسلسل صراع العروش حيث سيركز على تفاصيل عائلة آل تارغيريان ولمحات هامة في تاريخ العائلة التي حكمت ويستروس منذ زمن بعيد وصولًا إلى رقصة التنانين والصراعات الداخلية في العائلة التي دمرت كل شيء وهددت بانقراض التنانين للأبد",
-    "popularity": 251.8484,
-    "poster_path": "/3cV7NLkN8WY5LECzLxI73PXE5Oq.jpg",
-    "first_air_date": "2022-08-21",
-    "softcore": false,
-    "name": "آل التنين",
-    "vote_average": 8.386,
-    "vote_count": 7011,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2022-08-21",
-        "episode_count": 10,
-        "id": 134965,
-        "name": "الموسم 1",
-        "overview": "الأحداث تبدأ عندما يجلس فيسيريس تارغيريان على العرش الحديدي، وزوجته تنتظر ولادة طفل. يكون هذا الطفل ذكرًا متوقعًا منذ فترة طويلة. كما هو الحال في هذا العالم، لا يُرضي وصول وريث جديد العديد من الأشخاص، بما في ذلك شقيق فيسيريس، دايمون، ولورد كورليس فيلاريون، الذي لا يزال يعاني من عدم اختيار زوجته كملكة. هناك أيضًا رينيرا تارغارين، ابنة فيسيريس، التي تعتقد أن الوقت قد حان للتغيير، وأنها يجب أن تجلس على العرش كأول ملكة في التاريخ. يقدم الموسم الأول لنا نظرة رائعة إلى عالم يحدث قبل 200 عام من مغامرات نيد ستارك وعائلته.",
-        "poster_path": "/lx6hsqWXq4aVrXPjCqnMHFrGL5u.jpg",
-        "season_number": 1,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "مات سميث",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-          },
-          {
-            "name": "بادي كونسيدين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
-          },
-          {
-            "name": "ستيف توسان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-          },
-          {
-            "name": "Fabien Frankel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
-          },
-          {
-            "name": "سونيا ميزونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-          },
-          {
-            "name": "ريس ايفانز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
-          },
-          {
-            "name": "Eve Best",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oE0JEJS9un0FLpe3u5FxL1nvxLJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-06-16",
-        "episode_count": 8,
-        "id": 368014,
-        "name": "الموسم 2",
-        "overview": "تسبب تنين إيموند  في قتل لوك وتنينه. والدته رينيرا، تغضب من الحزن، ويجب أن تتخذ إجراءات لعدم فقدان السيطرة على السلطة في ويستروس بشكل نهائي. بعد وفاة الملك فيسيريس الأول، يدعي اثنان من الأطراف للعرش الحديدي: \"السود\" حول رينيرا وعمه ديمون يستندون إلى أن فيسيريس كان يرغب منذ فترة طويلة في جعل ابنته رينيرا وريثة للعرش. \"الخضر\" حول ابن فيسيريس أيغون الثاني وأمه أليسنت يرون أنهما مبرران من خلال كلماته الأخيرة على فراش الموت. سواء كان الأمر يتعلق بالسود أو الخضر، الملكة رينيرا أو الملك أيغون الثاني - يجب على بقية الأسر النبيلة أن تختار جانبًا من أسرة تارغارين. تواجه مدينة ويستروس حربًا أهلية.",
-        "poster_path": "/lZwxqNWnT1dRl76ry6BM0FPqCUg.jpg",
-        "season_number": 2,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "مات سميث",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-          },
-          {
-            "name": "إمَ دارْسي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
-          },
-          {
-            "name": "أوليفيا كوك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
-          },
-          {
-            "name": "ستيف توسان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-          },
-          {
-            "name": "Matthew Needham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
-          },
-          {
-            "name": "سونيا ميزونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-          },
-          {
-            "name": "توم غلين كارني",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
-          },
-          {
-            "name": "إيوان ميتشل",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-06-21",
-        "episode_count": 8,
-        "id": 449260,
-        "name": "الموسم 3",
-        "overview": "تخوض الفصائل السوداء والخضراء صراعًا شاملًا لا هوادة فيه على العرش الحديدي. وبينما تتصادم التنانين والجيوش في أرجاء المملكة، تشهد ويستروس العواقب المدمرة للحرب الشاملة.",
-        "poster_path": "/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg",
-        "season_number": 3,
-        "vote_average": 6.6,
-        "cast": [
-          {
-            "name": "مات سميث",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-          },
-          {
-            "name": "إمَ دارْسي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
-          },
-          {
-            "name": "أوليفيا كوك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
-          },
-          {
-            "name": "جيمس نورتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
-          },
-          {
-            "name": "ستيف توسان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-          },
-          {
-            "name": "Fabien Frankel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
-          },
-          {
-            "name": "Matthew Needham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
-          },
-          {
-            "name": "سونيا ميزونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "آل التنين",
-    "title_en": "آل التنين",
-    "overview_en": "The Targaryen dynasty is at the absolute apex of its power with more than 15 dragons under their yoke Most empires crumble from such heights In the case of the Targaryens their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne But when Viserys later fathers a son the court is shocked when Rhaenyra retains her status as his heir and seeds of division sow friction across the realm",
-    "cast": [
-      {
-        "name": "مات سميث",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-      },
-      {
-        "name": "إمَ دارْسي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
-      },
-      {
-        "name": "أوليفيا كوك",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
-      },
-      {
-        "name": "جيمس نورتون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
-      },
-      {
-        "name": "ستيف توسان",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-      },
-      {
-        "name": "Fabien Frankel",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
-      },
-      {
-        "name": "Matthew Needham",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
-      },
-      {
-        "name": "سونيا ميزونو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-      }
-    ],
-    "date_added": 1787387342643
+    "date_added": 1787399216899
   },
   {
     "adult": false,
@@ -6225,7 +6002,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg"
       }
     ],
-    "date_added": 1787387343280
+    "date_added": 1787399217837
   },
   {
     "adult": false,
@@ -6605,7 +6382,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "A group of hot singles check into a luxury hotel in Mexico Prepare for love partying betrayal and tears Half a million kronor is at stake and anything can happen in paradise",
     "cast": [],
-    "date_added": 1787387344270
+    "date_added": 1787399219853
   },
   {
     "adult": false,
@@ -7372,7 +7149,230 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u0OMYtsv7MapoXDqbafgGH1raRv.jpg"
       }
     ],
-    "date_added": 1787387345962
+    "date_added": 1787399222211
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 94997,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "House of the Dragon",
+    "overview": "تدور الأحداث قبل 200 عام من أحداث مسلسل صراع العروش حيث سيركز على تفاصيل عائلة آل تارغيريان ولمحات هامة في تاريخ العائلة التي حكمت ويستروس منذ زمن بعيد وصولًا إلى رقصة التنانين والصراعات الداخلية في العائلة التي دمرت كل شيء وهددت بانقراض التنانين للأبد",
+    "popularity": 251.8484,
+    "poster_path": "/3cV7NLkN8WY5LECzLxI73PXE5Oq.jpg",
+    "first_air_date": "2022-08-21",
+    "softcore": false,
+    "name": "آل التنين",
+    "vote_average": 8.386,
+    "vote_count": 7013,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2022-08-21",
+        "episode_count": 10,
+        "id": 134965,
+        "name": "الموسم 1",
+        "overview": "الأحداث تبدأ عندما يجلس فيسيريس تارغيريان على العرش الحديدي، وزوجته تنتظر ولادة طفل. يكون هذا الطفل ذكرًا متوقعًا منذ فترة طويلة. كما هو الحال في هذا العالم، لا يُرضي وصول وريث جديد العديد من الأشخاص، بما في ذلك شقيق فيسيريس، دايمون، ولورد كورليس فيلاريون، الذي لا يزال يعاني من عدم اختيار زوجته كملكة. هناك أيضًا رينيرا تارغارين، ابنة فيسيريس، التي تعتقد أن الوقت قد حان للتغيير، وأنها يجب أن تجلس على العرش كأول ملكة في التاريخ. يقدم الموسم الأول لنا نظرة رائعة إلى عالم يحدث قبل 200 عام من مغامرات نيد ستارك وعائلته.",
+        "poster_path": "/lx6hsqWXq4aVrXPjCqnMHFrGL5u.jpg",
+        "season_number": 1,
+        "vote_average": 7.4,
+        "cast": [
+          {
+            "name": "مات سميث",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+          },
+          {
+            "name": "بادي كونسيدين",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
+          },
+          {
+            "name": "ستيف توسان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+          },
+          {
+            "name": "Fabien Frankel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
+          },
+          {
+            "name": "سونيا ميزونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+          },
+          {
+            "name": "ريس ايفانز",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+          },
+          {
+            "name": "Eve Best",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oE0JEJS9un0FLpe3u5FxL1nvxLJ.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-06-16",
+        "episode_count": 8,
+        "id": 368014,
+        "name": "الموسم 2",
+        "overview": "تسبب تنين إيموند  في قتل لوك وتنينه. والدته رينيرا، تغضب من الحزن، ويجب أن تتخذ إجراءات لعدم فقدان السيطرة على السلطة في ويستروس بشكل نهائي. بعد وفاة الملك فيسيريس الأول، يدعي اثنان من الأطراف للعرش الحديدي: \"السود\" حول رينيرا وعمه ديمون يستندون إلى أن فيسيريس كان يرغب منذ فترة طويلة في جعل ابنته رينيرا وريثة للعرش. \"الخضر\" حول ابن فيسيريس أيغون الثاني وأمه أليسنت يرون أنهما مبرران من خلال كلماته الأخيرة على فراش الموت. سواء كان الأمر يتعلق بالسود أو الخضر، الملكة رينيرا أو الملك أيغون الثاني - يجب على بقية الأسر النبيلة أن تختار جانبًا من أسرة تارغارين. تواجه مدينة ويستروس حربًا أهلية.",
+        "poster_path": "/lZwxqNWnT1dRl76ry6BM0FPqCUg.jpg",
+        "season_number": 2,
+        "vote_average": 6.9,
+        "cast": [
+          {
+            "name": "مات سميث",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+          },
+          {
+            "name": "إمَ دارْسي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+          },
+          {
+            "name": "أوليفيا كوك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+          },
+          {
+            "name": "ستيف توسان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+          },
+          {
+            "name": "Matthew Needham",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+          },
+          {
+            "name": "سونيا ميزونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+          },
+          {
+            "name": "توم غلين كارني",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+          },
+          {
+            "name": "إيوان ميتشل",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-06-21",
+        "episode_count": 8,
+        "id": 449260,
+        "name": "الموسم 3",
+        "overview": "تخوض الفصائل السوداء والخضراء صراعًا شاملًا لا هوادة فيه على العرش الحديدي. وبينما تتصادم التنانين والجيوش في أرجاء المملكة، تشهد ويستروس العواقب المدمرة للحرب الشاملة.",
+        "poster_path": "/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg",
+        "season_number": 3,
+        "vote_average": 6.6,
+        "cast": [
+          {
+            "name": "مات سميث",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+          },
+          {
+            "name": "إمَ دارْسي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+          },
+          {
+            "name": "أوليفيا كوك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+          },
+          {
+            "name": "جيمس نورتون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
+          },
+          {
+            "name": "ستيف توسان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+          },
+          {
+            "name": "Fabien Frankel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
+          },
+          {
+            "name": "Matthew Needham",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+          },
+          {
+            "name": "سونيا ميزونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "آل التنين",
+    "title_en": "آل التنين",
+    "overview_en": "The Targaryen dynasty is at the absolute apex of its power with more than 15 dragons under their yoke Most empires crumble from such heights In the case of the Targaryens their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne But when Viserys later fathers a son the court is shocked when Rhaenyra retains her status as his heir and seeds of division sow friction across the realm",
+    "cast": [
+      {
+        "name": "مات سميث",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+      },
+      {
+        "name": "إمَ دارْسي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+      },
+      {
+        "name": "أوليفيا كوك",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+      },
+      {
+        "name": "جيمس نورتون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
+      },
+      {
+        "name": "ستيف توسان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+      },
+      {
+        "name": "Fabien Frankel",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
+      },
+      {
+        "name": "Matthew Needham",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+      },
+      {
+        "name": "سونيا ميزونو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+      }
+    ],
+    "date_added": 1787399222343
   },
   {
     "adult": false,
@@ -9029,7 +9029,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1787387346382
+    "date_added": 1787399223301
   },
   {
     "adult": false,
@@ -9152,7 +9152,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787387346444
+    "date_added": 1787399223482
   },
   {
     "adult": false,
@@ -9479,7 +9479,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1787387346958
+    "date_added": 1787399224898
   },
   {
     "adult": false,
@@ -9500,8 +9500,8 @@
     "first_air_date": "2023-05-04",
     "softcore": false,
     "name": "Silo",
-    "vote_average": 8.19,
-    "vote_count": 2473,
+    "vote_average": 8.191,
+    "vote_count": 2474,
     "media_type": "tv",
     "seasons": [
       {
@@ -9733,7 +9733,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1787387346982
+    "date_added": 1787399224997
   },
   {
     "adult": false,
@@ -10059,7 +10059,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
       }
     ],
-    "date_added": 1787387347078
+    "date_added": 1787399225332
   },
   {
     "adult": false,
@@ -10866,7 +10866,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
       }
     ],
-    "date_added": 1787387347614
+    "date_added": 1787399227184
   },
   {
     "adult": false,
@@ -11038,7 +11038,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/avAbkkbbYKDRumklH1kV4fWSzkz.jpg"
       }
     ],
-    "date_added": 1787387348163
+    "date_added": 1787399227932
   },
   {
     "adult": false,
@@ -12186,7 +12186,7 @@
     "title_en": "إن سي آي أس",
     "overview_en": "From murder and espionage to terrorism and stolen submarines a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel regardless of rank or position",
     "cast": [],
-    "date_added": 1787387349354
+    "date_added": 1787399230325
   },
   {
     "adult": false,
@@ -12623,7 +12623,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szigprnenokR4yOpELIB2rj1Er2.jpg"
       }
     ],
-    "date_added": 1787387350052
+    "date_added": 1787399231940
   },
   {
     "adult": false,
@@ -13694,7 +13694,7 @@
     "title_en": "القانون والنظام",
     "overview_en": "In cases ripped from the headlines police investigate serious and often deadly crimes weighing the evidence and questioning the suspects until someone is taken into custody The district attorney s office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt Working together these expert teams navigate all sides of the complex criminal justice system to make New York a safer place",
     "cast": [],
-    "date_added": 1787387351221
+    "date_added": 1787399234795
   },
   {
     "adult": false,
@@ -14684,7 +14684,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7yBbtb5zCJyWq7gWPDCZR3kmWMh.jpg"
       }
     ],
-    "date_added": 1787387352505
+    "date_added": 1787399236568
   },
   {
     "adult": false,
@@ -14766,7 +14766,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
       }
     ],
-    "date_added": 1787387352565
+    "date_added": 1787399236731
   },
   {
     "adult": false,
@@ -15315,7 +15315,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1787387353924
+    "date_added": 1787399240115
   },
   {
     "adult": false,
@@ -15676,7 +15676,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg"
       }
     ],
-    "date_added": 1787387354029
+    "date_added": 1787399240417
   },
   {
     "adult": false,
@@ -15955,7 +15955,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
       }
     ],
-    "date_added": 1787387354068
+    "date_added": 1787399240456
   },
   {
     "adult": false,
@@ -16753,7 +16753,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zsFA322OuskJ2dRUwkFtzVByAu6.jpg"
       }
     ],
-    "date_added": 1787387354451
+    "date_added": 1787399241945
   },
   {
     "adult": false,
@@ -17241,7 +17241,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
       }
     ],
-    "date_added": 1787387355191
+    "date_added": 1787399242790
   },
   {
     "adult": false,
@@ -17482,7 +17482,7 @@
         "overview": "",
         "poster_path": "/qlWuZV4TcZkryv7lh2srVl75jdy.jpg",
         "season_number": 5,
-        "vote_average": 4.4,
+        "vote_average": 4.3,
         "cast": [
           {
             "name": "Chase Stokes",
@@ -17572,7 +17572,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zjVvER4Bg4mz38u2JQfLgypYrSP.jpg"
       }
     ],
-    "date_added": 1787387355286
+    "date_added": 1787399242890
   },
   {
     "adult": false,
@@ -17948,7 +17948,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/34ivXmllDg33Ivumx87q2oKHMtS.jpg"
       }
     ],
-    "date_added": 1787387356292
+    "date_added": 1787399244645
   },
   {
     "adult": false,
@@ -19304,7 +19304,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rsgX6mHBt7hP540uUZ4CBwR21ru.jpg"
       }
     ],
-    "date_added": 1787387356758
+    "date_added": 1787399245976
   },
   {
     "adult": false,
@@ -19584,7 +19584,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8K8D5ZQIb4fDSGxTKL2FVjFloWW.jpg"
       }
     ],
-    "date_added": 1787387356860
+    "date_added": 1787399246493
   },
   {
     "adult": false,
@@ -20741,7 +20741,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3tQDlL3AmJC5XwEAKRdiJKajgEB.jpg"
       }
     ],
-    "date_added": 1787387358071
+    "date_added": 1787399249094
   },
   {
     "adult": false,
@@ -21950,7 +21950,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5OEpJvTOpDh4snWx6eKWKcDgryV.jpg"
       }
     ],
-    "date_added": 1787387358409
+    "date_added": 1787399249739
   },
   {
     "adult": false,
@@ -22043,7 +22043,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hBiyY9sU7tw6pf2eaDIeyF1NOfq.jpg"
       }
     ],
-    "date_added": 1787387358443
+    "date_added": 1787399249931
   },
   {
     "adult": false,
@@ -22266,1852 +22266,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg"
       }
     ],
-    "date_added": 1787387358842
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "genre_ids": [
-      10759,
-      10765,
-      18
-    ],
-    "id": 2661,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "仮面ライダー",
-    "overview": "تدور أحداث المسلسل حول عالم يسمى عالم المرآة حيث تظهر وحوش تأكل البشر يقوم شخص يدعى جين بصنع بطاقات خاصة تمكن 13 مقاتلاً من التحول إلى دراجين لحماية الناس أو القتال فيما بينهم",
-    "popularity": 145.0426,
-    "poster_path": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
-    "first_air_date": "1971-04-03",
-    "softcore": false,
-    "name": "الدراج المقنع",
-    "vote_average": 6.413,
-    "vote_count": 104,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1971-04-03",
-        "episode_count": 98,
-        "id": 64046,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/f8vVO5gz17Q7rp8rNUeu9e2YTuq.jpg",
-        "season_number": 1,
-        "vote_average": 5.3,
-        "cast": [
-          {
-            "name": "中江真司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pmOQI85X4ktgOjDUxt2H32wo6o.jpg"
-          },
-          {
-            "name": "藤岡弘",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nI1HftP1byNGKU0KRhyH3eVPXeQ.jpg"
-          },
-          {
-            "name": "佐々木剛",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gaWLLDxsUisBfH4tjky80V1iFyV.jpg"
-          },
-          {
-            "name": "小林昭二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yW9v9sIDGmox7RfF7wFqqrlIKDU.jpg"
-          },
-          {
-            "name": "三浦康晴",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "森川千恵子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "沖わか子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "中島かつみ",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1973-02-17",
-        "episode_count": 52,
-        "id": 64047,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/3gJhzRS3hOfhyUejuX0lgVnMzxv.jpg",
-        "season_number": 2,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "中江真司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pmOQI85X4ktgOjDUxt2H32wo6o.jpg"
-          },
-          {
-            "name": "小林昭二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yW9v9sIDGmox7RfF7wFqqrlIKDU.jpg"
-          },
-          {
-            "name": "川口英樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m7DYNtPjxt6pTDYXCgnaRdLXWfv.jpg"
-          },
-          {
-            "name": "宮内洋",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/13K4zjemEwuUfqWWutIoz1Hlgmr.jpg"
-          },
-          {
-            "name": "山口豪久",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "小野ひずる",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m71R1JF9vx2xeX55Pf1pPGysdYt.jpg"
-          },
-          {
-            "name": "矢崎知紀",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wO0V1CrcWuuaq247dRGF27VlD67.jpg"
-          },
-          {
-            "name": "納谷悟朗",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v5R3cjPEVeLRPWlZPziYP8ooV5w.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1974-02-16",
-        "episode_count": 35,
-        "id": 64048,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/gYDgx3SC9WPdq1ytcRPM3QeGZsA.jpg",
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "中江真司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pmOQI85X4ktgOjDUxt2H32wo6o.jpg"
-          },
-          {
-            "name": "小林昭二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yW9v9sIDGmox7RfF7wFqqrlIKDU.jpg"
-          },
-          {
-            "name": "打田康比古",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jFCGioEaLQljp9vbEJIaNkIKvrl.jpg"
-          },
-          {
-            "name": "速水亮",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/exBIP1oeWxNLSDNfl71vRjDdDQb.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1974-10-19",
-        "episode_count": 24,
-        "id": 64049,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/oPHxgniTBqMelkPNzpt3wS9pE1H.jpg",
-        "season_number": 4,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "小林昭二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yW9v9sIDGmox7RfF7wFqqrlIKDU.jpg"
-          },
-          {
-            "name": "松田洋治",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/42WeHwCymsgJh3mLAyknCdRcef8.jpg"
-          },
-          {
-            "name": "岡崎徹",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "槐柳二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fGCuIdYNTiP7U6jqfPEUaPn8FXi.jpg"
-          },
-          {
-            "name": "沢りつお",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kyjtLi4KBymdTgQz1WDI1ifiaZk.jpg"
-          },
-          {
-            "name": "納谷悟朗",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v5R3cjPEVeLRPWlZPziYP8ooV5w.jpg"
-          },
-          {
-            "name": "松岡まり子",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1975-04-05",
-        "episode_count": 39,
-        "id": 64050,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/1D6WfxM43JtDQRf5Hyq1v0mqWSC.jpg",
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "中江真司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pmOQI85X4ktgOjDUxt2H32wo6o.jpg"
-          },
-          {
-            "name": "小林昭二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yW9v9sIDGmox7RfF7wFqqrlIKDU.jpg"
-          },
-          {
-            "name": "荒木しげる",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/31UynZz12Ek0VEUtq7UkONln5tf.jpg"
-          },
-          {
-            "name": "岡田京子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNpC265m5iPrgE8jxkD6jLNZfEC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1979-10-05",
-        "episode_count": 54,
-        "id": 64051,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/9TXokbSyXL2SDHXPAdxpTzsiwg1.jpg",
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "中江真司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pmOQI85X4ktgOjDUxt2H32wo6o.jpg"
-          },
-          {
-            "name": "田中 功子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "村上弘明",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rzq3src42DlKynlZ4dtg3LzEqLi.jpg"
-          },
-          {
-            "name": "田畑孝",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "中庸助",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "堀田眞三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/riHoQJ6QNz2vXjqbfQByHFBps4f.jpg"
-          },
-          {
-            "name": "塚本信夫",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nvQUB3DG9kdsSvqKU5oIExHWZwQ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1980-10-17",
-        "episode_count": 48,
-        "id": 64052,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/ofjTSnuhDEYziVSDPJ2JGS4SkKS.jpg",
-        "season_number": 7,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "中江真司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pmOQI85X4ktgOjDUxt2H32wo6o.jpg"
-          },
-          {
-            "name": "塚本信夫",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nvQUB3DG9kdsSvqKU5oIExHWZwQ.jpg"
-          },
-          {
-            "name": "高杉俊介",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kSZTmOplr5HFNTpIgQ6o0O1t1Wv.jpg"
-          },
-          {
-            "name": "藤堂陽子",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1987-10-04",
-        "episode_count": 51,
-        "id": 64053,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/x2DycgGH0bfqQhQlvjDPuihlAv2.jpg",
-        "season_number": 8,
-        "vote_average": 5.2,
-        "cast": [
-          {
-            "name": "倉田てつを",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kzy8GRLceARHXqyVariAZYXEKBb.jpg"
-          },
-          {
-            "name": "てらそままさき",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg"
-          },
-          {
-            "name": "井上明美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sAJtmosTCJ2tR2XxR0h7YuD9c5i.jpg"
-          },
-          {
-            "name": "田口萌",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/h2oKrwX5LByQtBd7sF64kFW94M6.jpg"
-          },
-          {
-            "name": "好井ひとみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62UguFqLC3vOBfQ8TUORUn8uqvH.jpg"
-          },
-          {
-            "name": "飯塚昭三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/msqe5A1q5YUUND0RhzB9dw1AEAO.jpg"
-          },
-          {
-            "name": "高橋利道",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/65WQwNXyjfh7KnQTzTxuNHgv0oB.jpg"
-          },
-          {
-            "name": "吉田淳",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "1988-10-23",
-        "episode_count": 47,
-        "id": 64054,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": "/cB54OAyJUlLBU0Cx9W7xUD5QaKZ.jpg",
-        "season_number": 9,
-        "vote_average": 8.2,
-        "cast": [
-          {
-            "name": "倉田てつを",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kzy8GRLceARHXqyVariAZYXEKBb.jpg"
-          },
-          {
-            "name": "澄川真琴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6v1qvqgGLC67mrW2UtV81jh9j01.jpg"
-          },
-          {
-            "name": "赤塚真人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tNLgz87R8QUXgGhpR6kJoYVgSD4.jpg"
-          },
-          {
-            "name": "鶴間エリ",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "小山力也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
-          },
-          {
-            "name": "上野めぐみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3dZxSsZXyjyEExEB4DhtHwjwjiX.jpg"
-          },
-          {
-            "name": "小野寺丈",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "井上剛",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pfflyhOaWISQwwlNBfb4oG6Fk95.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2000-01-30",
-        "episode_count": 49,
-        "id": 64055,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/2z5jnDqG5WPfOnG2l6MCpYh4SfY.jpg",
-        "season_number": 10,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "オダギリジョー",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jjbwOodtQeVcTwO9oUbLOGjjHDP.jpg"
-          },
-          {
-            "name": "葛山信吾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rvkLILQNo3MYEVDklinuUidQYFO.jpg"
-          },
-          {
-            "name": "村田和美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2jTI4MvFroTWEHbhcaxP2NDTDub.jpg"
-          },
-          {
-            "name": "きたろう",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2L4TVkoMrdBbnRllnt1Y74SU4DL.jpg"
-          },
-          {
-            "name": "松山鷹志",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fBufEEFKgnEirPWJoGOpnJsZUjn.jpg"
-          },
-          {
-            "name": "米山信之",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7KniNDjL4Bgl3wfHHR3D8D0zXC6.jpg"
-          },
-          {
-            "name": "千崎若菜",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2DSvrfGq9HOKT8SfuBUvWUHk3um.jpg"
-          },
-          {
-            "name": "Serge Vasilov",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ci5my3lWqCV3uC9MgbsOf0YcSGf.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2001-01-28",
-        "episode_count": 51,
-        "id": 64056,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/lFVRM5BurGly2K9Y4y9jE438Qkq.jpg",
-        "season_number": 11,
-        "vote_average": 8,
-        "cast": [
-          {
-            "name": "鈴木英一郎",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "賀集利樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qrWzYzQNg7RqFfGCMok4paWMlBN.jpg"
-          },
-          {
-            "name": "菊池隆則",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/A9oH82KF8mbrvoFGT9dfknDftqo.jpg"
-          },
-          {
-            "name": "要潤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z8W2Mv9IdEHYG4qprMdbTgKxjkc.jpg"
-          },
-          {
-            "name": "秋山莉奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z56gOiQPgsDPQba3xszmmVCmaCy.jpg"
-          },
-          {
-            "name": "柴田明良",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x8ZCfz5YMy5A6pCpGhkonXGPBCW.jpg"
-          },
-          {
-            "name": "藤田瞳子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5VkzEYTICy11MAg4uLFSyi4x6XQ.jpg"
-          },
-          {
-            "name": "友井雄亮",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yacEuAfx8Hq4FkYQRoaLlhlZDyQ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2002-02-03",
-        "episode_count": 50,
-        "id": 64057,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": "/rDWLxUCStcKgSzTutmdv6F4uQHy.jpg",
-        "season_number": 12,
-        "vote_average": 6.2,
-        "cast": [
-          {
-            "name": "須賀貴匡",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wIlJXzvxWL5unnAVNLKrtSLylw1.jpg"
-          },
-          {
-            "name": "松田悟志",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zBTNihhaZ4zGSxqSWUZQCv6wiBa.jpg"
-          },
-          {
-            "name": "小田井涼平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hqexTsRABb5IEIkbPHjloscAdEL.jpg"
-          },
-          {
-            "name": "萩野崇",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2Go6zmxjypdKuQ3juF18tEnps3d.jpg"
-          },
-          {
-            "name": "弓削智久",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/q8B2Jw0xjtdpas5cvtWMD1FoXQt.jpg"
-          },
-          {
-            "name": "Ayano Sugiyama",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lIlj9dZuQCuOXJazA8gGdwHSXhG.jpg"
-          },
-          {
-            "name": "久遠さやか",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ii38wcoDYYknYS3dYuBo8Xg0Csc.jpg"
-          },
-          {
-            "name": "栗原瞳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kPKaLEthYEU5AiGLkxYLDFVyMug.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2003-01-26",
-        "episode_count": 50,
-        "id": 64058,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/gOE2ofhDj6Za5i7pwBhz9ZIAsN4.jpg",
-        "season_number": 13,
-        "vote_average": 9.9,
-        "cast": [
-          {
-            "name": "半田健人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/89EBPUh3VOB1W7tfpb6NSjXRm94.jpg"
-          },
-          {
-            "name": "原田篤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xJRfz0dfNSmQ8METyitJ82hYnKM.jpg"
-          },
-          {
-            "name": "芳賀優里亜",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tnYoNVxrly73R7B3BIwkX26DoHL.jpg"
-          },
-          {
-            "name": "村上幸平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uaEVcrDjZAnYvmFFSm2oOiiEsXd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2004-01-25",
-        "episode_count": 49,
-        "id": 64059,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": "/1iWkhtaZbZL33le2wDwgLcPCevs.jpg",
-        "season_number": 14,
-        "vote_average": 6.5,
-        "cast": [
-          {
-            "name": "天野浩成",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/avHamJMsm6LWSmzgt50ArOTHqwc.jpg"
-          },
-          {
-            "name": "森本亮治",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jST71IXxTS7FsGusI9YsqHvTF7r.jpg"
-          },
-          {
-            "name": "北条隆博",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dfCC4ZCZ9HRXI8Ln19lOAEZi9pN.jpg"
-          },
-          {
-            "name": "椿隆之",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c0wpVBvUqpLEPRaS3YFkMwjPcBw.jpg"
-          },
-          {
-            "name": "江川有未",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jtKLMHluijhPcG6ZtQocCjs0cAp.jpg"
-          },
-          {
-            "name": "竹財輝之助",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4amsd5uCwOfhwe62AMXTktnSnir.jpg"
-          },
-          {
-            "name": "山口香緒里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gpG3FseZmU6qi8DcXCGRjGJLpVj.jpg"
-          },
-          {
-            "name": "山路和弘",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fgGTdhTiWViGmjl2kABHWzLIpZ0.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2005-01-30",
-        "episode_count": 48,
-        "id": 64060,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/o0dDy9hMWErekTzoLkL6WzEqKvg.jpg",
-        "season_number": 15,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "栩原楽人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kpnnfNguM3r7SeKMyio0qHAr7aE.jpg"
-          },
-          {
-            "name": "細川茂樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8D7bd1dRCRC3C5QqpqaDwrhUbww.jpg"
-          },
-          {
-            "name": "森絵梨佳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yIjoLlCnwKqEMJ8nsWoHS4U3IgG.jpg"
-          },
-          {
-            "name": "梅宮万紗子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nWMsMCeiQTBzVVJ3emCGmCPeJuB.jpg"
-          },
-          {
-            "name": "蒲生麻由",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "神戸みゆき",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "下條アトム",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pyqssjRUD7pbtoj98CKSMn34o8h.jpg"
-          },
-          {
-            "name": "水木薫",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jXZiW5hPua1B2lyFJiznkGoQn43.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2006-01-29",
-        "episode_count": 49,
-        "id": 64061,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/i9eELJqp8hzPMFcVLfSDMi3i201.jpg",
-        "season_number": 16,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "水嶋ヒロ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kmzww0oojeXBGgVb2HZZbjySP6r.jpg"
-          },
-          {
-            "name": "佐藤祐基",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/300Vtc1quQXaP91FuRbScrVhpUN.jpg"
-          },
-          {
-            "name": "里中唯",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "徳山秀典",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwN3IIJKaRW0IF9XVXGfEs7YdUl.jpg"
-          },
-          {
-            "name": "加藤和樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gT9DXatKhCEGxcmVarp5BWAHB9g.jpg"
-          },
-          {
-            "name": "山本裕典",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mA6nM6N7ZbUcZubraUfnY1cvi4o.jpg"
-          },
-          {
-            "name": "永田杏奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7CyKo1Zsjile2frUmh5At1rXEde.jpg"
-          },
-          {
-            "name": "奥村夏未",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2V6Slgz0zymIR0lRgFYYTM0BXTu.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-01-28",
-        "episode_count": 49,
-        "id": 64062,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/l5Hp9nqPMROjgrdUkQQiwHMFwkq.jpg",
-        "season_number": 17,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "佐藤健",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dKWtZXEnTOedUUnDwBCZZN7w2uG.jpg"
-          },
-          {
-            "name": "中村優一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mbofhr5PTegzJbYUuiLWWbXL8eh.jpg"
-          },
-          {
-            "name": "白鳥百合子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ypbLjvk9ajayGw70M7PQJcId3W2.jpg"
-          },
-          {
-            "name": "秋山莉奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z56gOiQPgsDPQba3xszmmVCmaCy.jpg"
-          },
-          {
-            "name": "石丸謙二郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s4kgd9tjnkgldnWbfbBusRn2YNj.jpg"
-          },
-          {
-            "name": "松本若菜",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pF4Vpp6ZRVrmu9dFYuuyxNzP2MY.jpg"
-          },
-          {
-            "name": "上野亮",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sqafEdHM42HXUb9zGres47WbmfG.jpg"
-          },
-          {
-            "name": "永田彬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p510UROI0WYwfPlwuUsAW7OBaQE.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-01-27",
-        "episode_count": 48,
-        "id": 64063,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/7uRp0OXebFq6yPypYMOQudfLkx0.jpg",
-        "season_number": 18,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "كوجي سيتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hWB2vHeOIZ9Eifp84hXFNLDzbp6.jpg"
-          },
-          {
-            "name": "加藤慶祐",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rnIDwaz9Atzw9qQIluINtOxf52S.jpg"
-          },
-          {
-            "name": "武田航平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y7Wy2wrR68vWaJUK92IDb1oY0ix.jpg"
-          },
-          {
-            "name": "小池里奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fWMCoJcsO13SIe124wnkvFmgSFu.jpg"
-          },
-          {
-            "name": "芳賀優里亜",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tnYoNVxrly73R7B3BIwkX26DoHL.jpg"
-          },
-          {
-            "name": "加賀美早紀",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fjjkaUArkq8cn2U1xVy1pY7amsu.jpg"
-          },
-          {
-            "name": "中野裕太",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "柳沢なな",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o4mjNfbeReOZNQ4NaUYRYQnMLpp.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-01-25",
-        "episode_count": 31,
-        "id": 64064,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/jW96ETD4TPp0zW6pQK9D2TJEzn2.jpg",
-        "season_number": 19,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "井上正大",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sFCfEVsFd4VmfK8irbKEFSTCKKx.jpg"
-          },
-          {
-            "name": "森カンナ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8kXxQwwKbMHKJ6NiwazFiEC31xS.jpg"
-          },
-          {
-            "name": "石橋蓮司",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n3mXTldssi3Dm0H9cfYvrKpfE86.jpg"
-          },
-          {
-            "name": "ميوكي ساواشيرو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
-          },
-          {
-            "name": "村井良大",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4fNECXCHKegdhLOfoafsyzsWhLA.jpg"
-          },
-          {
-            "name": "戸谷公人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/32GweEdeHCgdLfNJmJnlx9USjJ3.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-09-06",
-        "episode_count": 49,
-        "id": 64065,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/y49LM8F9nXTLKeLm7wZx1WVPzgX.jpg",
-        "season_number": 20,
-        "vote_average": 7.5,
-        "cast": [
-          {
-            "name": "山本ひかる",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jYwCDMMazpRahQdBxjKTRGdRFbC.jpg"
-          },
-          {
-            "name": "ماساكي سودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/g7gXu0bE9jZ5LHjSqn1zHdNtiA1.jpg"
-          },
-          {
-            "name": "桐山漣",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cRGGPlRYk9oDvY2bKhw6FQDyiT7.jpg"
-          },
-          {
-            "name": "木ノ本嶺浩",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nRMql28Qne0YbYXFroeOJizpZNb.jpg"
-          },
-          {
-            "name": "なだぎ武",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/srNxFfpRsZJPfTROdXwGnh8d117.jpg"
-          },
-          {
-            "name": "中川真吾",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "なすび",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbsDaBNY0NqBjuTl7RuurtxJxPA.jpg"
-          },
-          {
-            "name": "腹筋善之介",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/e8BUqRcFoHGoYf0vNidWbOPmqM0.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-09-05",
-        "episode_count": 48,
-        "id": 64066,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/AloMei4rLWIXwZa2HIlGmycN84.jpg",
-        "season_number": 21,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "渡部秀",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/guWWJGJDtQP8jtdbDlKDadXwQAb.jpg"
-          },
-          {
-            "name": "君嶋麻耶",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/18NFxkmAQVMcgLDdKzzmiofdIJX.jpg"
-          },
-          {
-            "name": "岩永洋昭",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gxN0xt0JSWNMBYhoTa3W9PQ3Qcd.jpg"
-          },
-          {
-            "name": "三浦涼介",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KESp9i1u4w89M6j4HNh67UnV52.jpg"
-          },
-          {
-            "name": "甲斐まり恵",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "宇梶剛士",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lSiaVNyb5zpaJdva0iMHp6wWjRI.jpg"
-          },
-          {
-            "name": "有末麻祐子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z9RvNVjYZJjs16ObAuvIIyc3OAM.jpg"
-          },
-          {
-            "name": "神尾佑",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lvzbxOPnzwvLrye6irvXAOMK5Xb.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-09-04",
-        "episode_count": 48,
-        "id": 64067,
-        "name": "الموسم 22",
-        "overview": "",
-        "poster_path": "/1Eo62kaXtBvbAlxj8zqrEkXDBdc.jpg",
-        "season_number": 22,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "福士蒼汰",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kUC8afeFVBM5jVSdmJ4Gz12IggV.jpg"
-          },
-          {
-            "name": "ريو يوشيزاوا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5M0Bk6ix0yNP1iuut3a1BKt3RyH.jpg"
-          },
-          {
-            "name": "千眼美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1PC6eFCpgPBTejvqsPmlNL6F8iY.jpg"
-          },
-          {
-            "name": "坂田梨香子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3u19IQWz7eBw1mRmGBseY41zzwM.jpg"
-          },
-          {
-            "name": "冨森ジャスティン",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rmFqh65lFzqyl2ORs4Ihe1dxBf8.jpg"
-          },
-          {
-            "name": "志保",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v5dzilJNetUXO65ygiRaAKcEM2V.jpg"
-          },
-          {
-            "name": "土屋シオン",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5bDPQFHUIuv6nOR70KVSLzhWYku.jpg"
-          },
-          {
-            "name": "高橋龍輝",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/a4eouer4MULbw70KHxRzkCCtxMD.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-09-02",
-        "episode_count": 53,
-        "id": 64068,
-        "name": "الموسم 23",
-        "overview": "",
-        "poster_path": "/rqkSStY5o3ClgwFVUp0oxco42Lm.jpg",
-        "season_number": 23,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "前山剛久",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/r5tYt1gZQeyfMEu6D5QNho8pQVk.jpg"
-          },
-          {
-            "name": "白石隼也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m2KYJ6DLItCvLjN8PAcPmqVfC29.jpg"
-          },
-          {
-            "name": "奥仲麻琴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fSTxMjuEkfO29bLYJ6QuIy57Bi6.jpg"
-          },
-          {
-            "name": "高山侑子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8pVG5Z1z1IQv1wXMjHcQ1kJG9Bp.jpg"
-          },
-          {
-            "name": "川野直輝",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z7P9OyUwzQnYsaTSCON8Nrt9ulx.jpg"
-          },
-          {
-            "name": "中山絵梨奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gXMkvjqrvz6vUIeFJb3KlEIc53q.jpg"
-          },
-          {
-            "name": "篤海",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1MdkEN7mFKBmdjycpXLohU7RdvW.jpg"
-          },
-          {
-            "name": "戸塚純貴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/52FABffTBlqXQJclmiai4dudwQ1.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-10-06",
-        "episode_count": 47,
-        "id": 64069,
-        "name": "الموسم 24",
-        "overview": "",
-        "poster_path": "/iLqh4DU32MgsnYcWuGgsP5PLQBU.jpg",
-        "season_number": 24,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "佐野岳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nAlE7AXOTlbUzYlHSp3W30ovff7.jpg"
-          },
-          {
-            "name": "小林豊",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/525m8pJJDvfVP8lUGWeBFDrwBRr.jpg"
-          },
-          {
-            "name": "高杉真宙",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gP5lShrAl4ovliqAqJQTgrTeEwz.jpg"
-          },
-          {
-            "name": "久保田悠来",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qNfbTSx61ys4FAPgIfVM6NHVdoI.jpg"
-          },
-          {
-            "name": "志田友美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d0rjXcagBPb5WaR4eLa2MO1ImCj.jpg"
-          },
-          {
-            "name": "山川未菜",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "小澤廉",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1Uz3mEK8Pd1VHG0rBR2V8pJKUzO.jpg"
-          },
-          {
-            "name": "松田岳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ElJqZyw1lhMZzyMrCGjuE7hh45.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2014-10-05",
-        "episode_count": 48,
-        "id": 64070,
-        "name": "الموسم 25",
-        "overview": "",
-        "poster_path": "/8MJ1wIUiMB6B3PxbCMdMAa7WN17.jpg",
-        "season_number": 25,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "竹内涼真",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z2JOrpLIClgGeFbgY1bHB26I5Mx.jpg"
-          },
-          {
-            "name": "ريو أوشيدا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eKjkEu0VDg8E2ob9R64udtinwT7.jpg"
-          },
-          {
-            "name": "吉井怜",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sBSRvKm7HekXM6Ss7Tek5pSGqdt.jpg"
-          },
-          {
-            "name": "浜野謙太",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8wR9WGtXeGUXH72LZCCawfEpD8X.jpg"
-          },
-          {
-            "name": "井俣太良",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ewqnJM5XxBPK6qevdYdNEHqgK5i.jpg"
-          },
-          {
-            "name": "飯田基祐",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iPz9FYCpT1XdUtBCE7qTiOD9dFx.jpg"
-          },
-          {
-            "name": "蕨野友也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aXwEbJ6uiYATjKxbL3Nblpt26jC.jpg"
-          },
-          {
-            "name": "松島庄汰",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ibVAXsyMSpogXmytClZoWUZ2pyD.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-10-04",
-        "episode_count": 50,
-        "id": 69800,
-        "name": "الموسم 26",
-        "overview": "",
-        "poster_path": "/xbfXxR0Q02ZmbsYRsudUOrwdsd9.jpg",
-        "season_number": 26,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "西銘駿",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b4YZ9lpoheHoNIGpjJrGUoyngnZ.jpg"
-          },
-          {
-            "name": "山本涼介",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rNpwAZuXBqrzAF6du14HhBF95NN.jpg"
-          },
-          {
-            "name": "工藤美桜",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sSVHXOkMM1Ko4BQMG2KiUSMdOmg.jpg"
-          },
-          {
-            "name": "真山明大",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "柳喬之",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vtUphQWKVV3SL4R2Je4YRM1eav5.jpg"
-          },
-          {
-            "name": "大沢ひかる",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8bTKjlEbhDDMxDvL3USCPG0BHn.jpg"
-          },
-          {
-            "name": "富樫明生",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/heQvTXpO9XpF1Z5LLdrYA5Q5527.jpg"
-          },
-          {
-            "name": "聡太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qKoKHFbaFNAPSTY1zBsHLWMJ8fA.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-10-02",
-        "episode_count": 45,
-        "id": 78368,
-        "name": "الموسم 27",
-        "overview": "",
-        "poster_path": "/9u2WTvAbarA365v5ifoB6vFcsnq.jpg",
-        "season_number": 27,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "飯島寛騎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p0gQ0y7M15KbQyAcm5yquKun7Op.jpg"
-          },
-          {
-            "name": "瀬戸利樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zglf2cCbzFuE1hEdi39ZgKYd6T.jpg"
-          },
-          {
-            "name": "松本享恭",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f2UWGeND41sMMcNkrQl7URYI6IJ.jpg"
-          },
-          {
-            "name": "松田るか",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/84NNc9BjCLLdccBqDu9GhBu8hoe.jpg"
-          },
-          {
-            "name": "岩永徹也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5yAd9PBzckneSlMj79kknRKqXfU.jpg"
-          },
-          {
-            "name": "甲斐翔真",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dyi4S78VAOHFdGwNd9QZVioSQy3.jpg"
-          },
-          {
-            "name": "黒崎レイナ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aTHEjOmyjlAYSxsxGuverHQINLT.jpg"
-          },
-          {
-            "name": "博多華丸",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mYYmAGnQdrwYnAskzxtZEDgdrx9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2017-09-03",
-        "episode_count": 49,
-        "id": 78420,
-        "name": "الموسم 28",
-        "overview": "",
-        "poster_path": "/xTEcPoQeUJXMNxeawVXgcz6ChyJ.jpg",
-        "season_number": 28,
-        "vote_average": 8.2,
-        "cast": [
-          {
-            "name": "犬飼貴丈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gTKw398yr5MB9A1qKA0bH3Pv89w.jpg"
-          },
-          {
-            "name": "赤楚衛二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n4meN0TldLP0Kk9seNJhzcOgMdQ.jpg"
-          },
-          {
-            "name": "武田航平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y7Wy2wrR68vWaJUK92IDb1oY0ix.jpg"
-          },
-          {
-            "name": "高田夏帆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/a059LlUYguEKGWL3PZrr8dNq31y.jpg"
-          },
-          {
-            "name": "前川泰之",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aXYKx8YeyxgxnZlOSiVIRuqfkwX.jpg"
-          },
-          {
-            "name": "滝裕可里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bNvZrR1ITkgdUi0KOaMIC67HJLz.jpg"
-          },
-          {
-            "name": "水上剣星",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wI2KYEK1bnxbh3jn10vuhb9uuCw.jpg"
-          },
-          {
-            "name": "越智友己",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qXJvhYFlkffdsFXqsqhW1ccm2RI.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2018-09-02",
-        "episode_count": 49,
-        "id": 108407,
-        "name": "الموسم 29",
-        "overview": "",
-        "poster_path": "/u49u2zxLItTqfr9VJddNkWD5lmU.jpg",
-        "season_number": 29,
-        "vote_average": 6.3,
-        "cast": [
-          {
-            "name": "奥野壮",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m8v0lTpGRVXkXl61nOhDckxDo6O.jpg"
-          },
-          {
-            "name": "押田岳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4vfZvRUzWRDFR672MZCtghJlxmG.jpg"
-          },
-          {
-            "name": "大幡しえり",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9epC7dTepSGYXro1HrlxsydM5Au.jpg"
-          },
-          {
-            "name": "渡邊圭祐",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6S69gUTZKmiFlFNS5VwxNm1u65Z.jpg"
-          },
-          {
-            "name": "紺野彩夏",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2JwLIGRv16O7v1sh0GIqOdff77P.jpg"
-          },
-          {
-            "name": "板垣李光人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3cg9RXHS7LZFCO9gf4D40nO57pP.jpg"
-          },
-          {
-            "name": "兼崎健太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sotu7r5C5u4HqD8TAqRo8RArKS0.jpg"
-          },
-          {
-            "name": "生瀬勝久",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qq9WR3q5P1zeUuFUnUYtnARZH2a.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2019-09-01",
-        "episode_count": 45,
-        "id": 130188,
-        "name": "الموسم 30",
-        "overview": "",
-        "poster_path": "/unARPlfXRZvdDnULlHgdxsusvuh.jpg",
-        "season_number": 30,
-        "vote_average": 4.2,
-        "cast": [
-          {
-            "name": "高橋文哉",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aNdoFv1zPypM3nxR5T7LfpfKLZR.jpg"
-          },
-          {
-            "name": "鶴嶋乃愛",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lRW9Fie6MFcu2aQHxs3AlIVUvqk.jpg"
-          },
-          {
-            "name": "岡田龍太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qQGLrs0lL6Tath6MRAwJwL4dbQf.jpg"
-          },
-          {
-            "name": "井桁弘恵",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f2nL06rC8JAt6xlqiej8eZ3UMvn.jpg"
-          },
-          {
-            "name": "中川大輔",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7HvEZ5Xu4D98KiRva3DY6dHLMDJ.jpg"
-          },
-          {
-            "name": "砂川脩弥",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pHVA320DQHBLD7ewCcJs4q79A44.jpg"
-          },
-          {
-            "name": "中山咲月",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bXpuOrQGM6HAI2r8ye4EqBqu4ha.jpg"
-          },
-          {
-            "name": "桜木那智",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/u2oZnl206C0sEc2TLrr9Xn11G3d.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2020-09-06",
-        "episode_count": 48,
-        "id": 160714,
-        "name": "الموسم 31",
-        "overview": "",
-        "poster_path": "/qMxaJguLsPuXadEmyMKvBBcO5uc.jpg",
-        "season_number": 31,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "内藤秀一郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3QA1YOIGAVA2c2Gh7k93Sy4G4yO.jpg"
-          },
-          {
-            "name": "山口貴也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/a5A5wGCWmKJH8hPmvQ8CovNQDgb.jpg"
-          },
-          {
-            "name": "川津明日香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hWkd805l8FpFCeSsUACctdklss7.jpg"
-          },
-          {
-            "name": "青木瞭",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8jNuFRIfFZ7HeuluWVYLWeLC2wT.jpg"
-          },
-          {
-            "name": "生島勇輝",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ouFV0YcoekxdNn61R1mEkv2dDFP.jpg"
-          },
-          {
-            "name": "富樫慧士",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/49u6Y4KaDIS5uCsl0Ml6Wua5Uui.jpg"
-          },
-          {
-            "name": "岡宏明",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p7nLJvEfdG7WolgZBtZOl2EOWPe.jpg"
-          },
-          {
-            "name": "知念里奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wHn8AoCzKOdnxtdTrczSLD6Wquo.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2021-09-05",
-        "episode_count": 50,
-        "id": 204921,
-        "name": "الموسم 32",
-        "overview": "",
-        "poster_path": "/7U4v931EMZEqoP1v2spiGEbTTNy.jpg",
-        "season_number": 32,
-        "vote_average": 6.5,
-        "cast": [
-          {
-            "name": "前田拳太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lBE7Qh9Qujba1R1A73cj3XdBu9n.jpg"
-          },
-          {
-            "name": "سوبارو كيمورا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-          },
-          {
-            "name": "日向亘",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d82pU3Wij4ymvqDsO1JPrX46jzl.jpg"
-          },
-          {
-            "name": "井本彩花",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yhBaS8xNxDNzFTlhADEvDddYYZb.jpg"
-          },
-          {
-            "name": "ميكو إيتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/q2y0SbBKNeVLf5obxixFmmiM4hQ.jpg"
-          },
-          {
-            "name": "濱尾ノリタカ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qkWQn0zyeg967iWzPXEDo8BvK7P.jpg"
-          },
-          {
-            "name": "椛島光",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nvFD94T4jk6peW5ZsBq3BprJh3v.jpg"
-          },
-          {
-            "name": "八条院蔵人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2LNun0vLAsMCHAYx4D6jcDgXKo9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2022-09-04",
-        "episode_count": 49,
-        "id": 296206,
-        "name": "الموسم 33",
-        "overview": "",
-        "poster_path": "/uh4LQYn42WgjvjHX4QWNredqLoz.jpg",
-        "season_number": 33,
-        "vote_average": 6.2,
-        "cast": [
-          {
-            "name": "簡秀吉",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6z4kgyRLaCmk0hqWpPaRaz8LMZT.jpg"
-          },
-          {
-            "name": "佐藤瑠雅",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aYtlPKIs45IySkrExZFtyCXU2JE.jpg"
-          },
-          {
-            "name": "星乃夢奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s3oIk1Ks2tkwoH7m4orgCx89yV7.jpg"
-          },
-          {
-            "name": "杢代和人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fW28CONXfIBriHUBzLGAKiM3dQg.jpg"
-          },
-          {
-            "name": "青島心",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2pqC4BzlJ2WIw5hx84iOFBhCzQ2.jpg"
-          },
-          {
-            "name": "忍成修吾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hPTMNflp04XpPurQE5SiKTswaCT.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-09-03",
-        "episode_count": 50,
-        "id": 353411,
-        "name": "الموسم 34",
-        "overview": "",
-        "poster_path": "/kf6qwGqTnGBAvwErfYft9RSGRVf.jpg",
-        "season_number": 34,
-        "vote_average": 7,
-        "cast": [
-          {
-            "name": "本島純政",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pm8pIUZ6pa4RQ3wXu9Z3nde9e3f.jpg"
-          },
-          {
-            "name": "松本麗世",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n0yTy955tQkuYdS1moj8wWOtfXw.jpg"
-          },
-          {
-            "name": "藤林泰也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xIA9pogJ9aKg9yUbqWntOg1sQPP.jpg"
-          },
-          {
-            "name": "安倍乙",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n9PR8tI1bqca8yrLbabMKNKl6g7.jpg"
-          },
-          {
-            "name": "富園力也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/i700QqrSEZCwmnogkf9jOHKHZy6.jpg"
-          },
-          {
-            "name": "熊木陸斗",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1oEDOzxusFPqdun7VDyeWWaXXEn.jpg"
-          },
-          {
-            "name": "南野陽子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iJzJ6Rq68B6YrvmrToctnxbPaEb.jpg"
-          },
-          {
-            "name": "石丸幹二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zdGPW5lk8UgQlJUzjc4Usj7BONJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-09-01",
-        "episode_count": 50,
-        "id": 402361,
-        "name": "الموسم 35",
-        "overview": "",
-        "poster_path": "/btRlFgOcrjdtPzbTVgz3oDk8ECl.jpg",
-        "season_number": 35,
-        "vote_average": 8.6,
-        "cast": [
-          {
-            "name": "知念英和",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z3SVJJcPB1i1f2wpVcnadeInzHA.jpg"
-          },
-          {
-            "name": "日野友輔",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uH1rSru1KGRTv83hYkv4DrRgSf.jpg"
-          },
-          {
-            "name": "宮部のぞみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ivbGZN8ZChVSKjWMCIaGxUdA25A.jpg"
-          },
-          {
-            "name": "庄司浩平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1jFNrvh3dFn0p0DZJu85SVdROYr.jpg"
-          },
-          {
-            "name": "تاكاشي تسوكاموتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3Ny9BteOsS5yCEiigawQUkqq4lO.jpg"
-          },
-          {
-            "name": "千歳まち",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1kLIUAlcDnifzz9587sOYl8j8Di.jpg"
-          },
-          {
-            "name": "滝澤諒",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lUb3BnWpmsXDOOfrJC2gBlYMqXt.jpg"
-          },
-          {
-            "name": "川﨑帆々花",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iGbyujMkHswcxuBDQnb8kHEZJAj.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-09-07",
-        "episode_count": 50,
-        "id": 464121,
-        "name": "الموسم 36",
-        "overview": "",
-        "poster_path": "/3YybwLVxaGgzcTyMyB2vqB4H4EL.jpg",
-        "season_number": 36,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "今井竜太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wFAcZCVudEAEQ1IKn7LtfdExs5M.jpg"
-          },
-          {
-            "name": "堀口真帆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8mgHKfLbeTKUBawY0CFji5ODBkx.jpg"
-          },
-          {
-            "name": "三嶋健太",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4OYlLu4CdI5lh0P0qwDEfMCtChV.jpg"
-          },
-          {
-            "name": "小貫莉奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9mmFWwRAtsnh4m62a68bVeH8F1s.jpg"
-          },
-          {
-            "name": "八木美樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hnrjT62EaKmdYT8iGfQyubsV3Gq.jpg"
-          },
-          {
-            "name": "古川雄輝",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tLPm45dwSLKdkstBMtAXvvFgljn.jpg"
-          },
-          {
-            "name": "川平慈英",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bnmLWw0w9UPWyiJIkGGGOlASe4m.jpg"
-          },
-          {
-            "name": "كويتشي ياماديرا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": null,
-        "episode_count": 0,
-        "id": 492899,
-        "name": "الموسم 37",
-        "overview": "",
-        "poster_path": "/o02qO3qXGdS024ltkFZhh8Lpk6R.jpg",
-        "season_number": 37,
-        "vote_average": 0,
-        "cast": []
-      }
-    ],
-    "title": "الدراج المقنع",
-    "title_en": "Kamen Rider",
-    "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
-    "cast": [
-      {
-        "name": "今井竜太郎",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wFAcZCVudEAEQ1IKn7LtfdExs5M.jpg"
-      },
-      {
-        "name": "堀口真帆",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8mgHKfLbeTKUBawY0CFji5ODBkx.jpg"
-      },
-      {
-        "name": "三嶋健太",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4OYlLu4CdI5lh0P0qwDEfMCtChV.jpg"
-      },
-      {
-        "name": "小貫莉奈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9mmFWwRAtsnh4m62a68bVeH8F1s.jpg"
-      },
-      {
-        "name": "八木美樹",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hnrjT62EaKmdYT8iGfQyubsV3Gq.jpg"
-      },
-      {
-        "name": "古川雄輝",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tLPm45dwSLKdkstBMtAXvvFgljn.jpg"
-      },
-      {
-        "name": "川平慈英",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bnmLWw0w9UPWyiJIkGGGOlASe4m.jpg"
-      },
-      {
-        "name": "كويتشي ياماديرا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
-      }
-    ],
-    "date_added": 1787387359269
+    "date_added": 1787399251201
   },
   {
     "adult": false,
@@ -25855,7 +24010,7 @@
     "title_en": "Gute Zeiten schlechte Zeiten",
     "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
     "cast": [],
-    "date_added": 1787387359549
+    "date_added": 1787399252038
   },
   {
     "adult": false,
@@ -25877,8 +24032,8 @@
     "first_air_date": "2010-10-31",
     "softcore": false,
     "name": "الموتى السائرون",
-    "vote_average": 8.1,
-    "vote_count": 18106,
+    "vote_average": 8.082,
+    "vote_count": 18107,
     "media_type": "tv",
     "seasons": [
       {
@@ -26499,7 +24654,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
       }
     ],
-    "date_added": 1787387359922
+    "date_added": 1787399253185
   },
   {
     "adult": false,
@@ -27436,7 +25591,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787387360534
+    "date_added": 1787399254920
   },
   {
     "adult": false,
@@ -28079,7 +26234,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
       }
     ],
-    "date_added": 1787387361458
+    "date_added": 1787399256046
   },
   {
     "adult": false,
@@ -29243,7 +27398,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/irolCtnNY98XcJXcl62YKmcwTpx.jpg"
       }
     ],
-    "date_added": 1787387362846
+    "date_added": 1787399258354
   },
   {
     "adult": false,
@@ -29517,7 +27672,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1787387363442
+    "date_added": 1787399259912
   },
   {
     "adult": false,
@@ -29538,8 +27693,8 @@
     "first_air_date": "2005-02-06",
     "softcore": false,
     "name": "American Dad!",
-    "vote_average": 7.021,
-    "vote_count": 2424,
+    "vote_average": 7.022,
+    "vote_count": 2425,
     "media_type": "tv",
     "seasons": [
       {
@@ -30342,7 +28497,7 @@
         "overview": "",
         "poster_path": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
         "season_number": 22,
-        "vote_average": 6.1,
+        "vote_average": 6.3,
         "cast": [
           {
             "name": "سيث ماكفارلن",
@@ -30402,7 +28557,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       }
     ],
-    "date_added": 1787387364475
+    "date_added": 1787399262212
   },
   {
     "adult": false,
@@ -30829,7 +28984,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1787387366220
+    "date_added": 1787399264552
   },
   {
     "adult": false,
@@ -31391,7 +29546,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg"
       }
     ],
-    "date_added": 1787387367450
+    "date_added": 1787399267962
   },
   {
     "adult": false,
@@ -32346,7 +30501,7 @@
     "title_en": "Secret Lives",
     "overview_en": "Salatut elämät Secret Lives is a Finnish television soap opera that premiered on MTV3 on 25 January 1999 The series storylines follow the daily lives of several families who live in the same apartment block in Helsinki",
     "cast": [],
-    "date_added": 1787387367705
+    "date_added": 1787399268509
   },
   {
     "adult": false,
@@ -32368,8 +30523,8 @@
     "first_air_date": "2015-10-19",
     "softcore": false,
     "name": "ميراكيولوس: الدعسوقة و القط الأسود",
-    "vote_average": 8.063,
-    "vote_count": 4649,
+    "vote_average": 8.062,
+    "vote_count": 4650,
     "media_type": "tv",
     "seasons": [
       {
@@ -32615,7 +30770,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg"
       }
     ],
-    "date_added": 1787387368209
+    "date_added": 1787399269168
   },
   {
     "adult": false,
@@ -32867,7 +31022,7 @@
     "title_en": "Die Küchenschlacht",
     "overview_en": "",
     "cast": [],
-    "date_added": 1787387369273
+    "date_added": 1787399270967
   },
   {
     "adult": false,
@@ -32939,7 +31094,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
       }
     ],
-    "date_added": 1787387369324
+    "date_added": 1787399271126
   },
   {
     "adult": false,
@@ -33119,7 +31274,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787387369499
+    "date_added": 1787399271745
   },
   {
     "adult": false,
@@ -34873,7 +33028,7 @@
     "title_en": "Goede Tijden Slechte Tijden",
     "overview_en": "Goede tijden slechte tijden also known as GTST is the longest running Dutch soap opera revolving around the lives of the families Alberts Sanders De Jong Van Houten and Bouwhuis It all takes place in the fictional town of Meerdijk",
     "cast": [],
-    "date_added": 1787387371646
+    "date_added": 1787399275542
   },
   {
     "adult": false,
@@ -35350,7 +33505,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6IX328pAt0E2GAYek84v4KWi8pb.jpg"
       }
     ],
-    "date_added": 1787387372947
+    "date_added": 1787399278211
   },
   {
     "adult": false,
@@ -35371,8 +33526,8 @@
     "first_air_date": "2008-01-20",
     "softcore": false,
     "name": "Breaking Bad",
-    "vote_average": 8.9,
-    "vote_count": 18442,
+    "vote_average": 8.949,
+    "vote_count": 18446,
     "media_type": "tv",
     "seasons": [
       {
@@ -35656,7 +33811,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
       }
     ],
-    "date_added": 1787387373416
+    "date_added": 1787399278783
   },
   {
     "adult": false,
@@ -35677,7 +33832,7 @@
     "softcore": false,
     "name": "أصدقاء",
     "vote_average": 8.414,
-    "vote_count": 9319,
+    "vote_count": 9320,
     "media_type": "tv",
     "seasons": [
       {
@@ -36136,7 +34291,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
       }
     ],
-    "date_added": 1787387374109
+    "date_added": 1787399279789
   },
   {
     "adult": false,
@@ -36238,7 +34393,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rtHbXVr0NUWYkV1vqCCdhgyyNXG.jpg"
       }
     ],
-    "date_added": 1787387374123
+    "date_added": 1787399279821
   },
   {
     "adult": false,
@@ -37140,1005 +35295,1073 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
       }
     ],
-    "date_added": 1787387375338
+    "date_added": 1787399282209
   },
   {
     "adult": false,
-    "backdrop_path": "/luUTaPpTBM8BjP4wgCLxNIPkx6k.jpg",
+    "backdrop_path": "/ucsg6ywfOf0u21sM54orBcXGjGs.jpg",
     "genre_ids": [
-      10759,
-      18
+      35
     ],
-    "id": 19530,
+    "id": 46831,
     "origin_country": [
-      "TW",
-      "CN"
+      "RS"
     ],
-    "original_language": "zh",
-    "original_name": "霹靂布袋戲",
+    "original_language": "sr",
+    "original_name": "Државни посао",
     "overview": "",
-    "popularity": 108.7183,
-    "poster_path": "/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-    "first_air_date": "1988-06-01",
+    "popularity": 99.6739,
+    "poster_path": "/sceVlRK5RvnU1qjNipyWDHQXB7x.jpg",
+    "first_air_date": "2012-09-24",
     "softcore": false,
-    "name": "霹靂布袋戲",
-    "vote_average": 6.9,
-    "vote_count": 7,
+    "name": "Државни посао",
+    "vote_average": 7.9,
+    "vote_count": 11,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "1988-06-01",
-        "episode_count": 16,
-        "id": 162872,
+        "air_date": "2012-09-24",
+        "episode_count": 197,
+        "id": 55005,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/n6APNvs6nPCP29D9AQ8yV0m1hn9.jpg",
+        "poster_path": "/D3mEpQmRT9Z1T4Uf9L8vA5SYCl.jpg",
         "season_number": 1,
-        "vote_average": 10,
-        "cast": []
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1989-06-03",
-        "episode_count": 20,
-        "id": 162873,
+        "air_date": "2013-09-02",
+        "episode_count": 204,
+        "id": 55007,
         "name": "الموسم 2",
         "overview": "",
-        "poster_path": "/2rSzjrcODt15N9lSI0lBrdcyrHe.jpg",
+        "poster_path": "/D3mEpQmRT9Z1T4Uf9L8vA5SYCl.jpg",
         "season_number": 2,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1989-08-12",
-        "episode_count": 15,
-        "id": 162874,
+        "air_date": "2014-09-08",
+        "episode_count": 190,
+        "id": 85633,
         "name": "الموسم 3",
         "overview": "",
-        "poster_path": "/7IFoiivf3j4oQ87ETZ5xc9JBnhQ.jpg",
+        "poster_path": "/D3mEpQmRT9Z1T4Uf9L8vA5SYCl.jpg",
         "season_number": 3,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1989-11-04",
-        "episode_count": 10,
-        "id": 162875,
+        "air_date": "2015-09-21",
+        "episode_count": 173,
+        "id": 85634,
         "name": "الموسم 4",
         "overview": "",
-        "poster_path": "/oUSanhvdbvmyJJgKBDxQYFGwaBC.jpg",
+        "poster_path": "/D3mEpQmRT9Z1T4Uf9L8vA5SYCl.jpg",
         "season_number": 4,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1990-02-03",
-        "episode_count": 20,
-        "id": 162876,
+        "air_date": "2016-10-03",
+        "episode_count": 169,
+        "id": 85635,
         "name": "الموسم 5",
         "overview": "",
-        "poster_path": "/grcgWAlkGbxk996PkegNRQR9g9w.jpg",
+        "poster_path": "/D3mEpQmRT9Z1T4Uf9L8vA5SYCl.jpg",
         "season_number": 5,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1990-10-20",
-        "episode_count": 40,
-        "id": 162877,
+        "air_date": "2017-10-02",
+        "episode_count": 147,
+        "id": 98803,
         "name": "الموسم 6",
         "overview": "",
-        "poster_path": "/dAgC2doJGKLJt1jJQAt6ZVpWO6q.jpg",
+        "poster_path": "/d00nIedI7gciDqnNN0lDOwXmSdQ.jpg",
         "season_number": 6,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1990-03-01",
-        "episode_count": 30,
-        "id": 162878,
+        "air_date": "2018-09-24",
+        "episode_count": 167,
+        "id": 112580,
         "name": "الموسم 7",
         "overview": "",
-        "poster_path": "/mKBQN2n9ppFzWFhVcXWBqHzooZX.jpg",
+        "poster_path": "/oEyKNLZD7KIMWeDky9eO6ss2qpI.jpg",
         "season_number": 7,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1990-06-01",
-        "episode_count": 30,
-        "id": 162879,
+        "air_date": "2019-09-16",
+        "episode_count": 181,
+        "id": 435448,
         "name": "الموسم 8",
         "overview": "",
-        "poster_path": "/7r3Z6T0UYaIfnrF8zyY1ZCCIrFE.jpg",
+        "poster_path": "/jgLCCu9TVtQIJjFTtZpcOr5rvFy.jpg",
         "season_number": 8,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1992-05-01",
-        "episode_count": 20,
-        "id": 162880,
+        "air_date": "2020-09-14",
+        "episode_count": 205,
+        "id": 478715,
         "name": "الموسم 9",
         "overview": "",
-        "poster_path": "/ed7elREqm9IX7ke0Vaa2G9cIhUs.jpg",
+        "poster_path": "/5RgqCE3hpMPj4nOwCoeEpnd4fxM.jpg",
         "season_number": 9,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1993-04-01",
-        "episode_count": 20,
-        "id": 162881,
+        "air_date": "2021-09-13",
+        "episode_count": 209,
+        "id": 478716,
         "name": "الموسم 10",
         "overview": "",
-        "poster_path": "/fvv6hcX8cXZ5DLrgr1pEmzFhjnU.jpg",
+        "poster_path": "/5RgqCE3hpMPj4nOwCoeEpnd4fxM.jpg",
         "season_number": 10,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1993-11-01",
-        "episode_count": 14,
-        "id": 162882,
+        "air_date": "2022-09-19",
+        "episode_count": 186,
+        "id": 478718,
         "name": "الموسم 11",
         "overview": "",
-        "poster_path": "/gWfWoIua9IZEsI9s4Uvc8AzsL5E.jpg",
+        "poster_path": "/5RgqCE3hpMPj4nOwCoeEpnd4fxM.jpg",
         "season_number": 11,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1993-12-17",
-        "episode_count": 60,
-        "id": 186121,
+        "air_date": "2023-09-18",
+        "episode_count": 189,
+        "id": 478717,
         "name": "الموسم 12",
         "overview": "",
-        "poster_path": "/aQdKJjIWdgK5bW0YS5wM74qcj0I.jpg",
+        "poster_path": "/5RgqCE3hpMPj4nOwCoeEpnd4fxM.jpg",
         "season_number": 12,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1995-03-17",
-        "episode_count": 30,
-        "id": 186122,
+        "air_date": "2024-09-23",
+        "episode_count": 184,
+        "id": 478719,
         "name": "الموسم 13",
         "overview": "",
-        "poster_path": "/bSsPR55xOgf1RB2AqiVqBvA4J1d.jpg",
+        "poster_path": "/5RgqCE3hpMPj4nOwCoeEpnd4fxM.jpg",
         "season_number": 13,
         "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       },
       {
-        "air_date": "1995-09-15",
-        "episode_count": 25,
-        "id": 186123,
+        "air_date": "2025-09-15",
+        "episode_count": 142,
+        "id": 475562,
         "name": "الموسم 14",
         "overview": "",
-        "poster_path": "/nsDmAilLEw4O2JOuJc5hposdT1d.jpg",
+        "poster_path": "/vJ3W4vFg49eehsCp7HfgHwvwXiY.jpg",
         "season_number": 14,
         "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1996-02-09",
-        "episode_count": 6,
-        "id": 186124,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/pG0UafpMQ9C47hbxviusPaozy1E.jpg",
-        "season_number": 15,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1996-03-15",
-        "episode_count": 20,
-        "id": 186125,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/mHi642vFntDNKFyXabUDuzxlYuL.jpg",
-        "season_number": 16,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1996-07-12",
-        "episode_count": 50,
-        "id": 186126,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/yEC8EhJZCtPisdMTbkmpTjngnTh.jpg",
-        "season_number": 17,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1997-03-14",
-        "episode_count": 30,
-        "id": 186127,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/2ibywTvrP0ClSXd4pxpsb2uO6TI.jpg",
-        "season_number": 18,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1997-07-18",
-        "episode_count": 40,
-        "id": 186128,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/iumj5S89T7rB0RQHMAtptbarg8S.jpg",
-        "season_number": 19,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1998-04-17",
-        "episode_count": 50,
-        "id": 186129,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/uNq9G5T7w6lhpzmBbujr5OeNhNZ.jpg",
-        "season_number": 20,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1999-02-12",
-        "episode_count": 30,
-        "id": 186130,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/vpyNQ2LejnsSIh78gpoWsACem9g.jpg",
-        "season_number": 21,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "1999-07-23",
-        "episode_count": 40,
-        "id": 186131,
-        "name": "الموسم 22",
-        "overview": "",
-        "poster_path": "/nDiEGeFSk0s46sw1lcRIKMkutFp.jpg",
-        "season_number": 22,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2000-03-17",
-        "episode_count": 20,
-        "id": 186132,
-        "name": "الموسم 23",
-        "overview": "",
-        "poster_path": "/4grPlbjzAfuChwsnxIZxbXVVXBN.jpg",
-        "season_number": 23,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2000-07-21",
-        "episode_count": 30,
-        "id": 186133,
-        "name": "الموسم 24",
-        "overview": "",
-        "poster_path": "/2XZMx1gNMH551psAjMzG7hFNE8A.jpg",
-        "season_number": 24,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2001-01-19",
-        "episode_count": 30,
-        "id": 186134,
-        "name": "الموسم 25",
-        "overview": "",
-        "poster_path": "/yyzOYdEUusvHarGLyhuQCrFcwrL.jpg",
-        "season_number": 25,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2001-05-25",
-        "episode_count": 20,
-        "id": 186135,
-        "name": "الموسم 26",
-        "overview": "",
-        "poster_path": "/8neVaJmkteO6hl2Jhj0sbctEWFu.jpg",
-        "season_number": 26,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2001-08-31",
-        "episode_count": 40,
-        "id": 186136,
-        "name": "الموسم 27",
-        "overview": "",
-        "poster_path": "/uUZcMXHQMxxMZeKalaEyV7K780v.jpg",
-        "season_number": 27,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2002-04-26",
-        "episode_count": 20,
-        "id": 186137,
-        "name": "الموسم 28",
-        "overview": "",
-        "poster_path": "/1IaFUyUGZJVnNLvvqxox4UFOpb2.jpg",
-        "season_number": 28,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2002-07-26",
-        "episode_count": 48,
-        "id": 186138,
-        "name": "الموسم 29",
-        "overview": "",
-        "poster_path": "/k40tDojHSVjrIXfcuYqhyjhYAeQ.jpg",
-        "season_number": 29,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2003-01-10",
-        "episode_count": 30,
-        "id": 186139,
-        "name": "الموسم 30",
-        "overview": "",
-        "poster_path": "/7gYFzaFqPp70bci8jhRkc4JQHZd.jpg",
-        "season_number": 30,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2003-06-27",
-        "episode_count": 32,
-        "id": 186140,
-        "name": "الموسم 31",
-        "overview": "",
-        "poster_path": "/zzLTwZmAAROdZQbFDdBTbQlxrIn.jpg",
-        "season_number": 31,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2003-10-17",
-        "episode_count": 50,
-        "id": 186141,
-        "name": "الموسم 32",
-        "overview": "",
-        "poster_path": "/fIVAunwgFCtrZAEx97J1o0Zxk4P.jpg",
-        "season_number": 32,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2004-04-09",
-        "episode_count": 26,
-        "id": 186142,
-        "name": "الموسم 33",
-        "overview": "",
-        "poster_path": "/s6tlxnKWMZLIqRWUy5lergQ1ATp.jpg",
-        "season_number": 33,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2004-07-09",
-        "episode_count": 24,
-        "id": 186143,
-        "name": "الموسم 34",
-        "overview": "",
-        "poster_path": "/aiDnePzw54PSottKycrZ1b4L0Gn.jpg",
-        "season_number": 34,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2004-10-01",
-        "episode_count": 40,
-        "id": 186144,
-        "name": "الموسم 35",
-        "overview": "",
-        "poster_path": "/fVYvVuaBPe7mh3BgoxKKYOuIiuF.jpg",
-        "season_number": 35,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2005-02-18",
-        "episode_count": 30,
-        "id": 186145,
-        "name": "الموسم 36",
-        "overview": "",
-        "poster_path": "/c0DBic7xuS4jAFOBjSmwG9gvMZ4.jpg",
-        "season_number": 36,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2005-06-03",
-        "episode_count": 30,
-        "id": 186146,
-        "name": "الموسم 37",
-        "overview": "",
-        "poster_path": "/y6LYPBwi0aR74oAklrksEzvb0Za.jpg",
-        "season_number": 37,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2005-09-16",
-        "episode_count": 40,
-        "id": 186147,
-        "name": "الموسم 38",
-        "overview": "",
-        "poster_path": "/cqrYO2OcexLXeM4djtdfvPezPjj.jpg",
-        "season_number": 38,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2006-02-03",
-        "episode_count": 40,
-        "id": 186148,
-        "name": "الموسم 39",
-        "overview": "",
-        "poster_path": "/i9dn0nAKxMZ01AB9QDBrGRVNCO4.jpg",
-        "season_number": 39,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2006-06-23",
-        "episode_count": 40,
-        "id": 186149,
-        "name": "الموسم 40",
-        "overview": "",
-        "poster_path": "/7oiH16lFUSgDh1EtMcFfnvBeTYJ.jpg",
-        "season_number": 40,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2006-11-10",
-        "episode_count": 50,
-        "id": 186150,
-        "name": "الموسم 41",
-        "overview": "",
-        "poster_path": "/x9omSOrIG2ZheF9b7qxxvxgOltM.jpg",
-        "season_number": 41,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2007-05-04",
-        "episode_count": 30,
-        "id": 186151,
-        "name": "الموسم 42",
-        "overview": "",
-        "poster_path": "/61gzwxt49FK9ht5Eiu3lIaWIcym.jpg",
-        "season_number": 42,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2007-08-17",
-        "episode_count": 40,
-        "id": 186152,
-        "name": "الموسم 43",
-        "overview": "",
-        "poster_path": "/siCbxlWKAbQ4yT82XC2Sz4PoEJU.jpg",
-        "season_number": 43,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2008-01-04",
-        "episode_count": 30,
-        "id": 186153,
-        "name": "الموسم 44",
-        "overview": "",
-        "poster_path": "/p3nNqvnBZoKL8M5LO7wwdF0nxUP.jpg",
-        "season_number": 44,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2008-04-18",
-        "episode_count": 46,
-        "id": 186154,
-        "name": "الموسم 45",
-        "overview": "",
-        "poster_path": "/ghsVjJB5NrvwGxW4id1Q4G6pHs6.jpg",
-        "season_number": 45,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2008-09-26",
-        "episode_count": 48,
-        "id": 186155,
-        "name": "الموسم 46",
-        "overview": "",
-        "poster_path": "/aqrwfSiR5z0Z6PoachlsUkp13fP.jpg",
-        "season_number": 46,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2009-03-13",
-        "episode_count": 48,
-        "id": 186156,
-        "name": "الموسم 47",
-        "overview": "",
-        "poster_path": "/olyk5ddAPFQj9hyI6hbM45EJo3K.jpg",
-        "season_number": 47,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2009-09-12",
-        "episode_count": 40,
-        "id": 186157,
-        "name": "الموسم 48",
-        "overview": "",
-        "poster_path": "/mJfMs08MfLzqxyIAWx4jUxNYskA.jpg",
-        "season_number": 48,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2010-01-29",
-        "episode_count": 40,
-        "id": 186158,
-        "name": "الموسم 49",
-        "overview": "",
-        "poster_path": "/1vgrB5jfUBEMZrk2zYlPeFxx8eP.jpg",
-        "season_number": 49,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2010-06-18",
-        "episode_count": 40,
-        "id": 186159,
-        "name": "الموسم 50",
-        "overview": "",
-        "poster_path": "/gd37jThZkdhN92LKQX2vgYu9ylS.jpg",
-        "season_number": 50,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2010-11-12",
-        "episode_count": 40,
-        "id": 186160,
-        "name": "الموسم 51",
-        "overview": "",
-        "poster_path": "/siAKAUKMHbmsukwuVqY7NUMzKVs.jpg",
-        "season_number": 51,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2011-04-01",
-        "episode_count": 40,
-        "id": 186161,
-        "name": "الموسم 52",
-        "overview": "",
-        "poster_path": "/uBXhmF1MT2NJGa5la74tNv0Knay.jpg",
-        "season_number": 52,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2011-08-19",
-        "episode_count": 40,
-        "id": 186162,
-        "name": "الموسم 53",
-        "overview": "",
-        "poster_path": "/f6hWxKNI6fEjdXicHYqPD9jkfxm.jpg",
-        "season_number": 53,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2012-01-06",
-        "episode_count": 40,
-        "id": 186163,
-        "name": "الموسم 54",
-        "overview": "",
-        "poster_path": "/w86MHwkGOGs1wETJpWN9i9fyRQ5.jpg",
-        "season_number": 54,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2012-05-25",
-        "episode_count": 40,
-        "id": 186164,
-        "name": "الموسم 55",
-        "overview": "",
-        "poster_path": "/atq5I540pqydbCqcTfBgvx0mGWj.jpg",
-        "season_number": 55,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2012-10-12",
-        "episode_count": 20,
-        "id": 186165,
-        "name": "الموسم 56",
-        "overview": "",
-        "poster_path": "/6Q824xT0gCWv3FdN57Cv00Sb5dn.jpg",
-        "season_number": 56,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2013-01-11",
-        "episode_count": 31,
-        "id": 186166,
-        "name": "الموسم 57",
-        "overview": "",
-        "poster_path": "/i8zuVUPzX0VcPYAE57ZjqftihSh.jpg",
-        "season_number": 57,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2013-06-07",
-        "episode_count": 32,
-        "id": 186167,
-        "name": "الموسم 58",
-        "overview": "",
-        "poster_path": "/4y0vgIGPTbGx6rcX7bvC9whHdbj.jpg",
-        "season_number": 58,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2013-11-01",
-        "episode_count": 32,
-        "id": 186168,
-        "name": "الموسم 59",
-        "overview": "",
-        "poster_path": "/ssIFHotHqaXHkZDGhujV4zgkrDa.jpg",
-        "season_number": 59,
-        "vote_average": 8,
-        "cast": []
-      },
-      {
-        "air_date": "2014-03-28",
-        "episode_count": 32,
-        "id": 186169,
-        "name": "الموسم 60",
-        "overview": "",
-        "poster_path": "/rwTW62jEGS2DT9kI1KGJUCq2GL1.jpg",
-        "season_number": 60,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2014-08-22",
-        "episode_count": 32,
-        "id": 186170,
-        "name": "الموسم 61",
-        "overview": "",
-        "poster_path": "/lFsIfAvafb4e4rpFWS5ynJEsIYM.jpg",
-        "season_number": 61,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2015-01-09",
-        "episode_count": 32,
-        "id": 186171,
-        "name": "الموسم 62",
-        "overview": "",
-        "poster_path": "/pqQvREH5tsjEBXymeb74wpUcyWo.jpg",
-        "season_number": 62,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2015-06-05",
-        "episode_count": 32,
-        "id": 186172,
-        "name": "الموسم 63",
-        "overview": "",
-        "poster_path": "/eh9HTceO36kMuUoP6vWaMlc5Iso.jpg",
-        "season_number": 63,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2015-10-16",
-        "episode_count": 16,
-        "id": 186173,
-        "name": "الموسم 64",
-        "overview": "",
-        "poster_path": "/mJdJsbGklNibFMhP0mfxscdmgSh.jpg",
-        "season_number": 64,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2015-12-25",
-        "episode_count": 32,
-        "id": 186174,
-        "name": "الموسم 65",
-        "overview": "",
-        "poster_path": "/fP9T1NQP7dzfkC52IebG8ArDGq5.jpg",
-        "season_number": 65,
-        "vote_average": 8,
-        "cast": []
-      },
-      {
-        "air_date": "2016-04-15",
-        "episode_count": 50,
-        "id": 186175,
-        "name": "الموسم 66",
-        "overview": "",
-        "poster_path": "/kJqjvKdhncNRFavuPQpEVLrDG0R.jpg",
-        "season_number": 66,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2016-10-07",
-        "episode_count": 50,
-        "id": 186176,
-        "name": "الموسم 67",
-        "overview": "",
-        "poster_path": "/i5VKbcEhWPFuZ7DLMGWAzESOycd.jpg",
-        "season_number": 67,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2017-03-31",
-        "episode_count": 60,
-        "id": 186177,
-        "name": "الموسم 68",
-        "overview": "",
-        "poster_path": "/d4E9der8r2vLd9iBGSSrXLOVekw.jpg",
-        "season_number": 68,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2017-10-27",
-        "episode_count": 20,
-        "id": 186178,
-        "name": "الموسم 69",
-        "overview": "",
-        "poster_path": "/giNUMvFqlYI19ooyVICNeOOJeNe.jpg",
-        "season_number": 69,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2018-01-05",
-        "episode_count": 50,
-        "id": 186179,
-        "name": "الموسم 70",
-        "overview": "",
-        "poster_path": "/8cpTdRsZTToPHpxuMukhetkcAwi.jpg",
-        "season_number": 70,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2018-06-29",
-        "episode_count": 42,
-        "id": 186180,
-        "name": "الموسم 71",
-        "overview": "",
-        "poster_path": "/58bZ4UR2EABzpCm55phi2wUlpyI.jpg",
-        "season_number": 71,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2018-11-23",
-        "episode_count": 60,
-        "id": 186181,
-        "name": "الموسم 72",
-        "overview": "",
-        "poster_path": "/ajdHNl04RZ7xYngNtwZM1Nz1zB1.jpg",
-        "season_number": 72,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2019-06-21",
-        "episode_count": 20,
-        "id": 186183,
-        "name": "الموسم 73",
-        "overview": "",
-        "poster_path": "/6Cn7wrNU3HpnXPEqJtJ8UWI2LPD.jpg",
-        "season_number": 73,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2019-08-30",
-        "episode_count": 28,
-        "id": 186186,
-        "name": "الموسم 74",
-        "overview": "",
-        "poster_path": "/owO1KWzKUzpWmQfkoHbT04T6Cdr.jpg",
-        "season_number": 74,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2019-12-06",
-        "episode_count": 50,
-        "id": 186187,
-        "name": "الموسم 75",
-        "overview": "",
-        "poster_path": "/aBVGgBKuaA1i4Aq55yg239HQrnf.jpg",
-        "season_number": 75,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2020-05-29",
-        "episode_count": 32,
-        "id": 186188,
-        "name": "الموسم 76",
-        "overview": "",
-        "poster_path": "/gLZck5hww7stlpQdnexgQQrLdfX.jpg",
-        "season_number": 76,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2020-09-18",
-        "episode_count": 46,
-        "id": 186189,
-        "name": "الموسم 77",
-        "overview": "",
-        "poster_path": "/bdvA4mRmpewdnhNgQjk1ANSh5JX.jpg",
-        "season_number": 77,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2021-02-26",
-        "episode_count": 30,
-        "id": 186215,
-        "name": "الموسم 78",
-        "overview": "",
-        "poster_path": "/mQrSV05yk7BuDbuXgYNdXWmxpgk.jpg",
-        "season_number": 78,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2021-06-11",
-        "episode_count": 42,
-        "id": 199411,
-        "name": "الموسم 79",
-        "overview": "",
-        "poster_path": "/zUc4DvLvMhhTAQi0qG2V46SVXW0.jpg",
-        "season_number": 79,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2021-11-05",
-        "episode_count": 40,
-        "id": 218086,
-        "name": "الموسم 80",
-        "overview": "",
-        "poster_path": "/jLzfyDYX8xenhG7AfF22HurQOVA.jpg",
-        "season_number": 80,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2022-04-01",
-        "episode_count": 42,
-        "id": 285924,
-        "name": "الموسم 81",
-        "overview": "",
-        "poster_path": "/rM1U8uri4OaRTMAJe8TTIwOdHL5.jpg",
-        "season_number": 81,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2022-08-26",
-        "episode_count": 40,
-        "id": 306643,
-        "name": "الموسم 82",
-        "overview": "",
-        "poster_path": "/lLjYBTrVXK3adFSSGvHy7dXWoZC.jpg",
-        "season_number": 82,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2023-01-13",
-        "episode_count": 26,
-        "id": 325078,
-        "name": "الموسم 83",
-        "overview": "",
-        "poster_path": "/wYlnQJdDSYRAm5wIBs7bhDgX66Q.jpg",
-        "season_number": 83,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2023-07-14",
-        "episode_count": 25,
-        "id": 348812,
-        "name": "الموسم 84",
-        "overview": "",
-        "poster_path": "/yLzrit6v9nc11QLx3JxvjjX6k14.jpg",
-        "season_number": 84,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2024-01-05",
-        "episode_count": 13,
-        "id": 374950,
-        "name": "الموسم 85",
-        "overview": "",
-        "poster_path": "/pKrVWo02ME8OAoDadHKerXW18tu.jpg",
-        "season_number": 85,
-        "vote_average": 10,
-        "cast": []
-      },
-      {
-        "air_date": "2024-04-05",
-        "episode_count": 55,
-        "id": 425216,
-        "name": "الموسم 86",
-        "overview": "",
-        "poster_path": "/twQUpWXcTUo06dOxHHhPzMyge3N.jpg",
-        "season_number": 86,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2025-04-18",
-        "episode_count": 26,
-        "id": 452399,
-        "name": "الموسم 87",
-        "overview": "",
-        "poster_path": "/2dJIJWSJT5ARoSzPiGJnkJz93lr.jpg",
-        "season_number": 87,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2025-10-17",
-        "episode_count": 32,
-        "id": 481958,
-        "name": "الموسم 88",
-        "overview": "",
-        "poster_path": "/kAEoYEaseheJaWtub2wxpes0bRN.jpg",
-        "season_number": 88,
-        "vote_average": 0,
-        "cast": []
+        "cast": [
+          {
+            "name": "Dimitrije Banjac",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+          },
+          {
+            "name": "Dejan Ćirjaković",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+          },
+          {
+            "name": "Nikola Škorić",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+          }
+        ]
       }
     ],
-    "title": "霹靂布袋戲",
-    "title_en": "Pili",
-    "overview_en": "Pili is a puppet show from Taiwan It is made by Pili International Multimedia The TV series started in 1985 and it still continues today It is one of the most popular TV shows in Taiwan Pili puppet show is performed by many kinds of puppets some of them are cool some are intelligent and some are funny Unlike traditional puppet shows Pili puppet show uses state of the art animation to help present its fighting art The delicate design of the appearance and characteristics of each puppet has made Pili puppet show a well known entertainment in Taiwan",
-    "cast": [],
-    "date_added": 1787387379689
+    "title": "Државни посао",
+    "title_en": "Government Job",
+    "overview_en": "The backbone of the Državni Posao Government Job are satirical talks between the three actors the comments are reminiscent of the stand up form These are short witty comments and observations on daily life circumstances sociopolitical situation sports entertainment world their personal opinions on various topics The main idea is to present day in a non existent government company and three employees of thinking about daily events in it but also about life and society in general Topics drawn from the daily and weekly press for various blogs websites talk about movies series shows radio and television The idea is that actors humorously comment on current events to laugh viewers and encourage them to think about them",
+    "cast": [
+      {
+        "name": "Dimitrije Banjac",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mIwMcauxMZm7xA0noYlnymTkVhC.jpg"
+      },
+      {
+        "name": "Dejan Ćirjaković",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/thaVN1aJSQuvgT5RNwnznBEzUyY.jpg"
+      },
+      {
+        "name": "Nikola Škorić",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gxEZfWZiPLHaVwtkvbW7oBWiANQ.jpg"
+      }
+    ],
+    "date_added": 1787399284048
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "id": 615,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Futurama",
+    "overview": "يحكي المسلسل مغامرات صبي توصيل البيتزا فيليب جي فراي في مدينة نيويورك في أواخر القرن العشرين الذي تم تجميده عن غير قصد لألف عام بعدها وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express",
+    "popularity": 134.5357,
+    "poster_path": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+    "first_air_date": "1999-03-28",
+    "softcore": false,
+    "name": "فيوتشراما",
+    "vote_average": 8.364,
+    "vote_count": 3862,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1999-03-28",
+        "episode_count": 9,
+        "id": 1868,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/1HsTfDiB8Isd9QOVTPSriZSUeEF.jpg",
+        "season_number": 1,
+        "vote_average": 7.6,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "1999-09-26",
+        "episode_count": 20,
+        "id": 1869,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/73wNUIJoi50I8RozwncfPurfk8g.jpg",
+        "season_number": 2,
+        "vote_average": 7.4,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2000-11-05",
+        "episode_count": 15,
+        "id": 1870,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/3b7s0n9vpyrSQkohX8wxnmNKA9l.jpg",
+        "season_number": 3,
+        "vote_average": 7.6,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2001-12-09",
+        "episode_count": 12,
+        "id": 1871,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/mOc2Cd9cpCn5uaOjHqNNMrvNbzi.jpg",
+        "season_number": 4,
+        "vote_average": 7.6,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2002-11-10",
+        "episode_count": 16,
+        "id": 1872,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/r5nGE66fq69uR4FKA3j7TKSL8uP.jpg",
+        "season_number": 5,
+        "vote_average": 7.8,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-06-24",
+        "episode_count": 26,
+        "id": 1873,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/9QGsYuRe7XHa9ARu9XHKz0h0cra.jpg",
+        "season_number": 6,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2012-06-20",
+        "episode_count": 26,
+        "id": 1875,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/sKkMifpyEHPqqfMsmkOJ7oFgfpb.jpg",
+        "season_number": 7,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-07-24",
+        "episode_count": 10,
+        "id": 339563,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/7bRHBrmSn5QLY1UJ32v4jeSoKzP.jpg",
+        "season_number": 8,
+        "vote_average": 6.5,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-07-29",
+        "episode_count": 10,
+        "id": 387123,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": "/sdJcX2cXirwQurLLlrDLYov7hcD.jpg",
+        "season_number": 9,
+        "vote_average": 6.5,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-09-15",
+        "episode_count": 10,
+        "id": 466354,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": "/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
+        "season_number": 10,
+        "vote_average": 6.8,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-08-03",
+        "episode_count": 10,
+        "id": 516338,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": "/1vFaNoZkjjTHdAiVoC6HKhh1Ygz.jpg",
+        "season_number": 11,
+        "vote_average": 7,
+        "cast": [
+          {
+            "name": "Billy West",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+          },
+          {
+            "name": "Katey Sagal",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+          },
+          {
+            "name": "جون ديماغيو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+          },
+          {
+            "name": "تريس ماكنيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+          },
+          {
+            "name": "موريس لامارش",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+          },
+          {
+            "name": "Lauren Tom",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+          },
+          {
+            "name": "فيل لامار",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+          },
+          {
+            "name": "David Herman",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "فيوتشراما",
+    "title_en": "فيوتشراما",
+    "overview_en": "The adventures of a late 20th century New York City pizza delivery boy Philip J Fry who after being unwittingly cryogenically frozen for one thousand years finds employment at Planet Express an interplanetary delivery company in the retro futuristic 31st century",
+    "cast": [
+      {
+        "name": "Billy West",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+      },
+      {
+        "name": "Katey Sagal",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+      },
+      {
+        "name": "جون ديماغيو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+      },
+      {
+        "name": "تريس ماكنيلي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+      },
+      {
+        "name": "موريس لامارش",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+      },
+      {
+        "name": "Lauren Tom",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+      },
+      {
+        "name": "فيل لامار",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+      },
+      {
+        "name": "David Herman",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+      }
+    ],
+    "date_added": 1787399284321
   }
 ]
