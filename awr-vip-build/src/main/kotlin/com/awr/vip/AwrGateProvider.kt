@@ -20,13 +20,16 @@ import java.util.WeakHashMap
 class AwrGateProvider : ContentProvider(), Application.ActivityLifecycleCallbacks {
     private val handler = Handler(Looper.getMainLooper())
     private var current = WeakReference<Activity>(null)
-    private val protectedViews = WeakHashMap<View, Boolean>()
+    private val protectedTargets = WeakHashMap<View, Boolean>()
     private var lastGateAt = 0L
 
     override fun onCreate(): Boolean {
-        val app = context?.applicationContext as? Application ?: return true
-        app.registerActivityLifecycleCallbacks(this)
-        handler.post(scanner)
+        try {
+            val app = context?.applicationContext as? Application ?: return true
+            app.registerActivityLifecycleCallbacks(this)
+            handler.post(scanner)
+        } catch (_: Throwable) {
+        }
         return true
     }
 
@@ -37,17 +40,23 @@ class AwrGateProvider : ContentProvider(), Application.ActivityLifecycleCallback
                 if (activity != null && !activity.isFinishing && activity !is AwrVipActivity) {
                     val active = isActive(activity)
                     val className = activity.javaClass.name.lowercase()
-                    if (!active && (className.contains("module_vip") || className.contains("viprights") || className.endsWith("vipactivity"))) {
+                    if (!active && isVipScreen(className)) {
                         openGate(activity)
-                        activity.finish()
                     } else {
                         scan(activity.window.decorView, activity, active)
                     }
                 }
             } catch (_: Throwable) {
             }
-            handler.postDelayed(this, 450L)
+            handler.postDelayed(this, 350L)
         }
+    }
+
+    private fun isVipScreen(className: String): Boolean {
+        return className.contains("module_vip") ||
+            className.contains("viprights") ||
+            className.endsWith("vipactivity") ||
+            className.contains("redemptionvip")
     }
 
     private fun isActive(activity: Activity): Boolean {
@@ -58,10 +67,11 @@ class AwrGateProvider : ContentProvider(), Application.ActivityLifecycleCallback
     private fun scan(v: View, activity: Activity, active: Boolean) {
         try {
             if (v is TextView) {
-                val t = v.text?.toString()?.trim()?.uppercase() ?: ""
-                val premium = t == "1080P" || t.contains("VIP") || t.contains("PREMIUM") || t.contains("عضوية VIP")
-                if (premium) {
-                    if (!active) protect(v, activity) else unprotect(v)
+                val raw = v.text?.toString()?.trim() ?: ""
+                val t = raw.uppercase()
+                if (isPremiumLabel(t)) {
+                    val target = findActionTarget(v)
+                    if (active) unprotect(target) else protect(target, activity)
                 }
             }
             if (v is ViewGroup) {
@@ -71,21 +81,45 @@ class AwrGateProvider : ContentProvider(), Application.ActivityLifecycleCallback
         }
     }
 
-    private fun protect(v: View, activity: Activity) {
-        if (protectedViews.containsKey(v)) return
-        protectedViews[v] = true
-        v.alpha = 0.62f
-        v.setOnTouchListener { _, ev ->
-            if (ev.action == MotionEvent.ACTION_UP) openGate(activity)
-            true
+    private fun isPremiumLabel(t: String): Boolean {
+        if (t.isEmpty()) return false
+        if (t == "VIP" || t == "1080P" || t == "1080P+" || t == "FHD" ||
+            t == "2K" || t == "4K" || t == "1440P" || t == "2160P" ||
+            t.contains("ULTRA HD") || t.contains("PREMIUM")) return true
+        if (t.contains("VIP") && t.length <= 32) return true
+        return false
+    }
+
+    private fun findActionTarget(label: View): View {
+        var cur: View = label
+        var depth = 0
+        while (depth < 7) {
+            if (cur.isClickable || cur.isLongClickable || cur.isFocusable) return cur
+            val p = cur.parent
+            if (p !is View) break
+            cur = p
+            depth++
+        }
+        return cur
+    }
+
+    private fun protect(target: View, activity: Activity) {
+        if (protectedTargets.containsKey(target)) return
+        protectedTargets[target] = true
+        target.setOnTouchListener { _, ev ->
+            if (isActive(activity)) {
+                false
+            } else {
+                if (ev.action == MotionEvent.ACTION_UP) openGate(activity)
+                true
+            }
         }
     }
 
-    private fun unprotect(v: View) {
-        if (!protectedViews.containsKey(v)) return
-        protectedViews.remove(v)
-        v.alpha = 1f
-        v.setOnTouchListener(null)
+    private fun unprotect(target: View) {
+        if (!protectedTargets.containsKey(target)) return
+        protectedTargets.remove(target)
+        target.setOnTouchListener(null)
     }
 
     private fun openGate(activity: Activity) {
