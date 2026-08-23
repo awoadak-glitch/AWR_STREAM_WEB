@@ -43,22 +43,22 @@ jobs:
         working-directory: awr-vip-build
         run: gradle --no-daemon clean classes
 
-      - name: Build classes2.dex
+      - name: Build classes2.dex with Kotlin runtime
         shell: bash
         run: |
+          rm -rf awr-vip-build/out awr-vip-build/jarstage
           mkdir -p awr-vip-build/out awr-vip-build/jarstage
           cp -a awr-vip-build/build/classes/kotlin/main/. awr-vip-build/jarstage/
           (cd awr-vip-build/jarstage && jar cf ../awrvip.jar .)
           KOTLIN_STDLIB="$(find "$HOME/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib" -type f -name 'kotlin-stdlib-*.jar' | head -n1)"
           D8="$ANDROID_HOME/build-tools/35.0.0/d8"
-          "$D8" --min-api 23 --lib "$ANDROID_HOME/platforms/android-35/android.jar" --lib "$KOTLIN_STDLIB" --output awr-vip-build/out awr-vip-build/awrvip.jar
+          "$D8" --min-api 23 --lib "$ANDROID_HOME/platforms/android-35/android.jar" --output awr-vip-build/out awr-vip-build/awrvip.jar "$KOTLIN_STDLIB"
           mv awr-vip-build/out/classes.dex awr-vip-build/out/classes2.dex
           sha256sum awr-vip-build/out/classes2.dex
-          unzip -l awr-vip-build/awrvip.jar
 
       - uses: actions/upload-artifact@v4
         with:
-          name: awr-vip-classes2
+          name: awr-vip-classes2-full
           path: awr-vip-build/out/classes2.dex
           if-no-files-found: error
           retention-days: 1
