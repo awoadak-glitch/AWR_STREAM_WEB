@@ -8,6 +8,7 @@ import android.graphics.Color
 import android.graphics.drawable.GradientDrawable
 import android.view.Gravity
 import android.view.View
+import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
 import android.widget.LinearLayout
@@ -17,6 +18,7 @@ import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.net.HttpURLConnection
 import java.net.URL
+import java.nio.charset.StandardCharsets
 import org.json.JSONObject
 
 class AwrVipActivity : Activity(), View.OnClickListener {
@@ -27,8 +29,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val policy = StrictMode.ThreadPolicy.Builder().permitAll().build()
-        StrictMode.setThreadPolicy(policy)
+        StrictMode.setThreadPolicy(StrictMode.ThreadPolicy.Builder().permitAll().build())
         window.statusBarColor = Color.rgb(8, 10, 15)
         window.navigationBarColor = Color.rgb(8, 10, 15)
 
@@ -38,7 +39,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         root.orientation = LinearLayout.VERTICAL
         root.gravity = Gravity.CENTER_HORIZONTAL
         root.setPadding(dp(22), dp(36), dp(22), dp(28))
-        scroll.addView(root, ScrollView.LayoutParams(ScrollView.LayoutParams.MATCH_PARENT, ScrollView.LayoutParams.WRAP_CONTENT))
+        scroll.addView(root, ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT))
 
         val mark = TextView(this)
         mark.text = "AWR"
@@ -100,7 +101,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         root.addView(open, lpFull(dp(22), dp(54)))
 
         val info = TextView(this)
-        info.text = "AWR VIP\n\n• التفعيل مرتبط بالسيرفر الرسمي\n• حفظ حالة العضوية بعد التحقق\n• لا يتم تعديل كود HiTV الأصلي"
+        info.text = "AWR VIP\n\n• التفعيل مرتبط بالسيرفر الرسمي\n• حفظ حالة العضوية بعد التحقق\n• طبقة مستقلة ولا تعدّل DEX الأصلي"
         info.textSize = 14f
         info.setTextColor(Color.rgb(184, 188, 200))
         info.setLineSpacing(0f, 1.25f)
@@ -114,12 +115,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
 
     override fun onClick(v: View?) {
         if (v == null) return
-        val id = v.id
-        if (id == idActivate) {
-            activate()
-        } else if (id == idOpen) {
-            openMainApp()
-        }
+        if (v.id == idActivate) activate() else if (v.id == idOpen) openMainApp()
     }
 
     private fun activate() {
@@ -130,10 +126,8 @@ class AwrVipActivity : Activity(), View.OnClickListener {
             return
         }
         setStatus("جاري التحقق من السيرفر...", false)
-        val ok = verifyServer(code)
-        if (ok) {
-            val prefs = getSharedPreferences("awr_vip_3132", 0)
-            val edit = prefs.edit()
+        if (verifyServer(code)) {
+            val edit = getSharedPreferences("awr_vip_3132", 0).edit()
             edit.putBoolean("active", true)
             edit.putString("code", code)
             edit.apply()
@@ -149,11 +143,8 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         val saved = prefs.getString("code", "")
         val keyView = findViewById(idKey) as EditText
         if (saved != null && saved.length > 0) keyView.setText(saved)
-        if (active && "AWR-2026".equals(saved)) {
-            setStatus("AWR VIP مفعل • دائم", true)
-        } else {
-            setStatus("AWR VIP غير مفعل", false)
-        }
+        if (active && "AWR-2026".equals(saved)) setStatus("AWR VIP مفعل • دائم", true)
+        else setStatus("AWR VIP غير مفعل", false)
     }
 
     private fun setStatus(text: String, ok: Boolean) {
@@ -191,29 +182,26 @@ class AwrVipActivity : Activity(), View.OnClickListener {
             conn.setRequestProperty("Content-Type", "application/json; charset=UTF-8")
             val body = "{\"key\":\"" + code.replace("\\", "\\\\").replace("\"", "\\\"") + "\"}"
             val out = conn.outputStream
-            out.write(body.toByteArray(Charsets.UTF_8))
+            out.write(body.toByteArray(StandardCharsets.UTF_8))
             out.flush()
             out.close()
             val rc = conn.responseCode
             val stream = if (rc >= 200 && rc < 300) conn.inputStream else conn.errorStream
             if (stream == null) return false
-            val reader = BufferedReader(InputStreamReader(stream, Charsets.UTF_8))
+            val reader = BufferedReader(InputStreamReader(stream, StandardCharsets.UTF_8))
             val sb = StringBuilder()
-            var line: String? = reader.readLine()
+            var line = reader.readLine()
             while (line != null) {
                 sb.append(line)
                 line = reader.readLine()
             }
             reader.close()
             val json = JSONObject(sb.toString())
-            val success = json.optBoolean("success", false)
-            val serverCode = json.optString("code", "")
-            val auth = json.optString("auth", "")
-            return success && "VALID".equals(serverCode) && "AWR_OK_2026".equals(auth)
+            return json.optBoolean("success", false) && "VALID".equals(json.optString("code", "")) && "AWR_OK_2026".equals(json.optString("auth", ""))
         } catch (e: Throwable) {
             return false
         } finally {
-            try { conn?.disconnect() } catch (ignored: Throwable) { }
+            try { if (conn != null) conn.disconnect() } catch (ignored: Throwable) { }
         }
     }
 
@@ -237,7 +225,5 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         return p
     }
 
-    private fun dp(v: Int): Int {
-        return (v * resources.displayMetrics.density + 0.5f).toInt()
-    }
+    private fun dp(v: Int): Int = (v * resources.displayMetrics.density + 0.5f).toInt()
 }
