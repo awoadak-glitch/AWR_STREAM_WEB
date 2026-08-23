@@ -2,8 +2,6 @@ plugins {
     kotlin("jvm") version "2.1.20"
 }
 
-repositories { mavenCentral() }
-
 val androidJar = file(System.getenv("ANDROID_HOME") + "/platforms/android-35/android.jar")
 dependencies {
     compileOnly(files(androidJar))
