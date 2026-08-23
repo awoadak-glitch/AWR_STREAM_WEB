@@ -2,6 +2,8 @@ package com.awr.vip
 
 import android.app.Activity
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import android.os.StrictMode
 import android.content.Intent
 import android.graphics.Color
@@ -24,7 +26,7 @@ import org.json.JSONObject
 class AwrVipActivity : Activity(), View.OnClickListener {
     private val idKey = 0x0A771001
     private val idActivate = 0x0A771002
-    private val idOpen = 0x0A771003
+    private val idBack = 0x0A771003
     private val idStatus = 0x0A771004
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -58,7 +60,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         root.addView(title, lpWrap(dp(3)))
 
         val sub = TextView(this)
-        sub.text = "بوابة العضوية الرسمية"
+        sub.text = "فعّل العضوية للوصول إلى مزايا VIP"
         sub.gravity = Gravity.CENTER
         sub.textSize = 14f
         sub.setTextColor(Color.rgb(160, 166, 180))
@@ -91,17 +93,17 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         activate.setOnClickListener(this)
         root.addView(activate, lpFull(dp(12), dp(54)))
 
-        val open = Button(this)
-        open.id = idOpen
-        open.text = "فتح HiTV"
-        open.textSize = 16f
-        open.setTextColor(Color.WHITE)
-        open.background = rounded(Color.rgb(31, 35, 47), dp(16).toFloat(), Color.rgb(72, 78, 94))
-        open.setOnClickListener(this)
-        root.addView(open, lpFull(dp(22), dp(54)))
+        val back = Button(this)
+        back.id = idBack
+        back.text = "رجوع"
+        back.textSize = 16f
+        back.setTextColor(Color.WHITE)
+        back.background = rounded(Color.rgb(31, 35, 47), dp(16).toFloat(), Color.rgb(72, 78, 94))
+        back.setOnClickListener(this)
+        root.addView(back, lpFull(dp(22), dp(54)))
 
         val info = TextView(this)
-        info.text = "AWR VIP\n\n• التفعيل مرتبط بالسيرفر الرسمي\n• حفظ حالة العضوية بعد التحقق\n• طبقة مستقلة ولا تعدّل DEX الأصلي"
+        info.text = "AWR VIP\n\n• المحتوى العادي يعمل بدون تفعيل\n• جودة 1080P والجودات العليا محمية\n• المحتوى والميزات التي تحمل VIP تتطلب التفعيل\n• بعد التفعيل ترجع إلى الشاشة السابقة"
         info.textSize = 14f
         info.setTextColor(Color.rgb(184, 188, 200))
         info.setLineSpacing(0f, 1.25f)
@@ -115,13 +117,13 @@ class AwrVipActivity : Activity(), View.OnClickListener {
 
     override fun onClick(v: View?) {
         if (v == null) return
-        if (v.id == idActivate) activate() else if (v.id == idOpen) openMainApp()
+        if (v.id == idActivate) activate() else if (v.id == idBack) finish()
     }
 
     private fun activate() {
         val keyView = findViewById(idKey) as EditText
-        val code = keyView.text.toString()
-        if (!"AWR-2026".equals(code)) {
+        val code = keyView.text.toString().trim()
+        if (code != "AWR-2026") {
             setStatus("الكود غير صحيح", false)
             return
         }
@@ -132,6 +134,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
             edit.putString("code", code)
             edit.apply()
             setStatus("AWR VIP مفعل • دائم", true)
+            Handler(Looper.getMainLooper()).postDelayed({ finish() }, 700L)
         } else {
             setStatus("تعذر التفعيل: تحقق من الإنترنت أو الكود", false)
         }
@@ -142,8 +145,8 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         val active = prefs.getBoolean("active", false)
         val saved = prefs.getString("code", "")
         val keyView = findViewById(idKey) as EditText
-        if (saved != null && saved.length > 0) keyView.setText(saved)
-        if (active && "AWR-2026".equals(saved)) setStatus("AWR VIP مفعل • دائم", true)
+        if (!saved.isNullOrEmpty()) keyView.setText(saved)
+        if (active && saved == "AWR-2026") setStatus("AWR VIP مفعل • دائم", true)
         else setStatus("AWR VIP غير مفعل", false)
     }
 
@@ -156,17 +159,6 @@ class AwrVipActivity : Activity(), View.OnClickListener {
         } else {
             status.setTextColor(Color.rgb(255, 201, 87))
             status.background = rounded(Color.rgb(45, 37, 20), dp(15).toFloat(), Color.rgb(120, 94, 38))
-        }
-    }
-
-    private fun openMainApp() {
-        try {
-            val intent = Intent()
-            intent.setClassName("com.hitv.savita", "com.hitv.savita.module_home.HomeActivityNew")
-            startActivity(intent)
-            finish()
-        } catch (e: Throwable) {
-            setStatus("تعذر فتح التطبيق الرئيسي", false)
         }
     }
 
@@ -186,7 +178,7 @@ class AwrVipActivity : Activity(), View.OnClickListener {
             out.flush()
             out.close()
             val rc = conn.responseCode
-            val stream = if (rc >= 200 && rc < 300) conn.inputStream else conn.errorStream
+            val stream = if (rc in 200..299) conn.inputStream else conn.errorStream
             if (stream == null) return false
             val reader = BufferedReader(InputStreamReader(stream, StandardCharsets.UTF_8))
             val sb = StringBuilder()
@@ -197,11 +189,13 @@ class AwrVipActivity : Activity(), View.OnClickListener {
             }
             reader.close()
             val json = JSONObject(sb.toString())
-            return json.optBoolean("success", false) && "VALID".equals(json.optString("code", "")) && "AWR_OK_2026".equals(json.optString("auth", ""))
-        } catch (e: Throwable) {
+            return json.optBoolean("success", false) &&
+                json.optString("code", "") == "VALID" &&
+                json.optString("auth", "") == "AWR_OK_2026"
+        } catch (_: Throwable) {
             return false
         } finally {
-            try { if (conn != null) conn.disconnect() } catch (ignored: Throwable) { }
+            try { conn?.disconnect() } catch (_: Throwable) { }
         }
     }
 
