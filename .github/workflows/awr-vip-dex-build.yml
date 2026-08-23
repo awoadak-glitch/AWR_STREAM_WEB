@@ -47,7 +47,7 @@ jobs:
         shell: bash
         run: |
           rm -rf awr-vip-build/out awr-vip-build/jarstage
-          mkdir -p awr-vip-build/out awr-vip-build/jarstage/lib64
+          mkdir -p awr-vip-build/out/lib64 awr-vip-build/jarstage
           cp -a awr-vip-build/build/classes/kotlin/main/. awr-vip-build/jarstage/
           (cd awr-vip-build/jarstage && jar cf ../awrvip.jar .)
           KOTLIN_STDLIB="$(find "$HOME/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib" -type f -name 'kotlin-stdlib-*.jar' | head -n1)"
