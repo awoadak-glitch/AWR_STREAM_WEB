@@ -7,6 +7,12 @@ on:
     paths:
       - 'awr-vip-build/**'
       - '.github/workflows/awr-vip-dex-build.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'awr-vip-build/**'
+      - '.github/workflows/awr-vip-dex-build.yml'
 
 jobs:
   build:
