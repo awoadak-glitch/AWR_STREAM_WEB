@@ -54,11 +54,13 @@ jobs:
           D8="$ANDROID_HOME/build-tools/35.0.0/d8"
           "$D8" --min-api 23 --lib "$ANDROID_HOME/platforms/android-35/android.jar" --output awr-vip-build/out awr-vip-build/awrvip.jar "$KOTLIN_STDLIB"
           mv awr-vip-build/out/classes.dex awr-vip-build/out/classes2.dex
+          cp "$ANDROID_HOME/build-tools/35.0.0/lib/apksigner.jar" awr-vip-build/out/apksigner.jar
+          cp "$ANDROID_HOME/build-tools/35.0.0/zipalign" awr-vip-build/out/zipalign
           sha256sum awr-vip-build/out/classes2.dex
 
       - uses: actions/upload-artifact@v4
         with:
-          name: awr-vip-classes2-full
-          path: awr-vip-build/out/classes2.dex
+          name: awr-vip-final-build-tools
+          path: awr-vip-build/out/
           if-no-files-found: error
           retention-days: 1
