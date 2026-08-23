@@ -47,7 +47,7 @@ jobs:
         shell: bash
         run: |
           rm -rf awr-vip-build/out awr-vip-build/jarstage
-          mkdir -p awr-vip-build/out awr-vip-build/jarstage
+          mkdir -p awr-vip-build/out awr-vip-build/jarstage/lib64
           cp -a awr-vip-build/build/classes/kotlin/main/. awr-vip-build/jarstage/
           (cd awr-vip-build/jarstage && jar cf ../awrvip.jar .)
           KOTLIN_STDLIB="$(find "$HOME/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib" -type f -name 'kotlin-stdlib-*.jar' | head -n1)"
@@ -56,7 +56,8 @@ jobs:
           mv awr-vip-build/out/classes.dex awr-vip-build/out/classes2.dex
           cp "$ANDROID_HOME/build-tools/35.0.0/lib/apksigner.jar" awr-vip-build/out/apksigner.jar
           cp "$ANDROID_HOME/build-tools/35.0.0/zipalign" awr-vip-build/out/zipalign
-          sha256sum awr-vip-build/out/classes2.dex
+          cp "$ANDROID_HOME/build-tools/35.0.0/lib64/libc++.so" awr-vip-build/out/lib64/libc++.so
+          sha256sum awr-vip-build/out/classes2.dex awr-vip-build/out/lib64/libc++.so
 
       - uses: actions/upload-artifact@v4
         with:
