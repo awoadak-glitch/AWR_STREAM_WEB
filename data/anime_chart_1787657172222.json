@@ -90,7 +90,557 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hBiyY9sU7tw6pf2eaDIeyF1NOfq.jpg"
       }
     ],
-    "date_added": 1787643824339
+    "date_added": 1787657290735
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 30984,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLEACH",
+    "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
+    "popularity": 134.0714,
+    "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
+    "first_air_date": "2004-10-05",
+    "softcore": false,
+    "name": "المطهر",
+    "vote_average": 8.369,
+    "vote_count": 2237,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2004-10-05",
+        "episode_count": 366,
+        "id": 42567,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
+        "season_number": 1,
+        "vote_average": 6.9,
+        "cast": [
+          {
+            "name": "森田成一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+          },
+          {
+            "name": "فوميكو أوريكاسا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+          },
+          {
+            "name": "安元洋貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+          },
+          {
+            "name": "松岡由貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
+          },
+          {
+            "name": "杉山紀彰",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+          },
+          {
+            "name": "伊藤健太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fIoreUBVEWcRLZanJlHUSQAjpeE.jpg"
+          },
+          {
+            "name": "置鮎龍太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg"
+          },
+          {
+            "name": "真殿光昭",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j2zw5q1tqfFoMhEbolca6Sqrjbk.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-10-11",
+        "episode_count": 50,
+        "id": 295738,
+        "name": "حرب الدم التي دامت ألف عام",
+        "overview": "الفصل الأخير من سلسلة بليتش، حيث يواجه إيتشيغو كوروساكي وحاصدو الأرواح جيش الكوينسي القوي بقيادة يوهاخ، في معركة تهدد توازن جميع العوالم",
+        "poster_path": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+        "season_number": 2,
+        "vote_average": 7.7,
+        "cast": [
+          {
+            "name": "森田成一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+          },
+          {
+            "name": "فوميكو أوريكاسا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+          },
+          {
+            "name": "安元洋貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+          },
+          {
+            "name": "松岡由貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
+          },
+          {
+            "name": "杉山紀彰",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "المطهر",
+    "title_en": "Bleach",
+    "overview_en": "For as long as he can remember Ichigo Kurosaki has been able to see ghosts But when he meets Rukia a Soul Reaper who battles evil spirits known as Hollows he finds his life is changed forever Now with a newfound wealth of spiritual energy Ichigo discovers his true calling to protect the living and the dead from evil",
+    "cast": [
+      {
+        "name": "森田成一",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+      },
+      {
+        "name": "فوميكو أوريكاسا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+      },
+      {
+        "name": "安元洋貴",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+      },
+      {
+        "name": "松岡由貴",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
+      },
+      {
+        "name": "杉山紀彰",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+      }
+    ],
+    "date_added": 1787657290755
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "id": 65733,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات وهو صبي كسول وغير منسق يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها",
+    "popularity": 119.7025,
+    "poster_path": "/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
+    "first_air_date": "2005-04-22",
+    "softcore": false,
+    "name": "دورايمون",
+    "vote_average": 8.1,
+    "vote_count": 239,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2005-04-22",
+        "episode_count": 1464,
+        "id": 74968,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/AdJjCFieCCyOpRSGDo4XJfSfQTT.jpg",
+        "season_number": 1,
+        "vote_average": 8.1,
+        "cast": [
+          {
+            "name": "大原めぐみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+          },
+          {
+            "name": "水田わさび",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+          },
+          {
+            "name": "かかずゆみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+          },
+          {
+            "name": "関智一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+          },
+          {
+            "name": "سوبارو كيمورا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+          },
+          {
+            "name": "千秋",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+          },
+          {
+            "name": "كوتونو ميتسويشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+          },
+          {
+            "name": "ياسونوري ماتسموتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "دورايمون",
+    "title_en": "Doraemon",
+    "overview_en": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10 year old Noby a lazy and uncoordinated boy who is destined to have a tragic future Doraemon can create secret gadgets from a pocket on his stomach but they usually cause more bad than good because of Noby s propensity to misuse them",
+    "cast": [
+      {
+        "name": "大原めぐみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+      },
+      {
+        "name": "水田わさび",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+      },
+      {
+        "name": "かかずゆみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+      },
+      {
+        "name": "関智一",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+      },
+      {
+        "name": "سوبارو كيمورا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+      },
+      {
+        "name": "千秋",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+      },
+      {
+        "name": "كوتونو ميتسويشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+      },
+      {
+        "name": "ياسونوري ماتسموتو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+      }
+    ],
+    "date_added": 1787657290831
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 95897,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "おーばーふろぉ",
+    "overview": "كازوشي سودو طالب جامعي يزورونه صديقات طفولته الأختين أياني و كوتوني شيراكاوا ولما تكتشف أياني إن كازوشي مو بس نسى يشتري لها الحلى البودينغ لكنه بعد قاعد يستخدم اللوشن الخاص فيها وهو يتروش تقرر تنتقم وتطب عليه في الحمام هي وأختها كوتوني والسؤال هنا هل بيقدر كازوشي يمسك نفسه وما يتأثر بوجودهم",
+    "popularity": 110.7007,
+    "poster_path": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+    "first_air_date": "2020-01-06",
+    "softcore": false,
+    "name": "الفيضان",
+    "vote_average": 7.5,
+    "vote_count": 90,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2020-01-06",
+        "episode_count": 8,
+        "id": 136626,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/pE2v7nbYcv6FTfRApYOFTo4INfC.jpg",
+        "season_number": 1,
+        "vote_average": 7.4,
+        "cast": [
+          {
+            "name": "門脇舞以",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jb3fSusebJ0yDTZ6bB9ckL3mAvu.jpg"
+          },
+          {
+            "name": "民安ともえ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3uFDYmj2TM2F59DQTku5RQ5XRLw.jpg"
+          },
+          {
+            "name": "佐田直啓",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "الفيضان",
+    "title_en": "Overflow",
+    "overview_en": "Kazushi Sudou is a university student who is visited by his two childhood friends the sisters Ayane and Kotone Shirakawa When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath she decides to take revenge and join Kazushi in his bath along with Kotone Will the perverted Kazushi be able to remain indifferent to them both",
+    "cast": [
+      {
+        "name": "門脇舞以",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jb3fSusebJ0yDTZ6bB9ckL3mAvu.jpg"
+      },
+      {
+        "name": "民安ともえ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3uFDYmj2TM2F59DQTku5RQ5XRLw.jpg"
+      },
+      {
+        "name": "佐田直啓",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
+      }
+    ],
+    "date_added": 1787657290924
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 204269,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "森のくまさん、冬眠中。",
+    "overview": "",
+    "popularity": 99.9257,
+    "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
+    "first_air_date": "2022-07-04",
+    "softcore": false,
+    "name": "森のくまさん、冬眠中。",
+    "vote_average": 5.9,
+    "vote_count": 7,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2022-07-04",
+        "episode_count": 9,
+        "id": 297780,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "天﨑滉平",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg"
+          },
+          {
+            "name": "興津和幸",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
+          },
+          {
+            "name": "河西健吾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
+          },
+          {
+            "name": "山下誠一郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "森のくまさん 冬眠中",
+    "title_en": "Caressing My Hibernating Bear",
+    "overview_en": "Nowa a bear living in the forest decides to take an abandoned puppy under his wing He names it Airi and takes care of it with great care Time passes and Nowa soon has to leave him temporarily alone in order to hibernate Waking up several months later he discovers that Airi has grown well into an attractive young man",
+    "cast": [
+      {
+        "name": "天﨑滉平",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg"
+      },
+      {
+        "name": "興津和幸",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
+      },
+      {
+        "name": "河西健吾",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
+      },
+      {
+        "name": "山下誠一郎",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
+      }
+    ],
+    "date_added": 1787657290993
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f5l4L9QPCleLRWBXkjhT9fedyD0.jpg",
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "id": 5857,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "マクロスF",
+    "overview": "",
+    "popularity": 60.9374,
+    "poster_path": "/tPLwpEYlivtU6XCbfdBPt8MN5lo.jpg",
+    "first_air_date": "2008-04-03",
+    "softcore": false,
+    "name": "マクロスF",
+    "vote_average": 7.878,
+    "vote_count": 37,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2008-04-03",
+        "episode_count": 25,
+        "id": 15918,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/oBpdgIA2N0ZUa3OjFfvftbwWL5.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "كينتا مياكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
+          },
+          {
+            "name": "كاتسويوكي كونيشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+          },
+          {
+            "name": "小林沙苗",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yMNnNg1ouQtSaieUYk9KNizuLSV.jpg"
+          },
+          {
+            "name": "توموميتشي نيشيمورا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg"
+          },
+          {
+            "name": "神谷浩史",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          },
+          {
+            "name": "ريي تاناكا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
+          },
+          {
+            "name": "中島愛",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1ayG1Hx1icxb2MgYm6KFaIYHRmx.jpg"
+          },
+          {
+            "name": "桑島法子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "マクロスF",
+    "title_en": "Macross Frontier",
+    "overview_en": "A human space colony fleet is trying to find a habitable planet near the center of the Milky Way Galaxy The story focuses on three young adults and the events that occur around them as the fleet faces a crisis of alien origin",
+    "cast": [
+      {
+        "name": "كينتا مياكي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
+      },
+      {
+        "name": "كاتسويوكي كونيشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+      },
+      {
+        "name": "小林沙苗",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yMNnNg1ouQtSaieUYk9KNizuLSV.jpg"
+      },
+      {
+        "name": "توموميتشي نيشيمورا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg"
+      },
+      {
+        "name": "神谷浩史",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+      },
+      {
+        "name": "ريي تاناكا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
+      },
+      {
+        "name": "中島愛",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1ayG1Hx1icxb2MgYm6KFaIYHRmx.jpg"
+      },
+      {
+        "name": "桑島法子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
+      }
+    ],
+    "date_added": 1787657291079
   },
   {
     "adult": false,
@@ -228,557 +778,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1787643824379
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765
-    ],
-    "id": 30984,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "BLEACH",
-    "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
-    "popularity": 134.0714,
-    "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
-    "first_air_date": "2004-10-05",
-    "softcore": false,
-    "name": "المطهر",
-    "vote_average": 8.368,
-    "vote_count": 2236,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2004-10-05",
-        "episode_count": 366,
-        "id": 42567,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
-        "season_number": 1,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "森田成一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
-          },
-          {
-            "name": "فوميكو أوريكاسا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
-          },
-          {
-            "name": "安元洋貴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
-          },
-          {
-            "name": "松岡由貴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
-          },
-          {
-            "name": "杉山紀彰",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
-          },
-          {
-            "name": "伊藤健太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fIoreUBVEWcRLZanJlHUSQAjpeE.jpg"
-          },
-          {
-            "name": "置鮎龍太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg"
-          },
-          {
-            "name": "真殿光昭",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j2zw5q1tqfFoMhEbolca6Sqrjbk.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2022-10-11",
-        "episode_count": 50,
-        "id": 295738,
-        "name": "حرب الدم التي دامت ألف عام",
-        "overview": "الفصل الأخير من سلسلة بليتش، حيث يواجه إيتشيغو كوروساكي وحاصدو الأرواح جيش الكوينسي القوي بقيادة يوهاخ، في معركة تهدد توازن جميع العوالم",
-        "poster_path": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
-        "season_number": 2,
-        "vote_average": 7.7,
-        "cast": [
-          {
-            "name": "森田成一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
-          },
-          {
-            "name": "فوميكو أوريكاسا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
-          },
-          {
-            "name": "安元洋貴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
-          },
-          {
-            "name": "松岡由貴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
-          },
-          {
-            "name": "杉山紀彰",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "المطهر",
-    "title_en": "Bleach",
-    "overview_en": "For as long as he can remember Ichigo Kurosaki has been able to see ghosts But when he meets Rukia a Soul Reaper who battles evil spirits known as Hollows he finds his life is changed forever Now with a newfound wealth of spiritual energy Ichigo discovers his true calling to protect the living and the dead from evil",
-    "cast": [
-      {
-        "name": "森田成一",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
-      },
-      {
-        "name": "فوميكو أوريكاسا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
-      },
-      {
-        "name": "安元洋貴",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
-      },
-      {
-        "name": "松岡由貴",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
-      },
-      {
-        "name": "杉山紀彰",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
-      }
-    ],
-    "date_added": 1787643824415
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      35,
-      10765,
-      10762,
-      10751
-    ],
-    "id": 65733,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ドラえもん",
-    "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات وهو صبي كسول وغير منسق يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها",
-    "popularity": 119.7025,
-    "poster_path": "/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
-    "first_air_date": "2005-04-22",
-    "softcore": false,
-    "name": "دورايمون",
-    "vote_average": 8.1,
-    "vote_count": 239,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2005-04-22",
-        "episode_count": 1464,
-        "id": 74968,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/AdJjCFieCCyOpRSGDo4XJfSfQTT.jpg",
-        "season_number": 1,
-        "vote_average": 8.1,
-        "cast": [
-          {
-            "name": "大原めぐみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-          },
-          {
-            "name": "水田わさび",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-          },
-          {
-            "name": "かかずゆみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-          },
-          {
-            "name": "関智一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-          },
-          {
-            "name": "سوبارو كيمورا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-          },
-          {
-            "name": "千秋",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
-          },
-          {
-            "name": "كوتونو ميتسويشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
-          },
-          {
-            "name": "ياسونوري ماتسموتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "دورايمون",
-    "title_en": "Doraemon",
-    "overview_en": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10 year old Noby a lazy and uncoordinated boy who is destined to have a tragic future Doraemon can create secret gadgets from a pocket on his stomach but they usually cause more bad than good because of Noby s propensity to misuse them",
-    "cast": [
-      {
-        "name": "大原めぐみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-      },
-      {
-        "name": "水田わさび",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-      },
-      {
-        "name": "かかずゆみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-      },
-      {
-        "name": "関智一",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-      },
-      {
-        "name": "سوبارو كيمورا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-      },
-      {
-        "name": "千秋",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
-      },
-      {
-        "name": "كوتونو ميتسويشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
-      },
-      {
-        "name": "ياسونوري ماتسموتو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
-      }
-    ],
-    "date_added": 1787643824476
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
-    "genre_ids": [
-      16
-    ],
-    "id": 95897,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "おーばーふろぉ",
-    "overview": "كازوشي سودو طالب جامعي يزورونه صديقات طفولته الأختين أياني و كوتوني شيراكاوا ولما تكتشف أياني إن كازوشي مو بس نسى يشتري لها الحلى البودينغ لكنه بعد قاعد يستخدم اللوشن الخاص فيها وهو يتروش تقرر تنتقم وتطب عليه في الحمام هي وأختها كوتوني والسؤال هنا هل بيقدر كازوشي يمسك نفسه وما يتأثر بوجودهم",
-    "popularity": 110.7007,
-    "poster_path": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-    "first_air_date": "2020-01-06",
-    "softcore": false,
-    "name": "الفيضان",
-    "vote_average": 7.5,
-    "vote_count": 90,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2020-01-06",
-        "episode_count": 8,
-        "id": 136626,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/pE2v7nbYcv6FTfRApYOFTo4INfC.jpg",
-        "season_number": 1,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "門脇舞以",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jb3fSusebJ0yDTZ6bB9ckL3mAvu.jpg"
-          },
-          {
-            "name": "民安ともえ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3uFDYmj2TM2F59DQTku5RQ5XRLw.jpg"
-          },
-          {
-            "name": "佐田直啓",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "الفيضان",
-    "title_en": "Overflow",
-    "overview_en": "Kazushi Sudou is a university student who is visited by his two childhood friends the sisters Ayane and Kotone Shirakawa When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath she decides to take revenge and join Kazushi in his bath along with Kotone Will the perverted Kazushi be able to remain indifferent to them both",
-    "cast": [
-      {
-        "name": "門脇舞以",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jb3fSusebJ0yDTZ6bB9ckL3mAvu.jpg"
-      },
-      {
-        "name": "民安ともえ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3uFDYmj2TM2F59DQTku5RQ5XRLw.jpg"
-      },
-      {
-        "name": "佐田直啓",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
-      }
-    ],
-    "date_added": 1787643824497
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
-    "genre_ids": [
-      16
-    ],
-    "id": 204269,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "森のくまさん、冬眠中。",
-    "overview": "",
-    "popularity": 99.9257,
-    "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
-    "first_air_date": "2022-07-04",
-    "softcore": false,
-    "name": "森のくまさん、冬眠中。",
-    "vote_average": 5.9,
-    "vote_count": 7,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2022-07-04",
-        "episode_count": 9,
-        "id": 297780,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "天﨑滉平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg"
-          },
-          {
-            "name": "興津和幸",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
-          },
-          {
-            "name": "河西健吾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
-          },
-          {
-            "name": "山下誠一郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "森のくまさん 冬眠中",
-    "title_en": "Caressing My Hibernating Bear",
-    "overview_en": "Nowa a bear living in the forest decides to take an abandoned puppy under his wing He names it Airi and takes care of it with great care Time passes and Nowa soon has to leave him temporarily alone in order to hibernate Waking up several months later he discovers that Airi has grown well into an attractive young man",
-    "cast": [
-      {
-        "name": "天﨑滉平",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg"
-      },
-      {
-        "name": "興津和幸",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
-      },
-      {
-        "name": "河西健吾",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
-      },
-      {
-        "name": "山下誠一郎",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
-      }
-    ],
-    "date_added": 1787643824517
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/f5l4L9QPCleLRWBXkjhT9fedyD0.jpg",
-    "genre_ids": [
-      16,
-      10759
-    ],
-    "id": 5857,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "マクロスF",
-    "overview": "",
-    "popularity": 60.9374,
-    "poster_path": "/tPLwpEYlivtU6XCbfdBPt8MN5lo.jpg",
-    "first_air_date": "2008-04-03",
-    "softcore": false,
-    "name": "マクロスF",
-    "vote_average": 7.878,
-    "vote_count": 37,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2008-04-03",
-        "episode_count": 25,
-        "id": 15918,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/oBpdgIA2N0ZUa3OjFfvftbwWL5.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "كينتا مياكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
-          },
-          {
-            "name": "كاتسويوكي كونيشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-          },
-          {
-            "name": "小林沙苗",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yMNnNg1ouQtSaieUYk9KNizuLSV.jpg"
-          },
-          {
-            "name": "توموميتشي نيشيمورا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg"
-          },
-          {
-            "name": "神谷浩史",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-          },
-          {
-            "name": "ريي تاناكا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
-          },
-          {
-            "name": "中島愛",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1ayG1Hx1icxb2MgYm6KFaIYHRmx.jpg"
-          },
-          {
-            "name": "桑島法子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "マクロスF",
-    "title_en": "Macross Frontier",
-    "overview_en": "A human space colony fleet is trying to find a habitable planet near the center of the Milky Way Galaxy The story focuses on three young adults and the events that occur around them as the fleet faces a crisis of alien origin",
-    "cast": [
-      {
-        "name": "كينتا مياكي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
-      },
-      {
-        "name": "كاتسويوكي كونيشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-      },
-      {
-        "name": "小林沙苗",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yMNnNg1ouQtSaieUYk9KNizuLSV.jpg"
-      },
-      {
-        "name": "توموميتشي نيشيمورا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/nDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg"
-      },
-      {
-        "name": "神谷浩史",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-      },
-      {
-        "name": "ريي تاناكا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
-      },
-      {
-        "name": "中島愛",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/1ayG1Hx1icxb2MgYm6KFaIYHRmx.jpg"
-      },
-      {
-        "name": "桑島法子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
-      }
-    ],
-    "date_added": 1787643824530
+    "date_added": 1787657291122
   },
   {
     "adult": false,
@@ -892,7 +892,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/njJHBtfhUYfhNpJeCh7wEsHaAiT.jpg"
       }
     ],
-    "date_added": 1787643824556
+    "date_added": 1787657291200
   },
   {
     "adult": false,
@@ -954,7 +954,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/idV7H8BvkcMvbFFHtqmQ5E0A19f.jpg"
       }
     ],
-    "date_added": 1787643824597
+    "date_added": 1787657291281
   },
   {
     "adult": false,
@@ -1077,7 +1077,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
       }
     ],
-    "date_added": 1787643824610
+    "date_added": 1787657291310
   },
   {
     "adult": false,
@@ -1200,7 +1200,49 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
       }
     ],
-    "date_added": 1787643824688
+    "date_added": 1787657291389
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 95479,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "呪術廻戦",
+    "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة لكنّه يعيش حياة مدرسية عادية تمامًا في أحد الأيّام ومن أجل إنقاذ صديق هاجمته لعنة يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو غوجو ساتورو",
+    "popularity": 86.7862,
+    "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+    "first_air_date": "2020-10-03",
+    "softcore": false,
+    "name": "JUJUTSU KAISEN",
+    "vote_average": 8.585,
+    "vote_count": 4623,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2020-10-03",
+        "episode_count": 59,
+        "id": 135856,
+        "name": "الموسم 1",
+        "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة، لكنّه يعيش حياة مدرسية عادية تمامًا. في أحد الأيّام، ومن أجل إنقاذ صديق هاجمته لعنة، يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة. وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو، غوجو ساتورو.",
+        "poster_path": "/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
+        "season_number": 1,
+        "vote_average": 8.1,
+        "cast": []
+      }
+    ],
+    "title": "JUJUTSU KAISEN",
+    "title_en": "JUJUTSU KAISEN",
+    "overview_en": "Yuji Itadori is a boy with tremendous physical strength though he lives a completely ordinary high school life One day to save a classmate who has been attacked by curses he eats the finger of Ryomen Sukuna taking the curse into his own soul From then on he shares one body with Ryomen Sukuna Guided by the most powerful of sorcerers Satoru Gojo Itadori is admitted to Tokyo Jujutsu High School an organization that fights the curses and thus begins the heroic tale of a boy who became a curse to exorcise a curse a life from which he could never turn back",
+    "cast": [],
+    "date_added": 1787657291585
   },
   {
     "adult": false,
@@ -1305,49 +1347,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1787643824707
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "id": 95479,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "呪術廻戦",
-    "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة لكنّه يعيش حياة مدرسية عادية تمامًا في أحد الأيّام ومن أجل إنقاذ صديق هاجمته لعنة يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو غوجو ساتورو",
-    "popularity": 86.7862,
-    "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
-    "first_air_date": "2020-10-03",
-    "softcore": false,
-    "name": "JUJUTSU KAISEN",
-    "vote_average": 8.584,
-    "vote_count": 4622,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2020-10-03",
-        "episode_count": 59,
-        "id": 135856,
-        "name": "الموسم 1",
-        "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة، لكنّه يعيش حياة مدرسية عادية تمامًا. في أحد الأيّام، ومن أجل إنقاذ صديق هاجمته لعنة، يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة. وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو، غوجو ساتورو.",
-        "poster_path": "/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
-        "season_number": 1,
-        "vote_average": 8.1,
-        "cast": []
-      }
-    ],
-    "title": "JUJUTSU KAISEN",
-    "title_en": "JUJUTSU KAISEN",
-    "overview_en": "Yuji Itadori is a boy with tremendous physical strength though he lives a completely ordinary high school life One day to save a classmate who has been attacked by curses he eats the finger of Ryomen Sukuna taking the curse into his own soul From then on he shares one body with Ryomen Sukuna Guided by the most powerful of sorcerers Satoru Gojo Itadori is admitted to Tokyo Jujutsu High School an organization that fights the curses and thus begins the heroic tale of a boy who became a curse to exorcise a curse a life from which he could never turn back",
-    "cast": [],
-    "date_added": 1787643824744
+    "date_added": 1787657291598
   },
   {
     "adult": false,
@@ -1441,7 +1441,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
       }
     ],
-    "date_added": 1787643824777
+    "date_added": 1787657291733
   },
   {
     "adult": false,
@@ -1511,7 +1511,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
       }
     ],
-    "date_added": 1787643824924
+    "date_added": 1787657291877
   },
   {
     "adult": false,
@@ -1613,7 +1613,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787643825410
+    "date_added": 1787657291968
   },
   {
     "adult": false,
@@ -1718,7 +1718,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg"
       }
     ],
-    "date_added": 1787643825426
+    "date_added": 1787657292060
   },
   {
     "adult": false,
@@ -1741,7 +1741,7 @@
     "softcore": false,
     "name": "القناص",
     "vote_average": 8.663,
-    "vote_count": 2182,
+    "vote_count": 2183,
     "media_type": "tv",
     "seasons": [
       {
@@ -1856,7 +1856,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
       }
     ],
-    "date_added": 1787643825567
+    "date_added": 1787657292231
   },
   {
     "adult": false,
@@ -3128,132 +3128,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg"
       }
     ],
-    "date_added": 1787643826145
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-    "genre_ids": [
-      16,
-      80,
-      9648,
-      35
-    ],
-    "id": 30983,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "名探偵コナン",
-    "overview": "كودو شينتشي هو متحرٍ في المدرسة الثانوية ذاع صيته لحله العديد من القضايا الصعبة وهو ابن مؤلف الروايات الغموض العالمي كودو يوساكو يتورط شينتشي في حادثة مع رجال منظمة غامضة ذوي رداء أسود ويجبرونه على تجرع عقار غريب بقلص جسده فيصبح إيدوغاوا كونان على شينتشي الآن الانتقال لمنزل صديقة طفولته موري ران حيث يعمل والدها متحرياً لإيجاد معلومات عن أولئك الرجال",
-    "popularity": 70.8752,
-    "poster_path": "/9BhczLWHd0O9qOgBzO9dWKKH01a.jpg",
-    "first_air_date": "1996-01-08",
-    "softcore": false,
-    "name": "المحقق كونان",
-    "vote_average": 8.015,
-    "vote_count": 781,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1996-01-08",
-        "episode_count": 1212,
-        "id": 42543,
-        "name": "الموسم 1",
-        "overview": "كودو شينتشي هو متحرٍ في المدرسة الثانوية ذاع صيته لحله العديد من القضايا الصعبة، وهو ابن مؤلف الروايات الغموض العالمي، كودو يوساكو. يتورط شينتشي في حادثة مع رجال منظمة غامضة ذوي رداء أسود، ويجبرونه على تجرع عقار غريب بقلص جسده، فيصبح إيدوغاوا كونان. على شينتشي الآن الانتقال لمنزل صديقة طفولته، موري ران، حيث يعمل والدها متحرياً لإيجاد معلومات عن أولئك الرجال.",
-        "poster_path": "/qFAbDkyHMquRakR3ilCzzSWJ5Ub.jpg",
-        "season_number": 1,
-        "vote_average": 7.7,
-        "cast": [
-          {
-            "name": "高山みなみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
-          },
-          {
-            "name": "山口勝平",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
-          },
-          {
-            "name": "واكانا يامازاكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1hBk3w3v1p1VuAHs5On9nvL2rX2.jpg"
-          },
-          {
-            "name": "أكيمي أوكامورا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
-          },
-          {
-            "name": "神谷明",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
-          },
-          {
-            "name": "小山力也",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
-          },
-          {
-            "name": "林原めぐみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
-          },
-          {
-            "name": "緒方賢一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "المحقق كونان",
-    "title_en": "Detective Conan",
-    "overview_en": "The son of a world famous mystery writer Jimmy Kudo has achieved his own notoriety by assisting the local police as a student detective He has always been able to solve the most difficult of criminal cases using his wits and power of reason",
-    "cast": [
-      {
-        "name": "高山みなみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
-      },
-      {
-        "name": "山口勝平",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
-      },
-      {
-        "name": "واكانا يامازاكي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/1hBk3w3v1p1VuAHs5On9nvL2rX2.jpg"
-      },
-      {
-        "name": "أكيمي أوكامورا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
-      },
-      {
-        "name": "神谷明",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
-      },
-      {
-        "name": "小山力也",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
-      },
-      {
-        "name": "林原めぐみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
-      },
-      {
-        "name": "緒方賢一",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
-      }
-    ],
-    "date_added": 1787643826194
+    "date_added": 1787657293758
   },
   {
     "adult": false,
@@ -3793,7 +3668,132 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
       }
     ],
-    "date_added": 1787643826471
+    "date_added": 1787657294224
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+    "genre_ids": [
+      16,
+      80,
+      9648,
+      35
+    ],
+    "id": 30983,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "名探偵コナン",
+    "overview": "كودو شينتشي هو متحرٍ في المدرسة الثانوية ذاع صيته لحله العديد من القضايا الصعبة وهو ابن مؤلف الروايات الغموض العالمي كودو يوساكو يتورط شينتشي في حادثة مع رجال منظمة غامضة ذوي رداء أسود ويجبرونه على تجرع عقار غريب بقلص جسده فيصبح إيدوغاوا كونان على شينتشي الآن الانتقال لمنزل صديقة طفولته موري ران حيث يعمل والدها متحرياً لإيجاد معلومات عن أولئك الرجال",
+    "popularity": 70.8752,
+    "poster_path": "/9BhczLWHd0O9qOgBzO9dWKKH01a.jpg",
+    "first_air_date": "1996-01-08",
+    "softcore": false,
+    "name": "المحقق كونان",
+    "vote_average": 8.015,
+    "vote_count": 781,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1996-01-08",
+        "episode_count": 1212,
+        "id": 42543,
+        "name": "الموسم 1",
+        "overview": "كودو شينتشي هو متحرٍ في المدرسة الثانوية ذاع صيته لحله العديد من القضايا الصعبة، وهو ابن مؤلف الروايات الغموض العالمي، كودو يوساكو. يتورط شينتشي في حادثة مع رجال منظمة غامضة ذوي رداء أسود، ويجبرونه على تجرع عقار غريب بقلص جسده، فيصبح إيدوغاوا كونان. على شينتشي الآن الانتقال لمنزل صديقة طفولته، موري ران، حيث يعمل والدها متحرياً لإيجاد معلومات عن أولئك الرجال.",
+        "poster_path": "/qFAbDkyHMquRakR3ilCzzSWJ5Ub.jpg",
+        "season_number": 1,
+        "vote_average": 7.7,
+        "cast": [
+          {
+            "name": "高山みなみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
+          },
+          {
+            "name": "山口勝平",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+          },
+          {
+            "name": "واكانا يامازاكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1hBk3w3v1p1VuAHs5On9nvL2rX2.jpg"
+          },
+          {
+            "name": "أكيمي أوكامورا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+          },
+          {
+            "name": "神谷明",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
+          },
+          {
+            "name": "小山力也",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+          },
+          {
+            "name": "林原めぐみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+          },
+          {
+            "name": "緒方賢一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "المحقق كونان",
+    "title_en": "Detective Conan",
+    "overview_en": "The son of a world famous mystery writer Jimmy Kudo has achieved his own notoriety by assisting the local police as a student detective He has always been able to solve the most difficult of criminal cases using his wits and power of reason",
+    "cast": [
+      {
+        "name": "高山みなみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
+      },
+      {
+        "name": "山口勝平",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+      },
+      {
+        "name": "واكانا يامازاكي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1hBk3w3v1p1VuAHs5On9nvL2rX2.jpg"
+      },
+      {
+        "name": "أكيمي أوكامورا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+      },
+      {
+        "name": "神谷明",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
+      },
+      {
+        "name": "小山力也",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+      },
+      {
+        "name": "林原めぐみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+      },
+      {
+        "name": "緒方賢一",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
+      }
+    ],
+    "date_added": 1787657294366
   },
   {
     "adult": false,
@@ -3815,8 +3815,8 @@
     "first_air_date": "2022-04-09",
     "softcore": false,
     "name": "عائلة × جاسوس",
-    "vote_average": 8.508,
-    "vote_count": 2331,
+    "vote_average": 8.509,
+    "vote_count": 2332,
     "media_type": "tv",
     "seasons": [
       {
@@ -3931,7 +3931,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/YCEXgyl763zg62qhsjhWHRzGkL.jpg"
       }
     ],
-    "date_added": 1787643826582
+    "date_added": 1787657294889
   },
   {
     "adult": false,
@@ -4028,7 +4028,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/s3sB3k74Qcsx2IKBPSqlvezOafy.jpg"
       }
     ],
-    "date_added": 1787643826622
+    "date_added": 1787657295677
   },
   {
     "adult": false,
@@ -4050,8 +4050,8 @@
     "first_air_date": "2012-10-06",
     "softcore": false,
     "name": "مغامرات جوجو العجيبة",
-    "vote_average": 8.6,
-    "vote_count": 1642,
+    "vote_average": 8.558,
+    "vote_count": 1643,
     "media_type": "tv",
     "seasons": [
       {
@@ -4332,7 +4332,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
       }
     ],
-    "date_added": 1787643827177
+    "date_added": 1787657296066
   },
   {
     "adult": false,
@@ -4405,7 +4405,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787643827234
+    "date_added": 1787657296127
   },
   {
     "adult": false,
@@ -4528,7 +4528,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
       }
     ],
-    "date_added": 1787643827279
+    "date_added": 1787657296216
   },
   {
     "adult": false,
@@ -4734,7 +4734,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2u93ywtn7Xax1dEALrjOGGHg5hL.jpg"
       }
     ],
-    "date_added": 1787643827413
+    "date_added": 1787657296431
   },
   {
     "adult": false,
@@ -4757,8 +4757,8 @@
     "first_air_date": "2009-04-05",
     "softcore": false,
     "name": "الخيميائي الفولاذي : الأخوَّة",
-    "vote_average": 8.7,
-    "vote_count": 2549,
+    "vote_average": 8.717,
+    "vote_count": 2550,
     "media_type": "tv",
     "seasons": [
       {
@@ -4829,7 +4829,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3gsw7BKhF70wCRDcnwavlz1U4FU.jpg"
       }
     ],
-    "date_added": 1787643827457
+    "date_added": 1787657296516
   },
   {
     "adult": false,
@@ -4915,7 +4915,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/HU9LZJdb4H8coHiSaHiUprcFm1.jpg"
       }
     ],
-    "date_added": 1787643827532
+    "date_added": 1787657296678
   },
   {
     "adult": false,
@@ -5195,182 +5195,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sE664CcqM1pvoWsYsca7szlIzl5.jpg"
       }
     ],
-    "date_added": 1787643827643
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-    "genre_ids": [
-      16,
-      35
-    ],
-    "id": 57775,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ちびまる子ちゃん",
-    "overview": "يحكي المسلسل الحياة اليومية البسيطة للطفلة ماروكو مع عائلتها وأصدقائها في ضواحي إحدى مدن اليابان أواخر السبعينيات ماروكو ابنة التسع سنوات نشأت في عائلة متوسطة الثراء تتألف من أبيها وأمها ربة البيت المثالية وجدها الخرف وجدتها المهووسة بصحتها وأختها التي تكبرها بسنتين تدرس ماروكو في المرحلة الإبتدائية في المدرسة و تحب بشغف المغنية اليابانية الشهيرة مونوي ياماغوتشي كما تحب قراءة المانغا غالباً ما يناديها أصدقاؤها بـ ماروكو الصغيرة وذلك لصغر حجمها وعمرها من أصدقائها المشهورين تاما صديقة ماروكو المقربة ومارو الذي هو عريف الصف وعضو المجلس الطلابي الفخور",
-    "popularity": 51.3112,
-    "poster_path": "/iJIvAkD105tyUA2fyfR6Y410PRI.jpg",
-    "first_air_date": "1990-01-07",
-    "softcore": false,
-    "name": "ماروكو الصغيرة",
-    "vote_average": 7.8,
-    "vote_count": 24,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1990-01-07",
-        "episode_count": 142,
-        "id": 58922,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/mFsWHBzW0sj4iPHHcECKFEQiwEw.jpg",
-        "season_number": 1,
-        "vote_average": 6,
-        "cast": [
-          {
-            "name": "TARAKO",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
-          },
-          {
-            "name": "يوكو ميزوتاني",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
-          },
-          {
-            "name": "屋良有作",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
-          },
-          {
-            "name": "一龍斎貞友",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
-          },
-          {
-            "name": "富山敬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/19jju0ROT0UplBxD8tKS3Hmvueg.jpg"
-          },
-          {
-            "name": "佐々木優子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
-          },
-          {
-            "name": "渡辺菜生子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
-          },
-          {
-            "name": "ماسامي كيكوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1995-01-08",
-        "episode_count": 1544,
-        "id": 202266,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/4ZrxeLJW3Ar7fiQ6NJbztqP8bt9.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "TARAKO",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
-          },
-          {
-            "name": "يوكو ميزوتاني",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
-          },
-          {
-            "name": "屋良有作",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
-          },
-          {
-            "name": "一龍斎貞友",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
-          },
-          {
-            "name": "青野武",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
-          },
-          {
-            "name": "佐々木優子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
-          },
-          {
-            "name": "渡辺菜生子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
-          },
-          {
-            "name": "ماسامي كيكوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "ماروكو الصغيرة",
-    "title_en": "Chibi Maruko chan",
-    "overview_en": "Meet Maruko a sweet schoolgirl with a hefty dose of curiosity and occasional laziness She sails through life in a cozy town alongside her loving parents grandparents and sister Maruko has a band of loyal friends including her closest pal Tama chan but her playful and doting grandpa is at the heart of it all Life is never dull in this charming series",
-    "cast": [
-      {
-        "name": "TARAKO",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
-      },
-      {
-        "name": "يوكو ميزوتاني",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
-      },
-      {
-        "name": "屋良有作",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
-      },
-      {
-        "name": "一龍斎貞友",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
-      },
-      {
-        "name": "青野武",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
-      },
-      {
-        "name": "佐々木優子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
-      },
-      {
-        "name": "渡辺菜生子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
-      },
-      {
-        "name": "ماسامي كيكوتشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
-      }
-    ],
-    "date_added": 1787643827675
+    "date_added": 1787657296891
   },
   {
     "adult": false,
@@ -5444,7 +5269,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg"
       }
     ],
-    "date_added": 1787643827700
+    "date_added": 1787657297003
   },
   {
     "adult": false,
@@ -6923,7 +6748,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6M6zQtO0reIv97oKUrVT084FUKv.jpg"
       }
     ],
-    "date_added": 1787643829780
+    "date_added": 1787657298615
   },
   {
     "adult": false,
@@ -7140,7 +6965,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/teUQP4FGWPHGQGqQLQVwIvsrqwC.jpg"
       }
     ],
-    "date_added": 1787643829910
+    "date_added": 1787657298896
   },
   {
     "adult": false,
@@ -7628,7 +7453,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
       }
     ],
-    "date_added": 1787643830138
+    "date_added": 1787657299543
   },
   {
     "adult": false,
@@ -7721,7 +7546,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg"
       }
     ],
-    "date_added": 1787643830189
+    "date_added": 1787657299625
   },
   {
     "adult": false,
@@ -7796,175 +7621,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yPOprcT7tPKR3p79RMYtogTEXGr.jpg"
       }
     ],
-    "date_added": 1787643830272
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qZXhYuCZR6lkspbu400oWwh6uCs.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762,
-      10765
-    ],
-    "id": 194916,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ちいかわ",
-    "overview": "",
-    "popularity": 47.9194,
-    "poster_path": "/9zpbC0icEnTG8bvXcMM3CzLMpop.jpg",
-    "first_air_date": "2022-04-04",
-    "softcore": false,
-    "name": "ちいかわ",
-    "vote_average": 8.2,
-    "vote_count": 14,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2022-04-04",
-        "episode_count": 373,
-        "id": 282969,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/knJg7Uyhg66GPHfGRwadD2r2uew.jpg",
-        "season_number": 1,
-        "vote_average": 8,
-        "cast": [
-          {
-            "name": "青木遥",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pksykdAshBZyzzdzILVRHIg6eX6.jpg"
-          },
-          {
-            "name": "أري أوزاوا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jrj6cIjnkk1FwJiSLIpGtUf8hWd.jpg"
-          },
-          {
-            "name": "田中誠人",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/h4Bkm5UGMn12FedY5g11Y77I2rK.jpg"
-          },
-          {
-            "name": "يوكا إيغوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg"
-          },
-          {
-            "name": "杉田智和",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
-          },
-          {
-            "name": "東地宏樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
-          },
-          {
-            "name": "يوشيتسوغو ماتسوؤكا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
-          },
-          {
-            "name": "内田雄馬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": null,
-        "episode_count": 0,
-        "id": 526822,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "يوكا إيغوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg"
-          },
-          {
-            "name": "杉田智和",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
-          },
-          {
-            "name": "東地宏樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
-          },
-          {
-            "name": "يوشيتسوغو ماتسوؤكا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
-          },
-          {
-            "name": "内田雄馬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
-          },
-          {
-            "name": "淺井孝行",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lSEZJVLKKuR5RRhYOdQFm55yEI2.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "ちいかわ",
-    "title_en": "Chiikawa",
-    "overview_en": "The story follows the sometimes happy sometimes sad and a tad stressful daily life of some sort of small cute creature Nanka Chiisakute Kawaii Yatsu known as Chiikawa Chiikawa enjoys delicious food with bees and rabbits toils hard every day for the rewards of work and still maintains a smile",
-    "cast": [
-      {
-        "name": "青木遥",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pksykdAshBZyzzdzILVRHIg6eX6.jpg"
-      },
-      {
-        "name": "أري أوزاوا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jrj6cIjnkk1FwJiSLIpGtUf8hWd.jpg"
-      },
-      {
-        "name": "田中誠人",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/h4Bkm5UGMn12FedY5g11Y77I2rK.jpg"
-      },
-      {
-        "name": "يوكا إيغوتشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg"
-      },
-      {
-        "name": "杉田智和",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
-      },
-      {
-        "name": "東地宏樹",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
-      },
-      {
-        "name": "يوشيتسوغو ماتسوؤكا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
-      },
-      {
-        "name": "内田雄馬",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
-      }
-    ],
-    "date_added": 1787643830295
+    "date_added": 1787657299774
   },
   {
     "adult": false,
@@ -9076,7 +8733,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg"
       }
     ],
-    "date_added": 1787643831605
+    "date_added": 1787657300936
   },
   {
     "adult": false,
@@ -9099,8 +8756,8 @@
     "first_air_date": "2004-04-07",
     "softcore": false,
     "name": "الوحش",
-    "vote_average": 8.513,
-    "vote_count": 824,
+    "vote_average": 8.515,
+    "vote_count": 825,
     "media_type": "tv",
     "seasons": [
       {
@@ -9161,7 +8818,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qP5vQMIbLNvSsSFkEMLZRVt4ZW5.jpg"
       }
     ],
-    "date_added": 1787643831670
+    "date_added": 1787657301045
   },
   {
     "adult": false,
@@ -9748,7 +9405,7 @@
     "title_en": "Ninja Boy Rantaro",
     "overview_en": "Rantarō Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen where first grade ones are called Nintamas They must learn everything a ninja must know but as for our heroes money food or playing are more interesting The series show the everyday adventures of our heroes",
     "cast": [],
-    "date_added": 1787643832156
+    "date_added": 1787657302434
   },
   {
     "adult": false,
@@ -9771,7 +9428,7 @@
     "softcore": false,
     "name": "سولو ليفلينغ",
     "vote_average": 8.675,
-    "vote_count": 1944,
+    "vote_count": 1945,
     "media_type": "tv",
     "seasons": [
       {
@@ -9872,7 +9529,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
       }
     ],
-    "date_added": 1787643832198
+    "date_added": 1787657302527
   },
   {
     "adult": false,
@@ -9937,7 +9594,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
       }
     ],
-    "date_added": 1787643832260
+    "date_added": 1787657302742
   },
   {
     "adult": false,
@@ -10000,7 +9657,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
       }
     ],
-    "date_added": 1787643832305
+    "date_added": 1787657302828
   },
   {
     "adult": false,
@@ -11268,7 +10925,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
       }
     ],
-    "date_added": 1787643832514
+    "date_added": 1787657303147
   },
   {
     "adult": false,
@@ -11343,7 +11000,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pvnOU0RZuMKeISDTBEU7uSt3Xkn.jpg"
       }
     ],
-    "date_added": 1787643832632
+    "date_added": 1787657303242
   },
   {
     "adult": false,
@@ -11624,7 +11281,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
       }
     ],
-    "date_added": 1787643833261
+    "date_added": 1787657303441
   },
   {
     "adult": false,
@@ -11737,7 +11394,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mF5YJxApTYKBVFJDrEC9IrJ5ooV.jpg"
       }
     ],
-    "date_added": 1787643833286
+    "date_added": 1787657303544
   },
   {
     "adult": false,
@@ -11861,7 +11518,182 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
       }
     ],
-    "date_added": 1787643833316
+    "date_added": 1787657303645
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 57775,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちびまる子ちゃん",
+    "overview": "يحكي المسلسل الحياة اليومية البسيطة للطفلة ماروكو مع عائلتها وأصدقائها في ضواحي إحدى مدن اليابان أواخر السبعينيات ماروكو ابنة التسع سنوات نشأت في عائلة متوسطة الثراء تتألف من أبيها وأمها ربة البيت المثالية وجدها الخرف وجدتها المهووسة بصحتها وأختها التي تكبرها بسنتين تدرس ماروكو في المرحلة الإبتدائية في المدرسة و تحب بشغف المغنية اليابانية الشهيرة مونوي ياماغوتشي كما تحب قراءة المانغا غالباً ما يناديها أصدقاؤها بـ ماروكو الصغيرة وذلك لصغر حجمها وعمرها من أصدقائها المشهورين تاما صديقة ماروكو المقربة ومارو الذي هو عريف الصف وعضو المجلس الطلابي الفخور",
+    "popularity": 51.3112,
+    "poster_path": "/iJIvAkD105tyUA2fyfR6Y410PRI.jpg",
+    "first_air_date": "1990-01-07",
+    "softcore": false,
+    "name": "ماروكو الصغيرة",
+    "vote_average": 7.8,
+    "vote_count": 24,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1990-01-07",
+        "episode_count": 142,
+        "id": 58922,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/mFsWHBzW0sj4iPHHcECKFEQiwEw.jpg",
+        "season_number": 1,
+        "vote_average": 6,
+        "cast": [
+          {
+            "name": "TARAKO",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
+          },
+          {
+            "name": "يوكو ميزوتاني",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
+          },
+          {
+            "name": "屋良有作",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+          },
+          {
+            "name": "一龍斎貞友",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+          },
+          {
+            "name": "富山敬",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/19jju0ROT0UplBxD8tKS3Hmvueg.jpg"
+          },
+          {
+            "name": "佐々木優子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
+          },
+          {
+            "name": "渡辺菜生子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+          },
+          {
+            "name": "ماسامي كيكوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "1995-01-08",
+        "episode_count": 1545,
+        "id": 202266,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/4ZrxeLJW3Ar7fiQ6NJbztqP8bt9.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "TARAKO",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
+          },
+          {
+            "name": "يوكو ميزوتاني",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
+          },
+          {
+            "name": "屋良有作",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+          },
+          {
+            "name": "一龍斎貞友",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+          },
+          {
+            "name": "青野武",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
+          },
+          {
+            "name": "佐々木優子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
+          },
+          {
+            "name": "渡辺菜生子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+          },
+          {
+            "name": "ماسامي كيكوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "ماروكو الصغيرة",
+    "title_en": "Chibi Maruko chan",
+    "overview_en": "Meet Maruko a sweet schoolgirl with a hefty dose of curiosity and occasional laziness She sails through life in a cozy town alongside her loving parents grandparents and sister Maruko has a band of loyal friends including her closest pal Tama chan but her playful and doting grandpa is at the heart of it all Life is never dull in this charming series",
+    "cast": [
+      {
+        "name": "TARAKO",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
+      },
+      {
+        "name": "يوكو ميزوتاني",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
+      },
+      {
+        "name": "屋良有作",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+      },
+      {
+        "name": "一龍斎貞友",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+      },
+      {
+        "name": "青野武",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
+      },
+      {
+        "name": "佐々木優子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
+      },
+      {
+        "name": "渡辺菜生子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+      },
+      {
+        "name": "ماسامي كيكوتشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+      }
+    ],
+    "date_added": 1787657303764
   },
   {
     "adult": false,
@@ -11985,7 +11817,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5p8wWjqrBHTkOPC5txO1eUXRBRY.jpg"
       }
     ],
-    "date_added": 1787643833352
+    "date_added": 1787657303839
   },
   {
     "adult": false,
@@ -12109,7 +11941,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
       }
     ],
-    "date_added": 1787643833435
+    "date_added": 1787657303954
   },
   {
     "adult": false,
@@ -12233,7 +12065,175 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
       }
     ],
-    "date_added": 1787643833531
+    "date_added": 1787657304038
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qZXhYuCZR6lkspbu400oWwh6uCs.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762,
+      10765
+    ],
+    "id": 194916,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちいかわ",
+    "overview": "",
+    "popularity": 47.9194,
+    "poster_path": "/9zpbC0icEnTG8bvXcMM3CzLMpop.jpg",
+    "first_air_date": "2022-04-04",
+    "softcore": false,
+    "name": "ちいかわ",
+    "vote_average": 8.2,
+    "vote_count": 14,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2022-04-04",
+        "episode_count": 373,
+        "id": 282969,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/knJg7Uyhg66GPHfGRwadD2r2uew.jpg",
+        "season_number": 1,
+        "vote_average": 8,
+        "cast": [
+          {
+            "name": "青木遥",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pksykdAshBZyzzdzILVRHIg6eX6.jpg"
+          },
+          {
+            "name": "أري أوزاوا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jrj6cIjnkk1FwJiSLIpGtUf8hWd.jpg"
+          },
+          {
+            "name": "田中誠人",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h4Bkm5UGMn12FedY5g11Y77I2rK.jpg"
+          },
+          {
+            "name": "يوكا إيغوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg"
+          },
+          {
+            "name": "杉田智和",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+          },
+          {
+            "name": "東地宏樹",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+          },
+          {
+            "name": "يوشيتسوغو ماتسوؤكا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+          },
+          {
+            "name": "内田雄馬",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": null,
+        "episode_count": 0,
+        "id": 526822,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "يوكا إيغوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg"
+          },
+          {
+            "name": "杉田智和",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+          },
+          {
+            "name": "東地宏樹",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+          },
+          {
+            "name": "يوشيتسوغو ماتسوؤكا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+          },
+          {
+            "name": "内田雄馬",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+          },
+          {
+            "name": "淺井孝行",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lSEZJVLKKuR5RRhYOdQFm55yEI2.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "ちいかわ",
+    "title_en": "Chiikawa",
+    "overview_en": "The story follows the sometimes happy sometimes sad and a tad stressful daily life of some sort of small cute creature Nanka Chiisakute Kawaii Yatsu known as Chiikawa Chiikawa enjoys delicious food with bees and rabbits toils hard every day for the rewards of work and still maintains a smile",
+    "cast": [
+      {
+        "name": "青木遥",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pksykdAshBZyzzdzILVRHIg6eX6.jpg"
+      },
+      {
+        "name": "أري أوزاوا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jrj6cIjnkk1FwJiSLIpGtUf8hWd.jpg"
+      },
+      {
+        "name": "田中誠人",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/h4Bkm5UGMn12FedY5g11Y77I2rK.jpg"
+      },
+      {
+        "name": "يوكا إيغوتشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg"
+      },
+      {
+        "name": "杉田智和",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+      },
+      {
+        "name": "東地宏樹",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+      },
+      {
+        "name": "يوشيتسوغو ماتسوؤكا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+      },
+      {
+        "name": "内田雄馬",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+      }
+    ],
+    "date_added": 1787657304210
   },
   {
     "adult": false,
@@ -12358,7 +12358,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787643833593
+    "date_added": 1787657304301
   },
   {
     "adult": false,
@@ -12656,7 +12656,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
       }
     ],
-    "date_added": 1787643833707
+    "date_added": 1787657304609
   },
   {
     "adult": false,
@@ -12990,7 +12990,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cxTyiRskkgUpQfZrCw7zpkocV5I.jpg"
       }
     ],
-    "date_added": 1787643834260
+    "date_added": 1787657304822
   },
   {
     "adult": false,
@@ -13012,7 +13012,7 @@
     "first_air_date": "2012-07-08",
     "softcore": false,
     "name": "Sword Art Online",
-    "vote_average": 8.159,
+    "vote_average": 8.158,
     "vote_count": 2161,
     "media_type": "tv",
     "seasons": [
@@ -13265,7 +13265,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nj0DsfJ5tL96HlXvzThj7R022f2.jpg"
       }
     ],
-    "date_added": 1787643834365
+    "date_added": 1787657305173
   },
   {
     "adult": false,
@@ -13388,7 +13388,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8sD9Z51s0vNc9tESt7OpK0Pmei9.jpg"
       }
     ],
-    "date_added": 1787643834404
+    "date_added": 1787657305279
   },
   {
     "adult": false,
@@ -13533,7 +13533,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787643834450
+    "date_added": 1787657305383
   },
   {
     "adult": false,
@@ -13625,7 +13625,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787643834467
+    "date_added": 1787657305459
   },
   {
     "adult": false,
@@ -13707,6 +13707,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hBiyY9sU7tw6pf2eaDIeyF1NOfq.jpg"
       }
     ],
-    "date_added": 1787643834506
+    "date_added": 1787657305580
   }
 ]
