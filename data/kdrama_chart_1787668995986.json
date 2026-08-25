@@ -110,7 +110,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1787657269972
+    "date_added": 1787669065618
   },
   {
     "adult": false,
@@ -1124,7 +1124,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rEZ4LALVCDh6RXvd3l3SzYbzKlb.jpg"
       }
     ],
-    "date_added": 1787657270826
+    "date_added": 1787669066709
   },
   {
     "adult": false,
@@ -1247,7 +1247,100 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oDHFWR6JHmQnmNbl73et1G4KzGc.jpg"
       }
     ],
-    "date_added": 1787657270901
+    "date_added": 1787669066762
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "genre_ids": [
+      10767
+    ],
+    "id": 65270,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "라디오스타",
+    "overview": "",
+    "popularity": 99.1586,
+    "poster_path": "/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
+    "first_air_date": "2007-05-30",
+    "softcore": false,
+    "name": "라디오스타",
+    "vote_average": 5.4,
+    "vote_count": 5,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2007-05-30",
+        "episode_count": 970,
+        "id": 73838,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/leUHS0LdVB0eXB5XDsocXmIp1On.jpg",
+        "season_number": 1,
+        "vote_average": 1,
+        "cast": [
+          {
+            "name": "김구라",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
+          },
+          {
+            "name": "김국진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
+          },
+          {
+            "name": "유세윤",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
+          },
+          {
+            "name": "장도연",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": null,
+        "episode_count": 0,
+        "id": 137519,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": []
+      }
+    ],
+    "title": "라디오스타",
+    "title_en": "Radio Star",
+    "overview_en": "Radio Star is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives their pasts and their work It is part of Munhwa Broadcasting Corporation s Golden Fishery programming block",
+    "cast": [
+      {
+        "name": "김구라",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
+      },
+      {
+        "name": "김국진",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
+      },
+      {
+        "name": "유세윤",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
+      },
+      {
+        "name": "장도연",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
+      }
+    ],
+    "date_added": 1787669066844
   },
   {
     "adult": false,
@@ -1369,100 +1462,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1787657270926
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-    "genre_ids": [
-      10767
-    ],
-    "id": 65270,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "라디오스타",
-    "overview": "",
-    "popularity": 99.1586,
-    "poster_path": "/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
-    "first_air_date": "2007-05-30",
-    "softcore": false,
-    "name": "라디오스타",
-    "vote_average": 5.4,
-    "vote_count": 5,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2007-05-30",
-        "episode_count": 970,
-        "id": 73838,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/leUHS0LdVB0eXB5XDsocXmIp1On.jpg",
-        "season_number": 1,
-        "vote_average": 1,
-        "cast": [
-          {
-            "name": "김구라",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
-          },
-          {
-            "name": "김국진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
-          },
-          {
-            "name": "유세윤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
-          },
-          {
-            "name": "장도연",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": null,
-        "episode_count": 0,
-        "id": 137519,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": []
-      }
-    ],
-    "title": "라디오스타",
-    "title_en": "Radio Star",
-    "overview_en": "Radio Star is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives their pasts and their work It is part of Munhwa Broadcasting Corporation s Golden Fishery programming block",
-    "cast": [
-      {
-        "name": "김구라",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
-      },
-      {
-        "name": "김국진",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
-      },
-      {
-        "name": "유세윤",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
-      },
-      {
-        "name": "장도연",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
-      }
-    ],
-    "date_added": 1787657271172
+    "date_added": 1787669066886
   },
   {
     "adult": false,
@@ -1664,7 +1664,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tQ4E9MhTkPnsOnuAxD2TQWjrc5L.jpg"
       }
     ],
-    "date_added": 1787657271448
+    "date_added": 1787669067031
   },
   {
     "adult": false,
@@ -1685,8 +1685,8 @@
     "first_air_date": "2026-08-07",
     "softcore": false,
     "name": "حب كحلوى التوفي",
-    "vote_average": 8.7,
-    "vote_count": 69,
+    "vote_average": 8.729,
+    "vote_count": 70,
     "media_type": "tv",
     "seasons": [
       {
@@ -1787,7 +1787,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
       }
     ],
-    "date_added": 1787657271512
+    "date_added": 1787669067087
   },
   {
     "adult": false,
@@ -1860,7 +1860,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787657271592
+    "date_added": 1787669067161
   },
   {
     "adult": false,
@@ -1983,7 +1983,121 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1787657271719
+    "date_added": 1787669067224
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      35
+    ],
+    "id": 276161,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "참교육",
+    "overview": "عندما يتلاشى الاحترام من المدارس يتدخل محققون غير تقليديين لإعادة الأمور إلى نصابها عبر دروس قاسية وصارمة لن تجدها في الكتب المدرسية",
+    "popularity": 61.881,
+    "poster_path": "/3dLlv5bsYRQbsB0hMyP1AlrYUKv.jpg",
+    "first_air_date": "2026-06-05",
+    "softcore": false,
+    "name": "سنلقّنكم درسًا",
+    "vote_average": 9.405,
+    "vote_count": 827,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-06-05",
+        "episode_count": 10,
+        "id": 427036,
+        "name": "مسلسلات قصيرة",
+        "overview": "",
+        "poster_path": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+        "season_number": 1,
+        "vote_average": 8.4,
+        "cast": [
+          {
+            "name": "김무열",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
+          },
+          {
+            "name": "لي سونغ مين",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/p71yyyIQmHbrOZHU2lphMvjlVIk.jpg"
+          },
+          {
+            "name": "진기주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xwhR8nrFKxalOjmADxJPTouxE0g.jpg"
+          },
+          {
+            "name": "피오",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
+          },
+          {
+            "name": "김종수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg"
+          },
+          {
+            "name": "하영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
+          },
+          {
+            "name": "이봉준",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xaWFn1sMb20AHa1jfP7igFcDqzt.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "سنلقّنكم درسًا",
+    "title_en": "Teach You a Lesson",
+    "overview_en": "An inspector from the Educational Rights Protection Bureau ERPB who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system",
+    "cast": [
+      {
+        "name": "김무열",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
+      },
+      {
+        "name": "لي سونغ مين",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/p71yyyIQmHbrOZHU2lphMvjlVIk.jpg"
+      },
+      {
+        "name": "진기주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xwhR8nrFKxalOjmADxJPTouxE0g.jpg"
+      },
+      {
+        "name": "피오",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
+      },
+      {
+        "name": "김종수",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg"
+      },
+      {
+        "name": "하영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
+      },
+      {
+        "name": "이봉준",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xaWFn1sMb20AHa1jfP7igFcDqzt.jpg"
+      }
+    ],
+    "date_added": 1787669067322
   },
   {
     "adult": false,
@@ -2366,121 +2480,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nnbCQ5nNo81lHZrWB8QVPXD9gIC.jpg"
       }
     ],
-    "date_added": 1787657272122
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      35
-    ],
-    "id": 276161,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "참교육",
-    "overview": "عندما يتلاشى الاحترام من المدارس يتدخل محققون غير تقليديين لإعادة الأمور إلى نصابها عبر دروس قاسية وصارمة لن تجدها في الكتب المدرسية",
-    "popularity": 61.881,
-    "poster_path": "/3dLlv5bsYRQbsB0hMyP1AlrYUKv.jpg",
-    "first_air_date": "2026-06-05",
-    "softcore": false,
-    "name": "سنلقّنكم درسًا",
-    "vote_average": 9.413,
-    "vote_count": 825,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-06-05",
-        "episode_count": 10,
-        "id": 427036,
-        "name": "مسلسلات قصيرة",
-        "overview": "",
-        "poster_path": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-        "season_number": 1,
-        "vote_average": 8.4,
-        "cast": [
-          {
-            "name": "김무열",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
-          },
-          {
-            "name": "لي سونغ مين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p71yyyIQmHbrOZHU2lphMvjlVIk.jpg"
-          },
-          {
-            "name": "진기주",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xwhR8nrFKxalOjmADxJPTouxE0g.jpg"
-          },
-          {
-            "name": "피오",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
-          },
-          {
-            "name": "김종수",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg"
-          },
-          {
-            "name": "하영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
-          },
-          {
-            "name": "이봉준",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xaWFn1sMb20AHa1jfP7igFcDqzt.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "سنلقّنكم درسًا",
-    "title_en": "Teach You a Lesson",
-    "overview_en": "An inspector from the Educational Rights Protection Bureau ERPB who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system",
-    "cast": [
-      {
-        "name": "김무열",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
-      },
-      {
-        "name": "لي سونغ مين",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/p71yyyIQmHbrOZHU2lphMvjlVIk.jpg"
-      },
-      {
-        "name": "진기주",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/xwhR8nrFKxalOjmADxJPTouxE0g.jpg"
-      },
-      {
-        "name": "피오",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
-      },
-      {
-        "name": "김종수",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg"
-      },
-      {
-        "name": "하영",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
-      },
-      {
-        "name": "이봉준",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/xaWFn1sMb20AHa1jfP7igFcDqzt.jpg"
-      }
-    ],
-    "date_added": 1787657272214
+    "date_added": 1787669067548
   },
   {
     "adult": false,
@@ -2729,121 +2729,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bF3Zg2vzl4wUnFgcPhcS1J3Csxe.jpg"
       }
     ],
-    "date_added": 1787657272413
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
-    "genre_ids": [
-      35,
-      10765,
-      18
-    ],
-    "id": 298610,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "오싹한 연애",
-    "overview": "عندما يكتشف وريثٌ يرى الأشباح ومدعٍ عام بارع أن لمسة واحدة تجعلهما ثنائيًا فعالًا بشكل غريب يتعاونان لحل جرائم قتل لم يتم حلها",
-    "popularity": 55.3289,
-    "poster_path": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
-    "first_air_date": "2026-07-18",
-    "softcore": false,
-    "name": "قصة حب مرعبة",
-    "vote_average": 8.736,
-    "vote_count": 55,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-07-18",
-        "episode_count": 12,
-        "id": 470497,
-        "name": "الموسم 1",
-        "overview": "عندما يكتشف وريثٌ يرى الأشباح ومدعٍ عام بارع أن لمسة واحدة تجعلهما ثنائيًا فعالًا بشكل غريب، يتعاونان لحل جرائم قتل لم يتم حلها.",
-        "poster_path": "/p6uQe5RJBvibeIyqhK06WNHZRVU.jpg",
-        "season_number": 1,
-        "vote_average": 8.8,
-        "cast": [
-          {
-            "name": "박은빈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
-          },
-          {
-            "name": "يانغ سي جونغ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zQQixC3LXRvvbiecDFbNGIKe5Nc.jpg"
-          },
-          {
-            "name": "옹성우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg"
-          },
-          {
-            "name": "조혜주",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7nBMavFQSdTK6ARlNgKaeCmYZ89.jpg"
-          },
-          {
-            "name": "백지원",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg"
-          },
-          {
-            "name": "이창훈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gunEDHw5kp3Por19IelR8qOp8kL.jpg"
-          },
-          {
-            "name": "김민호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/49OxFNbTpXq9SM81ynQdtUnN38H.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "قصة حب مرعبة",
-    "title_en": "Spooky in Love",
-    "overview_en": "When a ghost seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo they team up to crack unsolved murders",
-    "cast": [
-      {
-        "name": "박은빈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
-      },
-      {
-        "name": "يانغ سي جونغ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zQQixC3LXRvvbiecDFbNGIKe5Nc.jpg"
-      },
-      {
-        "name": "옹성우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg"
-      },
-      {
-        "name": "조혜주",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7nBMavFQSdTK6ARlNgKaeCmYZ89.jpg"
-      },
-      {
-        "name": "백지원",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg"
-      },
-      {
-        "name": "이창훈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gunEDHw5kp3Por19IelR8qOp8kL.jpg"
-      },
-      {
-        "name": "김민호",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/49OxFNbTpXq9SM81ynQdtUnN38H.jpg"
-      }
-    ],
-    "date_added": 1787657272442
+    "date_added": 1787669067748
   },
   {
     "adult": false,
@@ -2865,8 +2751,8 @@
     "first_air_date": "2024-01-17",
     "softcore": false,
     "name": "متجر للقتلة",
-    "vote_average": 8.458,
-    "vote_count": 226,
+    "vote_average": 8.465,
+    "vote_count": 227,
     "media_type": "tv",
     "seasons": [
       {
@@ -3019,7 +2905,121 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
       }
     ],
-    "date_added": 1787657272585
+    "date_added": 1787669067830
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+    "genre_ids": [
+      35,
+      10765,
+      18
+    ],
+    "id": 298610,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "오싹한 연애",
+    "overview": "عندما يكتشف وريثٌ يرى الأشباح ومدعٍ عام بارع أن لمسة واحدة تجعلهما ثنائيًا فعالًا بشكل غريب يتعاونان لحل جرائم قتل لم يتم حلها",
+    "popularity": 55.3289,
+    "poster_path": "/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
+    "first_air_date": "2026-07-18",
+    "softcore": false,
+    "name": "قصة حب مرعبة",
+    "vote_average": 8.723,
+    "vote_count": 56,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-07-18",
+        "episode_count": 12,
+        "id": 470497,
+        "name": "الموسم 1",
+        "overview": "عندما يكتشف وريثٌ يرى الأشباح ومدعٍ عام بارع أن لمسة واحدة تجعلهما ثنائيًا فعالًا بشكل غريب، يتعاونان لحل جرائم قتل لم يتم حلها.",
+        "poster_path": "/p6uQe5RJBvibeIyqhK06WNHZRVU.jpg",
+        "season_number": 1,
+        "vote_average": 8.8,
+        "cast": [
+          {
+            "name": "박은빈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+          },
+          {
+            "name": "يانغ سي جونغ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zQQixC3LXRvvbiecDFbNGIKe5Nc.jpg"
+          },
+          {
+            "name": "옹성우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg"
+          },
+          {
+            "name": "조혜주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7nBMavFQSdTK6ARlNgKaeCmYZ89.jpg"
+          },
+          {
+            "name": "백지원",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg"
+          },
+          {
+            "name": "이창훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gunEDHw5kp3Por19IelR8qOp8kL.jpg"
+          },
+          {
+            "name": "김민호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/49OxFNbTpXq9SM81ynQdtUnN38H.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "قصة حب مرعبة",
+    "title_en": "Spooky in Love",
+    "overview_en": "When a ghost seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo they team up to crack unsolved murders",
+    "cast": [
+      {
+        "name": "박은빈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+      },
+      {
+        "name": "يانغ سي جونغ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zQQixC3LXRvvbiecDFbNGIKe5Nc.jpg"
+      },
+      {
+        "name": "옹성우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg"
+      },
+      {
+        "name": "조혜주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7nBMavFQSdTK6ARlNgKaeCmYZ89.jpg"
+      },
+      {
+        "name": "백지원",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg"
+      },
+      {
+        "name": "이창훈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gunEDHw5kp3Por19IelR8qOp8kL.jpg"
+      },
+      {
+        "name": "김민호",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/49OxFNbTpXq9SM81ynQdtUnN38H.jpg"
+      }
+    ],
+    "date_added": 1787669067865
   },
   {
     "adult": false,
@@ -3182,6 +3182,11 @@
             "name": "Jeong Hye ok",
             "role": "بطوله",
             "photo_url": null
+          },
+          {
+            "name": "Oya Küçümen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gMbCZoRni00sykUu6pdLjD65vPH.jpg"
           }
         ]
       },
@@ -3390,6 +3395,16 @@
           },
           {
             "name": "Lim Chae heon",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Oya Küçümen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gMbCZoRni00sykUu6pdLjD65vPH.jpg"
+          },
+          {
+            "name": "İlham Erdoğan",
             "role": "بطوله",
             "photo_url": null
           }
@@ -4024,7 +4039,177 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787657274016
+    "date_added": 1787669068629
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c1FQPgXZjQ1AmX2v0v3W59PjwKT.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 35024,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "쇼! 음악중심",
+    "overview": "",
+    "popularity": 52.065,
+    "poster_path": "/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
+    "first_air_date": "2005-10-29",
+    "softcore": false,
+    "name": "쇼! 음악중심",
+    "vote_average": 7,
+    "vote_count": 1,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2005-10-29",
+        "episode_count": 966,
+        "id": 73842,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/gf9sdLzo1B0saiO1I0fG2bzoF29.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "영훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
+          },
+          {
+            "name": "이정하",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
+          },
+          {
+            "name": "설윤",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
+          },
+          {
+            "name": "정우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bv61wcNdemsUfqbqVFgXfhwSNzR.jpg"
+          },
+          {
+            "name": "리노",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
+          },
+          {
+            "name": "김민주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "쇼 음악중심",
+    "title_en": "Show Music Core",
+    "overview_en": "Show Music Core is a music show that has been aired since 2005 Not like any other music shows this show doesn t include any charts or awards There are a few segments such as This Week s Hot 3 Chart Up Core and Core of Rising Stars",
+    "cast": [
+      {
+        "name": "영훈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
+      },
+      {
+        "name": "이정하",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
+      },
+      {
+        "name": "설윤",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
+      },
+      {
+        "name": "정우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bv61wcNdemsUfqbqVFgXfhwSNzR.jpg"
+      },
+      {
+        "name": "리노",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
+      },
+      {
+        "name": "김민주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
+      }
+    ],
+    "date_added": 1787669068676
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eXySrZkDWeOel45DlXTcSWiM6NH.jpg",
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "id": 65278,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "SBS 인기가요",
+    "overview": "",
+    "popularity": 49.9666,
+    "poster_path": "/tiJQs4euOHdIPc7tTnB0eonQvqV.jpg",
+    "first_air_date": "1998-02-01",
+    "softcore": false,
+    "name": "SBS 인기가요",
+    "vote_average": 7.5,
+    "vote_count": 4,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1998-02-01",
+        "episode_count": 1573,
+        "id": 73857,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/tiJQs4euOHdIPc7tTnB0eonQvqV.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2021-10-10",
+        "episode_count": 24,
+        "id": 192800,
+        "name": "الموسم 24",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 24,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "정성찬",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aMoiZwFIALf2XWEt4JmbOh4naQ4.jpg"
+          },
+          {
+            "name": "안유진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ufAEeh6aDZAO2pVQgyAU38kMrZv.jpg"
+          },
+          {
+            "name": "Park Ji hoon",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gEwcfABu8cvzV8rK1kJ7XENCmGR.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "SBS 인기가요",
+    "title_en": "Inkigayo",
+    "overview_en": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea Every week they ask viewers to vote and select the most popular song of the week",
+    "cast": [],
+    "date_added": 1787669068768
   },
   {
     "adult": false,
@@ -4563,290 +4748,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tfOh64A3XptRzyKrJsxCRDbbgq4.jpg"
       }
     ],
-    "date_added": 1787657274540
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eXySrZkDWeOel45DlXTcSWiM6NH.jpg",
-    "genre_ids": [
-      10764,
-      10751
-    ],
-    "id": 65278,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "SBS 인기가요",
-    "overview": "",
-    "popularity": 49.9666,
-    "poster_path": "/tiJQs4euOHdIPc7tTnB0eonQvqV.jpg",
-    "first_air_date": "1998-02-01",
-    "softcore": false,
-    "name": "SBS 인기가요",
-    "vote_average": 7.5,
-    "vote_count": 4,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1998-02-01",
-        "episode_count": 1573,
-        "id": 73857,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/tiJQs4euOHdIPc7tTnB0eonQvqV.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2021-10-10",
-        "episode_count": 24,
-        "id": 192800,
-        "name": "الموسم 24",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 24,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "정성찬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aMoiZwFIALf2XWEt4JmbOh4naQ4.jpg"
-          },
-          {
-            "name": "안유진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ufAEeh6aDZAO2pVQgyAU38kMrZv.jpg"
-          },
-          {
-            "name": "Park Ji hoon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gEwcfABu8cvzV8rK1kJ7XENCmGR.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "SBS 인기가요",
-    "title_en": "Inkigayo",
-    "overview_en": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea Every week they ask viewers to vote and select the most popular song of the week",
-    "cast": [],
-    "date_added": 1787657274691
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c1FQPgXZjQ1AmX2v0v3W59PjwKT.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 35024,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "쇼! 음악중심",
-    "overview": "",
-    "popularity": 52.065,
-    "poster_path": "/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
-    "first_air_date": "2005-10-29",
-    "softcore": false,
-    "name": "쇼! 음악중심",
-    "vote_average": 7,
-    "vote_count": 1,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2005-10-29",
-        "episode_count": 966,
-        "id": 73842,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/gf9sdLzo1B0saiO1I0fG2bzoF29.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "영훈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
-          },
-          {
-            "name": "이정하",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
-          },
-          {
-            "name": "설윤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
-          },
-          {
-            "name": "정우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bv61wcNdemsUfqbqVFgXfhwSNzR.jpg"
-          },
-          {
-            "name": "리노",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
-          },
-          {
-            "name": "김민주",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "쇼 음악중심",
-    "title_en": "Show Music Core",
-    "overview_en": "Show Music Core is a music show that has been aired since 2005 Not like any other music shows this show doesn t include any charts or awards There are a few segments such as This Week s Hot 3 Chart Up Core and Core of Rising Stars",
-    "cast": [
-      {
-        "name": "영훈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
-      },
-      {
-        "name": "이정하",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
-      },
-      {
-        "name": "설윤",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
-      },
-      {
-        "name": "정우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bv61wcNdemsUfqbqVFgXfhwSNzR.jpg"
-      },
-      {
-        "name": "리노",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
-      },
-      {
-        "name": "김민주",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
-      }
-    ],
-    "date_added": 1787657274773
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "id": 301412,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "그대에게 드림",
-    "overview": "يتبع قصة المسلسل وو سو بين الذي يعود ليكتشف نفسه من جديد وجو يي جاي التي كانت في السابق شجاعًة وطموحة لكنها أصبحت أكثر حذرًا بسبب تجارب الحياة",
-    "popularity": 42.8796,
-    "poster_path": "/6Xo53LDGp8QYc8gqEFyoAvnwciX.jpg",
-    "first_air_date": "2026-07-13",
-    "softcore": false,
-    "name": "أحلم بك",
-    "vote_average": 9.3,
-    "vote_count": 10,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-07-13",
-        "episode_count": 12,
-        "id": 476674,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/mvVvtRI5ELaevFnrlOW4nrmYgtF.jpg",
-        "season_number": 1,
-        "vote_average": 8.3,
-        "cast": [
-          {
-            "name": "황인엽",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dI1dL3QHSmDdhXyB65ETjpxKN7Z.jpg"
-          },
-          {
-            "name": "이혜리",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5F5tjTAvpBcdVdhI9kGjlJY00fY.jpg"
-          },
-          {
-            "name": "백성철",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2zGYEMlDuQWlUBGZ93TeY942a6F.jpg"
-          },
-          {
-            "name": "이열음",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f0GTS4kgkFAE2zvvX5BzZjTgw95.jpg"
-          },
-          {
-            "name": "이상엽",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/m3b6lKDDs6CmBqnaEWEUMdCVjZI.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "이지민",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uVWkKyHoMRpEtvLvYcRzQX5emyl.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "أحلم بك",
-    "title_en": "Dream to You",
-    "overview_en": "Two high school classmates bond over a shared love of filmmaking turning a deep friendship into first love before an unexpected separation tears them apart Years later they reunite with their lives completely transformed she s lost her passion while he s become a celebrated director Determined to reignite her dreams he must first confront the hurt he left behind",
-    "cast": [
-      {
-        "name": "황인엽",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dI1dL3QHSmDdhXyB65ETjpxKN7Z.jpg"
-      },
-      {
-        "name": "이혜리",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5F5tjTAvpBcdVdhI9kGjlJY00fY.jpg"
-      },
-      {
-        "name": "백성철",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2zGYEMlDuQWlUBGZ93TeY942a6F.jpg"
-      },
-      {
-        "name": "이열음",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/f0GTS4kgkFAE2zvvX5BzZjTgw95.jpg"
-      },
-      {
-        "name": "이상엽",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/m3b6lKDDs6CmBqnaEWEUMdCVjZI.jpg"
-      },
-      {
-        "name": "박지영",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-      },
-      {
-        "name": "이지민",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uVWkKyHoMRpEtvLvYcRzQX5emyl.jpg"
-      }
-    ],
-    "date_added": 1787657275301
+    "date_added": 1787669069139
   },
   {
     "adult": false,
@@ -5021,7 +4923,129 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/naGmBR3zAx7u8htEvu4RML6ODi8.jpg"
       }
     ],
-    "date_added": 1787657275410
+    "date_added": 1787669069263
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oQzp6JxTqjESsEkWsnmGYgvP5Ur.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 310033,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "붉은 진주",
+    "overview": "",
+    "popularity": 44.9989,
+    "poster_path": "/5FLLysBG46534liTEwhORj0skVz.jpg",
+    "first_air_date": "2026-02-23",
+    "softcore": false,
+    "name": "붉은 진주",
+    "vote_average": 0,
+    "vote_count": 0,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-02-23",
+        "episode_count": 102,
+        "id": 492868,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/5FLLysBG46534liTEwhORj0skVz.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박진희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uyFZpowg49fzubds33CdY7V4kSX.jpg"
+          },
+          {
+            "name": "남상지",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qXG5gqapc7WLfftJY7XDJRBBxTP.jpg"
+          },
+          {
+            "name": "최재성",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/l6wTRfPF8R1j62ozp7bHo1Kr8bp.jpg"
+          },
+          {
+            "name": "김희정",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5Rj388i8PVKYRn4DhlDJPgzspSz.jpg"
+          },
+          {
+            "name": "김경보",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rvhza0WH7rmFmqpvbyLHkQk9swb.jpg"
+          },
+          {
+            "name": "이원종",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dBRYwAj2WryYV8OiJCeK7U0bzy.jpg"
+          },
+          {
+            "name": "백성현",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uo1SmMTaBtpHfFGesHJ7fgDiwou.jpg"
+          },
+          {
+            "name": "김혜선",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1wUftjM8vMeERxsVFkAkp4YrmRP.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "붉은 진주",
+    "title_en": "Pearl in Red",
+    "overview_en": "A woman wrongfully believed to be dead returns with her child while another woman assumes her twin sister s identity to seek revenge Years later a woman who looks identical to a murdered daughter appears and abandons her own identity to avenge her father As both women sacrifice their identities for revenge what fate awaits them",
+    "cast": [
+      {
+        "name": "박진희",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uyFZpowg49fzubds33CdY7V4kSX.jpg"
+      },
+      {
+        "name": "남상지",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qXG5gqapc7WLfftJY7XDJRBBxTP.jpg"
+      },
+      {
+        "name": "최재성",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/l6wTRfPF8R1j62ozp7bHo1Kr8bp.jpg"
+      },
+      {
+        "name": "김희정",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5Rj388i8PVKYRn4DhlDJPgzspSz.jpg"
+      },
+      {
+        "name": "김경보",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rvhza0WH7rmFmqpvbyLHkQk9swb.jpg"
+      },
+      {
+        "name": "이원종",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dBRYwAj2WryYV8OiJCeK7U0bzy.jpg"
+      },
+      {
+        "name": "백성현",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uo1SmMTaBtpHfFGesHJ7fgDiwou.jpg"
+      },
+      {
+        "name": "김혜선",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1wUftjM8vMeERxsVFkAkp4YrmRP.jpg"
+      }
+    ],
+    "date_added": 1787669069338
   },
   {
     "adult": false,
@@ -5249,129 +5273,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
       }
     ],
-    "date_added": 1787657275616
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oQzp6JxTqjESsEkWsnmGYgvP5Ur.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 310033,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "붉은 진주",
-    "overview": "",
-    "popularity": 44.9989,
-    "poster_path": "/5FLLysBG46534liTEwhORj0skVz.jpg",
-    "first_air_date": "2026-02-23",
-    "softcore": false,
-    "name": "붉은 진주",
-    "vote_average": 0,
-    "vote_count": 0,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-02-23",
-        "episode_count": 102,
-        "id": 492868,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/5FLLysBG46534liTEwhORj0skVz.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박진희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uyFZpowg49fzubds33CdY7V4kSX.jpg"
-          },
-          {
-            "name": "남상지",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qXG5gqapc7WLfftJY7XDJRBBxTP.jpg"
-          },
-          {
-            "name": "최재성",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/l6wTRfPF8R1j62ozp7bHo1Kr8bp.jpg"
-          },
-          {
-            "name": "김희정",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5Rj388i8PVKYRn4DhlDJPgzspSz.jpg"
-          },
-          {
-            "name": "김경보",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rvhza0WH7rmFmqpvbyLHkQk9swb.jpg"
-          },
-          {
-            "name": "이원종",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dBRYwAj2WryYV8OiJCeK7U0bzy.jpg"
-          },
-          {
-            "name": "백성현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uo1SmMTaBtpHfFGesHJ7fgDiwou.jpg"
-          },
-          {
-            "name": "김혜선",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1wUftjM8vMeERxsVFkAkp4YrmRP.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "붉은 진주",
-    "title_en": "Pearl in Red",
-    "overview_en": "A woman wrongfully believed to be dead returns with her child while another woman assumes her twin sister s identity to seek revenge Years later a woman who looks identical to a murdered daughter appears and abandons her own identity to avenge her father As both women sacrifice their identities for revenge what fate awaits them",
-    "cast": [
-      {
-        "name": "박진희",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uyFZpowg49fzubds33CdY7V4kSX.jpg"
-      },
-      {
-        "name": "남상지",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/qXG5gqapc7WLfftJY7XDJRBBxTP.jpg"
-      },
-      {
-        "name": "최재성",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/l6wTRfPF8R1j62ozp7bHo1Kr8bp.jpg"
-      },
-      {
-        "name": "김희정",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5Rj388i8PVKYRn4DhlDJPgzspSz.jpg"
-      },
-      {
-        "name": "김경보",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rvhza0WH7rmFmqpvbyLHkQk9swb.jpg"
-      },
-      {
-        "name": "이원종",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dBRYwAj2WryYV8OiJCeK7U0bzy.jpg"
-      },
-      {
-        "name": "백성현",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uo1SmMTaBtpHfFGesHJ7fgDiwou.jpg"
-      },
-      {
-        "name": "김혜선",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/1wUftjM8vMeERxsVFkAkp4YrmRP.jpg"
-      }
-    ],
-    "date_added": 1787657275726
+    "date_added": 1787669069519
   },
   {
     "adult": false,
@@ -5463,7 +5365,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
       }
     ],
-    "date_added": 1787657275796
+    "date_added": 1787669069636
   },
   {
     "adult": false,
@@ -7842,7 +7744,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jZgDHy9GVkF0mtLC8UNIcF8vxuZ.jpg"
       }
     ],
-    "date_added": 1787657279276
+    "date_added": 1787669072059
   },
   {
     "adult": false,
@@ -7905,7 +7807,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg"
       }
     ],
-    "date_added": 1787657279351
+    "date_added": 1787669072140
   },
   {
     "adult": false,
@@ -8029,7 +7931,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/duuhbQUuLwpoxtTLZ1yLg5A7TB2.jpg"
       }
     ],
-    "date_added": 1787657279436
+    "date_added": 1787669072215
   },
   {
     "adult": false,
@@ -8082,7 +7984,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
       }
     ],
-    "date_added": 1787657279523
+    "date_added": 1787669072294
   },
   {
     "adult": false,
@@ -8198,7 +8100,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uZytd3dXQdBpOAiJNOl7S1eIn8u.jpg"
       }
     ],
-    "date_added": 1787657279622
+    "date_added": 1787669072378
   },
   {
     "adult": false,
@@ -8282,7 +8184,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c7WnKeNxrgpHS4lYWlkTOPSE6Vc.jpg"
       }
     ],
-    "date_added": 1787657280623
+    "date_added": 1787669072432
   },
   {
     "adult": false,
@@ -8539,7 +8441,7 @@
     "title_en": "KBS Drama Special",
     "overview_en": "Forget the existing one act dramas Short but impactive KBS Drama Special presents high quality single episode dramas Dramas are the broadcast content with the widest public appeal KBS Drama Special will produce short dramas of far reaching impact involving at times a serious social message unique emotions or perspectives It will stay abreast of modern viewership",
     "cast": [],
-    "date_added": 1787657281385
+    "date_added": 1787669073137
   },
   {
     "adult": false,
@@ -8588,7 +8490,7 @@
     "title_en": "SBS Inkigayo",
     "overview_en": "Weekly Music Show MCs Minah and others",
     "cast": [],
-    "date_added": 1787657281519
+    "date_added": 1787669073279
   },
   {
     "adult": false,
@@ -8682,7 +8584,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a4nQ5seWDMMSDzW37MkRpk0ZnTE.jpg"
       }
     ],
-    "date_added": 1787657281586
+    "date_added": 1787669073335
   },
   {
     "adult": false,
@@ -8890,7 +8792,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1XHPW660y0z6gAe3AVglV6QZYkH.jpg"
       }
     ],
-    "date_added": 1787657281739
+    "date_added": 1787669073517
   },
   {
     "adult": false,
@@ -9401,7 +9303,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1787657282811
+    "date_added": 1787669074004
   },
   {
     "adult": false,
@@ -9544,7 +9446,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9L4RG3cujCgTHjtDhFAG88gZiOX.jpg"
       }
     ],
-    "date_added": 1787657283104
+    "date_added": 1787669074176
   },
   {
     "adult": false,
@@ -9651,7 +9553,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
       }
     ],
-    "date_added": 1787657283279
+    "date_added": 1787669074430
   },
   {
     "adult": false,
@@ -9734,7 +9636,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
       }
     ],
-    "date_added": 1787657283367
+    "date_added": 1787669074501
   },
   {
     "adult": false,
@@ -9856,7 +9758,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jrg51mEs4OG1BS6J3rS9sS3OTl2.jpg"
       }
     ],
-    "date_added": 1787657283492
+    "date_added": 1787669074534
   },
   {
     "adult": false,
@@ -9938,7 +9840,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
       }
     ],
-    "date_added": 1787657283595
+    "date_added": 1787669074578
   },
   {
     "adult": false,
@@ -10063,131 +9965,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cvykHsetBrlq7PgTbbrUrzXhJUL.jpg"
       }
     ],
-    "date_added": 1787657283665
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/l1iP4NG6dhEoqooag7btdO807k1.jpg",
-    "genre_ids": [
-      35,
-      10751,
-      18
-    ],
-    "id": 307602,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "사랑을 처방해 드립니다",
-    "overview": "تتشابك عائلتان في علاقة سيئة لمدة 30 عامًا وتحلان سوء الفهم وتشفيان جروح بعضهما البعض وفي النهاية تولدان من جديد كعائلة واحدة",
-    "popularity": 15.2497,
-    "poster_path": "/2A0vqTL2dohBp5Slv1fblnqfMkD.jpg",
-    "first_air_date": "2026-01-31",
-    "softcore": false,
-    "name": "وصفة من اجل الحب",
-    "vote_average": 8,
-    "vote_count": 3,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-01-31",
-        "episode_count": 50,
-        "id": 488200,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/2A0vqTL2dohBp5Slv1fblnqfMkD.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "진세연",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tKeeLzPt47OkccfvbUxNwhNYbTW.jpg"
-          },
-          {
-            "name": "박기웅",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/19vobS9gEMYOvACAnQh36Blwyae.jpg"
-          },
-          {
-            "name": "김미숙",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cRq8LIJTFsMaiIk54aoCscWHtqA.jpg"
-          },
-          {
-            "name": "김승수",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wdnvKmWIevoF1ubLBgHAA2NAQFD.jpg"
-          },
-          {
-            "name": "유호정",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dHQmRt2tinSPn85mkwN73oEnxBA.jpg"
-          },
-          {
-            "name": "최대철",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/l6AgTYaHxhnqKv2iw74W4ITahyS.jpg"
-          },
-          {
-            "name": "주진모",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1qTItiktKLOBRX00xIqx8GO0TXk.jpg"
-          },
-          {
-            "name": "김형묵",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iFDFDCActOFrsdUbdv1xlLEh2yr.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "وصفة من اجل الحب",
-    "title_en": "Recipe For Love",
-    "overview_en": "Two families entangled in a bad relationship for 30 years resolving misunderstandings healing each other s wounds and ultimately being reborn as one family",
-    "cast": [
-      {
-        "name": "진세연",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tKeeLzPt47OkccfvbUxNwhNYbTW.jpg"
-      },
-      {
-        "name": "박기웅",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/19vobS9gEMYOvACAnQh36Blwyae.jpg"
-      },
-      {
-        "name": "김미숙",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/cRq8LIJTFsMaiIk54aoCscWHtqA.jpg"
-      },
-      {
-        "name": "김승수",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wdnvKmWIevoF1ubLBgHAA2NAQFD.jpg"
-      },
-      {
-        "name": "유호정",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dHQmRt2tinSPn85mkwN73oEnxBA.jpg"
-      },
-      {
-        "name": "최대철",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/l6AgTYaHxhnqKv2iw74W4ITahyS.jpg"
-      },
-      {
-        "name": "주진모",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/1qTItiktKLOBRX00xIqx8GO0TXk.jpg"
-      },
-      {
-        "name": "김형묵",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/iFDFDCActOFrsdUbdv1xlLEh2yr.jpg"
-      }
-    ],
-    "date_added": 1787657284105
+    "date_added": 1787669074649
   },
   {
     "adult": false,
@@ -10227,131 +10005,7 @@
     "title_en": "MBC Bests Theater",
     "overview_en": "",
     "cast": [],
-    "date_added": 1787657284187
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "genre_ids": [
-      80,
-      10765,
-      18
-    ],
-    "id": 282810,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "판사 이한영",
-    "overview": "بعد سقوطه في الفساد ثم التخلّي عنه يُقتل القاضي لي هان يونغ لكنه يستيقظ فجأة قبل عشر سنوات من موته في زمنٍ كان ما يزال فيه قاضيًا مبتدئًا يمنحه القدر فرصة ثانية ليعيد تشكيل حياته ويواجه القوى المظلمة التي تحكم القضاء من خلف الستار",
-    "popularity": 44.5507,
-    "poster_path": "/qIEbTHlBX4ULnLdt1WEJc1oiuIr.jpg",
-    "first_air_date": "2026-01-02",
-    "softcore": false,
-    "name": "عودة القاضي",
-    "vote_average": 8.1,
-    "vote_count": 23,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-01-02",
-        "episode_count": 14,
-        "id": 439382,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/vm9tkSZTajLii3zSRaxVaK90E9f.jpg",
-        "season_number": 1,
-        "vote_average": 8.6,
-        "cast": [
-          {
-            "name": "지성",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6RBiKyGLczeCrgnu1tfw5URRvEg.jpg"
-          },
-          {
-            "name": "원진아",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgRHrpnvV5pSw2MdJtFjr7dlQ2n.jpg"
-          },
-          {
-            "name": "بارك هي سون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s2SSzvlsSfCPP5EXhCoWUr8970F.jpg"
-          },
-          {
-            "name": "백진희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/opTeHaQv6cNVlM33Tk50C2uxjeI.jpg"
-          },
-          {
-            "name": "오세영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iPA2Rf0xDC56DWy8EPE5slB5B7d.jpg"
-          },
-          {
-            "name": "황희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jbsK0zA0ujSGtnAuhK7VKh4UsXc.jpg"
-          },
-          {
-            "name": "태원석",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9OB8p1XSJO32bUPp1PZvL79vhQA.jpg"
-          },
-          {
-            "name": "Park Geon il",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2vFeKHJw3N7At7ADpZERolnS4Pl.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "عودة القاضي",
-    "title_en": "The Judge Returns",
-    "overview_en": "The return of corrupt judge Lee Han young who was a slave to a large law firm to the past 10 years ago He makes new choices to punish evil and implement justice",
-    "cast": [
-      {
-        "name": "지성",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6RBiKyGLczeCrgnu1tfw5URRvEg.jpg"
-      },
-      {
-        "name": "원진아",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rgRHrpnvV5pSw2MdJtFjr7dlQ2n.jpg"
-      },
-      {
-        "name": "بارك هي سون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/s2SSzvlsSfCPP5EXhCoWUr8970F.jpg"
-      },
-      {
-        "name": "백진희",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/opTeHaQv6cNVlM33Tk50C2uxjeI.jpg"
-      },
-      {
-        "name": "오세영",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/iPA2Rf0xDC56DWy8EPE5slB5B7d.jpg"
-      },
-      {
-        "name": "황희",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jbsK0zA0ujSGtnAuhK7VKh4UsXc.jpg"
-      },
-      {
-        "name": "태원석",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9OB8p1XSJO32bUPp1PZvL79vhQA.jpg"
-      },
-      {
-        "name": "Park Geon il",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2vFeKHJw3N7At7ADpZERolnS4Pl.jpg"
-      }
-    ],
-    "date_added": 1787657284279
+    "date_added": 1787669074786
   },
   {
     "adult": false,
@@ -10472,34 +10126,233 @@
     "title_en": "برنارد",
     "overview_en": "Bernard is a series of animated shorts centered on the fictional polar bear and main character of the same name It is a Korean Spanish French co production Each three minute episode focuses on the bear s curiosity and have many moments of slapstick Bernard never speaks with the exception of unintelligible noises Bernard is accompanied in the cartoons by a few other characters Lloyd and Eva the penguins Zack the lizard Goliat the chihuahua Sam the baby Pilot the dog Pokey the porcupine and Santa Claus He usually gets knocked unconscious or severely injured at the end of an episode due to some calamity caused by his bumbling",
     "cast": [],
-    "date_added": 1787657284621
+    "date_added": 1787669075188
   },
   {
     "adult": false,
-    "backdrop_path": "/3WWS80F5LFPbLpqdmNw3NQVgBvY.jpg",
+    "backdrop_path": "/4NffLgfKgSyosvA2qGZxJh7aa1v.jpg",
     "genre_ids": [
       18
     ],
-    "id": 197133,
+    "id": 201859,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "학교",
+    "original_name": "수업중입니다",
     "overview": "",
-    "popularity": 27.8581,
-    "poster_path": "/uvR8UwDbw38qsIORmO9kSKWfezn.jpg",
-    "first_air_date": "1999-02-22",
+    "popularity": 25.6833,
+    "poster_path": "/j4PAXhpcVsqHXf2SqHlJGAN3IYF.jpg",
+    "first_air_date": "2022-05-13",
     "softcore": false,
-    "name": "학교",
+    "name": "수업중입니다",
+    "vote_average": 7.1,
+    "vote_count": 28,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2022-05-13",
+        "episode_count": 6,
+        "id": 293525,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/fNKSl62TPeUR8IHH7LXGIhouBkC.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "한현준",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/681WwzUyxjMvYCF2MZujUo1vObR.jpg"
+          },
+          {
+            "name": "김태환",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/icTaCqOVWDLjMfsPALJu8DepQje.jpg"
+          },
+          {
+            "name": "류인아",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wdMa40ClfpwhXZa1Ha0L3DS4tua.jpg"
+          },
+          {
+            "name": "김혜진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8pxwXUYet50nzMNm6LTiWk9Q4CJ.jpg"
+          },
+          {
+            "name": "유혁재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lVh8S6JGJbDGM2T7WxGctFoC9fc.jpg"
+          },
+          {
+            "name": "이영교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/i7lXEq6FhV7bd0NxlCd8J4RJEGA.jpg"
+          },
+          {
+            "name": "원태희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wKGb4yZ0RptKj3CgfUFWCen3imu.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-08-11",
+        "episode_count": 10,
+        "id": 350548,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/1jKAvhn6r6yTqhHH3VXRR1C8wcB.jpg",
+        "season_number": 2,
+        "vote_average": 9.8,
+        "cast": [
+          {
+            "name": "전민욱",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zoO4yK5bwXdwpMfDJraP2myBAVZ.jpg"
+          },
+          {
+            "name": "김용석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8s9cICbVqv5aaYH07HVKRdwxnNr.jpg"
+          },
+          {
+            "name": "우효원",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pHTwN0J4XbadfoXTOHlc2BXv5jA.jpg"
+          },
+          {
+            "name": "이광희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qMHDjd9oNIsIKq7HjWDANo1EOQ6.jpg"
+          },
+          {
+            "name": "안정균",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bQ9gv4VgjifgB71lDECHGBXXg8m.jpg"
+          },
+          {
+            "name": "정우재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iZA1PVKFw4uWDkLDOv9br8sS79O.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-05-28",
+        "episode_count": 16,
+        "id": 500922,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/1UrNmrRTdnn5MqiELokel4x6OYI.jpg",
+        "season_number": 3,
+        "vote_average": 8.2,
+        "cast": [
+          {
+            "name": "새별",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nLtDwOsqxvgG0kBx3usGK6vLeFP.jpg"
+          },
+          {
+            "name": "서이한",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dZn4Qfire4hsx5REAWesIwuhxQn.jpg"
+          },
+          {
+            "name": "이우진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mpXqQynMtVkhCujVHaWiFvtXD6C.jpg"
+          },
+          {
+            "name": "เพชร ภาณุทัต แซ่หลี",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/w1HCOgHNwygXqU0jqgIcWDG23bC.jpg"
+          },
+          {
+            "name": "강연",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8gdg1Ss55eXbPlxQIMLl9jpLDPc.jpg"
+          },
+          {
+            "name": "박진석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/v9UpGETpgUQo1KdsQKXtjkxTQWa.jpg"
+          },
+          {
+            "name": "안효준",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mJGgBqujpVul6e4qlPXg7sKjSet.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "수업중입니다",
+    "title_en": "Love Class",
+    "overview_en": "In a college class where students are paired up and sent on dates a sophomore is partnered with an upperclassman whose gentle kindness steals his heart",
+    "cast": [
+      {
+        "name": "새별",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nLtDwOsqxvgG0kBx3usGK6vLeFP.jpg"
+      },
+      {
+        "name": "서이한",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dZn4Qfire4hsx5REAWesIwuhxQn.jpg"
+      },
+      {
+        "name": "이우진",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mpXqQynMtVkhCujVHaWiFvtXD6C.jpg"
+      },
+      {
+        "name": "เพชร ภาณุทัต แซ่หลี",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/w1HCOgHNwygXqU0jqgIcWDG23bC.jpg"
+      },
+      {
+        "name": "강연",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8gdg1Ss55eXbPlxQIMLl9jpLDPc.jpg"
+      },
+      {
+        "name": "박진석",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/v9UpGETpgUQo1KdsQKXtjkxTQWa.jpg"
+      },
+      {
+        "name": "안효준",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mJGgBqujpVul6e4qlPXg7sKjSet.jpg"
+      }
+    ],
+    "date_added": 1787669075334
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [],
+    "id": 93643,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "TMI SHOW",
+    "overview": "",
+    "popularity": 25.4085,
+    "poster_path": "/wJ779QoklVnX1LHoD4zyKeCfRpb.jpg",
+    "first_air_date": "2019-04-25",
+    "softcore": false,
+    "name": "TMI SHOW",
     "vote_average": 0,
     "vote_count": 0,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "1999-02-22",
-        "episode_count": 16,
-        "id": 286823,
+        "air_date": "2019-04-25",
+        "episode_count": 86,
+        "id": 132390,
         "name": "الموسم 1",
         "overview": "",
         "poster_path": null,
@@ -10507,94 +10360,180 @@
         "vote_average": 0,
         "cast": [
           {
-            "name": "장혁",
+            "name": "전현무",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wOGbzgmlogfpPUvXTWVSROVTUYf.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
           },
           {
-            "name": "김규리",
+            "name": "장도연",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vJT1X6V8wAhkaxePZdv3DcJHJBK.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-02-09",
+        "episode_count": 28,
+        "id": 303312,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/hVxYd9Wy5Jbrz8wGXeebG3Ux8Nn.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "이미주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/c1hFXX4EkasiPiMQ8CgLJvDBZAE.jpg"
           },
           {
-            "name": "양동근",
+            "name": "붐",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jlUJ6i91HYBs2QmcVKe1x3ByuaD.jpg"
-          },
-          {
-            "name": "배두나",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lCL08q20zkqHcLLLZQRlJfG09P4.jpg"
-          },
-          {
-            "name": "안재모",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6WNS7zYzs4b1F8TxdbM7CKrJtGJ.jpg"
-          },
-          {
-            "name": "최강희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/91cXZSvK500eL8vbtuQSxhadKOK.jpg"
-          },
-          {
-            "name": "박시은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ddRlhhZi5qzR62f25oC19Kx9tX.jpg"
-          },
-          {
-            "name": "Yook Dong Il",
-            "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/gfdninENLAwox0le8TImLwMYSOd.jpg"
           }
         ]
       }
     ],
-    "title": "학교",
-    "title_en": "School",
-    "overview_en": "School is a drama series that deals with realistic issues South Korean teenagers faced in high school in the late 1990 s",
+    "title": "TMI SHOW",
+    "title_en": "TMI SHOW",
+    "overview_en": "",
     "cast": [
       {
-        "name": "장혁",
+        "name": "이미주",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wOGbzgmlogfpPUvXTWVSROVTUYf.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/c1hFXX4EkasiPiMQ8CgLJvDBZAE.jpg"
       },
       {
-        "name": "김규리",
+        "name": "붐",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vJT1X6V8wAhkaxePZdv3DcJHJBK.jpg"
-      },
-      {
-        "name": "양동근",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jlUJ6i91HYBs2QmcVKe1x3ByuaD.jpg"
-      },
-      {
-        "name": "배두나",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lCL08q20zkqHcLLLZQRlJfG09P4.jpg"
-      },
-      {
-        "name": "안재모",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6WNS7zYzs4b1F8TxdbM7CKrJtGJ.jpg"
-      },
-      {
-        "name": "최강희",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/91cXZSvK500eL8vbtuQSxhadKOK.jpg"
-      },
-      {
-        "name": "박시은",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6ddRlhhZi5qzR62f25oC19Kx9tX.jpg"
-      },
-      {
-        "name": "Yook Dong Il",
-        "role": "بطوله",
-        "photo_url": null
+        "photo_url": "https://image.tmdb.org/t/p/w185/gfdninENLAwox0le8TImLwMYSOd.jpg"
       }
     ],
-    "date_added": 1787657284712
+    "date_added": 1787669075438
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "id": 300727,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "아파트",
+    "overview": "القصهلحاجته الماسة إلى المال يتعاون زعيم عصابة سابق مع محامية طموحة لسرقة صندوق الاحتياطي الخاص بمجمع سكني ولكنهما يكشفان عن عمليات فسادٍ مستشرٍ",
+    "popularity": 24.9996,
+    "poster_path": "/eTaD4VV0eMHlOQg1ENDS09uZ2Ln.jpg",
+    "first_air_date": "2026-07-11",
+    "softcore": false,
+    "name": "مهمة في مجمع سكني",
+    "vote_average": 8.7,
+    "vote_count": 28,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-07-11",
+        "episode_count": 12,
+        "id": 475291,
+        "name": "الموسم 1",
+        "overview": "يروي المسلسل قصة هاي غانغ، وهو رجل عصابات سابق يترشح لمنصب رئيس جمعية سكان المبنى السكني بهدف العثور على مخبأ سري للأموال. وخلال سعيه، يكشف عن غير قصد عن فساد متجذر داخل المجمع السكني، ويبدأ في التحول إلى بطل محلي غير متوقع بالنسبة للجيران.",
+        "poster_path": "/9QHLuNrcSbZFaak7rSeka0d1bbf.jpg",
+        "season_number": 1,
+        "vote_average": 9.6,
+        "cast": [
+          {
+            "name": "지성",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6RBiKyGLczeCrgnu1tfw5URRvEg.jpg"
+          },
+          {
+            "name": "하윤경",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/855aD0tnj8rOJRdVfeu26eXdFO3.jpg"
+          },
+          {
+            "name": "문소리",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iXfIsmrzohNAAf2gyPCE06rJM1N.jpg"
+          },
+          {
+            "name": "بارك بيونغ إيون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8lDiEHjbBxPD8VNu1kGifMXhPUn.jpg"
+          },
+          {
+            "name": "정순원",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/E80fMLgKBeOASTnHLEi4jSuCqo.jpg"
+          },
+          {
+            "name": "황희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jbsK0zA0ujSGtnAuhK7VKh4UsXc.jpg"
+          },
+          {
+            "name": "김규원",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gBsUWGLkxkmwY4PIaRi3AHl3Bz1.jpg"
+          },
+          {
+            "name": "김원해",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nWZGktRe2Ele7fLxZt8e492oRir.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "مهمة في مجمع سكني",
+    "title_en": "The Apartment Job",
+    "overview_en": "Desperate for cash a former gang boss teams up with an aspiring lawyer to steal an apartment complex s reserve fund only to uncover deep corruption",
+    "cast": [
+      {
+        "name": "지성",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/6RBiKyGLczeCrgnu1tfw5URRvEg.jpg"
+      },
+      {
+        "name": "하윤경",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/855aD0tnj8rOJRdVfeu26eXdFO3.jpg"
+      },
+      {
+        "name": "문소리",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/iXfIsmrzohNAAf2gyPCE06rJM1N.jpg"
+      },
+      {
+        "name": "بارك بيونغ إيون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8lDiEHjbBxPD8VNu1kGifMXhPUn.jpg"
+      },
+      {
+        "name": "정순원",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/E80fMLgKBeOASTnHLEi4jSuCqo.jpg"
+      },
+      {
+        "name": "황희",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jbsK0zA0ujSGtnAuhK7VKh4UsXc.jpg"
+      },
+      {
+        "name": "김규원",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gBsUWGLkxkmwY4PIaRi3AHl3Bz1.jpg"
+      },
+      {
+        "name": "김원해",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nWZGktRe2Ele7fLxZt8e492oRir.jpg"
+      }
+    ],
+    "date_added": 1787669075558
   },
   {
     "adult": false,
@@ -10631,7 +10570,7 @@
           {
             "name": "성한빈",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xuKdO7ROfEBnjWjxTEGNSAwfIfs.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/qhPBRLkUcDGC6tB9EY7ibUPSbg5.jpg"
           },
           {
             "name": "소희",
@@ -10653,7 +10592,7 @@
       {
         "name": "성한빈",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/xuKdO7ROfEBnjWjxTEGNSAwfIfs.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/qhPBRLkUcDGC6tB9EY7ibUPSbg5.jpg"
       },
       {
         "name": "소희",
@@ -10666,7 +10605,500 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qTQ9t5SiS4WglUpwCESjOJkjkaQ.jpg"
       }
     ],
-    "date_added": 1787657284780
+    "date_added": 1787669075677
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4P2gbaCGdZyP4i95TmmA6nS9HJh.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 64356,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "슈퍼맨이 돌아왔다",
+    "overview": "",
+    "popularity": 24.3725,
+    "poster_path": "/iP2OjFhiiMnowebltmXgAxJowKP.jpg",
+    "first_air_date": "2013-11-03",
+    "softcore": false,
+    "name": "슈퍼맨이 돌아왔다",
+    "vote_average": 7.7,
+    "vote_count": 16,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2013-11-03",
+        "episode_count": 9,
+        "id": 71840,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/pubMzOwwq8e6HZvL5b4cOVlahgM.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "이휘재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rAltUEr58Yr6tGtyswrWa1X5RTX.jpg"
+          },
+          {
+            "name": "추성훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9wM7b08r1UUdb2wkscNRiE4PbLZ.jpg"
+          },
+          {
+            "name": "장현성",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rD1QMp1kmx03JSw4eBxeeLvTwAA.jpg"
+          },
+          {
+            "name": "이동국",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aj1CtZ7EmBXXK5PtEeYiZJ5enbF.jpg"
+          },
+          {
+            "name": "기태영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3ROBVuti9vZrRSZg6CuMB53aZNr.jpg"
+          },
+          {
+            "name": "타블로",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3emaJ1HJM1K9b3OdjwDLF54fQJh.jpg"
+          },
+          {
+            "name": "이범수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9CSDpnR1gjbulTQdusJMiGc59Ff.jpg"
+          },
+          {
+            "name": "인교진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hCReg69JybyoV0A9WolIqVeJRDe.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2014-01-05",
+        "episode_count": 49,
+        "id": 380961,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-01-04",
+        "episode_count": 52,
+        "id": 380962,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-01-03",
+        "episode_count": 52,
+        "id": 380963,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2017-01-01",
+        "episode_count": 45,
+        "id": 380964,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 5,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2018-01-07",
+        "episode_count": 51,
+        "id": 380965,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 6,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2019-01-06",
+        "episode_count": 52,
+        "id": 380966,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 7,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2020-01-05",
+        "episode_count": 52,
+        "id": 380967,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 8,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2021-01-03",
+        "episode_count": 50,
+        "id": 380968,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 9,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-01-02",
+        "episode_count": 47,
+        "id": 380969,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 10,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-01-07",
+        "episode_count": 48,
+        "id": 380970,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 11,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-01-03",
+        "episode_count": 47,
+        "id": 380971,
+        "name": "الموسم 12",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 12,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-01-01",
+        "episode_count": 46,
+        "id": 482583,
+        "name": "الموسم 13",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 13,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          },
+          {
+            "name": "박수홍",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
+          },
+          {
+            "name": "최지우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-01-07",
+        "episode_count": 2,
+        "id": 482683,
+        "name": "الموسم 14",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 14,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박주호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+          },
+          {
+            "name": "박지영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+          },
+          {
+            "name": "박나은",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+          },
+          {
+            "name": "박수홍",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
+          },
+          {
+            "name": "최지우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "슈퍼맨이 돌아왔다",
+    "title_en": "The Return of Superman",
+    "overview_en": "An up close look at celebrity dads who have to take care of their kids for the next 48 hours without any help Will it be a dad tastrophe or can they finish their wives to do lists while having fun with their kids",
+    "cast": [
+      {
+        "name": "박주호",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+      },
+      {
+        "name": "박지영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+      },
+      {
+        "name": "박나은",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+      },
+      {
+        "name": "박수홍",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
+      },
+      {
+        "name": "최지우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
+      },
+      {
+        "name": "안영미",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+      }
+    ],
+    "date_added": 1787669076270
   },
   {
     "adult": false,
@@ -11258,747 +11690,649 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oMg7XU6R2zrWIPVY66PuWVTfM7M.jpg"
       }
     ],
-    "date_added": 1787657285249
+    "date_added": 1787669076794
   },
   {
     "adult": false,
-    "backdrop_path": "/4P2gbaCGdZyP4i95TmmA6nS9HJh.jpg",
+    "backdrop_path": "/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
     "genre_ids": [
-      10764
+      10764,
+      35,
+      10767
     ],
-    "id": 64356,
+    "id": 139798,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "슈퍼맨이 돌아왔다",
+    "original_name": "솔로지옥",
     "overview": "",
-    "popularity": 24.3725,
-    "poster_path": "/iP2OjFhiiMnowebltmXgAxJowKP.jpg",
-    "first_air_date": "2013-11-03",
+    "popularity": 24.1022,
+    "poster_path": "/tF3G9yCgmTzcAWx22c7fZZLRURk.jpg",
+    "first_air_date": "2021-12-18",
     "softcore": false,
-    "name": "슈퍼맨이 돌아왔다",
-    "vote_average": 7.7,
-    "vote_count": 16,
+    "name": "솔로지옥",
+    "vote_average": 7.6,
+    "vote_count": 97,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2013-11-03",
-        "episode_count": 9,
-        "id": 71840,
+        "air_date": "2021-12-18",
+        "episode_count": 8,
+        "id": 221404,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/pubMzOwwq8e6HZvL5b4cOVlahgM.jpg",
+        "poster_path": "/tHKas2aQDTHdxsnKaZduC04TPgh.jpg",
         "season_number": 1,
-        "vote_average": 0,
+        "vote_average": 8.1,
         "cast": [
           {
-            "name": "이휘재",
+            "name": "이다희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rAltUEr58Yr6tGtyswrWa1X5RTX.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
           },
           {
-            "name": "추성훈",
+            "name": "규현",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9wM7b08r1UUdb2wkscNRiE4PbLZ.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7fcrhuu3fffGT1P1BYf7MfkNt7c.jpg"
           },
           {
-            "name": "장현성",
+            "name": "홍진경",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rD1QMp1kmx03JSw4eBxeeLvTwAA.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
           },
           {
-            "name": "이동국",
+            "name": "한해",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aj1CtZ7EmBXXK5PtEeYiZJ5enbF.jpg"
-          },
-          {
-            "name": "기태영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3ROBVuti9vZrRSZg6CuMB53aZNr.jpg"
-          },
-          {
-            "name": "타블로",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3emaJ1HJM1K9b3OdjwDLF54fQJh.jpg"
-          },
-          {
-            "name": "이범수",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9CSDpnR1gjbulTQdusJMiGc59Ff.jpg"
-          },
-          {
-            "name": "인교진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hCReg69JybyoV0A9WolIqVeJRDe.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/valsCMfJQo4EgMWxVqDT622IY8g.jpg"
           }
         ]
       },
       {
-        "air_date": "2014-01-05",
-        "episode_count": 49,
-        "id": 380961,
+        "air_date": "2022-12-13",
+        "episode_count": 10,
+        "id": 288679,
         "name": "الموسم 2",
         "overview": "",
-        "poster_path": null,
+        "poster_path": "/AjPG6p7k5VgBVJWMHHo7gDrb23k.jpg",
         "season_number": 2,
-        "vote_average": 0,
+        "vote_average": 8.3,
         "cast": [
           {
-            "name": "박주호",
+            "name": "이다희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
           },
           {
-            "name": "박지영",
+            "name": "규현",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7fcrhuu3fffGT1P1BYf7MfkNt7c.jpg"
           },
           {
-            "name": "박나은",
+            "name": "홍진경",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
+          },
+          {
+            "name": "한해",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/valsCMfJQo4EgMWxVqDT622IY8g.jpg"
           }
         ]
       },
       {
-        "air_date": "2015-01-04",
-        "episode_count": 52,
-        "id": 380962,
+        "air_date": "2023-12-12",
+        "episode_count": 11,
+        "id": 351167,
         "name": "الموسم 3",
         "overview": "",
-        "poster_path": null,
+        "poster_path": "/awyJogyVDHdDz4AoHipAkNadCan.jpg",
         "season_number": 3,
-        "vote_average": 0,
+        "vote_average": 7.9,
         "cast": [
           {
-            "name": "박주호",
+            "name": "이다희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
           },
           {
-            "name": "박지영",
+            "name": "규현",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7fcrhuu3fffGT1P1BYf7MfkNt7c.jpg"
           },
           {
-            "name": "박나은",
+            "name": "홍진경",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
+          },
+          {
+            "name": "한해",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/valsCMfJQo4EgMWxVqDT622IY8g.jpg"
+          },
+          {
+            "name": "덱스",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gA5I73YDTZeYf6fijwHRQHvFg8Z.jpg"
+          },
+          {
+            "name": "손원익",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/duDs96DqL9mM5T3d1dPbf1KUR3P.jpg"
+          },
+          {
+            "name": "김규리",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zheiUamjX5G9nrAAdnfI69Dqpit.jpg"
+          },
+          {
+            "name": "이관희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tvwKTyfZ8gJxIKm8EPq3lY7FXHg.jpg"
           }
         ]
       },
       {
-        "air_date": "2016-01-03",
-        "episode_count": 52,
-        "id": 380963,
+        "air_date": "2025-01-14",
+        "episode_count": 12,
+        "id": 433574,
         "name": "الموسم 4",
         "overview": "",
-        "poster_path": null,
+        "poster_path": "/rx71yEHrk7KFh65hgT2XwNrJCp7.jpg",
         "season_number": 4,
-        "vote_average": 0,
+        "vote_average": 4.5,
         "cast": [
           {
-            "name": "박주호",
+            "name": "이다희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
           },
           {
-            "name": "박지영",
+            "name": "규현",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7fcrhuu3fffGT1P1BYf7MfkNt7c.jpg"
           },
           {
-            "name": "박나은",
+            "name": "홍진경",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
+          },
+          {
+            "name": "한해",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/valsCMfJQo4EgMWxVqDT622IY8g.jpg"
+          },
+          {
+            "name": "덱스",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gA5I73YDTZeYf6fijwHRQHvFg8Z.jpg"
+          },
+          {
+            "name": "이시안",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hUTx4UwyGKeuTNes1bpokZHL3ey.jpg"
+          },
+          {
+            "name": "정유진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xPUOtysi4ZvrD8BZ9H9MjqCYm5l.jpg"
+          },
+          {
+            "name": "배지연",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mThzDhXKODLgDT2UPGldEGTNrVG.jpg"
           }
         ]
       },
       {
-        "air_date": "2017-01-01",
-        "episode_count": 45,
-        "id": 380964,
+        "air_date": "2026-01-20",
+        "episode_count": 12,
+        "id": 473176,
         "name": "الموسم 5",
         "overview": "",
-        "poster_path": null,
+        "poster_path": "/uPSOPGQSivjf0GLoHU48qWOs8lv.jpg",
         "season_number": 5,
-        "vote_average": 0,
+        "vote_average": 8.4,
         "cast": [
           {
-            "name": "박주호",
+            "name": "이다희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
           },
           {
-            "name": "박지영",
+            "name": "규현",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/7fcrhuu3fffGT1P1BYf7MfkNt7c.jpg"
           },
           {
-            "name": "박나은",
+            "name": "홍진경",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2018-01-07",
-        "episode_count": 51,
-        "id": 380965,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
           },
           {
-            "name": "박지영",
+            "name": "한해",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/valsCMfJQo4EgMWxVqDT622IY8g.jpg"
           },
           {
-            "name": "박나은",
+            "name": "덱스",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2019-01-06",
-        "episode_count": 52,
-        "id": 380966,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 7,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/gA5I73YDTZeYf6fijwHRQHvFg8Z.jpg"
           },
           {
-            "name": "박지영",
+            "name": "윤현제",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/cdWpjV49X2zJ8mOfHQjQpPFx3li.jpg"
           },
           {
-            "name": "박나은",
+            "name": "송승일",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2020-01-05",
-        "episode_count": 52,
-        "id": 380967,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 8,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/wIjpyQZc0V51oOpsoWqXNILhhHJ.jpg"
           },
           {
-            "name": "박지영",
+            "name": "신현우",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2021-01-03",
-        "episode_count": 50,
-        "id": 380968,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 9,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2022-01-02",
-        "episode_count": 47,
-        "id": 380969,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 10,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-01-07",
-        "episode_count": 48,
-        "id": 380970,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 11,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-01-03",
-        "episode_count": 47,
-        "id": 380971,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 12,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-01-01",
-        "episode_count": 46,
-        "id": 482583,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 13,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          },
-          {
-            "name": "박수홍",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
-          },
-          {
-            "name": "최지우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
-          },
-          {
-            "name": "안영미",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-01-07",
-        "episode_count": 2,
-        "id": 482683,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 14,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박주호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
-          },
-          {
-            "name": "박지영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
-          },
-          {
-            "name": "박나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
-          },
-          {
-            "name": "박수홍",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
-          },
-          {
-            "name": "최지우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
-          },
-          {
-            "name": "안영미",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/48gyPnl3f4Y99Ngjj3Ec2g8fAv4.jpg"
           }
         ]
       }
     ],
-    "title": "슈퍼맨이 돌아왔다",
-    "title_en": "The Return of Superman",
-    "overview_en": "An up close look at celebrity dads who have to take care of their kids for the next 48 hours without any help Will it be a dad tastrophe or can they finish their wives to do lists while having fun with their kids",
+    "title": "솔로지옥",
+    "title_en": "Single s Inferno",
+    "overview_en": "On a deserted island flirtatious singles look for love because only as a couple can they leave the island for a romantic date in paradise",
     "cast": [
       {
-        "name": "박주호",
+        "name": "이다희",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rgGfylPUAfrOb6NvyFd5bMJEe8V.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/uaZ0kMQOEKxxtfH9IWecBZ8c4DI.jpg"
       },
       {
-        "name": "박지영",
+        "name": "규현",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mwIZ7JjkELclzNERSHe9pFHR24U.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/7fcrhuu3fffGT1P1BYf7MfkNt7c.jpg"
       },
       {
-        "name": "박나은",
+        "name": "홍진경",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5fyjcckTh0eWyGftn8K6LgSdIgY.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/kBrl7i1Mw2mr3A35PZ93wdw19X.jpg"
       },
       {
-        "name": "박수홍",
+        "name": "한해",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/MxZ31aVyZITpa39L7KA8IiZcNv.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/valsCMfJQo4EgMWxVqDT622IY8g.jpg"
       },
       {
-        "name": "최지우",
+        "name": "덱스",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ysPp0U285rWrCBlo0AfKFbpwoOH.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/gA5I73YDTZeYf6fijwHRQHvFg8Z.jpg"
       },
       {
-        "name": "안영미",
+        "name": "윤현제",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/cdWpjV49X2zJ8mOfHQjQpPFx3li.jpg"
+      },
+      {
+        "name": "송승일",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wIjpyQZc0V51oOpsoWqXNILhhHJ.jpg"
+      },
+      {
+        "name": "신현우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/48gyPnl3f4Y99Ngjj3Ec2g8fAv4.jpg"
       }
     ],
-    "date_added": 1787657286425
+    "date_added": 1787669077163
   },
   {
     "adult": false,
-    "backdrop_path": "/yPLWd31uUImEaeEA7qI28jGTjgR.jpg",
+    "backdrop_path": "/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
     "genre_ids": [
-      16,
-      10762
+      10765,
+      10759
     ],
-    "id": 136915,
+    "id": 96648,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "캐치! 티니핑",
-    "overview": "",
-    "popularity": 27.3365,
-    "poster_path": "/rY8QGWz7xdsBx6Em1WnpqQZ2oIU.jpg",
-    "first_air_date": "2020-03-19",
+    "original_name": "스위트홈",
+    "overview": "بينما يتحوّل البشر إلى وحوش ضارية تثير الذعر يُصارع شابّ مراهق مضطرب وجيرانه في المسكن لأجل النجاة بحياتهم والتمسّك بإنسانيتهم",
+    "popularity": 23.9893,
+    "poster_path": "/wJhJLaNQUByxETLWWuizRJjO1VL.jpg",
+    "first_air_date": "2020-12-18",
     "softcore": false,
-    "name": "캐치! 티니핑",
-    "vote_average": 7,
-    "vote_count": 4,
+    "name": "Sweet Home",
+    "vote_average": 8.211,
+    "vote_count": 1608,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2020-03-19",
-        "episode_count": 52,
-        "id": 216595,
+        "air_date": "2020-12-18",
+        "episode_count": 10,
+        "id": 149004,
         "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/sbbGgTACvLdwIbqGGMxkknBlK0Y.jpg",
+        "overview": "بينما يتحوّل البشر إلى وحوش ضارية تثير الذعر، يُصارع شابّ مراهق مضطرب وجيرانه في المسكن لأجل النجاة بحياتهم… والتمسّك بإنسانيتهم.",
+        "poster_path": "/sUnWYeFwsxSarKEDv26uUAcc1Pw.jpg",
         "season_number": 1,
-        "vote_average": 0,
+        "vote_average": 7.8,
         "cast": [
           {
-            "name": "이지현",
+            "name": "송강",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ZMeCU6B3PwAxqS2yc6oWbO6ynK.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
           },
           {
-            "name": "김명준",
+            "name": "이진욱",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
           },
           {
-            "name": "장은숙",
+            "name": "이시영",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6IG22ljWttPzD0BjAl01H6DJ2Tk.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/dPdd6o587UaGuDRlAN4XqdXWbGy.jpg"
           },
           {
-            "name": "조경이",
+            "name": "لي دو هيون",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHUickQMtHFlSlzTj6fU3goXM5F.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/8LhhJWLGCoOPt5ygpDlrmfr1VOm.jpg"
           },
           {
-            "name": "신용우",
+            "name": "고민시",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7URwQCgtOOX0KHHVONS11GrH39F.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
           },
           {
-            "name": "엄상현",
+            "name": "김남희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2VFdquNystxKcjEIDjLGc2UmdTH.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/isgY8huXgnoW7AD97vKYlhJwAyI.jpg"
           },
           {
-            "name": "이보희",
+            "name": "بارك جيو يونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/stLqdEGU5j1RVPazK6LNEBl2VR4.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/gnn2As1yZsive7Kxnx24NEN3GfC.jpg"
           },
           {
-            "name": "장예나",
+            "name": "غو يون جونغ",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5M7mDAgNFdAdMI8iJV0IyJI1wUl.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/1AlwvzW8dUvJXreVvzyTXsa6FOh.jpg"
           }
         ]
       },
       {
-        "air_date": "2021-09-22",
-        "episode_count": 26,
-        "id": 218642,
+        "air_date": "2023-12-01",
+        "episode_count": 8,
+        "id": 345684,
         "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/gUgeuaJFrGfpYT5UJpXyX8In5dj.jpg",
+        "overview": "تُرى مَن الطارق؟ أهو وحش أم إنسان أم مخلوق هجين؟ تتزايد المخاطر أكثر من أي وقت مضى في ظل تلاشي الحدود الفاصلة، ولا أحد في مأمن من العدوى!",
+        "poster_path": "/6dOXgXyTSIBiWHugW5yJMuLbU4q.jpg",
         "season_number": 2,
-        "vote_average": 0,
+        "vote_average": 7.6,
         "cast": [
           {
-            "name": "이지현",
+            "name": "송강",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ZMeCU6B3PwAxqS2yc6oWbO6ynK.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
           },
           {
-            "name": "조경이",
+            "name": "이진욱",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHUickQMtHFlSlzTj6fU3goXM5F.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
           },
           {
-            "name": "박지윤",
+            "name": "이시영",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qcibQ43sv8gJCj9ZhCIGziAJ2R4.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/dPdd6o587UaGuDRlAN4XqdXWbGy.jpg"
           },
           {
-            "name": "문남숙",
+            "name": "Jung Jinyoung",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/r95PImNqz7yRDuh9gHXOQxgmQfk.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/8NHVBNi1Jb7f0RujRLtjD2i05tc.jpg"
           },
           {
-            "name": "Kim Seon hye",
+            "name": "고민시",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+          },
+          {
+            "name": "بارك جيو يونغ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gnn2As1yZsive7Kxnx24NEN3GfC.jpg"
+          },
+          {
+            "name": "Yu Oh seong",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNqbeyp8Qoi0Sw2rlKgvwu5rSV2.jpg"
+          },
+          {
+            "name": "오정세",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oIqRAdI5e777odhOJl6e4Jc9ADj.jpg"
           }
         ]
       },
       {
-        "air_date": "2022-09-14",
-        "episode_count": 26,
-        "id": 309257,
+        "air_date": "2024-07-19",
+        "episode_count": 8,
+        "id": 397036,
         "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/rFiu7aacXtr0IhGPsQlogGedPnG.jpg",
+        "overview": "يتأرجح العالم أمام الحدود التي تفرّق بين الوحوش والبشر، الأمر الذي يُجبر البشرية على مواجهة خيار صعب... ولكن عندما تتصادم الرغبات، ينشأ صراع مستميت.",
+        "poster_path": "/w9nDN78WH3PLqCjeVmlTRcPohT0.jpg",
         "season_number": 3,
-        "vote_average": 0,
+        "vote_average": 8.4,
         "cast": [
           {
-            "name": "이지현",
+            "name": "송강",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ZMeCU6B3PwAxqS2yc6oWbO6ynK.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
           },
           {
-            "name": "조경이",
+            "name": "이진욱",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHUickQMtHFlSlzTj6fU3goXM5F.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
           },
           {
-            "name": "김가령",
+            "name": "이시영",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/adQVkZOoo3PbSvpLZLriXMU1Qi3.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/dPdd6o587UaGuDRlAN4XqdXWbGy.jpg"
           },
           {
-            "name": "Kim Seo young",
+            "name": "Jung Jinyoung",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/8NHVBNi1Jb7f0RujRLtjD2i05tc.jpg"
           },
           {
-            "name": "Yoon Mi na",
+            "name": "لي دو هيون",
             "role": "بطوله",
-            "photo_url": null
+            "photo_url": "https://image.tmdb.org/t/p/w185/8LhhJWLGCoOPt5ygpDlrmfr1VOm.jpg"
+          },
+          {
+            "name": "고민시",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+          },
+          {
+            "name": "Yu Oh seong",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iNqbeyp8Qoi0Sw2rlKgvwu5rSV2.jpg"
+          },
+          {
+            "name": "오정세",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oIqRAdI5e777odhOJl6e4Jc9ADj.jpg"
           }
         ]
-      },
-      {
-        "air_date": "2023-09-27",
-        "episode_count": 26,
-        "id": 351347,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/62B9BDJdqR3rZbxMg6FhR8K9duo.jpg",
-        "season_number": 4,
-        "vote_average": 10,
-        "cast": [
-          {
-            "name": "이지현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ZMeCU6B3PwAxqS2yc6oWbO6ynK.jpg"
-          },
-          {
-            "name": "조경이",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHUickQMtHFlSlzTj6fU3goXM5F.jpg"
-          },
-          {
-            "name": "박선영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mFGU98LpA5cG9DAoIYfiASrIjzb.jpg"
-          },
-          {
-            "name": "Moon Yoo jeong",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Bang Yeon ji",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "양정화",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nj1Asi3Cn3yiFoqhIbq2GoS6Wwz.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-10-10",
-        "episode_count": 26,
-        "id": 385268,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/tBASAup51gRnQIQWrcSMHCzJSmr.jpg",
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Lee Ji yeong",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Lee Gyeong ho",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "정혜원",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cgSwAL5sWzaWfTD263rm4TBvwfB.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-10-30",
-        "episode_count": 26,
-        "id": 482518,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/7pusQZYY1AryoYU9IvUONFoL5g3.jpg",
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": null,
-        "episode_count": 0,
-        "id": 496930,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 7,
-        "vote_average": 0,
-        "cast": []
       }
     ],
-    "title": "캐치 티니핑",
-    "title_en": "Catch Teenieping",
-    "overview_en": "Set free on Earth fairies with magical powers begin influencing people s emotions Now it s up to a princess from a faraway kingdom to stop them",
-    "cast": [],
-    "date_added": 1787657286836
+    "title": "Sweet Home",
+    "title_en": "Sweet Home",
+    "overview_en": "As humans turn into savage monsters and the world plunges into terror a handful of survivors fight for their lives and to hold on to their humanity",
+    "cast": [
+      {
+        "name": "송강",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
+      },
+      {
+        "name": "이진욱",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
+      },
+      {
+        "name": "이시영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dPdd6o587UaGuDRlAN4XqdXWbGy.jpg"
+      },
+      {
+        "name": "Jung Jinyoung",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8NHVBNi1Jb7f0RujRLtjD2i05tc.jpg"
+      },
+      {
+        "name": "لي دو هيون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8LhhJWLGCoOPt5ygpDlrmfr1VOm.jpg"
+      },
+      {
+        "name": "고민시",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+      },
+      {
+        "name": "Yu Oh seong",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/iNqbeyp8Qoi0Sw2rlKgvwu5rSV2.jpg"
+      },
+      {
+        "name": "오정세",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/oIqRAdI5e777odhOJl6e4Jc9ADj.jpg"
+      }
+    ],
+    "date_added": 1787669077383
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 112888,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "여신강림",
+    "overview": "تعرضت طالبة المدرسة الثانوية ايم جو كيونغ البالغة من العمر 18 عامًا مون قا يونغ والتي تعاني من عقدة نقص فيما يتعلق بمظهرها للتمييز المستمر من قبل عائلتها والتخويف من قبل زملائها بسبب باعتبارها قبيحة بدأت في تعلم كيفية استخدام المكياج عن طريق مشاهدة مقاطع الفيديو التعليمية على الإنترنت وسرعان ما اتقنت استخدام المكياج قبل أن تنتقل إلى مدرستها الجديدة لتصبح في غاية الجمال وترتفع إلى الشهرة ويطلق عليها زملائها لقب إلهة على الرغم من شعبيتها الحديثة لا تزال جو كيونغ تعتبر نفسها قبيحة وخوفها الأكبر أن يرى أقرانها وجهها الحقيقي ويحدث هذا فعلاً للأسف عندما يتعرف عليها زميلها الوسيم لي سو هو تشا اين وو والذي قد صادفته سابقًا بوجهها الخالي من المكياج عدة مرات يحظى سوهو بشعبية كبيرة بين الطالبات في المدرسة لكنه يكره أن يكون مركز الاهتمام المستمر لديه مخاوفه الخاصة ويخفي سرًا مظلمًا يطارده لفترة طويلة إضافة إلى ذلك هناك هان سيو جون الجامح هوانغ إن يوب المرتبط بماضي سوهو ويحب جو كيونغ أيضًا",
+    "popularity": 23.6614,
+    "poster_path": "/tuIGcBwf1uqkkSrakGyOQzZCJf7.jpg",
+    "first_air_date": "2020-12-09",
+    "softcore": false,
+    "name": "الجمال الحقيقي",
+    "vote_average": 8.276,
+    "vote_count": 2706,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2020-12-09",
+        "episode_count": 16,
+        "id": 168311,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/8IILVTF69AcAkUs30TutNjgJLPR.jpg",
+        "season_number": 1,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "문가영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sHOzgv3dvHZSDi5ijj5vbYYJwZ4.jpg"
+          },
+          {
+            "name": "차은우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg"
+          },
+          {
+            "name": "황인엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dI1dL3QHSmDdhXyB65ETjpxKN7Z.jpg"
+          },
+          {
+            "name": "박유나",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6MawaOrDuD5R40ufBf0uDU0Wq0p.jpg"
+          },
+          {
+            "name": "임세미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WZhJWf02ara2TkOWDqKUOVHw35.jpg"
+          },
+          {
+            "name": "بارك هو سان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gL5eN7UvYlseBD0rjdjgjiVKuQJ.jpg"
+          },
+          {
+            "name": "جانغ هاي جين",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
+          },
+          {
+            "name": "Oh Eui sik",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rCQvBbAAkw6n3JW9Xni3T80mOl3.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "الجمال الحقيقي",
+    "title_en": "True Beauty",
+    "overview_en": "After being bullied and discriminated because of her ugly looks a high school girl transforms herself into a gorgeous goddess and quickly rises to fame after mastering the art of makeup via online tutorial videos",
+    "cast": [
+      {
+        "name": "문가영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sHOzgv3dvHZSDi5ijj5vbYYJwZ4.jpg"
+      },
+      {
+        "name": "차은우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg"
+      },
+      {
+        "name": "황인엽",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dI1dL3QHSmDdhXyB65ETjpxKN7Z.jpg"
+      },
+      {
+        "name": "박유나",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/6MawaOrDuD5R40ufBf0uDU0Wq0p.jpg"
+      },
+      {
+        "name": "임세미",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/WZhJWf02ara2TkOWDqKUOVHw35.jpg"
+      },
+      {
+        "name": "بارك هو سان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gL5eN7UvYlseBD0rjdjgjiVKuQJ.jpg"
+      },
+      {
+        "name": "جانغ هاي جين",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
+      },
+      {
+        "name": "Oh Eui sik",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rCQvBbAAkw6n3JW9Xni3T80mOl3.jpg"
+      }
+    ],
+    "date_added": 1787669077498
   },
   {
     "adult": false,
@@ -13732,89 +14066,59 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3oZcRnI0CGdHB0ZgVAMJTE7g3ig.jpg"
       }
     ],
-    "date_added": 1787657288799
+    "date_added": 1787669078663
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [],
-    "id": 93643,
+    "backdrop_path": "/gWTJDV0iRWkkiwlL5uXHQvRPbkk.jpg",
+    "genre_ids": [
+      10767
+    ],
+    "id": 39429,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "TMI SHOW",
+    "original_name": "유희열의 스케치북",
     "overview": "",
-    "popularity": 25.4085,
-    "poster_path": "/wJ779QoklVnX1LHoD4zyKeCfRpb.jpg",
-    "first_air_date": "2019-04-25",
+    "popularity": 23.306,
+    "poster_path": "/gOYCF1iyYiDHqoST7wfkqBCAB8I.jpg",
+    "first_air_date": "2009-04-24",
     "softcore": false,
-    "name": "TMI SHOW",
-    "vote_average": 0,
-    "vote_count": 0,
+    "name": "유희열의 스케치북",
+    "vote_average": 6.3,
+    "vote_count": 9,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2019-04-25",
-        "episode_count": 86,
-        "id": 132390,
+        "air_date": "2009-04-24",
+        "episode_count": 600,
+        "id": 89285,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": null,
+        "poster_path": "/oOQFWzTAux0Xw0vxiRz6i7Tq0wF.jpg",
         "season_number": 1,
         "vote_average": 0,
         "cast": [
           {
-            "name": "전현무",
+            "name": "유희열",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
-          },
-          {
-            "name": "장도연",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2022-02-09",
-        "episode_count": 28,
-        "id": 303312,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/hVxYd9Wy5Jbrz8wGXeebG3Ux8Nn.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "이미주",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c1hFXX4EkasiPiMQ8CgLJvDBZAE.jpg"
-          },
-          {
-            "name": "붐",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gfdninENLAwox0le8TImLwMYSOd.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg"
           }
         ]
       }
     ],
-    "title": "TMI SHOW",
-    "title_en": "TMI SHOW",
-    "overview_en": "",
+    "title": "유희열의 스케치북",
+    "title_en": "You Hee yeol s Sketchbook",
+    "overview_en": "You Hee yeol s Sketchbook is a Korean pop music program that is both a talk show and live music show The host of this program is You Hee yeol also known as Toy a one man project band This program has aired since April 24 2009",
     "cast": [
       {
-        "name": "이미주",
+        "name": "유희열",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/c1hFXX4EkasiPiMQ8CgLJvDBZAE.jpg"
-      },
-      {
-        "name": "붐",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gfdninENLAwox0le8TImLwMYSOd.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg"
       }
     ],
-    "date_added": 1787657289413
+    "date_added": 1787669078726
   },
   {
     "adult": false,
@@ -13971,515 +14275,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pEAUSMEr5sxC5bHpu6UJnNs6t4W.jpg"
       }
     ],
-    "date_added": 1787657289544
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "genre_ids": [
-      18,
-      10765,
-      35
-    ],
-    "id": 67915,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "쓸쓸하고 찬란하神-도깨비",
-    "overview": "أثناء بحثه عن عروس ليُبطل لعنته الأبدية يلتقي حارس الأرواح البالغ 939 عامًا بحاصد الأرواح وبطالبة مفعمة بالحيوية تعاني من ماضٍ مأساوي",
-    "popularity": 22.0282,
-    "poster_path": "/py2GkXY5GjuL83mgypDFJ5z081g.jpg",
-    "first_air_date": "2016-12-02",
-    "softcore": false,
-    "name": "العفريت",
-    "vote_average": 8.6,
-    "vote_count": 3120,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2016-12-02",
-        "episode_count": 16,
-        "id": 80305,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/5Y9N8vS3ongDBDiKqxer1sZzGWk.jpg",
-        "season_number": 1,
-        "vote_average": 9.3,
-        "cast": [
-          {
-            "name": "غونغ يو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
-          },
-          {
-            "name": "김고은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p7wuD6eX0YcZ5LXWhx0XjvEYZKz.jpg"
-          },
-          {
-            "name": "لي دونغ ووك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
-          },
-          {
-            "name": "유인나",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zkw2hJv40No9ugqzr818e1Y8iDL.jpg"
-          },
-          {
-            "name": "육성재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/shxDGBPUpygNxqXsEBZwUcMExNc.jpg"
-          },
-          {
-            "name": "이엘",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4AkevGu4IoGiWEeq46nX3pvByWO.jpg"
-          },
-          {
-            "name": "김성겸",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sbSYozVUg4Pyt3pBRVv5fU5E0nB.jpg"
-          },
-          {
-            "name": "김병철",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ynyE7u1u6SdUBFL1OmmxGVHX6g7.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "العفريت",
-    "title_en": "Guardian The Lonely and Great God",
-    "overview_en": "In his quest for a bride to break his immortal curse a 939 year old guardian of souls meets a grim reaper and a sprightly student with a tragic past",
-    "cast": [
-      {
-        "name": "غونغ يو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg"
-      },
-      {
-        "name": "김고은",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/p7wuD6eX0YcZ5LXWhx0XjvEYZKz.jpg"
-      },
-      {
-        "name": "لي دونغ ووك",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
-      },
-      {
-        "name": "유인나",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zkw2hJv40No9ugqzr818e1Y8iDL.jpg"
-      },
-      {
-        "name": "육성재",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/shxDGBPUpygNxqXsEBZwUcMExNc.jpg"
-      },
-      {
-        "name": "이엘",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4AkevGu4IoGiWEeq46nX3pvByWO.jpg"
-      },
-      {
-        "name": "김성겸",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sbSYozVUg4Pyt3pBRVv5fU5E0nB.jpg"
-      },
-      {
-        "name": "김병철",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ynyE7u1u6SdUBFL1OmmxGVHX6g7.jpg"
-      }
-    ],
-    "date_added": 1787657289617
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1WCzuy60z4Caww11JSZgwOmz3RF.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ],
-    "id": 80281,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "라바",
-    "overview": "",
-    "popularity": 22.0841,
-    "poster_path": "/jDZ2rAmJ8mTojT929wTRMFKpv2L.jpg",
-    "first_air_date": "2011-03-26",
-    "softcore": false,
-    "name": "라바",
-    "vote_average": 7.045,
-    "vote_count": 22,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2011-03-26",
-        "episode_count": 104,
-        "id": 105321,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/vcQS4blVfZneOLXBasT0CL2wJwM.jpg",
-        "season_number": 1,
-        "vote_average": 9.7,
-        "cast": [
-          {
-            "name": "홍범기",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sPEAXhXAZAAwbch9XgB7NapJC7N.jpg"
-          },
-          {
-            "name": "안효민",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "강시현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7jpSqv8VMM5ykiKWQ0YM3OgnT9Q.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-01-05",
-        "episode_count": 52,
-        "id": 114652,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/tUKir8mI9sxF52gPpNcK8d2ZCSI.jpg",
-        "season_number": 2,
-        "vote_average": 9.7,
-        "cast": [
-          {
-            "name": "홍범기",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sPEAXhXAZAAwbch9XgB7NapJC7N.jpg"
-          },
-          {
-            "name": "안효민",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "강시현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7jpSqv8VMM5ykiKWQ0YM3OgnT9Q.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2014-08-04",
-        "episode_count": 104,
-        "id": 114655,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/tUKir8mI9sxF52gPpNcK8d2ZCSI.jpg",
-        "season_number": 3,
-        "vote_average": 9.7,
-        "cast": [
-          {
-            "name": "홍범기",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sPEAXhXAZAAwbch9XgB7NapJC7N.jpg"
-          },
-          {
-            "name": "안효민",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "강시현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7jpSqv8VMM5ykiKWQ0YM3OgnT9Q.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2018-10-19",
-        "episode_count": 26,
-        "id": 377464,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/yxxylbeCdqdjw1P7ONPS2lrC9Z8.jpg",
-        "season_number": 4,
-        "vote_average": 8.9,
-        "cast": [
-          {
-            "name": "홍범기",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sPEAXhXAZAAwbch9XgB7NapJC7N.jpg"
-          },
-          {
-            "name": "안효민",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "강시현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7jpSqv8VMM5ykiKWQ0YM3OgnT9Q.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2021-06-04",
-        "episode_count": 52,
-        "id": 377466,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/zT9WXwpWJ9WzndnCAWNpCZDorIQ.jpg",
-        "season_number": 5,
-        "vote_average": 8.8,
-        "cast": [
-          {
-            "name": "홍범기",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sPEAXhXAZAAwbch9XgB7NapJC7N.jpg"
-          },
-          {
-            "name": "안효민",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "강시현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7jpSqv8VMM5ykiKWQ0YM3OgnT9Q.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "라바",
-    "title_en": "Larva",
-    "overview_en": "Two curious worms spend their days investigating the otherworldly objects that fall through the grate into their subterranean world",
-    "cast": [
-      {
-        "name": "홍범기",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sPEAXhXAZAAwbch9XgB7NapJC7N.jpg"
-      },
-      {
-        "name": "안효민",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "강시현",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7jpSqv8VMM5ykiKWQ0YM3OgnT9Q.jpg"
-      }
-    ],
-    "date_added": 1787657289849
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4NffLgfKgSyosvA2qGZxJh7aa1v.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 201859,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "수업중입니다",
-    "overview": "",
-    "popularity": 25.6833,
-    "poster_path": "/j4PAXhpcVsqHXf2SqHlJGAN3IYF.jpg",
-    "first_air_date": "2022-05-13",
-    "softcore": false,
-    "name": "수업중입니다",
-    "vote_average": 7.1,
-    "vote_count": 28,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2022-05-13",
-        "episode_count": 6,
-        "id": 293525,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/fNKSl62TPeUR8IHH7LXGIhouBkC.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "한현준",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/681WwzUyxjMvYCF2MZujUo1vObR.jpg"
-          },
-          {
-            "name": "김태환",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/icTaCqOVWDLjMfsPALJu8DepQje.jpg"
-          },
-          {
-            "name": "류인아",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wdMa40ClfpwhXZa1Ha0L3DS4tua.jpg"
-          },
-          {
-            "name": "김혜진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8pxwXUYet50nzMNm6LTiWk9Q4CJ.jpg"
-          },
-          {
-            "name": "유혁재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lVh8S6JGJbDGM2T7WxGctFoC9fc.jpg"
-          },
-          {
-            "name": "이영교",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/i7lXEq6FhV7bd0NxlCd8J4RJEGA.jpg"
-          },
-          {
-            "name": "원태희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wKGb4yZ0RptKj3CgfUFWCen3imu.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-08-11",
-        "episode_count": 10,
-        "id": 350548,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/1jKAvhn6r6yTqhHH3VXRR1C8wcB.jpg",
-        "season_number": 2,
-        "vote_average": 9.8,
-        "cast": [
-          {
-            "name": "전민욱",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zoO4yK5bwXdwpMfDJraP2myBAVZ.jpg"
-          },
-          {
-            "name": "김용석",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8s9cICbVqv5aaYH07HVKRdwxnNr.jpg"
-          },
-          {
-            "name": "우효원",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pHTwN0J4XbadfoXTOHlc2BXv5jA.jpg"
-          },
-          {
-            "name": "이광희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qMHDjd9oNIsIKq7HjWDANo1EOQ6.jpg"
-          },
-          {
-            "name": "안정균",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ9gv4VgjifgB71lDECHGBXXg8m.jpg"
-          },
-          {
-            "name": "정우재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iZA1PVKFw4uWDkLDOv9br8sS79O.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-05-28",
-        "episode_count": 16,
-        "id": 500922,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/1UrNmrRTdnn5MqiELokel4x6OYI.jpg",
-        "season_number": 3,
-        "vote_average": 8.2,
-        "cast": [
-          {
-            "name": "새별",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nLtDwOsqxvgG0kBx3usGK6vLeFP.jpg"
-          },
-          {
-            "name": "서이한",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dZn4Qfire4hsx5REAWesIwuhxQn.jpg"
-          },
-          {
-            "name": "이우진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mpXqQynMtVkhCujVHaWiFvtXD6C.jpg"
-          },
-          {
-            "name": "เพชร ภาณุทัต แซ่หลี",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1HCOgHNwygXqU0jqgIcWDG23bC.jpg"
-          },
-          {
-            "name": "강연",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8gdg1Ss55eXbPlxQIMLl9jpLDPc.jpg"
-          },
-          {
-            "name": "박진석",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v9UpGETpgUQo1KdsQKXtjkxTQWa.jpg"
-          },
-          {
-            "name": "안효준",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mJGgBqujpVul6e4qlPXg7sKjSet.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "수업중입니다",
-    "title_en": "Love Class",
-    "overview_en": "In a college class where students are paired up and sent on dates a sophomore is partnered with an upperclassman whose gentle kindness steals his heart",
-    "cast": [
-      {
-        "name": "새별",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/nLtDwOsqxvgG0kBx3usGK6vLeFP.jpg"
-      },
-      {
-        "name": "서이한",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dZn4Qfire4hsx5REAWesIwuhxQn.jpg"
-      },
-      {
-        "name": "이우진",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mpXqQynMtVkhCujVHaWiFvtXD6C.jpg"
-      },
-      {
-        "name": "เพชร ภาณุทัต แซ่หลี",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/w1HCOgHNwygXqU0jqgIcWDG23bC.jpg"
-      },
-      {
-        "name": "강연",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8gdg1Ss55eXbPlxQIMLl9jpLDPc.jpg"
-      },
-      {
-        "name": "박진석",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/v9UpGETpgUQo1KdsQKXtjkxTQWa.jpg"
-      },
-      {
-        "name": "안효준",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mJGgBqujpVul6e4qlPXg7sKjSet.jpg"
-      }
-    ],
-    "date_added": 1787657290029
+    "date_added": 1787669078863
   },
   {
     "adult": false,
@@ -14655,71 +14451,208 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8F7s9MNKfks21VMTsW8iTc9VK09.jpg"
       }
     ],
-    "date_added": 1787657290154
+    "date_added": 1787669078992
   },
   {
     "adult": false,
-    "backdrop_path": "/mpLTg1XfCKMZBdh0wECjPAm5P73.jpg",
+    "backdrop_path": "/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
     "genre_ids": [
-      10764,
-      35,
-      10767
+      18
     ],
-    "id": 302173,
+    "id": 68398,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "내겐 너무 까칠한 매니저 - 비서진",
+    "original_name": "낭만닥터 김사부",
     "overview": "",
-    "popularity": 15.2989,
-    "poster_path": "/7H2hHWyYTR0nnlsvqxLYfrhw21m.jpg",
-    "first_air_date": "2025-10-03",
+    "popularity": 22.9689,
+    "poster_path": "/dmVgWSrtEj39DUv1QEjT6nGpX3L.jpg",
+    "first_air_date": "2016-11-07",
     "softcore": false,
-    "name": "내겐 너무 까칠한 매니저 - 비서진",
-    "vote_average": 8.5,
-    "vote_count": 2,
+    "name": "낭만닥터 김사부",
+    "vote_average": 8.1,
+    "vote_count": 130,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2025-10-03",
-        "episode_count": 16,
-        "id": 478217,
+        "air_date": "2016-11-07",
+        "episode_count": 20,
+        "id": 81391,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/gm7YlHCm6FpDKJv5noO0aCeCTsP.jpg",
+        "poster_path": "/3Skk68M2vicUa9pUZHpas1GpmQa.jpg",
         "season_number": 1,
-        "vote_average": 0,
+        "vote_average": 8.8,
         "cast": [
           {
-            "name": "이서진",
+            "name": "한석규",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s5KginY3G9ZmqsgiOKmx9mto6Vx.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
           },
           {
-            "name": "김광규",
+            "name": "유연석",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5X3oJA1NaesYHeX3LfuC7t3j7VV.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg"
+          },
+          {
+            "name": "서현진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pevSdOgAhz9a75ixFqbf420vK7J.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2020-01-06",
+        "episode_count": 16,
+        "id": 137237,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/aQnRVFNoKQqDHF5r149Ty5AJMNH.jpg",
+        "season_number": 2,
+        "vote_average": 8.6,
+        "cast": [
+          {
+            "name": "한석규",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
+          },
+          {
+            "name": "이성경",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nAld7JuJHK7rEjgXaXc35VYTfoC.jpg"
+          },
+          {
+            "name": "آهن هيو سوب",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oLS5jvS5cZ7SaXNctA8VYXPp6ax.jpg"
+          },
+          {
+            "name": "진경",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
+          },
+          {
+            "name": "임원희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mZg4KkrhwNnH8gVL9c3yqHcbefR.jpg"
+          },
+          {
+            "name": "변우민",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/c66Jt6mJMJo8qM92IKmPesIyn6B.jpg"
+          },
+          {
+            "name": "김민재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lIWG7r9PG1qjezy8yGZI8vurODP.jpg"
+          },
+          {
+            "name": "최진호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pl5qsHEGH9beFQwNUXMLYGgn17J.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-04-28",
+        "episode_count": 16,
+        "id": 308723,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/dmVgWSrtEj39DUv1QEjT6nGpX3L.jpg",
+        "season_number": 3,
+        "vote_average": 8.8,
+        "cast": [
+          {
+            "name": "한석규",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
+          },
+          {
+            "name": "이성경",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nAld7JuJHK7rEjgXaXc35VYTfoC.jpg"
+          },
+          {
+            "name": "آهن هيو سوب",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oLS5jvS5cZ7SaXNctA8VYXPp6ax.jpg"
+          },
+          {
+            "name": "진경",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
+          },
+          {
+            "name": "임원희",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mZg4KkrhwNnH8gVL9c3yqHcbefR.jpg"
+          },
+          {
+            "name": "변우민",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/c66Jt6mJMJo8qM92IKmPesIyn6B.jpg"
+          },
+          {
+            "name": "김민재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lIWG7r9PG1qjezy8yGZI8vurODP.jpg"
+          },
+          {
+            "name": "이경영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aDNcLCWs7KHToiXxfG7ACwvne3l.jpg"
           }
         ]
       }
     ],
-    "title": "내겐 너무 까칠한 매니저 비서진",
-    "title_en": "My Grumpy Secretary",
-    "overview_en": "",
+    "title": "낭만닥터 김사부",
+    "title_en": "Dr Romantic",
+    "overview_en": "An eccentric triple board certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital where he mentors young doctors",
     "cast": [
       {
-        "name": "이서진",
+        "name": "한석규",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/s5KginY3G9ZmqsgiOKmx9mto6Vx.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
       },
       {
-        "name": "김광규",
+        "name": "이성경",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5X3oJA1NaesYHeX3LfuC7t3j7VV.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/nAld7JuJHK7rEjgXaXc35VYTfoC.jpg"
+      },
+      {
+        "name": "آهن هيو سوب",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/oLS5jvS5cZ7SaXNctA8VYXPp6ax.jpg"
+      },
+      {
+        "name": "진경",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
+      },
+      {
+        "name": "임원희",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mZg4KkrhwNnH8gVL9c3yqHcbefR.jpg"
+      },
+      {
+        "name": "변우민",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/c66Jt6mJMJo8qM92IKmPesIyn6B.jpg"
+      },
+      {
+        "name": "김민재",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/lIWG7r9PG1qjezy8yGZI8vurODP.jpg"
+      },
+      {
+        "name": "이경영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/aDNcLCWs7KHToiXxfG7ACwvne3l.jpg"
       }
     ],
-    "date_added": 1787657290231
+    "date_added": 1787669079254
   },
   {
     "adult": false,
@@ -14997,140 +14930,873 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sGFYYeV2WeM1wHZFFJCrXDfq014.jpg"
       }
     ],
-    "date_added": 1787657290447
+    "date_added": 1787669079533
   },
   {
     "adult": false,
-    "backdrop_path": "/gWTJDV0iRWkkiwlL5uXHQvRPbkk.jpg",
+    "backdrop_path": "/zIfssSW8kpQQ8nAo0qyIrRS9Qiu.jpg",
     "genre_ids": [
-      10767
+      35
     ],
-    "id": 39429,
+    "id": 132876,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "유희열의 스케치북",
+    "original_name": "SNL 코리아 리부트",
     "overview": "",
-    "popularity": 23.306,
-    "poster_path": "/gOYCF1iyYiDHqoST7wfkqBCAB8I.jpg",
-    "first_air_date": "2009-04-24",
+    "popularity": 22.4191,
+    "poster_path": "/bgFsUd788CupFK1xt2xFVEJRibT.jpg",
+    "first_air_date": "2021-09-04",
     "softcore": false,
-    "name": "유희열의 스케치북",
-    "vote_average": 6.3,
-    "vote_count": 9,
+    "name": "SNL 코리아 리부트",
+    "vote_average": 7,
+    "vote_count": 1,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2009-04-24",
-        "episode_count": 600,
-        "id": 89285,
+        "air_date": "2021-09-04",
+        "episode_count": 10,
+        "id": 209474,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/oOQFWzTAux0Xw0vxiRz6i7Tq0wF.jpg",
+        "poster_path": "/aZSx20SnxivJW8VwXVulr8cCHBU.jpg",
         "season_number": 1,
-        "vote_average": 0,
+        "vote_average": 7.3,
         "cast": [
           {
-            "name": "유희열",
+            "name": "신동엽",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "주현영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mOI26FtPFBfFn49MikjfaY4a3NU.jpg"
+          },
+          {
+            "name": "차청화",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2021-12-25",
+        "episode_count": 20,
+        "id": 237284,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/7wvqgqAKFSVkyNMWEj24wuMbgOp.jpg",
+        "season_number": 2,
+        "vote_average": 6.7,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "주현영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mOI26FtPFBfFn49MikjfaY4a3NU.jpg"
+          },
+          {
+            "name": "차청화",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-11-19",
+        "episode_count": 11,
+        "id": 316168,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/hBdbNvm5vSkbJXS91lvEDRAUvyj.jpg",
+        "season_number": 3,
+        "vote_average": 6.9,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "정성호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+          },
+          {
+            "name": "주현영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mOI26FtPFBfFn49MikjfaY4a3NU.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-07-15",
+        "episode_count": 9,
+        "id": 348930,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/66SVQMmlKJ0MyTwnyjGcLRcymJG.jpg",
+        "season_number": 4,
+        "vote_average": 6.8,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "정성호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+          },
+          {
+            "name": "주현영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mOI26FtPFBfFn49MikjfaY4a3NU.jpg"
+          },
+          {
+            "name": "Lee Su ji",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-03-02",
+        "episode_count": 10,
+        "id": 381859,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/qhBpGg2WOc4p4WpeYixKdjqUd6t.jpg",
+        "season_number": 5,
+        "vote_average": 7.2,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "정성호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+          },
+          {
+            "name": "Lee Su ji",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-08-31",
+        "episode_count": 10,
+        "id": 408109,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/b55Ob8YB3i3wndr5B73mHi33iQj.jpg",
+        "season_number": 6,
+        "vote_average": 7.1,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "정성호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+          },
+          {
+            "name": "Lee Su ji",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-04-05",
+        "episode_count": 10,
+        "id": 444748,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/3f4Tm1nDVV8K1fsZci5RCrnjkVC.jpg",
+        "season_number": 7,
+        "vote_average": 6.4,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "정성호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+          },
+          {
+            "name": "Lee Su ji",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-03-28",
+        "episode_count": 10,
+        "id": 506158,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/wAyNFhEMXV2PKVClKmrkW8rbnrd.jpg",
+        "season_number": 8,
+        "vote_average": 6,
+        "cast": [
+          {
+            "name": "신동엽",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+          },
+          {
+            "name": "안영미",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+          },
+          {
+            "name": "정상훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+          },
+          {
+            "name": "김민교",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+          },
+          {
+            "name": "정이랑",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+          },
+          {
+            "name": "권혁수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+          },
+          {
+            "name": "정성호",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+          },
+          {
+            "name": "Lee Su ji",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
           }
         ]
       }
     ],
-    "title": "유희열의 스케치북",
-    "title_en": "You Hee yeol s Sketchbook",
-    "overview_en": "You Hee yeol s Sketchbook is a Korean pop music program that is both a talk show and live music show The host of this program is You Hee yeol also known as Toy a one man project band This program has aired since April 24 2009",
+    "title": "SNL 코리아 리부트",
+    "title_en": "SNL Korea",
+    "overview_en": "SNL Korea NBC s flagship program SNL which won the Emmy Award has returned for the first time in four years through Coupang Play",
     "cast": [
       {
-        "name": "유희열",
+        "name": "신동엽",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
+      },
+      {
+        "name": "안영미",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
+      },
+      {
+        "name": "정상훈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/grYaUj88IUp95AF4MhQgtv3FUxs.jpg"
+      },
+      {
+        "name": "김민교",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/kB54YQcI18UDmFbYPKAI6LtPe1z.jpg"
+      },
+      {
+        "name": "정이랑",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qcyUehbuwigCrp7JE4Agfkt7OK4.jpg"
+      },
+      {
+        "name": "권혁수",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/faCJNOypvv9v0t4AbPyhwMtK0gQ.jpg"
+      },
+      {
+        "name": "정성호",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/miybIsGshaFQDojJlY1RU1wchO0.jpg"
+      },
+      {
+        "name": "Lee Su ji",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
       }
     ],
-    "date_added": 1787657290545
+    "date_added": 1787669080248
   },
   {
     "adult": false,
-    "backdrop_path": "/2ZYYy3hzbzSpyyKS8lBTL9Ozd6F.jpg",
+    "backdrop_path": "/5sTKiRoupgaPvsBpBfJOtmlSgIY.jpg",
     "genre_ids": [
       10764
     ],
-    "id": 86623,
+    "id": 207924,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "구해줘! 홈즈",
+    "original_name": "나는 SOLO, 그 후 사랑은 계속된다",
     "overview": "",
-    "popularity": 20.1834,
-    "poster_path": "/eAk01dqFDBCb5WITUwj7TQRzqci.jpg",
-    "first_air_date": "2019-03-31",
+    "popularity": 22.3796,
+    "poster_path": "/9Qn4sQBubVbRnLI9zk8YyUHimcm.jpg",
+    "first_air_date": "2022-08-11",
     "softcore": false,
-    "name": "구해줘! 홈즈",
-    "vote_average": 6.5,
-    "vote_count": 2,
+    "name": "나는 SOLO, 그 후 사랑은 계속된다",
+    "vote_average": 7.3,
+    "vote_count": 3,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2019-03-31",
-        "episode_count": 352,
-        "id": 118457,
+        "air_date": "2022-08-11",
+        "episode_count": 179,
+        "id": 304307,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/yr1exAgUtd3eSB5OLJ3kdRxVSi2.jpg",
+        "poster_path": "/5ve9xSxRpR4pIAFxMxxODZIIHtX.jpg",
         "season_number": 1,
         "vote_average": 0,
         "cast": [
           {
-            "name": "노홍철",
+            "name": "데프콘",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d0UQQd792Y75IRNYzwxcz8uvN4N.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/rJOPkah2hKdTm0VFatzqxg4tISB.jpg"
           },
           {
-            "name": "박나래",
+            "name": "Kim Gayoung",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dUqQeDICulymBkia4eqQ40LKHPa.jpg"
+            "photo_url": null
           },
           {
-            "name": "김숙",
+            "name": "조현아",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vcW8ErO1c8Py6DAyDG5o4FM0Wij.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/9Ji6tytSXm7D8TV92fjZQa7iJIM.jpg"
           },
           {
-            "name": "장동민",
+            "name": "경리",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lL2UrhCd3mBn3URsW91tlQAPrbt.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/8szL6k73fWZXsgz5s9M6eO8LNbZ.jpg"
           }
         ]
       }
     ],
-    "title": "구해줘 홈즈",
-    "title_en": "Where Is My Home",
-    "overview_en": "Celebrities are here to find your home sweet home The show features two teams of celebs competing to help their clients find the new houses for them As real estate coordinators celebs visit realtors and discover houses that fit the needs of the clients They aren t afraid of cold weather continuous allies to go through nor stiff steps to climb In the end clients grades how much they are happy with celebs proposals Which team will get the clients pleased",
+    "title": "나는 SOLO 그 후 사랑은 계속된다",
+    "title_en": "I am Solo Love Forever",
+    "overview_en": "Who found a happily ever after and who s still happily searching Cast members from I m SOLO reveal what happened in their lives after the show aired",
     "cast": [
       {
-        "name": "노홍철",
+        "name": "데프콘",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/d0UQQd792Y75IRNYzwxcz8uvN4N.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/rJOPkah2hKdTm0VFatzqxg4tISB.jpg"
       },
       {
-        "name": "박나래",
+        "name": "Kim Gayoung",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dUqQeDICulymBkia4eqQ40LKHPa.jpg"
+        "photo_url": null
       },
       {
-        "name": "김숙",
+        "name": "조현아",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vcW8ErO1c8Py6DAyDG5o4FM0Wij.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/9Ji6tytSXm7D8TV92fjZQa7iJIM.jpg"
       },
       {
-        "name": "장동민",
+        "name": "경리",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lL2UrhCd3mBn3URsW91tlQAPrbt.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/8szL6k73fWZXsgz5s9M6eO8LNbZ.jpg"
       }
     ],
-    "date_added": 1787657290658
+    "date_added": 1787669080351
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "genre_ids": [
+      10759,
+      35,
+      10765,
+      18
+    ],
+    "id": 259837,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "원더풀스",
+    "overview": "تتعثر مجموعة بلهاء من سكان المدن في اكتشاف قوى خارقة وتحارب الشر الصاعد مع تزايد ذعر يوم القيامة في هذه الكوميديا ​​الجامحة التي تدور أحداثها في مطلع القرن",
+    "popularity": 21.2387,
+    "poster_path": "/9uvKFCbPrLzRRGwLuCzvaH62zYp.jpg",
+    "first_air_date": "2026-05-15",
+    "softcore": false,
+    "name": "الحمقى الخارقون",
+    "vote_average": 8.871,
+    "vote_count": 251,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-05-15",
+        "episode_count": 8,
+        "id": 403628,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/jTtjeWGauBGx0I3kAdCExjlcjAv.jpg",
+        "season_number": 1,
+        "vote_average": 8.8,
+        "cast": [
+          {
+            "name": "박은빈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+          },
+          {
+            "name": "차은우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg"
+          },
+          {
+            "name": "최대훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+          },
+          {
+            "name": "임성재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ncRZs8msrPP3oS8KbZsvsXeq4VJ.jpg"
+          },
+          {
+            "name": "김해숙",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
+          },
+          {
+            "name": "손현주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+          },
+          {
+            "name": "Bae Na ra",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/naGmBR3zAx7u8htEvu4RML6ODi8.jpg"
+          },
+          {
+            "name": "정이서",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/o6Nfe0BiZs6CCSm8BigPshbu0px.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "الحمقى الخارقون",
+    "title_en": "The WONDERfools",
+    "overview_en": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild turn of the century action comedy",
+    "cast": [
+      {
+        "name": "박은빈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+      },
+      {
+        "name": "차은우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg"
+      },
+      {
+        "name": "최대훈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+      },
+      {
+        "name": "임성재",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ncRZs8msrPP3oS8KbZsvsXeq4VJ.jpg"
+      },
+      {
+        "name": "김해숙",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
+      },
+      {
+        "name": "손현주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+      },
+      {
+        "name": "Bae Na ra",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/naGmBR3zAx7u8htEvu4RML6ODi8.jpg"
+      },
+      {
+        "name": "정이서",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/o6Nfe0BiZs6CCSm8BigPshbu0px.jpg"
+      }
+    ],
+    "date_added": 1787669080446
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uBp9d5J58yzjafKiWsz7cdctmIY.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 73036,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "냉장고를 부탁해",
+    "overview": "",
+    "popularity": 21.1382,
+    "poster_path": "/q0ZjzXScH2bZgqIWlT2xAQOPAH8.jpg",
+    "first_air_date": "2014-11-17",
+    "softcore": false,
+    "name": "냉장고를 부탁해",
+    "vote_average": 8.7,
+    "vote_count": 5,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2014-11-17",
+        "episode_count": 254,
+        "id": 90866,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/8CDte0s5Y2f07rxgbq6yLHRGY2X.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "김성주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3C1Hkef7umuLjbboSQvJtFudmpE.jpg"
+          },
+          {
+            "name": "정형돈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9L4RG3cujCgTHjtDhFAG88gZiOX.jpg"
+          },
+          {
+            "name": "안정환",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kK1NVab6cXPIyabFeNfd7v3ePxg.jpg"
+          },
+          {
+            "name": "정창욱",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "이연복",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hfScBZ76Ll8Qw10f8ulYqDjzrsY.jpg"
+          },
+          {
+            "name": "김풍",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5ZkcGu2803bwTai12uOduo80Tqn.jpg"
+          },
+          {
+            "name": "홍석천",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/54rWBYPWpljbVxyUAxScKHgUM7m.jpg"
+          },
+          {
+            "name": "최현석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aDijjlpmq67qv9PvLVbf2Axhjwz.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-12-15",
+        "episode_count": 86,
+        "id": 433062,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/q0ZjzXScH2bZgqIWlT2xAQOPAH8.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "김성주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3C1Hkef7umuLjbboSQvJtFudmpE.jpg"
+          },
+          {
+            "name": "안정환",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kK1NVab6cXPIyabFeNfd7v3ePxg.jpg"
+          },
+          {
+            "name": "이연복",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hfScBZ76Ll8Qw10f8ulYqDjzrsY.jpg"
+          },
+          {
+            "name": "김풍",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5ZkcGu2803bwTai12uOduo80Tqn.jpg"
+          },
+          {
+            "name": "최현석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aDijjlpmq67qv9PvLVbf2Axhjwz.jpg"
+          },
+          {
+            "name": "정호영",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rnIqz4YCs4WO7pQCYuHiauKDAS3.jpg"
+          },
+          {
+            "name": "Edward Lee",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xZ9VaBt7aEG6j0Ga0J0sdYWyW8I.jpg"
+          },
+          {
+            "name": "이미영",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      }
+    ],
+    "title": "냉장고를 부탁해",
+    "title_en": "Chef My Fridge",
+    "overview_en": "The best chefs of Korea compete to create impromptu dishes that feature ingredients found inside the guest stars personal refrigerators",
+    "cast": [
+      {
+        "name": "김성주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3C1Hkef7umuLjbboSQvJtFudmpE.jpg"
+      },
+      {
+        "name": "안정환",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/kK1NVab6cXPIyabFeNfd7v3ePxg.jpg"
+      },
+      {
+        "name": "이연복",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hfScBZ76Ll8Qw10f8ulYqDjzrsY.jpg"
+      },
+      {
+        "name": "김풍",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5ZkcGu2803bwTai12uOduo80Tqn.jpg"
+      },
+      {
+        "name": "최현석",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/aDijjlpmq67qv9PvLVbf2Axhjwz.jpg"
+      },
+      {
+        "name": "정호영",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rnIqz4YCs4WO7pQCYuHiauKDAS3.jpg"
+      },
+      {
+        "name": "Edward Lee",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xZ9VaBt7aEG6j0Ga0J0sdYWyW8I.jpg"
+      },
+      {
+        "name": "이미영",
+        "role": "بطوله",
+        "photo_url": null
+      }
+    ],
+    "date_added": 1787669080624
   }
 ]
