@@ -18,8 +18,8 @@
     "first_air_date": "2022-02-03",
     "softcore": false,
     "name": "ريتشر",
-    "vote_average": 8.103,
-    "vote_count": 3185,
+    "vote_average": 8.102,
+    "vote_count": 3186,
     "media_type": "tv",
     "seasons": [
       {
@@ -231,7 +231,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1788247193270
+    "date_added": 1788266461182
   },
   {
     "adult": false,
@@ -254,7 +254,7 @@
     "softcore": false,
     "name": "الوسيط الروحي",
     "vote_average": 8.396,
-    "vote_count": 4634,
+    "vote_count": 4636,
     "media_type": "tv",
     "seasons": [
       {
@@ -557,7 +557,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
       }
     ],
-    "date_added": 1788247193560
+    "date_added": 1788266461667
   },
   {
     "adult": false,
@@ -784,7 +784,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1788247193601
+    "date_added": 1788266461722
   },
   {
     "adult": false,
@@ -806,7 +806,7 @@
     "softcore": false,
     "name": "Silo",
     "vote_average": 8.193,
-    "vote_count": 2533,
+    "vote_count": 2535,
     "media_type": "tv",
     "seasons": [
       {
@@ -1038,7 +1038,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1788247193622
+    "date_added": 1788266461790
   },
   {
     "adult": false,
@@ -1892,7 +1892,101 @@
     "title_en": "Tagesschau",
     "overview_en": "German daily news program the oldest still existing program on German television",
     "cast": [],
-    "date_added": 1788247198359
+    "date_added": 1788266466709
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 95350,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lanterns",
+    "overview": "يتبع العمل قصة المجند الجديد جون ستيوارت وأسطورة اللانترنز هال جوردان وهما شرطيان يجدان نفسيهما منخرطين في لغز مظلم على كوكب الأرض أثناء تحقيقهما في جريمة قتل وقعت في قلب الولايات المتحدة",
+    "popularity": 309.0675,
+    "poster_path": "/5ocVCsES4bb0SpMIAAjXCujIxoL.jpg",
+    "first_air_date": "2026-08-16",
+    "softcore": false,
+    "name": "الفوانيس",
+    "vote_average": 8.341,
+    "vote_count": 230,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-08-16",
+        "episode_count": 8,
+        "id": 165308,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/qbTO96IcUmkyJLmNbFeFdHlt7f6.jpg",
+        "season_number": 1,
+        "vote_average": 6.8,
+        "cast": [
+          {
+            "name": "كايل تشاندلر",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+          },
+          {
+            "name": "آرون بيير",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+          },
+          {
+            "name": "كيلي ماكدونالد",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+          },
+          {
+            "name": "غاريت ديلاهونت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+          },
+          {
+            "name": "بورنا جاجاناثان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "الفوانيس",
+    "title_en": "الفوانيس",
+    "overview_en": "Two intergalactic cops new recruit John Stewart and Lantern legend Hal Jordan are drawn into a dark Earth based mystery as they investigate a murder in the American heartland",
+    "cast": [
+      {
+        "name": "كايل تشاندلر",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+      },
+      {
+        "name": "آرون بيير",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+      },
+      {
+        "name": "كيلي ماكدونالد",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+      },
+      {
+        "name": "غاريت ديلاهونت",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
+      },
+      {
+        "name": "بورنا جاجاناثان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
+      }
+    ],
+    "date_added": 1788266466736
   },
   {
     "adult": false,
@@ -3135,7 +3229,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/308ot27uQ7tSCJCPYgZR0L5XApe.jpg"
       }
     ],
-    "date_added": 1788247199532
+    "date_added": 1788266468624
   },
   {
     "adult": false,
@@ -3406,7 +3500,7 @@
     "title_en": "El conquistador",
     "overview_en": "",
     "cast": [],
-    "date_added": 1788247200646
+    "date_added": 1788266469825
   },
   {
     "adult": false,
@@ -3676,7 +3770,7 @@
       },
       {
         "air_date": "2026-02-23",
-        "episode_count": 158,
+        "episode_count": 166,
         "id": 502682,
         "name": "الموسم 13",
         "overview": "",
@@ -3732,7 +3826,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
       }
     ],
-    "date_added": 1788247200759
+    "date_added": 1788266470118
   },
   {
     "adult": false,
@@ -5389,101 +5483,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1788247202696
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      10765
-    ],
-    "id": 95350,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lanterns",
-    "overview": "يتبع العمل قصة المجند الجديد جون ستيوارت وأسطورة اللانترنز هال جوردان وهما شرطيان يجدان نفسيهما منخرطين في لغز مظلم على كوكب الأرض أثناء تحقيقهما في جريمة قتل وقعت في قلب الولايات المتحدة",
-    "popularity": 309.0675,
-    "poster_path": "/5ocVCsES4bb0SpMIAAjXCujIxoL.jpg",
-    "first_air_date": "2026-08-16",
-    "softcore": false,
-    "name": "الفوانيس",
-    "vote_average": 8.34,
-    "vote_count": 228,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-08-16",
-        "episode_count": 8,
-        "id": 165308,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/qbTO96IcUmkyJLmNbFeFdHlt7f6.jpg",
-        "season_number": 1,
-        "vote_average": 6.8,
-        "cast": [
-          {
-            "name": "كايل تشاندلر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
-          },
-          {
-            "name": "آرون بيير",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
-          },
-          {
-            "name": "كيلي ماكدونالد",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
-          },
-          {
-            "name": "غاريت ديلاهونت",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
-          },
-          {
-            "name": "بورنا جاجاناثان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "الفوانيس",
-    "title_en": "الفوانيس",
-    "overview_en": "Two intergalactic cops new recruit John Stewart and Lantern legend Hal Jordan are drawn into a dark Earth based mystery as they investigate a murder in the American heartland",
-    "cast": [
-      {
-        "name": "كايل تشاندلر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
-      },
-      {
-        "name": "آرون بيير",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
-      },
-      {
-        "name": "كيلي ماكدونالد",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
-      },
-      {
-        "name": "غاريت ديلاهونت",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
-      },
-      {
-        "name": "بورنا جاجاناثان",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
-      }
-    ],
-    "date_added": 1788247202716
+    "date_added": 1788266470818
   },
   {
     "adult": false,
@@ -6417,7 +6417,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
       }
     ],
-    "date_added": 1788247204540
+    "date_added": 1788266472160
   },
   {
     "adult": false,
@@ -6844,7 +6844,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1788247204744
+    "date_added": 1788266472701
   },
   {
     "adult": false,
@@ -6969,7 +6969,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
       }
     ],
-    "date_added": 1788247204791
+    "date_added": 1788266472792
   },
   {
     "adult": false,
@@ -6990,8 +6990,8 @@
     "first_air_date": "2020-08-14",
     "softcore": false,
     "name": "Ted Lasso",
-    "vote_average": 8.367,
-    "vote_count": 2606,
+    "vote_average": 8.366,
+    "vote_count": 2607,
     "media_type": "tv",
     "seasons": [
       {
@@ -7248,7 +7248,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
       }
     ],
-    "date_added": 1788247204832
+    "date_added": 1788266472861
   },
   {
     "adult": false,
@@ -7758,7 +7758,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg"
       }
     ],
-    "date_added": 1788247204919
+    "date_added": 1788266473430
   },
   {
     "adult": false,
@@ -8906,7 +8906,7 @@
     "title_en": "إن سي آي أس",
     "overview_en": "From murder and espionage to terrorism and stolen submarines a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel regardless of rank or position",
     "cast": [],
-    "date_added": 1788247206026
+    "date_added": 1788266475346
   },
   {
     "adult": false,
@@ -9233,7 +9233,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1788247206538
+    "date_added": 1788266476564
   },
   {
     "adult": false,
@@ -9670,7 +9670,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szigprnenokR4yOpELIB2rj1Er2.jpg"
       }
     ],
-    "date_added": 1788247207398
+    "date_added": 1788266477592
   },
   {
     "adult": false,
@@ -9762,7 +9762,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nd7F98xzR3dFaUnzD8hc03374eR.jpg"
       }
     ],
-    "date_added": 1788247207409
+    "date_added": 1788266477617
   },
   {
     "adult": false,
@@ -10569,7 +10569,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
       }
     ],
-    "date_added": 1788247208390
+    "date_added": 1788266478927
   },
   {
     "adult": false,
@@ -11640,7 +11640,7 @@
     "title_en": "القانون والنظام",
     "overview_en": "In cases ripped from the headlines police investigate serious and often deadly crimes weighing the evidence and questioning the suspects until someone is taken into custody The district attorney s office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt Working together these expert teams navigate all sides of the complex criminal justice system to make New York a safer place",
     "cast": [],
-    "date_added": 1788247209751
+    "date_added": 1788266480598
   },
   {
     "adult": false,
@@ -12856,7 +12856,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
       }
     ],
-    "date_added": 1788247211236
+    "date_added": 1788266482079
   },
   {
     "adult": false,
@@ -12978,7 +12978,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rxnyijn4xRpitMPA8JX3x8ZLeaj.jpg"
       }
     ],
-    "date_added": 1788247211248
+    "date_added": 1788266482109
   },
   {
     "adult": false,
@@ -13337,7 +13337,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a5VyrKJVzFiUUVkiLc6a3NTiEgl.jpg"
       }
     ],
-    "date_added": 1788247211466
+    "date_added": 1788266482546
   },
   {
     "adult": false,
@@ -14327,7 +14327,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7yBbtb5zCJyWq7gWPDCZR3kmWMh.jpg"
       }
     ],
-    "date_added": 1788247212162
+    "date_added": 1788266483641
   },
   {
     "adult": false,
@@ -14348,8 +14348,8 @@
     "first_air_date": "2020-04-15",
     "softcore": false,
     "name": "ضفاف كارولينا",
-    "vote_average": 8.245,
-    "vote_count": 1251,
+    "vote_average": 8.244,
+    "vote_count": 1252,
     "media_type": "tv",
     "seasons": [
       {
@@ -14658,7 +14658,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1788247212213
+    "date_added": 1788266483778
   },
   {
     "adult": false,
@@ -15543,7 +15543,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       }
     ],
-    "date_added": 1788247213441
+    "date_added": 1788266485160
   },
   {
     "adult": false,
@@ -15970,410 +15970,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "Danish version of the reality series Paradise Hotel",
     "cast": [],
-    "date_added": 1788247214733
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10764
-    ],
-    "id": 31472,
-    "origin_country": [
-      "CL"
-    ],
-    "original_language": "es",
-    "original_name": "Pelotón",
-    "overview": "",
-    "popularity": 177.3817,
-    "poster_path": "/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-    "first_air_date": "2007-01-02",
-    "softcore": false,
-    "name": "Pelotón",
-    "vote_average": 9,
-    "vote_count": 1,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2007-01-02",
-        "episode_count": 89,
-        "id": 193694,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Felipe Camiroaga",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ikb9i9omD28P6MJcF2rZkq54q24.jpg"
-          },
-          {
-            "name": "Bárbara Rebolledo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6QfuqL9x1KpwKlkQy0VBu9tstLb.jpg"
-          },
-          {
-            "name": "Reynaldo González",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2007-10-02",
-        "episode_count": 113,
-        "id": 193695,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Felipe Camiroaga",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ikb9i9omD28P6MJcF2rZkq54q24.jpg"
-          },
-          {
-            "name": "Bárbara Rebolledo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6QfuqL9x1KpwKlkQy0VBu9tstLb.jpg"
-          },
-          {
-            "name": "Reynaldo González",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2009-06-29",
-        "episode_count": 113,
-        "id": 193696,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Rafael Araneda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
-          },
-          {
-            "name": "Katherine Salosny",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4BpXae24ke2OsBENLraWwArlYcu.jpg"
-          },
-          {
-            "name": "Óscar Garcés",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Miguelo",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2009-11-29",
-        "episode_count": 90,
-        "id": 193697,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Rafael Araneda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
-          },
-          {
-            "name": "Katherine Salosny",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4BpXae24ke2OsBENLraWwArlYcu.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-09-20",
-        "episode_count": 53,
-        "id": 193698,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Rafael Araneda",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
-          },
-          {
-            "name": "Karen Doggenweiler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pTO4VQvZr9PrIbfwivd0pjmhLqZ.jpg"
-          },
-          {
-            "name": "María Eugenia Larraín",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      }
-    ],
-    "title": "Pelotón",
-    "title_en": "Pelotón",
-    "overview_en": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training The winner receives 50 million pesos The first season aired January 2 May 5 2007 and the second season ran from October 2 2007 to March 11 2008 The third season were premiere in July 2009 and the contestants were Chilean celebrities The third and 4th season were shooting back to back and like last season the majority of participants were celebrities",
-    "cast": [
-      {
-        "name": "Rafael Araneda",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
-      },
-      {
-        "name": "Karen Doggenweiler",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pTO4VQvZr9PrIbfwivd0pjmhLqZ.jpg"
-      },
-      {
-        "name": "María Eugenia Larraín",
-        "role": "بطوله",
-        "photo_url": null
-      }
-    ],
-    "date_added": 1788247214915
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      10759
-    ],
-    "id": 94997,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "House of the Dragon",
-    "overview": "تدور الأحداث قبل 200 عام من أحداث مسلسل صراع العروش حيث سيركز على تفاصيل عائلة آل تارغيريان ولمحات هامة في تاريخ العائلة التي حكمت ويستروس منذ زمن بعيد وصولًا إلى رقصة التنانين والصراعات الداخلية في العائلة التي دمرت كل شيء وهددت بانقراض التنانين للأبد",
-    "popularity": 166.6221,
-    "poster_path": "/3cV7NLkN8WY5LECzLxI73PXE5Oq.jpg",
-    "first_air_date": "2022-08-21",
-    "softcore": false,
-    "name": "آل التنين",
-    "vote_average": 8.386,
-    "vote_count": 7066,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2022-08-21",
-        "episode_count": 10,
-        "id": 134965,
-        "name": "الموسم 1",
-        "overview": "الأحداث تبدأ عندما يجلس فيسيريس تارغيريان على العرش الحديدي، وزوجته تنتظر ولادة طفل. يكون هذا الطفل ذكرًا متوقعًا منذ فترة طويلة. كما هو الحال في هذا العالم، لا يُرضي وصول وريث جديد العديد من الأشخاص، بما في ذلك شقيق فيسيريس، دايمون، ولورد كورليس فيلاريون، الذي لا يزال يعاني من عدم اختيار زوجته كملكة. هناك أيضًا رينيرا تارغارين، ابنة فيسيريس، التي تعتقد أن الوقت قد حان للتغيير، وأنها يجب أن تجلس على العرش كأول ملكة في التاريخ. يقدم الموسم الأول لنا نظرة رائعة إلى عالم يحدث قبل 200 عام من مغامرات نيد ستارك وعائلته.",
-        "poster_path": "/lx6hsqWXq4aVrXPjCqnMHFrGL5u.jpg",
-        "season_number": 1,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "مات سميث",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-          },
-          {
-            "name": "بادي كونسيدين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
-          },
-          {
-            "name": "ستيف توسان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-          },
-          {
-            "name": "Fabien Frankel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
-          },
-          {
-            "name": "سونيا ميزونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-          },
-          {
-            "name": "ريس ايفانز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
-          },
-          {
-            "name": "Eve Best",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oE0JEJS9un0FLpe3u5FxL1nvxLJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-06-16",
-        "episode_count": 8,
-        "id": 368014,
-        "name": "الموسم 2",
-        "overview": "تسبب تنين إيموند  في قتل لوك وتنينه. والدته رينيرا، تغضب من الحزن، ويجب أن تتخذ إجراءات لعدم فقدان السيطرة على السلطة في ويستروس بشكل نهائي. بعد وفاة الملك فيسيريس الأول، يدعي اثنان من الأطراف للعرش الحديدي: \"السود\" حول رينيرا وعمه ديمون يستندون إلى أن فيسيريس كان يرغب منذ فترة طويلة في جعل ابنته رينيرا وريثة للعرش. \"الخضر\" حول ابن فيسيريس أيغون الثاني وأمه أليسنت يرون أنهما مبرران من خلال كلماته الأخيرة على فراش الموت. سواء كان الأمر يتعلق بالسود أو الخضر، الملكة رينيرا أو الملك أيغون الثاني - يجب على بقية الأسر النبيلة أن تختار جانبًا من أسرة تارغارين. تواجه مدينة ويستروس حربًا أهلية.",
-        "poster_path": "/lZwxqNWnT1dRl76ry6BM0FPqCUg.jpg",
-        "season_number": 2,
-        "vote_average": 7,
-        "cast": [
-          {
-            "name": "مات سميث",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-          },
-          {
-            "name": "إمَ دارْسي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
-          },
-          {
-            "name": "أوليفيا كوك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
-          },
-          {
-            "name": "ستيف توسان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-          },
-          {
-            "name": "Matthew Needham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
-          },
-          {
-            "name": "سونيا ميزونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-          },
-          {
-            "name": "توم غلين كارني",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
-          },
-          {
-            "name": "إيوان ميتشل",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-06-21",
-        "episode_count": 8,
-        "id": 449260,
-        "name": "الموسم 3",
-        "overview": "تخوض الفصائل السوداء والخضراء صراعًا شاملًا لا هوادة فيه على العرش الحديدي. وبينما تتصادم التنانين والجيوش في أرجاء المملكة، تشهد ويستروس العواقب المدمرة للحرب الشاملة.",
-        "poster_path": "/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg",
-        "season_number": 3,
-        "vote_average": 6.7,
-        "cast": [
-          {
-            "name": "مات سميث",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-          },
-          {
-            "name": "إمَ دارْسي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
-          },
-          {
-            "name": "أوليفيا كوك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
-          },
-          {
-            "name": "جيمس نورتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
-          },
-          {
-            "name": "ستيف توسان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-          },
-          {
-            "name": "Fabien Frankel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
-          },
-          {
-            "name": "Matthew Needham",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
-          },
-          {
-            "name": "سونيا ميزونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "آل التنين",
-    "title_en": "آل التنين",
-    "overview_en": "The Targaryen dynasty is at the absolute apex of its power with more than 15 dragons under their yoke Most empires crumble from such heights In the case of the Targaryens their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne But when Viserys later fathers a son the court is shocked when Rhaenyra retains her status as his heir and seeds of division sow friction across the realm",
-    "cast": [
-      {
-        "name": "مات سميث",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
-      },
-      {
-        "name": "إمَ دارْسي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
-      },
-      {
-        "name": "أوليفيا كوك",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
-      },
-      {
-        "name": "جيمس نورتون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
-      },
-      {
-        "name": "ستيف توسان",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
-      },
-      {
-        "name": "Fabien Frankel",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
-      },
-      {
-        "name": "Matthew Needham",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
-      },
-      {
-        "name": "سونيا ميزونو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
-      }
-    ],
-    "date_added": 1788247214960
+    "date_added": 1788266486417
   },
   {
     "adult": false,
@@ -16397,7 +15994,7 @@
     "softcore": false,
     "name": "ريك ومورتي",
     "vote_average": 8.682,
-    "vote_count": 11335,
+    "vote_count": 11337,
     "media_type": "tv",
     "seasons": [
       {
@@ -16734,7 +16331,410 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg"
       }
     ],
-    "date_added": 1788247215035
+    "date_added": 1788266486963
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10764
+    ],
+    "id": 31472,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_name": "Pelotón",
+    "overview": "",
+    "popularity": 177.3817,
+    "poster_path": "/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+    "first_air_date": "2007-01-02",
+    "softcore": false,
+    "name": "Pelotón",
+    "vote_average": 9,
+    "vote_count": 1,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2007-01-02",
+        "episode_count": 89,
+        "id": 193694,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Felipe Camiroaga",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ikb9i9omD28P6MJcF2rZkq54q24.jpg"
+          },
+          {
+            "name": "Bárbara Rebolledo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6QfuqL9x1KpwKlkQy0VBu9tstLb.jpg"
+          },
+          {
+            "name": "Reynaldo González",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2007-10-02",
+        "episode_count": 113,
+        "id": 193695,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Felipe Camiroaga",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ikb9i9omD28P6MJcF2rZkq54q24.jpg"
+          },
+          {
+            "name": "Bárbara Rebolledo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6QfuqL9x1KpwKlkQy0VBu9tstLb.jpg"
+          },
+          {
+            "name": "Reynaldo González",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2009-06-29",
+        "episode_count": 113,
+        "id": 193696,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Rafael Araneda",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
+          },
+          {
+            "name": "Katherine Salosny",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4BpXae24ke2OsBENLraWwArlYcu.jpg"
+          },
+          {
+            "name": "Óscar Garcés",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Miguelo",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2009-11-29",
+        "episode_count": 90,
+        "id": 193697,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Rafael Araneda",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
+          },
+          {
+            "name": "Katherine Salosny",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4BpXae24ke2OsBENLraWwArlYcu.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-09-20",
+        "episode_count": 53,
+        "id": 193698,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 5,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Rafael Araneda",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
+          },
+          {
+            "name": "Karen Doggenweiler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pTO4VQvZr9PrIbfwivd0pjmhLqZ.jpg"
+          },
+          {
+            "name": "María Eugenia Larraín",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      }
+    ],
+    "title": "Pelotón",
+    "title_en": "Pelotón",
+    "overview_en": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training The winner receives 50 million pesos The first season aired January 2 May 5 2007 and the second season ran from October 2 2007 to March 11 2008 The third season were premiere in July 2009 and the contestants were Chilean celebrities The third and 4th season were shooting back to back and like last season the majority of participants were celebrities",
+    "cast": [
+      {
+        "name": "Rafael Araneda",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gxAXGgOiA5Gl5SaKGgARPIY8jGW.jpg"
+      },
+      {
+        "name": "Karen Doggenweiler",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pTO4VQvZr9PrIbfwivd0pjmhLqZ.jpg"
+      },
+      {
+        "name": "María Eugenia Larraín",
+        "role": "بطوله",
+        "photo_url": null
+      }
+    ],
+    "date_added": 1788266487721
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 94997,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "House of the Dragon",
+    "overview": "تدور الأحداث قبل 200 عام من أحداث مسلسل صراع العروش حيث سيركز على تفاصيل عائلة آل تارغيريان ولمحات هامة في تاريخ العائلة التي حكمت ويستروس منذ زمن بعيد وصولًا إلى رقصة التنانين والصراعات الداخلية في العائلة التي دمرت كل شيء وهددت بانقراض التنانين للأبد",
+    "popularity": 166.6221,
+    "poster_path": "/3cV7NLkN8WY5LECzLxI73PXE5Oq.jpg",
+    "first_air_date": "2022-08-21",
+    "softcore": false,
+    "name": "آل التنين",
+    "vote_average": 8.385,
+    "vote_count": 7067,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2022-08-21",
+        "episode_count": 10,
+        "id": 134965,
+        "name": "الموسم 1",
+        "overview": "الأحداث تبدأ عندما يجلس فيسيريس تارغيريان على العرش الحديدي، وزوجته تنتظر ولادة طفل. يكون هذا الطفل ذكرًا متوقعًا منذ فترة طويلة. كما هو الحال في هذا العالم، لا يُرضي وصول وريث جديد العديد من الأشخاص، بما في ذلك شقيق فيسيريس، دايمون، ولورد كورليس فيلاريون، الذي لا يزال يعاني من عدم اختيار زوجته كملكة. هناك أيضًا رينيرا تارغارين، ابنة فيسيريس، التي تعتقد أن الوقت قد حان للتغيير، وأنها يجب أن تجلس على العرش كأول ملكة في التاريخ. يقدم الموسم الأول لنا نظرة رائعة إلى عالم يحدث قبل 200 عام من مغامرات نيد ستارك وعائلته.",
+        "poster_path": "/lx6hsqWXq4aVrXPjCqnMHFrGL5u.jpg",
+        "season_number": 1,
+        "vote_average": 7.4,
+        "cast": [
+          {
+            "name": "مات سميث",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+          },
+          {
+            "name": "بادي كونسيدين",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
+          },
+          {
+            "name": "ستيف توسان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+          },
+          {
+            "name": "Fabien Frankel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
+          },
+          {
+            "name": "سونيا ميزونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+          },
+          {
+            "name": "ريس ايفانز",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+          },
+          {
+            "name": "Eve Best",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oE0JEJS9un0FLpe3u5FxL1nvxLJ.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-06-16",
+        "episode_count": 8,
+        "id": 368014,
+        "name": "الموسم 2",
+        "overview": "تسبب تنين إيموند  في قتل لوك وتنينه. والدته رينيرا، تغضب من الحزن، ويجب أن تتخذ إجراءات لعدم فقدان السيطرة على السلطة في ويستروس بشكل نهائي. بعد وفاة الملك فيسيريس الأول، يدعي اثنان من الأطراف للعرش الحديدي: \"السود\" حول رينيرا وعمه ديمون يستندون إلى أن فيسيريس كان يرغب منذ فترة طويلة في جعل ابنته رينيرا وريثة للعرش. \"الخضر\" حول ابن فيسيريس أيغون الثاني وأمه أليسنت يرون أنهما مبرران من خلال كلماته الأخيرة على فراش الموت. سواء كان الأمر يتعلق بالسود أو الخضر، الملكة رينيرا أو الملك أيغون الثاني - يجب على بقية الأسر النبيلة أن تختار جانبًا من أسرة تارغارين. تواجه مدينة ويستروس حربًا أهلية.",
+        "poster_path": "/lZwxqNWnT1dRl76ry6BM0FPqCUg.jpg",
+        "season_number": 2,
+        "vote_average": 7,
+        "cast": [
+          {
+            "name": "مات سميث",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+          },
+          {
+            "name": "إمَ دارْسي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+          },
+          {
+            "name": "أوليفيا كوك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+          },
+          {
+            "name": "ستيف توسان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+          },
+          {
+            "name": "Matthew Needham",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+          },
+          {
+            "name": "سونيا ميزونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+          },
+          {
+            "name": "توم غلين كارني",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+          },
+          {
+            "name": "إيوان ميتشل",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-06-21",
+        "episode_count": 8,
+        "id": 449260,
+        "name": "الموسم 3",
+        "overview": "تخوض الفصائل السوداء والخضراء صراعًا شاملًا لا هوادة فيه على العرش الحديدي. وبينما تتصادم التنانين والجيوش في أرجاء المملكة، تشهد ويستروس العواقب المدمرة للحرب الشاملة.",
+        "poster_path": "/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg",
+        "season_number": 3,
+        "vote_average": 6.7,
+        "cast": [
+          {
+            "name": "مات سميث",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+          },
+          {
+            "name": "إمَ دارْسي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+          },
+          {
+            "name": "أوليفيا كوك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+          },
+          {
+            "name": "جيمس نورتون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
+          },
+          {
+            "name": "ستيف توسان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+          },
+          {
+            "name": "Fabien Frankel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
+          },
+          {
+            "name": "Matthew Needham",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+          },
+          {
+            "name": "سونيا ميزونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "آل التنين",
+    "title_en": "آل التنين",
+    "overview_en": "The Targaryen dynasty is at the absolute apex of its power with more than 15 dragons under their yoke Most empires crumble from such heights In the case of the Targaryens their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne But when Viserys later fathers a son the court is shocked when Rhaenyra retains her status as his heir and seeds of division sow friction across the realm",
+    "cast": [
+      {
+        "name": "مات سميث",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wxMdHj4UA6LgIU5MiA7CKySZeVU.jpg"
+      },
+      {
+        "name": "إمَ دارْسي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+      },
+      {
+        "name": "أوليفيا كوك",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+      },
+      {
+        "name": "جيمس نورتون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg"
+      },
+      {
+        "name": "ستيف توسان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+      },
+      {
+        "name": "Fabien Frankel",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nXh1h7KbdeZc41ucwGhzp1cOMnd.jpg"
+      },
+      {
+        "name": "Matthew Needham",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+      },
+      {
+        "name": "سونيا ميزونو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+      }
+    ],
+    "date_added": 1788266487796
   },
   {
     "adult": false,
@@ -18090,7 +18090,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rsgX6mHBt7hP540uUZ4CBwR21ru.jpg"
       }
     ],
-    "date_added": 1788247215755
+    "date_added": 1788266489060
   },
   {
     "adult": false,
@@ -19235,7 +19235,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
       }
     ],
-    "date_added": 1788247216622
+    "date_added": 1788266490341
   },
   {
     "adult": false,
@@ -19611,7 +19611,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/34ivXmllDg33Ivumx87q2oKHMtS.jpg"
       }
     ],
-    "date_added": 1788247217629
+    "date_added": 1788266491669
   },
   {
     "adult": false,
@@ -19633,8 +19633,8 @@
     "first_air_date": "2011-04-17",
     "softcore": false,
     "name": "لعبة العروش",
-    "vote_average": 8.5,
-    "vote_count": 27629,
+    "vote_average": 8.47,
+    "vote_count": 27633,
     "media_type": "tv",
     "seasons": [
       {
@@ -20099,7 +20099,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
       }
     ],
-    "date_added": 1788247218272
+    "date_added": 1788266492186
   },
   {
     "adult": false,
@@ -20122,7 +20122,7 @@
     "softcore": false,
     "name": "الموتى السائرون",
     "vote_average": 8.083,
-    "vote_count": 18140,
+    "vote_count": 18143,
     "media_type": "tv",
     "seasons": [
       {
@@ -20743,7 +20743,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
       }
     ],
-    "date_added": 1788247218984
+    "date_added": 1788266492827
   },
   {
     "adult": false,
@@ -21386,7 +21386,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
       }
     ],
-    "date_added": 1788247219338
+    "date_added": 1788266493534
   },
   {
     "adult": false,
@@ -22106,7 +22106,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/A2MUaEZBpu4EGVwGHq6dH1sGjhe.jpg"
       }
     ],
-    "date_added": 1788247220804
+    "date_added": 1788266495480
   },
   {
     "adult": false,
@@ -22126,8 +22126,8 @@
     "first_air_date": "2004-11-16",
     "softcore": false,
     "name": "هاوس",
-    "vote_average": 8.565,
-    "vote_count": 7838,
+    "vote_average": 8.566,
+    "vote_count": 7839,
     "media_type": "tv",
     "seasons": [
       {
@@ -22542,7 +22542,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1lNDk1RfiGlGdgLEF5E35PpEc22.jpg"
       }
     ],
-    "date_added": 1788247221735
+    "date_added": 1788266496012
   },
   {
     "adult": false,
@@ -22563,7 +22563,7 @@
     "softcore": false,
     "name": "المكتب",
     "vote_average": 8.581,
-    "vote_count": 5426,
+    "vote_count": 5428,
     "media_type": "tv",
     "seasons": [
       {
@@ -22935,7 +22935,313 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
       }
     ],
-    "date_added": 1788247222002
+    "date_added": 1788266496618
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1396,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Breaking Bad",
+    "overview": "والتر وايت مدرس كيمياء موهوب يعيش حياة هادئة ومتواضعة مع عائلته إلى أن يكتشف إصابته بالسرطان ويقرر تأمين مستقبل أسرته قبل فوات الأوان يستعين بطالبه السابق جيسي بينكمان لدخول عالم تصنيع وبيع الميثامفيتامين مستغلًا خبرته في الكيمياء لإنتاج مخدر عالي الجودة ومع نجاحهما ينغمس والتر تدريجيًا في عالم الجريمة وتجارة المخدرات ويبدأ في بناء نفوذ متزايد يضعه في مواجهة تجار مخدرات خطرين وأجهزة إنفاذ القانون بينما تتغير شخصيته وطموحاته مع ازدياد قوته واتساع إمبراطوريته الإجرامية",
+    "popularity": 169.872,
+    "poster_path": "/nl7RuvjDU6zQWkDWNI6LGxZCDuU.jpg",
+    "first_air_date": "2008-01-20",
+    "softcore": false,
+    "name": "Breaking Bad",
+    "vote_average": 8.95,
+    "vote_count": 18504,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2008-01-20",
+        "episode_count": 7,
+        "id": 3572,
+        "name": "الموسم 1",
+        "overview": "عندما يكتشف مدرس المرحلة الثانوية إصابته بسرطان مميت، يحاول تأمين مستقبل عائلته المالي عن طريق صناعة وبيع عقار \"الميث\".",
+        "poster_path": "/y9Bi06l2nWgwAmWhTrUuSInnfPY.jpg",
+        "season_number": 1,
+        "vote_average": 8.4,
+        "cast": [
+          {
+            "name": "براين كرانستون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+          },
+          {
+            "name": "آرون بول",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+          },
+          {
+            "name": "آنا غان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+          },
+          {
+            "name": "آر جي مت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+          },
+          {
+            "name": "دين نوريس",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+          },
+          {
+            "name": "بيتسي براندت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2009-03-08",
+        "episode_count": 13,
+        "id": 3573,
+        "name": "الموسم 2",
+        "overview": "مع ارتقاء \"والتر\" في عالم تجارة المخدرات، يلفت انتباه منافسيه ويعرّض حياة صهره (ضابط وكالة مكافحة المخدرات) للخطر.",
+        "poster_path": "/nlPuG9GNecMaWoNO5CkVkaOR3vi.jpg",
+        "season_number": 2,
+        "vote_average": 8.4,
+        "cast": [
+          {
+            "name": "براين كرانستون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+          },
+          {
+            "name": "آرون بول",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+          },
+          {
+            "name": "آنا غان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+          },
+          {
+            "name": "آر جي مت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+          },
+          {
+            "name": "دين نوريس",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+          },
+          {
+            "name": "بيتسي براندت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-03-21",
+        "episode_count": 13,
+        "id": 3575,
+        "name": "الموسم 3",
+        "overview": "ترك الموسم السابق \"والتر وايت\" عالقًا في بعض المشاكل. لكن من أجل مصلحة عائلته، يستمر في إعداد عقار \"الميث\" سرًا.",
+        "poster_path": "/sBrsjf8unaMaQfbN0LJhRpHJcUc.jpg",
+        "season_number": 3,
+        "vote_average": 8.4,
+        "cast": [
+          {
+            "name": "براين كرانستون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+          },
+          {
+            "name": "آرون بول",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+          },
+          {
+            "name": "آنا غان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+          },
+          {
+            "name": "آر جي مت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+          },
+          {
+            "name": "دين نوريس",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+          },
+          {
+            "name": "بيتسي براندت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+          },
+          {
+            "name": "جيانكارلو اسبوزيتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2011-07-17",
+        "episode_count": 13,
+        "id": 3576,
+        "name": "الموسم 4",
+        "overview": "يعود \"بريان كرانستون\" الحائز على الإيمي بدور \"والتر وايت\"، مدرس كيمياء تحول لصانع عقار \"الميث\"، والذي يستميت لخداع بارون المخدرات \"غوس فرينغ\".",
+        "poster_path": "/ptMw4YMA0wIZvGhh8v41VQkY21e.jpg",
+        "season_number": 4,
+        "vote_average": 8.6,
+        "cast": [
+          {
+            "name": "براين كرانستون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+          },
+          {
+            "name": "آرون بول",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+          },
+          {
+            "name": "آنا غان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+          },
+          {
+            "name": "آر جي مت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+          },
+          {
+            "name": "دين نوريس",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+          },
+          {
+            "name": "بيتسي براندت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+          },
+          {
+            "name": "جيانكارلو اسبوزيتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+          },
+          {
+            "name": "بوب أودينكيرك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2012-07-15",
+        "episode_count": 16,
+        "id": 3578,
+        "name": "الموسم 5",
+        "overview": "في الموسم الأخير، لن يكفي \"والتر\" التظاهر بكونه خطيرًا، حيث تقوده حياته المزرية إلى قمة إمبراطورية مخدرات، والخطر يحوم حول الجميع.",
+        "poster_path": "/axPIfwbb00SqQuPUiAJOnDYuBYl.jpg",
+        "season_number": 5,
+        "vote_average": 8.9,
+        "cast": [
+          {
+            "name": "براين كرانستون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+          },
+          {
+            "name": "آرون بول",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+          },
+          {
+            "name": "آنا غان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+          },
+          {
+            "name": "آر جي مت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+          },
+          {
+            "name": "دين نوريس",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+          },
+          {
+            "name": "بيتسي براندت",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+          },
+          {
+            "name": "بوب أودينكيرك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+          },
+          {
+            "name": "جوناثان بانكس",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "Breaking Bad",
+    "title_en": "Breaking Bad",
+    "overview_en": "Walter White a New Mexico chemistry teacher is diagnosed with Stage III cancer and given a prognosis of only two years left to live He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family s financial future at any cost as he enters the dangerous world of drugs and crime",
+    "cast": [
+      {
+        "name": "براين كرانستون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+      },
+      {
+        "name": "آرون بول",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+      },
+      {
+        "name": "آنا غان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+      },
+      {
+        "name": "آر جي مت",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+      },
+      {
+        "name": "دين نوريس",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+      },
+      {
+        "name": "بيتسي براندت",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+      },
+      {
+        "name": "بوب أودينكيرك",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "جوناثان بانكس",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+      }
+    ],
+    "date_added": 1788266496975
   },
   {
     "adult": false,
@@ -23062,7 +23368,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
       }
     ],
-    "date_added": 1788247222094
+    "date_added": 1788266497080
   },
   {
     "adult": false,
@@ -23829,7 +24135,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u0OMYtsv7MapoXDqbafgGH1raRv.jpg"
       }
     ],
-    "date_added": 1788247223359
+    "date_added": 1788266498641
   },
   {
     "adult": false,
@@ -25573,7 +25879,7 @@
     "title_en": "Gute Zeiten schlechte Zeiten",
     "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
     "cast": [],
-    "date_added": 1788247223602
+    "date_added": 1788266499470
   },
   {
     "adult": false,
@@ -25595,8 +25901,8 @@
     "first_air_date": "2021-01-11",
     "softcore": false,
     "name": "موشوكو تينسي",
-    "vote_average": 8.415,
-    "vote_count": 1691,
+    "vote_average": 8.416,
+    "vote_count": 1692,
     "media_type": "tv",
     "seasons": [
       {
@@ -25711,7 +26017,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1788247223637
+    "date_added": 1788266499567
   },
   {
     "adult": false,
@@ -25824,7 +26130,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1788247223659
+    "date_added": 1788266499603
   },
   {
     "adult": false,
@@ -25846,8 +26152,8 @@
     "first_air_date": "2022-02-20",
     "softcore": false,
     "name": "من",
-    "vote_average": 8.495,
-    "vote_count": 4220,
+    "vote_average": 8.496,
+    "vote_count": 4221,
     "media_type": "tv",
     "seasons": [
       {
@@ -26104,7 +26410,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8K8D5ZQIb4fDSGxTKL2FVjFloWW.jpg"
       }
     ],
-    "date_added": 1788247223797
+    "date_added": 1788266499857
   },
   {
     "adult": false,
@@ -26124,8 +26430,8 @@
     "first_air_date": "2024-10-24",
     "softcore": false,
     "name": "جمال بصبغة سوداء",
-    "vote_average": 8.3,
-    "vote_count": 280,
+    "vote_average": 8.324,
+    "vote_count": 281,
     "media_type": "tv",
     "seasons": [
       {
@@ -26330,7 +26636,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dLxWslCyuGMI5ZxjnjsuuO08Ynr.jpg"
       }
     ],
-    "date_added": 1788247223907
+    "date_added": 1788266499924
   },
   {
     "adult": false,
@@ -26352,8 +26658,8 @@
     "first_air_date": "1997-03-23",
     "softcore": false,
     "name": "Midsomer Murders",
-    "vote_average": 7.5,
-    "vote_count": 369,
+    "vote_average": 7.461,
+    "vote_count": 370,
     "media_type": "tv",
     "seasons": [
       {
@@ -27232,7 +27538,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
       }
     ],
-    "date_added": 1788247225325
+    "date_added": 1788266501660
   },
   {
     "adult": false,
@@ -27325,7 +27631,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hBiyY9sU7tw6pf2eaDIeyF1NOfq.jpg"
       }
     ],
-    "date_added": 1788247225377
+    "date_added": 1788266501779
   },
   {
     "adult": false,
@@ -27497,7 +27803,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/avAbkkbbYKDRumklH1kV4fWSzkz.jpg"
       }
     ],
-    "date_added": 1788247225628
+    "date_added": 1788266502220
   },
   {
     "adult": false,
@@ -27720,7 +28026,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg"
       }
     ],
-    "date_added": 1788247226524
+    "date_added": 1788266502843
   },
   {
     "adult": false,
@@ -28217,7 +28523,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
       }
     ],
-    "date_added": 1788247226974
+    "date_added": 1788266503834
   },
   {
     "adult": false,
@@ -28329,7 +28635,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bnL8ZbICuHSXrTJlLYf3EDa3zfW.jpg"
       }
     ],
-    "date_added": 1788247227575
+    "date_added": 1788266503938
   },
   {
     "adult": false,
@@ -28483,7 +28789,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mfqjGz99cMbZLLg1eHwU2OUsOjK.jpg"
       }
     ],
-    "date_added": 1788247227897
+    "date_added": 1788266504470
   },
   {
     "adult": false,
@@ -28832,7 +29138,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
       }
     ],
-    "date_added": 1788247228210
+    "date_added": 1788266505087
   },
   {
     "adult": false,
@@ -29397,7 +29703,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wzPGaDjzimfGjIpRg6NjN9eqJxL.jpg"
       }
     ],
-    "date_added": 1788247228689
+    "date_added": 1788266505956
   },
   {
     "adult": false,
@@ -30411,7 +30717,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rEZ4LALVCDh6RXvd3l3SzYbzKlb.jpg"
       }
     ],
-    "date_added": 1788247231844
+    "date_added": 1788266509615
   },
   {
     "adult": false,
@@ -30949,7 +31255,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1788247232132
+    "date_added": 1788266510221
   },
   {
     "adult": false,
@@ -30971,8 +31277,8 @@
     "first_air_date": "2001-10-16",
     "softcore": false,
     "name": "سمولفيل",
-    "vote_average": 8.191,
-    "vote_count": 4572,
+    "vote_average": 8.192,
+    "vote_count": 4573,
     "media_type": "tv",
     "seasons": [
       {
@@ -31481,469 +31787,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oo7vqWz30pA1tY6quUOnS6O0AgB.jpg"
       }
     ],
-    "date_added": 1788247232457
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 1405,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Dexter",
-    "overview": "يعيش دكستر مورغان حياة مزدوجة في مدينة ميامي حيث يعمل خبيرًا في تحليل أنماط الدم لدى الشرطة بينما يخفي عن الجميع جانبًا مظلمًا من شخصيته يستغل دكستر مهاراته وخبرته في التحقيق لتعقب القتلة والمجرمين الذين تمكنوا من الإفلات من العدالة ثم يأخذ القانون بيده وفق قواعد صارمة وضعها له والده بالتبني ومع استمراره في إخفاء جرائمه عن زملائه وأسرته يجد دكستر نفسه أمام قتلة متسلسلين وأعداء يقتربون من كشف حقيقته مما يهدد حياته السرية ويضعه في مواجهات خطيرة تختبر قدرته على السيطرة على جانبه المظلم",
-    "popularity": 136.8439,
-    "poster_path": "/ivs37ueaO7jac4NXkfBRT9u3Say.jpg",
-    "first_air_date": "2006-10-01",
-    "softcore": false,
-    "name": "دكستر",
-    "vote_average": 8.242,
-    "vote_count": 5799,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2006-10-01",
-        "episode_count": 12,
-        "id": 59499,
-        "name": "الموسم 1",
-        "overview": "خلال النهار، يعمل دكستر، ذو الطبع الهادئ، محللاً لبقع الدم لدى شرطة ميامي. أما في الليل، فهو قاتل متسلسل لا يستهدف إلا القتلة الآخرين.",
-        "poster_path": "/ap8OrxgSU8GNiOBIeKeVsmVmBEa.jpg",
-        "season_number": 1,
-        "vote_average": 8.1,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جولي بنز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "Erik King",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dhWzEMWYcQscPPiWQFc06bpz8Qq.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-09-30",
-        "episode_count": 12,
-        "id": 59500,
-        "name": "الموسم 2",
-        "overview": "في الموسم الثاني، تُكتشف جثث ضحايا دكستر، ويُفتح تحقيق في قسم دكستر نفسه للعثور على القاتل، الملقب بـ\"جزار خليج هاربور\". تُكافح ديبرا للتعافي، وتُرسل ريتا دكستر إلى اجتماعات مدمني المخدرات المجهولين عندما تشك في أنه مُدمن. يُلاحق الرقيب جيمس دوكس دكستر، مُشتبهًا في تورطه في جرائم \"قاتل شاحنة الثلج\".",
-        "poster_path": "/quwUO5XZBCbLxFvxUBuVlXGEPSt.jpg",
-        "season_number": 2,
-        "vote_average": 8.2,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جولي بنز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "Erik King",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dhWzEMWYcQscPPiWQFc06bpz8Qq.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-09-28",
-        "episode_count": 12,
-        "id": 59502,
-        "name": "الموسم 3",
-        "overview": "بعد مشادة مع رجل، تنشأ صداقة بين دكستر وشقيقه، مساعد المدعي العام ميغيل برادو. في هذه الأثناء، تكتشف ريتا أنها حامل، بينما تحقق ديبرا في جرائم قتل قاتل متسلسل جديد يُدعى \"الجلاد\"، على أمل الحصول على ترقية إلى محققة.",
-        "poster_path": "/3yW1AsSyorMHM9c3jhQ0l8ZwZ8B.jpg",
-        "season_number": 3,
-        "vote_average": 7.9,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جولي بنز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-09-27",
-        "episode_count": 12,
-        "id": 59504,
-        "name": "الموسم 4",
-        "overview": "يكافح دكستر، كأب وزوج، لإيجاد سبل البقاء على قيد الحياة لسنوات قادمة. ويسعى إلى التعلم من آرثر ميتشل، وهو قاتل متسلسل ورجل عائلة، ارتكب جرائم قتل لأكثر من ثلاثين عامًا دون أن يُكتشف أمره.",
-        "poster_path": "/6iL5gi1yIT6BKHJaeugPDxO9H1R.jpg",
-        "season_number": 4,
-        "vote_average": 8.4,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جولي بنز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "ديسموند هارينغتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-09-26",
-        "episode_count": 12,
-        "id": 59506,
-        "name": "الموسم 5",
-        "overview": "في الموسم الخامس، يتصالح دكستر مع تداعيات نهاية الموسم الرابع، ويوقف مجموعة من مغتصبي النساء المتسلسلين ويتجنب شرطيًا فاسدًا يكتشف سره القاتل.",
-        "poster_path": "/35kioxp86uwvXbN147HW0EbzyxF.jpg",
-        "season_number": 5,
-        "vote_average": 8.1,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "ديسموند هارينغتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-10-02",
-        "episode_count": 12,
-        "id": 59509,
-        "name": "الموسم 6",
-        "overview": "يتابع الموسم السادس تحقيقات دكستر وشرطة ميامي مترو في سلسلة من جرائم القتل الطقوسية الغريبة التي تتميز برموز دينية كارثية صريحة",
-        "poster_path": "/wsoId8dvKfo8ACtBq5r1tEvzrzz.jpg",
-        "season_number": 6,
-        "vote_average": 7.7,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "ديسموند هارينغتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-09-30",
-        "episode_count": 12,
-        "id": 59510,
-        "name": "الموسم 7",
-        "overview": "يتابع الموسم السابع تورط دكستر مع زعيم عصابة أوكراني، ويقدم هانا مكاي، وهي أرملة غامضة تتمتع بمهارة في الزراعة وماضٍ مضطرب.",
-        "poster_path": "/wNPfbBtk45fByPuVnJJ04mLvcub.jpg",
-        "season_number": 7,
-        "vote_average": 7.9,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "لورن فيليز",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "ديسموند هارينغتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-06-30",
-        "episode_count": 12,
-        "id": 59512,
-        "name": "الموسم 8",
-        "overview": "بينما تكافح ديب للتعامل مع عواقب أفعالها، تأتي امرأة غامضة للعمل مع شرطة ميامي مترو، وتقدم معلومات مباشرة عن ماضي ديكستر.",
-        "poster_path": "/kxC56e2zG7HoYZfXHgaGO7TzemK.jpg",
-        "season_number": 8,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "مايكل ك هول",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-          },
-          {
-            "name": "جينيفر كاربنتر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-          },
-          {
-            "name": "Geoff Pierson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vIhxKBwqV19CwHdPuycmkchYOba.jpg"
-          },
-          {
-            "name": "David Zayas",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-          },
-          {
-            "name": "جيمس ريمار",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-          },
-          {
-            "name": "آيمي غارسيا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
-          },
-          {
-            "name": "ديسموند هارينغتون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
-          },
-          {
-            "name": "C S Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "دكستر",
-    "title_en": "دكستر",
-    "overview_en": "Dexter Morgan a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer hunting down criminals who have slipped through the cracks of justice",
-    "cast": [
-      {
-        "name": "مايكل ك هول",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
-      },
-      {
-        "name": "جينيفر كاربنتر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
-      },
-      {
-        "name": "Geoff Pierson",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vIhxKBwqV19CwHdPuycmkchYOba.jpg"
-      },
-      {
-        "name": "David Zayas",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-      },
-      {
-        "name": "جيمس ريمار",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
-      },
-      {
-        "name": "آيمي غارسيا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
-      },
-      {
-        "name": "ديسموند هارينغتون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
-      },
-      {
-        "name": "C S Lee",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
-      }
-    ],
-    "date_added": 1788247233198
+    "date_added": 1788266510859
   }
 ]
