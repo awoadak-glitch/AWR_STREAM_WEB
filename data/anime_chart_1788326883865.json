@@ -1,6 +1,133 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "id": 65733,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات وهو صبي كسول وغير منسق يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها",
+    "popularity": 150.4294,
+    "poster_path": "/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
+    "first_air_date": "2005-04-22",
+    "softcore": false,
+    "name": "دورايمون",
+    "vote_average": 8.1,
+    "vote_count": 239,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2005-04-22",
+        "episode_count": 1464,
+        "id": 74968,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/AdJjCFieCCyOpRSGDo4XJfSfQTT.jpg",
+        "season_number": 1,
+        "vote_average": 8.1,
+        "cast": [
+          {
+            "name": "大原めぐみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+          },
+          {
+            "name": "水田わさび",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+          },
+          {
+            "name": "かかずゆみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+          },
+          {
+            "name": "関智一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+          },
+          {
+            "name": "سوبارو كيمورا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+          },
+          {
+            "name": "千秋",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+          },
+          {
+            "name": "كوتونو ميتسويشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+          },
+          {
+            "name": "ياسونوري ماتسموتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "دورايمون",
+    "title_en": "Doraemon",
+    "overview_en": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10 year old Noby a lazy and uncoordinated boy who is destined to have a tragic future Doraemon can create secret gadgets from a pocket on his stomach but they usually cause more bad than good because of Noby s propensity to misuse them",
+    "cast": [
+      {
+        "name": "大原めぐみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+      },
+      {
+        "name": "水田わさび",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+      },
+      {
+        "name": "かかずゆみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+      },
+      {
+        "name": "関智一",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+      },
+      {
+        "name": "سوبارو كيمورا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+      },
+      {
+        "name": "千秋",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+      },
+      {
+        "name": "كوتونو ميتسويشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+      },
+      {
+        "name": "ياسونوري ماتسموتو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+      }
+    ],
+    "date_added": 1788327083426
+  },
+  {
+    "adult": false,
     "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
     "genre_ids": [
       10759,
@@ -14,7 +141,7 @@
     "original_language": "ja",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "overview": "عندما تدهس شاحنة شابًا يبلغ من العمر 34 سنة لا تنتهي قصته هناك بل يعاد بعثه في عالم جديد كرضيع ينتهز رودي كلّ فرصة ليعيش الحياة التي لطالما أرادها مدعومًا بأصدقاء جُدد وبعض القدرات السحرية المكتسبة حديثًا والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا ينطلق في مغامرة ملحمية مع تذكره لكل تجربته السابقة",
-    "popularity": 152.9132,
+    "popularity": 147.6798,
     "poster_path": "/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
     "first_air_date": "2021-01-11",
     "softcore": false,
@@ -135,134 +262,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1788302702245
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      35,
-      10765,
-      10762,
-      10751
-    ],
-    "id": 65733,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ドラえもん",
-    "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات وهو صبي كسول وغير منسق يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها",
-    "popularity": 152.3192,
-    "poster_path": "/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
-    "first_air_date": "2005-04-22",
-    "softcore": false,
-    "name": "دورايمون",
-    "vote_average": 8.1,
-    "vote_count": 239,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2005-04-22",
-        "episode_count": 1464,
-        "id": 74968,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/AdJjCFieCCyOpRSGDo4XJfSfQTT.jpg",
-        "season_number": 1,
-        "vote_average": 8.1,
-        "cast": [
-          {
-            "name": "大原めぐみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-          },
-          {
-            "name": "水田わさび",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-          },
-          {
-            "name": "かかずゆみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-          },
-          {
-            "name": "関智一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-          },
-          {
-            "name": "سوبارو كيمورا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-          },
-          {
-            "name": "千秋",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
-          },
-          {
-            "name": "كوتونو ميتسويشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
-          },
-          {
-            "name": "ياسونوري ماتسموتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "دورايمون",
-    "title_en": "Doraemon",
-    "overview_en": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10 year old Noby a lazy and uncoordinated boy who is destined to have a tragic future Doraemon can create secret gadgets from a pocket on his stomach but they usually cause more bad than good because of Noby s propensity to misuse them",
-    "cast": [
-      {
-        "name": "大原めぐみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-      },
-      {
-        "name": "水田わさび",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-      },
-      {
-        "name": "かかずゆみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-      },
-      {
-        "name": "関智一",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-      },
-      {
-        "name": "سوبارو كيمورا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-      },
-      {
-        "name": "千秋",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
-      },
-      {
-        "name": "كوتونو ميتسويشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
-      },
-      {
-        "name": "ياسونوري ماتسموتو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
-      }
-    ],
-    "date_added": 1788302702268
+    "date_added": 1788327083444
   },
   {
     "adult": false,
@@ -278,7 +278,7 @@
     "original_language": "ja",
     "original_name": "僧侶と交わる色欲の夜に…",
     "overview": "",
-    "popularity": 132.4228,
+    "popularity": 121.9477,
     "poster_path": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
     "first_air_date": "2017-04-03",
     "softcore": false,
@@ -355,7 +355,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hBiyY9sU7tw6pf2eaDIeyF1NOfq.jpg"
       }
     ],
-    "date_added": 1788302702319
+    "date_added": 1788327083625
   },
   {
     "adult": false,
@@ -372,7 +372,7 @@
     "original_language": "ja",
     "original_name": "BLEACH",
     "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
-    "popularity": 131.7346,
+    "popularity": 132.32,
     "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
     "first_air_date": "2004-10-05",
     "softcore": false,
@@ -501,7 +501,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
       }
     ],
-    "date_added": 1788302702362
+    "date_added": 1788327083745
   },
   {
     "adult": false,
@@ -519,7 +519,7 @@
     "original_language": "ja",
     "original_name": "Re:ゼロから始める異世界生活",
     "overview": "القصة تتحدث عن سوبارو ناتسوكي و هو طالب عادي فُقد في العالم البديل و تم إنقاذه من قِبل فتاة جميلة ذات شعر فضي بقي سوبارو بالقرب منها كي يرد لها الجميل لكن مصيرها ثقيل بشكل أكبر من أن يتخيله بطلنا يقوم الأعداء بمهاجمتهما و يتقلانهما بعدها يكتشف بطلنا أن لديه القدرة على العودة من الموت إلى الوقت الذي قدم فيه إلى هذا العالم أول مرة لكنه الوحيد الذي يتذكر ما حدث في ذلك الحين",
-    "popularity": 109.4638,
+    "popularity": 103.8399,
     "poster_path": "/x221LECWojgDTnXhWsaMIVmgM5h.jpg",
     "first_air_date": "2016-04-04",
     "softcore": false,
@@ -606,7 +606,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1788302702379
+    "date_added": 1788327083759
   },
   {
     "adult": false,
@@ -621,7 +621,7 @@
     "original_language": "ja",
     "original_name": "おーばーふろぉ",
     "overview": "كازوشي سودو طالب جامعي يزورونه صديقات طفولته الأختين أياني و كوتوني شيراكاوا ولما تكتشف أياني إن كازوشي مو بس نسى يشتري لها الحلى البودينغ لكنه بعد قاعد يستخدم اللوشن الخاص فيها وهو يتروش تقرر تنتقم وتطب عليه في الحمام هي وأختها كوتوني والسؤال هنا هل بيقدر كازوشي يمسك نفسه وما يتأثر بوجودهم",
-    "popularity": 107.5106,
+    "popularity": 105.1775,
     "poster_path": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
     "first_air_date": "2020-01-06",
     "softcore": false,
@@ -678,7 +678,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hWGD8d1llQFJbjyWOVL44FNyliy.jpg"
       }
     ],
-    "date_added": 1788302702429
+    "date_added": 1788327083978
   },
   {
     "adult": false,
@@ -695,7 +695,7 @@
     "original_language": "ja",
     "original_name": "呪術廻戦",
     "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة لكنّه يعيش حياة مدرسية عادية تمامًا في أحد الأيّام ومن أجل إنقاذ صديق هاجمته لعنة يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو غوجو ساتورو",
-    "popularity": 100.8751,
+    "popularity": 98.8281,
     "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
     "first_air_date": "2020-10-03",
     "softcore": false,
@@ -720,7 +720,7 @@
     "title_en": "JUJUTSU KAISEN",
     "overview_en": "Yuji Itadori is a boy with tremendous physical strength though he lives a completely ordinary high school life One day to save a classmate who has been attacked by curses he eats the finger of Ryomen Sukuna taking the curse into his own soul From then on he shares one body with Ryomen Sukuna Guided by the most powerful of sorcerers Satoru Gojo Itadori is admitted to Tokyo Jujutsu High School an organization that fights the curses and thus begins the heroic tale of a boy who became a curse to exorcise a curse a life from which he could never turn back",
     "cast": [],
-    "date_added": 1788302702583
+    "date_added": 1788327084447
   },
   {
     "adult": false,
@@ -736,7 +736,7 @@
     "original_language": "ja",
     "original_name": "ちはやふる",
     "overview": "أمضت تشيهايا آياسي معظم حياتها في مساندة مسيرة أختها كعارضة لكنها تلتقي يوماً صبياً يدعى آراتا واتايا الذي يرى فيها موهبة لاعبة كاروتا بارعة بينما تحلم تشيهايا بأن تصبح أفضل لاعبة كاروتا في اليابان تنفصل عن أصدقائها في اللعب والآن في المرحلة الثانوية لا تزال تشيهايا تمارس الكاروتا وتحلم بلقاء أصدقائها مجدداً",
-    "popularity": 99.0091,
+    "popularity": 110.1401,
     "poster_path": "/w1oIhPunv4HIMPvMW8SJB04RNTS.jpg",
     "first_air_date": "2011-10-05",
     "softcore": false,
@@ -837,7 +837,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
       }
     ],
-    "date_added": 1788302702815
+    "date_added": 1788327085003
   },
   {
     "adult": false,
@@ -854,7 +854,7 @@
     "original_language": "ja",
     "original_name": "HUNTER×HUNTER",
     "overview": "لتحقيق أحلامه في أن يصبح صيّادًا أسطوريًّا مثل والده يتعيّن على فتًى صغير اجتياز اختبار صعب وقاسٍ والعثور على أبيه المفقود",
-    "popularity": 91.3966,
+    "popularity": 99.8607,
     "poster_path": "/uTP81XMRbAIRY3wH3w1r8NpR2wq.jpg",
     "first_air_date": "2011-10-02",
     "softcore": false,
@@ -975,7 +975,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
       }
     ],
-    "date_added": 1788302702923
+    "date_added": 1788327085489
   },
   {
     "adult": false,
@@ -992,7 +992,7 @@
     "original_language": "ja",
     "original_name": "ドラゴンボールゼット",
     "overview": "استمرار مغامرات غوكو وأصدقاؤة للدفاع ضد مجموعة متنوعة من الأشرار التي تسعى إلى تدمير أو حكم كوكب الأرض",
-    "popularity": 90.7736,
+    "popularity": 85.9697,
     "poster_path": "/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg",
     "first_air_date": "1989-04-26",
     "softcore": false,
@@ -1515,7 +1515,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
       }
     ],
-    "date_added": 1788302703387
+    "date_added": 1788327086600
   },
   {
     "adult": false,
@@ -1532,7 +1532,7 @@
     "original_language": "ja",
     "original_name": "薬屋のひとりごと",
     "overview": "عاشت ماوماو حياةً هانئةً مع والدها الصيدلي إلى أن بِيعَت ذات يومٍ كخادمةٍ متواضعةٍ لقصر الإمبراطور لكن لم يكن من المُقدَّر لها أن تعيش حياةً مُطيعةً بين أفراد العائلة المالكة لذا عندما مرض ورثة الإمبراطور قررت التدخل وإيجاد علاج لفت هذا انتباه جينشي مسؤول القصر الوسيم الذي رُقّيَتْه والآن تُصنِّع لنفسها اسمًا لامعًا في حلِّ الألغاز الطبية",
-    "popularity": 90.4242,
+    "popularity": 93.4346,
     "poster_path": "/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
     "first_air_date": "2023-10-22",
     "softcore": false,
@@ -1609,7 +1609,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
       }
     ],
-    "date_added": 1788302703459
+    "date_added": 1788327086969
   },
   {
     "adult": false,
@@ -1627,7 +1627,7 @@
     "original_language": "ja",
     "original_name": "葬送のフリーレン",
     "overview": "هُزم الملك الشيطان وعاد فريق الأبطال المنتصر إلى المنزل قبل أن يتفكك الأربعة الساحرة فريرين والبطل هيميل والكاهن هايتر والمحارب آيزن يتذكرون رحلتهم التي استمرت عقدًا من الزمان مع حلول لحظة وداع بعضهم البعض لكن مرور الوقت يختلف بالنسبة للجان وبالتالي تشهد فريرين رفاقها يموتون ببطء واحدًا تلو الآخر",
-    "popularity": 89.9962,
+    "popularity": 89.8731,
     "poster_path": "/eHLecWYYPbcJOPuc1d2J0u2KfzD.jpg",
     "first_air_date": "2023-09-29",
     "softcore": false,
@@ -1714,7 +1714,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg"
       }
     ],
-    "date_added": 1788302703523
+    "date_added": 1788327087187
   },
   {
     "adult": false,
@@ -1731,7 +1731,7 @@
     "original_language": "ja",
     "original_name": "ジョジョの奇妙な冒険",
     "overview": "تواجه أجيال عديدة من عائلة جوستار يحمل جميع أفرادها اللقب نفسه أشرارًا قواهم خارقة للطبيعة على فترات من الزمن",
-    "popularity": 88.9587,
+    "popularity": 88.1369,
     "poster_path": "/k8iHQ2IU7j5FprP4oWrp03ClqJ9.jpg",
     "first_air_date": "2012-10-06",
     "softcore": false,
@@ -2018,7 +2018,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
       }
     ],
-    "date_added": 1788302704576
+    "date_added": 1788327088103
   },
   {
     "adult": false,
@@ -2035,13 +2035,13 @@
     "original_language": "ja",
     "original_name": "ポケットモンスター",
     "overview": "انضم إلى اش كاتشم برفقه شريكه بيكاتشو وهو يسافر عبر العديد من المناطق ويلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه إلى أن يصبح بوكيمون ماستر",
-    "popularity": 87.9869,
+    "popularity": 84.4889,
     "poster_path": "/x7ISTLv6ijdNtCyPndyRV2eK6eg.jpg",
     "first_air_date": "1997-04-01",
     "softcore": false,
     "name": "بوكيمون",
     "vote_average": 7.988,
-    "vote_count": 2244,
+    "vote_count": 2245,
     "media_type": "tv",
     "seasons": [
       {
@@ -3285,7 +3285,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg"
       }
     ],
-    "date_added": 1788302705454
+    "date_added": 1788327091028
   },
   {
     "adult": false,
@@ -3302,7 +3302,7 @@
     "original_language": "ja",
     "original_name": "家庭教師ヒットマン REBORN!",
     "overview": "تسونا طالب خجول في المرحلة الإعدادية فاشل في المدرسة والرياضة والحياة الاجتماعية لكن كل شيء حول تسونا تغير تمامًا عندما ظهر طفل يُدعى ريبورن يدعي أنه نجم إيطالي شهير",
-    "popularity": 86.1386,
+    "popularity": 101.4291,
     "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
     "first_air_date": "2006-10-07",
     "softcore": false,
@@ -3773,7 +3773,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
       }
     ],
-    "date_added": 1788302706221
+    "date_added": 1788327092073
   },
   {
     "adult": false,
@@ -3788,7 +3788,7 @@
     "original_language": "ja",
     "original_name": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
     "overview": "",
-    "popularity": 86.1059,
+    "popularity": 82.0851,
     "poster_path": "/ipqu76qqHiVB2vlK2gGZNwF9SwX.jpg",
     "first_air_date": "2023-10-02",
     "softcore": false,
@@ -3835,7 +3835,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/idV7H8BvkcMvbFFHtqmQ5E0A19f.jpg"
       }
     ],
-    "date_added": 1788302706260
+    "date_added": 1788327092268
   },
   {
     "adult": false,
@@ -3850,7 +3850,7 @@
     "original_language": "ja",
     "original_name": "悶えてよ、アダムくん",
     "overview": "",
-    "popularity": 81.263,
+    "popularity": 74.7446,
     "poster_path": "/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
     "first_air_date": "2024-01-08",
     "softcore": false,
@@ -3937,7 +3937,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1788302706307
+    "date_added": 1788327092490
   },
   {
     "adult": false,
@@ -3954,7 +3954,7 @@
     "original_language": "ja",
     "original_name": "SPY×FAMILY",
     "overview": "سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن التّظاهر أنّه رجل لديه عائلة بعد التّظاهر بأنّه أب وزوج محبوب عليه التّسلّل إلى مدرسة للنّخبة للتّقرّب من سياسيّ مهمّ لديه تنكّر مثاليّ لكنّ زوجته قاتلة محترفة ولا يعرف أيّ أحد منهما بهويّة الآخر السّرّيّة لكنّ هنالك من يعرف ابنته الّتي تبنّاها والّتي تستطيع قراءة الأفكار",
-    "popularity": 76.8683,
+    "popularity": 77.2553,
     "poster_path": "/zcH6eMaO8HNEnWXkU7eOzlRz1C6.jpg",
     "first_air_date": "2022-04-09",
     "softcore": false,
@@ -4075,7 +4075,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/YCEXgyl763zg62qhsjhWHRzGkL.jpg"
       }
     ],
-    "date_added": 1788302706495
+    "date_added": 1788327093058
   },
   {
     "adult": false,
@@ -4091,7 +4091,7 @@
     "original_language": "ja",
     "original_name": "MFゴースト",
     "overview": "",
-    "popularity": 75.0429,
+    "popularity": 68.9776,
     "poster_path": "/vMnd8iqPwOOoIZ9a2RcqAHppDoq.jpg",
     "first_air_date": "2023-10-02",
     "softcore": false,
@@ -4138,7 +4138,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
       }
     ],
-    "date_added": 1788302706554
+    "date_added": 1788327093252
   },
   {
     "adult": false,
@@ -4154,7 +4154,7 @@
     "original_language": "ja",
     "original_name": "３月のライオン",
     "overview": "راي لاعب شوغي محترف في السابعة عشر يعيش بمفرده لا يملك عائلة حقيقية وبالكاد لديه أصدقاء من بين معارفه عائلة تتكون من إمرأة شابة تدعى أكاري وفتاتين صغيرتين تدعيان هيناتا و مومو ولديهم أيضًا عدد من القطط",
-    "popularity": 74.6688,
+    "popularity": 68.8458,
     "poster_path": "/4LTg5dLXnHwbNcFyOTnXvMpSs4q.jpg",
     "first_air_date": "2016-10-08",
     "softcore": false,
@@ -4208,7 +4208,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
       }
     ],
-    "date_added": 1788302706719
+    "date_added": 1788327093567
   },
   {
     "adult": false,
@@ -4225,12 +4225,12 @@
     "original_language": "ja",
     "original_name": "ナルト",
     "overview": "القرية المخفيّة في الورق هي موطن لأكثر النينجا خفّة وسريّة لكن قبل اثنتي عشرة سنة ظهر الثعلب الشيطان ذو التسعة ذيول وبعث الرعب في ساكنيها قبل أن يتمّ كبته وختم روحه في داخل جسد طفلٍ رضيع",
-    "popularity": 71.7199,
+    "popularity": 73.4288,
     "poster_path": "/znUDLRYlfPEt7peusifvIXAc5GX.jpg",
     "first_air_date": "2002-10-03",
     "softcore": false,
     "name": "ناروتو",
-    "vote_average": 8.361,
+    "vote_average": 8.362,
     "vote_count": 6095,
     "media_type": "tv",
     "seasons": [
@@ -4242,7 +4242,7 @@
         "overview": "في أعماق قرية الورق المخفية، يحمل النينجا الشاب ناروتو أوزوماكي روح الثعلب ذي الذيول التسعة مختومةً داخله، وهي الروح التي كادت أن تدمر القرية. لطالما كان منبوذًا بسبب سره، والآن يقاتل ناروتو جنبًا إلى جنب مع زميليه ساسكي وساكورا ليثبت لنفسه وللجميع أنه أعظم نينجا على الإطلاق. لكن أمامه قائمة طويلة من التحديات ليواجهها قبل أن يصل إلى هدفه",
         "poster_path": "/fXyCDu6ZYsREZGaHcUupQ5CaGSF.jpg",
         "season_number": 1,
-        "vote_average": 7.3,
+        "vote_average": 7.4,
         "cast": [
           {
             "name": "جونكو تاكيوتشي",
@@ -4488,7 +4488,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sE664CcqM1pvoWsYsca7szlIzl5.jpg"
       }
     ],
-    "date_added": 1788302706961
+    "date_added": 1788327094336
   },
   {
     "adult": false,
@@ -4505,13 +4505,13 @@
     "original_language": "ja",
     "original_name": "ワンピース",
     "overview": "قبل سنوات عديدة تم إعدام ملك القراصنة جول دي روجر تاركا وراءه كومة ضخمة من الكنوز و الون بيس القطعه الواحده الشهيرة من يجدها سيكون اسمه ملك القراصنة الجديد مونكي دي لوفي وهو صبي الذي استهلك واحدة من فواكه الشيطان يعتقد أنه سوف يسير على خطى القرصان شانكس ويجد الون بيس محاط بسرب من المقاتلين الماهرين واللصوص على طول الطريق يحضر مونكي دي لوفي حفنة من طاقمه يتبعونه رورونوا زورو نامي اوسوب سانجي تشوبر نيكو روبن فرانكي وبروك سوف يفعلون أي شيء للحصول على الون بيس",
-    "popularity": 67.7592,
+    "popularity": 61.3046,
     "poster_path": "/zftx59xeJOJtsmRdwqo4rn6zNpj.jpg",
     "first_air_date": "1999-10-20",
     "softcore": false,
     "name": "ون بيس",
-    "vote_average": 8.749,
-    "vote_count": 5510,
+    "vote_average": 8.75,
+    "vote_count": 5512,
     "media_type": "tv",
     "seasons": [
       {
@@ -5756,7 +5756,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
       }
     ],
-    "date_added": 1788302707146
+    "date_added": 1788327094629
   },
   {
     "adult": false,
@@ -5774,13 +5774,13 @@
     "original_language": "ja",
     "original_name": "MONSTER",
     "overview": "تتكلم القصة عن جرائم وشخص يقف وراها وطبيب يقع ضحيه اتهام الشرطه له بأرتكاب الجرائم الطبيب اخطأ بالماضي ولكنه لم يترك خطأه وحاول اصلاحه بعد مرور عدة سنين وافنى نفسه لكي يصلح ما اخطأ به ينجرف جرّاح أعصاب ياباني لامع في عالم الظلام حين يحاول حلّ ألغاز سلسلة من جرائم القتل تتضمّن مريضًا قد عالجه ذات يوم وأنقذ حياته",
-    "popularity": 66.0754,
+    "popularity": 74.7893,
     "poster_path": "/o38ptRl2CvMVb6HZnstFLPcveDK.jpg",
     "first_air_date": "2004-04-07",
     "softcore": false,
     "name": "الوحش",
-    "vote_average": 8.508,
-    "vote_count": 828,
+    "vote_average": 8.505,
+    "vote_count": 829,
     "media_type": "tv",
     "seasons": [
       {
@@ -5841,7 +5841,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qP5vQMIbLNvSsSFkEMLZRVt4ZW5.jpg"
       }
     ],
-    "date_added": 1788302707223
+    "date_added": 1788327094832
   },
   {
     "adult": false,
@@ -5858,13 +5858,13 @@
     "original_language": "ja",
     "original_name": "ナルト 疾風伝",
     "overview": "اوزوماكي ناروتو اصبح الآن اكثر نضجا واكبر عمرا يسعى لإنقاذ صديقه اوتشيها ساسكي من قبضة أوروتشيمارو بعد عامين ونصف يعود نارتو أخيراً إلى قريته كونوها ويبدأ في وضع طموحاته للعمل على الرغم من أنه لن يكون سهلاً حيث أنه جمع عددًا من الأعداء الأكثر خطورة مثل الاكاتسكي",
-    "popularity": 65.0039,
+    "popularity": 62.3938,
     "poster_path": "/qOxedwaJzdms2alAmIEHEnDeDzg.jpg",
     "first_air_date": "2007-02-15",
     "softcore": false,
     "name": "ناروتو شيبودن",
-    "vote_average": 8.53,
-    "vote_count": 8752,
+    "vote_average": 8.531,
+    "vote_count": 8753,
     "media_type": "tv",
     "seasons": [
       {
@@ -6953,7 +6953,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg"
       }
     ],
-    "date_added": 1788302708471
+    "date_added": 1788327097382
   },
   {
     "adult": false,
@@ -6970,13 +6970,13 @@
     "original_language": "ja",
     "original_name": "らんま1/2",
     "overview": "تلتقي أكاني تيندو بخطيبها الجديد رانما ساوتومي وهو لاعب فنون قتالية موهوب بمفارقة واحدة إنه يتحول سحريًّا إلى فتاة عندما يلامس الماء البارد",
-    "popularity": 64.3573,
+    "popularity": 69.2885,
     "poster_path": "/x6NCiVv8ik6llOZT7ECBSxn9FaY.jpg",
     "first_air_date": "2024-10-06",
     "softcore": false,
     "name": "Ranma1/2",
-    "vote_average": 8.118,
-    "vote_count": 174,
+    "vote_average": 8.111,
+    "vote_count": 175,
     "media_type": "tv",
     "seasons": [
       {
@@ -7027,7 +7027,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg"
       }
     ],
-    "date_added": 1788302708537
+    "date_added": 1788327097660
   },
   {
     "adult": false,
@@ -7045,13 +7045,13 @@
     "original_language": "ja",
     "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
     "overview": "بعدما تنتهي محاولتهما لإحياء والدتهما الراحلة بكارثة ينطلق شقيقان في رحلة بحث عن حجر الفلاسفة وقد تُركا في أجساد مشوّهة لا تُشبه ما كانا عليه",
-    "popularity": 62.7535,
+    "popularity": 62.7891,
     "poster_path": "/nY6dXYDto9rGUdq3eK8bg6AdnQ.jpg",
     "first_air_date": "2009-04-05",
     "softcore": false,
     "name": "الخيميائي الفولاذي : الأخوَّة",
-    "vote_average": 8.713,
-    "vote_count": 2559,
+    "vote_average": 8.712,
+    "vote_count": 2561,
     "media_type": "tv",
     "seasons": [
       {
@@ -7122,7 +7122,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3gsw7BKhF70wCRDcnwavlz1U4FU.jpg"
       }
     ],
-    "date_added": 1788302708611
+    "date_added": 1788327097963
   },
   {
     "adult": false,
@@ -7140,7 +7140,7 @@
     "original_language": "ja",
     "original_name": "ポケットモンスター",
     "overview": "يخوض مغامران شابّان مهمة مثيرة تتمثل في زيارة أراضٍ جديدة ويكشفان أسرارًا قديمة ويواجهان البوكيمون و كرات البوكيمون التي لم يروها من قبل",
-    "popularity": 61.3552,
+    "popularity": 57.8584,
     "poster_path": "/qCRLHvSmjAzZlgtKBB2tMibYcxM.jpg",
     "first_air_date": "2023-04-14",
     "softcore": false,
@@ -7197,7 +7197,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yPOprcT7tPKR3p79RMYtogTEXGr.jpg"
       }
     ],
-    "date_added": 1788302708719
+    "date_added": 1788327098311
   },
   {
     "adult": false,
@@ -7215,7 +7215,7 @@
     "original_language": "ja",
     "original_name": "名探偵コナン",
     "overview": "كودو شينتشي هو متحرٍ في المدرسة الثانوية ذاع صيته لحله العديد من القضايا الصعبة وهو ابن مؤلف الروايات الغموض العالمي كودو يوساكو يتورط شينتشي في حادثة مع رجال منظمة غامضة ذوي رداء أسود ويجبرونه على تجرع عقار غريب بقلص جسده فيصبح إيدوغاوا كونان على شينتشي الآن الانتقال لمنزل صديقة طفولته موري ران حيث يعمل والدها متحرياً لإيجاد معلومات عن أولئك الرجال",
-    "popularity": 58.9438,
+    "popularity": 59.2758,
     "poster_path": "/9BhczLWHd0O9qOgBzO9dWKKH01a.jpg",
     "first_air_date": "1996-01-08",
     "softcore": false,
@@ -7322,7 +7322,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
       }
     ],
-    "date_added": 1788302708794
+    "date_added": 1788327098586
   },
   {
     "adult": false,
@@ -7339,13 +7339,13 @@
     "original_language": "ja",
     "original_name": "ソードアート・オンライン",
     "overview": "دخل مُبرمج عبقري يُدعى كازوتو إلى عالم أفتراضي عالمُ أنترنت يدعى فن السيف الرقمي ليس هُناك مهربٌ من هذا العالم حتى يقوم اللاعب بانهاء اللعبة و لكن سيُؤدي حصول اللاعب على game over إلى موته",
-    "popularity": 58.7294,
+    "popularity": 56.0159,
     "poster_path": "/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
     "first_air_date": "2012-07-08",
     "softcore": false,
     "name": "Sword Art Online",
-    "vote_average": 8.153,
-    "vote_count": 2168,
+    "vote_average": 8.2,
+    "vote_count": 2169,
     "media_type": "tv",
     "seasons": [
       {
@@ -7597,7 +7597,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nj0DsfJ5tL96HlXvzThj7R022f2.jpg"
       }
     ],
-    "date_added": 1788302708956
+    "date_added": 1788327099217
   },
   {
     "adult": false,
@@ -7614,7 +7614,7 @@
     "original_language": "ja",
     "original_name": "俺だけレベルアップな件",
     "overview": "مضى أكثر من عقد على الظهور المفاجئ للسراديب المدعوة بالبوابات والتي تربط هذا العالم ببعد آخر واستفاقة الأشخاص ذوي القوى الخارقة المدعووين بالصيادين يستعمل الصيادون قواهم الخارقة لغزو الدياميس التي بداخل البوابات لكسب عيشهم وسون جينوو صياد من أقل درجة يُعتبر الصياد الأضعف في البشرية في أحد الأيام يجد نفسه في ديماس مزدوج وهو ديماس من درجة عالية مخفيّ في ديماس من درجة منخفضة أمام جينوو المصاب بجروح بليغة تظهر نافذة مهمة غامضة بينما هو على شفير الموت يقرر جينوو قبول المهمة ما يجعله الشخص الوحيد القادر على رفع مستواه",
-    "popularity": 57.248,
+    "popularity": 52.3104,
     "poster_path": "/3hrI9aoEHWt3e4XM2g0jIcYGRB.jpg",
     "first_air_date": "2024-01-07",
     "softcore": false,
@@ -7721,7 +7721,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
       }
     ],
-    "date_added": 1788302708998
+    "date_added": 1788327099467
   },
   {
     "adult": false,
@@ -7737,7 +7737,7 @@
     "original_language": "ja",
     "original_name": "ちびまる子ちゃん",
     "overview": "يحكي المسلسل الحياة اليومية البسيطة للطفلة ماروكو مع عائلتها وأصدقائها في ضواحي إحدى مدن اليابان أواخر السبعينيات ماروكو ابنة التسع سنوات نشأت في عائلة متوسطة الثراء تتألف من أبيها وأمها ربة البيت المثالية وجدها الخرف وجدتها المهووسة بصحتها وأختها التي تكبرها بسنتين تدرس ماروكو في المرحلة الإبتدائية في المدرسة و تحب بشغف المغنية اليابانية الشهيرة مونوي ياماغوتشي كما تحب قراءة المانغا غالباً ما يناديها أصدقاؤها بـ ماروكو الصغيرة وذلك لصغر حجمها وعمرها من أصدقائها المشهورين تاما صديقة ماروكو المقربة ومارو الذي هو عريف الصف وعضو المجلس الطلابي الفخور",
-    "popularity": 56.0834,
+    "popularity": 56.1703,
     "poster_path": "/iJIvAkD105tyUA2fyfR6Y410PRI.jpg",
     "first_air_date": "1990-01-07",
     "softcore": false,
@@ -7896,7 +7896,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
       }
     ],
-    "date_added": 1788302709076
+    "date_added": 1788327099766
   },
   {
     "adult": false,
@@ -7913,7 +7913,7 @@
     "original_language": "ja",
     "original_name": "ゴールデンカムイ",
     "overview": "تدور مجريات القصة في الأراضي الشمالية لهوكايدو خلال فترة ميجي بينما كان جندي الحرب الروسية اليابانية يصول عن الذهب لحاجته للمال يخبره رجل غريب عن قصة شخصٍ سرق كمية كبيرة من الذهب وترك خريطة موشومة على أجساد زملائه في السجن في وقت لاحق يجد الجندي الملقب بسوغيموتو الخالد جثة الرجل الذي أخبره بقصة الذهب فينضح أنّه أحد السجناء الذين يملكون وشمًا على أجسادهم لمكان الذهب فتبدأ مغامرة بقاء وبحث عن الذهب بعد أن يلتقي بفتاة من الأينو اسمها أسيربا",
-    "popularity": 54.7336,
+    "popularity": 47.9904,
     "poster_path": "/rVRpYvsyPgUUsuK0kQbya67ROPZ.jpg",
     "first_air_date": "2018-04-09",
     "softcore": false,
@@ -8228,7 +8228,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
       }
     ],
-    "date_added": 1788302709267
+    "date_added": 1788327100363
   },
   {
     "adult": false,
@@ -8246,13 +8246,13 @@
     "original_language": "ja",
     "original_name": "転生したらスライムだった件",
     "overview": "عاش مينامي ساتورو حياة عادية خالية تماماً من أي حدث مهمّ حتّى عام السّابعة والثلاثين وبقي أعزب إلى هذا الحين في الطريق تعرّض لطعنة من شخص عابر ليغلق بذلك السّتار على حياته المملّة كان ينبغي أن يكون الأمر هكذا على الأقل لكن فجأة شعر بأنه على قيد الحياة لكن بلا سمع ولا بصر سرعان ما أدرك بعد ذلك حقيقة أنّه خُلِق من جديد لكن كحمأة",
-    "popularity": 54.3736,
+    "popularity": 57.9901,
     "poster_path": "/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
     "first_air_date": "2018-10-02",
     "softcore": false,
     "name": "ذلك الوقت الذي تجسدت فيه كوحش هلامي",
-    "vote_average": 8.433,
-    "vote_count": 972,
+    "vote_average": 8.428,
+    "vote_count": 974,
     "media_type": "tv",
     "seasons": [
       {
@@ -8509,7 +8509,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
       }
     ],
-    "date_added": 1788302709371
+    "date_added": 1788327100903
   },
   {
     "adult": false,
@@ -8526,7 +8526,7 @@
     "original_language": "ja",
     "original_name": "地獄楽",
     "overview": "تدور احداث القصة في عصر الإيدو عن النينجا غابمارو أخطر وأقوى نينجا على الإطلاق تم القبض عليه وحُكم عليه بالإعدام وبينما كان ينتظر حكمه تلقى عرض من الجلاد الذي كُلف بإعدامه بأنه يمكن العفو عنه وتركه يعيش بسلام مع زوجته ولكن بشرطٍ واحد أن يجلب إكسير الخلود الموجود في أرضٍ بعيدة وغامضة",
-    "popularity": 54.372,
+    "popularity": 47.6998,
     "poster_path": "/rcHx4deE1OOhlQ1ayxx06fOtZOG.jpg",
     "first_air_date": "2023-04-01",
     "softcore": false,
@@ -8633,7 +8633,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
       }
     ],
-    "date_added": 1788302709477
+    "date_added": 1788327101098
   },
   {
     "adult": false,
@@ -8651,13 +8651,13 @@
     "original_language": "ja",
     "original_name": "化物語",
     "overview": "",
-    "popularity": 53.9073,
+    "popularity": 53.6145,
     "poster_path": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
     "first_air_date": "2009-07-03",
     "softcore": false,
     "name": "化物語",
-    "vote_average": 8.1,
-    "vote_count": 528,
+    "vote_average": 8.083,
+    "vote_count": 529,
     "media_type": "tv",
     "seasons": [
       {
@@ -8931,7 +8931,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
       }
     ],
-    "date_added": 1788302710592
+    "date_added": 1788327101748
   },
   {
     "adult": false,
@@ -8947,7 +8947,7 @@
     "original_language": "ja",
     "original_name": "君のことが大大大大大好きな100人の彼女",
     "overview": "رُفض رينتارو أيجو مئة مرة في المرحلة الإعدادية زار ضريحًا وصلّى طلبًا للتوفيق في المرحلة الثانوية ظهر إله الحب ووعده بأنه سيقابل قريبًا مئة شخصٍ مُقدّر له أن يقابلهم",
-    "popularity": 51.8314,
+    "popularity": 49.9438,
     "poster_path": "/fOfFcOays1whjqBOEkEznVgyhVi.jpg",
     "first_air_date": "2023-10-08",
     "softcore": false,
@@ -9044,7 +9044,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mF5YJxApTYKBVFJDrEC9IrJ5ooV.jpg"
       }
     ],
-    "date_added": 1788302710669
+    "date_added": 1788327101981
   },
   {
     "adult": false,
@@ -9060,7 +9060,7 @@
     "original_language": "ja",
     "original_name": "るろうに剣心 －明治剣客浪漫譚－",
     "overview": "مرّت عشر سنوات على نهاية باكوماتسو حقبة الحرب التي شهدت انتفاضة المواطنين ضد شوغونية توكوغاوا أراد الثوار إرساء السلام وبناء دولة مزدهرة خالية من الظلم حلّ عصر ميجي الجديد لكن السلام لم يتحقق بعد حُظرت السيوف لكن لا يزال الناس يُقتلون في الشوارع تُرك أيتام المحاربين القدامى بلا مأوى بينما يبدو أن الحكومة راضية بتكديس الأموال في جيوبها",
-    "popularity": 49.0382,
+    "popularity": 45.6154,
     "poster_path": "/mCafSOuO3PqgoxaweNCo45KpctE.jpg",
     "first_air_date": "2023-07-07",
     "softcore": false,
@@ -9137,7 +9137,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg"
       }
     ],
-    "date_added": 1788302710737
+    "date_added": 1788327102267
   },
   {
     "adult": false,
@@ -9156,7 +9156,7 @@
     "original_language": "ja",
     "original_name": "ちいかわ",
     "overview": "",
-    "popularity": 48.0296,
+    "popularity": 45.4318,
     "poster_path": "/9zpbC0icEnTG8bvXcMM3CzLMpop.jpg",
     "first_air_date": "2022-04-04",
     "softcore": false,
@@ -9305,7 +9305,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
       }
     ],
-    "date_added": 1788302710827
+    "date_added": 1788327102596
   },
   {
     "adult": false,
@@ -9325,7 +9325,7 @@
     "original_language": "ja",
     "original_name": "ドラえもん",
     "overview": "روبرت آلي يشبه القط غذاءه المفضل معجون الفاصوليا والكعك المحلى أتى من المستقبل من القرن الثاني والعشرون لديه جيب بُعدي في بطنه يمكنه إستخراج أدوات كثيرة منه ليساعد الأطفال بكل الأدوات التي جلبها معه في جيبه البعدي يدخل في مغامرات كثيرة ويواجه مشاكل كثيرة تتعلق بأصدقائه الأطفال فكيف سيستطيع التعامل معها",
-    "popularity": 46.7646,
+    "popularity": 48.0757,
     "poster_path": "/ttigRndzMgaxuVc33rmEv5FrSwL.jpg",
     "first_air_date": "1979-04-02",
     "softcore": false,
@@ -10784,7 +10784,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6M6zQtO0reIv97oKUrVT084FUKv.jpg"
       }
     ],
-    "date_added": 1788302712142
+    "date_added": 1788327105737
   },
   {
     "adult": false,
@@ -10801,7 +10801,7 @@
     "original_language": "ja",
     "original_name": "魔入りました！入間くん",
     "overview": "سوزوكي إيروما إنسان 14 سنة يجد نفسه في أحد الأيام يُؤخذ قسرًا إلى عالم الشياطين ما زاد الطين بلّة هو أنّ مالكه الشغوف والذي عيّن نفسه جدًّا له هو في الواقع المدير الشيطان لمدرسته الجديدة لأجل النجاة على إيروما أن يتعامل مع طالبٍ متجبّر يتحدّاه في نزال وفتاة تواجه مشاكل تكيّف والكثير من المخلوقات المخيفة الأخرى أيمكن لهذا المسالم المُطْلق أن يتفادى الحبال والسّهام التي تُقذف عليه بينما يقاوم بيأس لُطف إيروما الفطريّ بدأ يستهوي الأعداء",
-    "popularity": 46.7133,
+    "popularity": 47.0663,
     "poster_path": "/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
     "first_air_date": "2019-10-05",
     "softcore": false,
@@ -11064,7 +11064,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qjRHodCBpKY8nEa4p8dZriDoil4.jpg"
       }
     ],
-    "date_added": 1788302712289
+    "date_added": 1788327106317
   },
   {
     "adult": false,
@@ -11080,7 +11080,7 @@
     "original_language": "ja",
     "original_name": "あひるの空",
     "overview": "قد يكون قصيرًا ولكن سورا كوروماتاني يستطيع تسجيل نقاطًا كثيرة في كرة السلة بحبه الذي ورثه من والدته لكرة السلة يقسم سورا لوالدته أنّه سيحقق المركز الأول في بطولة المرحلة الثانوية لكرة السلة ولكن هناك مشكلة تحول نادي كرة السلة في مدرسته الجديدة إلى تجمع للجانحين هل سيغير سورا رأيهم بأدائه المذهل ورمياته الثلاثية المدهشة أقل",
-    "popularity": 46.3551,
+    "popularity": 48.7857,
     "poster_path": "/emHuXZPwTxqkzNtwOTsmf0CERrX.jpg",
     "first_air_date": "2019-10-01",
     "softcore": false,
@@ -11167,7 +11167,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg"
       }
     ],
-    "date_added": 1788302712492
+    "date_added": 1788327106745
   },
   {
     "adult": false,
@@ -11182,7 +11182,7 @@
     "original_language": "ja",
     "original_name": "森のくまさん、冬眠中。",
     "overview": "",
-    "popularity": 45.8245,
+    "popularity": 40.4689,
     "poster_path": "/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
     "first_air_date": "2022-07-04",
     "softcore": false,
@@ -11249,7 +11249,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
       }
     ],
-    "date_added": 1788302712530
+    "date_added": 1788327106948
   },
   {
     "adult": false,
@@ -11268,7 +11268,7 @@
     "original_language": "ja",
     "original_name": "BEYBLADE X",
     "overview": "مغامرة روبين كازامي البليدر المبتدئ مع المؤثرة الرائعة مولتي نانا إيرو والبطل السابق جاكسون كروس معا يشكلون الثلاثية المثيرة التي تسعى للوصول إلى قمة منافسات ذا إكس والفوز بلقب البطل تابعوا مغامرتهم المثيرة",
-    "popularity": 45.7262,
+    "popularity": 36.4234,
     "poster_path": "/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
     "first_air_date": "2023-10-06",
     "softcore": false,
@@ -11375,7 +11375,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4Xq18mQttuW2yfRCflnWoU7UqQ5.jpg"
       }
     ],
-    "date_added": 1788302712586
+    "date_added": 1788327107179
   },
   {
     "adult": false,
@@ -11392,7 +11392,7 @@
     "original_language": "ja",
     "original_name": "東京喰種トーキョーグール",
     "overview": "تدور احداث القصة في مدينة طوكيو حيث انتشرت في الأونة الاخيرة جرائم قتل بشعة يتم تنفيذه من قبل كائنات متوحشة تعرف بـ الغيلان وفي وسط تلك الكارثة يعيش فتى جامعي يمارس أعماله اليومية بشكل طبيعي الى ان يقابل فتاة تدرس معه في نفس الجامعة وتشاركه نفس هواياته لتتغير حياته من بعدها جذرياً ومن دون سابق إنذار فكيف سيكون حاله",
-    "popularity": 45.6245,
+    "popularity": 46.2226,
     "poster_path": "/5XBk7T4NsGeN9RG39y2nU6gRWQl.jpg",
     "first_air_date": "2014-07-04",
     "softcore": false,
@@ -11615,7 +11615,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg"
       }
     ],
-    "date_added": 1788302713320
+    "date_added": 1788327107703
   },
   {
     "adult": false,
@@ -11631,7 +11631,7 @@
     "original_language": "ja",
     "original_name": "クレヨンしんちゃん",
     "overview": "شين تشان جارنا الصغير كارثة متنقلة يُثير الفوضى أينما حلّ بجسد طفل وعقل بالغ يُحدث شين تشان فوضى أكبر من أي طفل آخر شين تشان مرح متفائل ويتحمس لكل شيء هذا الطفل ذو الخمس سنوات يُحب أن يفعل الأشياء على طريقته",
-    "popularity": 45.2352,
+    "popularity": 44.6677,
     "poster_path": "/hHEW7BZbufaM0erzk0jtW5bB3gn.jpg",
     "first_air_date": "1992-04-13",
     "softcore": false,
@@ -11738,7 +11738,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
       }
     ],
-    "date_added": 1788302713378
+    "date_added": 1788327107932
   },
   {
     "adult": false,
@@ -11755,7 +11755,7 @@
     "original_language": "ja",
     "original_name": "ヤニねこ",
     "overview": "تكافح ياني الفتاة القطة لتسديد إيجارها والحفاظ على وظيفتها بينما تنفق أموالها على تدخين السجائر ومع تزايد قلق أحبائها عليها أن تعيد التفكير في مستقبلها",
-    "popularity": 44.1137,
+    "popularity": 40.8219,
     "poster_path": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
     "first_air_date": "2026-07-03",
     "softcore": false,
@@ -11862,7 +11862,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5p8wWjqrBHTkOPC5txO1eUXRBRY.jpg"
       }
     ],
-    "date_added": 1788302713433
+    "date_added": 1788327108119
   },
   {
     "adult": false,
@@ -11878,13 +11878,13 @@
     "original_language": "ja",
     "original_name": "遊☆戯☆王デュエルモンスターズ",
     "overview": "غالبًا ما يستهدف المتنمرون شخصًا ضعيفًا وهزيلًا تمامًا مثل يوغي موتو إنه يعتز بلعبة أحجية الألفية وهي قطعة أثرية مصرية قديمة أحضرها جده إلى متجر الألعاب الخاص به",
-    "popularity": 44.0886,
+    "popularity": 44.5827,
     "poster_path": "/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg",
     "first_air_date": "2000-04-18",
     "softcore": false,
     "name": "يوغي اوه مبارزة الوحوش",
-    "vote_average": 8.2,
-    "vote_count": 1050,
+    "vote_average": 8.247,
+    "vote_count": 1051,
     "media_type": "tv",
     "seasons": [
       {
@@ -11985,7 +11985,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4IG4sg8dFOizFboBCfeftDzYslU.jpg"
       }
     ],
-    "date_added": 1788302713498
+    "date_added": 1788327108319
   },
   {
     "adult": false,
@@ -12003,13 +12003,13 @@
     "original_language": "ja",
     "original_name": "陰の実力者になりたくて！",
     "overview": "الأبطال العظماء والأشرار الشيطانيون هم أنواع الشخصيات التي يتوق الناس إليها ولكن ليس سيد كاجينو يتوق إلى أن يصبح العقل المدبر الحقيقي وراء كل ذلك سحب الأوتار وجعل مكائده تقود القصة بأكملها في حياته السابقة في اليابان الحديثة لم يكن قادرا على تحقيق أهدافه ولكن الآن تولد من جديد في عالم من السحر وقال انه سوف تظهر سماحة حقيقية من الظل بينما يتظاهر سيد بأنه مجرد شخصية غوغاء عادية أخرى يقوم بتجنيد أعضاء في منظمته المزيفة حديقة الظل بهدف القضاء على الطائفة الغامضة التي تتربص في الظل مع الكثير من الإعلانات يقود سيد منظمته المزيفة ضد عبادة ديابولوس الخاطئة لكنها حقيقية بشكل مدهش",
-    "popularity": 43.8289,
+    "popularity": 45.2335,
     "poster_path": "/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
     "first_air_date": "2022-10-05",
     "softcore": false,
     "name": "البروز في الظل",
-    "vote_average": 8.05,
-    "vote_count": 323,
+    "vote_average": 8.056,
+    "vote_count": 324,
     "media_type": "tv",
     "seasons": [
       {
@@ -12162,7 +12162,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
       }
     ],
-    "date_added": 1788302713579
+    "date_added": 1788327108613
   },
   {
     "adult": false,
@@ -12179,7 +12179,7 @@
     "original_language": "ja",
     "original_name": "サマータイムレンダ",
     "overview": "",
-    "popularity": 43.5894,
+    "popularity": 41.1246,
     "poster_path": "/36RTVhPywiKnOToLsa692DIi3iS.jpg",
     "first_air_date": "2022-04-15",
     "softcore": false,
@@ -12286,7 +12286,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
       }
     ],
-    "date_added": 1788302713636
+    "date_added": 1788327108914
   },
   {
     "adult": false,
@@ -12304,13 +12304,13 @@
     "original_language": "ja",
     "original_name": "らんま1/2",
     "overview": "أثناء رحلة تدريبية في منطقة جبال بايان كالا في مقاطعة تشينغهاي في الصين رانما ساوتومي ووالده جينما سقطا في ينابيع جوسنكيو عندما يسقط شخص ما في ينبوع ملعون فإنه يأخذ المظهر الشكلي لأي شيء غرق فيه منذ مئات أو آلاف السنين متى ما أصيبوا بالماء البارد اللعنة سوف تنعكس إذا تعرض للماء الحار حتى تعرض للماء البارد جينما سقط في ينبوع الباندا الغارق بينما سقط رانما في ينبوع الفتاة الغارقة",
-    "popularity": 43.244,
+    "popularity": 45.0499,
     "poster_path": "/s8W6r3nMJLquWxq4kXr7lTZXsvO.jpg",
     "first_air_date": "1989-04-15",
     "softcore": false,
     "name": "رانما ½",
-    "vote_average": 8.62,
-    "vote_count": 1541,
+    "vote_average": 8.618,
+    "vote_count": 1542,
     "media_type": "tv",
     "seasons": [
       {
@@ -12351,7 +12351,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
       }
     ],
-    "date_added": 1788302713695
+    "date_added": 1788327109134
   },
   {
     "adult": false,
@@ -12368,7 +12368,7 @@
     "original_language": "ja",
     "original_name": "わたしの幸せな結婚",
     "overview": "عائلة ميو المسيئة تعدّها معدومة القيمة ولكن برفقة زوجها المنتظر الذي يتمتع بالقوة والنفوذ تبدأ شخصيتها الحقيقية وقواها الخفية في التألق شيئًا فشيئًا",
-    "popularity": 43.2289,
+    "popularity": 44.7792,
     "poster_path": "/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg",
     "first_air_date": "2023-07-05",
     "softcore": false,
@@ -12435,7 +12435,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
       }
     ],
-    "date_added": 1788302713760
+    "date_added": 1788327109335
   },
   {
     "adult": false,
@@ -12452,7 +12452,7 @@
     "original_language": "ja",
     "original_name": "DEATH NOTE",
     "overview": "لايت ياغامي هو طالب في المرحلة الثانوية عثر على مذكرة تحمل اسم مذكرة الموت بعدما قام الشينيغامي حاصد الأرواح المعروف باسم ريوك بإسقاطها علي كوكب الأرض تمنح لمن يستخدمها القدرة على قتل أي شخص سبق وأن رآه عن طريق كتابة اسمه في المذكرة وتسرد ألأحداث محاولة لايت إقامة عالم خالٍ من الشر باستخدام المذكرة ومن هنا يدور الصراع بين لايت وبين المحقق إل الذي يحاول القبض عليه",
-    "popularity": 43.083,
+    "popularity": 44.1342,
     "poster_path": "/6rpGWSi8ejtX0MATnHNJRXUHkYM.jpg",
     "first_air_date": "2006-10-04",
     "softcore": false,
@@ -12559,7 +12559,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
       }
     ],
-    "date_added": 1788302714323
+    "date_added": 1788327109547
   },
   {
     "adult": false,
@@ -12576,12 +12576,12 @@
     "original_language": "ja",
     "original_name": "ハイキュー!!",
     "overview": "تدور قصة هذا الأنمي حول هيناتا شويو الذي يريد أن يصبح لاعب كرة طائرة محترف حينما رأى العملاق الصغير يلعب هذه الرياضة فأعجبه الامر وبدأ يتعلم هذه الرياضة ليدخل نادي للكرة الطائرة ويبدأ بطلنا قصته مع فريقه الشبه منسي الملقب بالغربان التي لا تطير كراسنو ويبدأ مع فريقه قصة السعي نحو البطولة والإنتر هاي في محاولة لإستعادة المجد",
-    "popularity": 42.968,
+    "popularity": 42.3,
     "poster_path": "/qfbSf3EBBeGx3wkOe3AsCe5dmvo.jpg",
     "first_air_date": "2014-04-06",
     "softcore": false,
     "name": "هايكيو!!",
-    "vote_average": 8.618,
+    "vote_average": 8.619,
     "vote_count": 1543,
     "media_type": "tv",
     "seasons": [
@@ -12694,7 +12694,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
       }
     ],
-    "date_added": 1788302714496
+    "date_added": 1788327110337
   },
   {
     "adult": false,
@@ -12710,7 +12710,7 @@
     "original_language": "ja",
     "original_name": "うるわしの宵の月",
     "overview": "",
-    "popularity": 42.7335,
+    "popularity": 35.4461,
     "poster_path": "/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg",
     "first_air_date": "2026-01-11",
     "softcore": false,
@@ -12797,7 +12797,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hsSdTc4PBuLOQedZMsTS6AHvC8l.jpg"
       }
     ],
-    "date_added": 1788302714552
+    "date_added": 1788327110519
   },
   {
     "adult": false,
@@ -12812,7 +12812,7 @@
     "original_language": "ja",
     "original_name": "甘い懲罰～私は看守専用ペット",
     "overview": "",
-    "popularity": 42.6253,
+    "popularity": 39.1798,
     "poster_path": "/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
     "first_air_date": "2018-04-02",
     "softcore": false,
@@ -12899,7 +12899,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b4hiaAJY5sjIpJlTQf3A0DyqdCn.jpg"
       }
     ],
-    "date_added": 1788302714603
+    "date_added": 1788327110769
   },
   {
     "adult": false,
@@ -12916,7 +12916,7 @@
     "original_language": "ja",
     "original_name": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士",
     "overview": "",
-    "popularity": 42.5669,
+    "popularity": 37.6484,
     "poster_path": "/8ORt29GnG4gFNrQDUUSE1ZQP9Vm.jpg",
     "first_air_date": "2026-01-10",
     "softcore": false,
@@ -13005,7 +13005,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3qKI8CRyThozEuhXj2rvXeZBpiZ.jpg"
       }
     ],
-    "date_added": 1788302714690
+    "date_added": 1788327111068
   },
   {
     "adult": false,
@@ -13021,13 +13021,13 @@
     "original_language": "ja",
     "original_name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
     "overview": "تتحدث عن كاغويا شينوميا و ميوكي شيروغاني و هما عضوان في مجلس طلبة أكادمية شوتشين للنخبة يحتلان موقعهما كعباقرة بين العباقرة الوقت الذي يقضيانه معا دفعهما إلى تكوين مشاعر نحو الطرف الآخر لكن كبرياء كل واحد منهما لا يسمح له بأن يكون أول من يعترف و يصبح الطرف الخاضع في العلاقة الحب عبارة عن حرب و معركتها في جعل الآخر يعترف قد بدأت الآن",
-    "popularity": 42.4885,
+    "popularity": 42.0006,
     "poster_path": "/k1tCb4v5ILFN8DPrttfEbfc4l39.jpg",
     "first_air_date": "2019-01-12",
     "softcore": false,
     "name": "كاغويا-ساما تريد الاعتراف: الحب هو الحرب",
-    "vote_average": 8.541,
-    "vote_count": 880,
+    "vote_average": 8.54,
+    "vote_count": 881,
     "media_type": "tv",
     "seasons": [
       {
@@ -13232,7 +13232,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
       }
     ],
-    "date_added": 1788302714857
+    "date_added": 1788327111500
   },
   {
     "adult": false,
@@ -13250,7 +13250,7 @@
     "original_language": "ja",
     "original_name": "ハイスクールD×D",
     "overview": "القصة تدور حول شاب اسمة ايسي هو فتي غبي ومنحرف في سنة الثانية في الثانوية عندما خرج بموعد مع أول صديقة اسانو يوما يقتل علي يدها ويتم بعثه كشيطان ومنذ ذلك اليوم اصبح بمثابة تابعاً لـ رياس غريموري وهي وريثة عشيرة غريموري واميرة الدمار القرمزية وهي أيضا أجمل فتاة في المدرسة الثانوية",
-    "popularity": 42.343,
+    "popularity": 45.8396,
     "poster_path": "/yMYvz4vbKMIXb2IMYYi1GSlNaGx.jpg",
     "first_air_date": "2012-01-06",
     "softcore": false,
@@ -13503,7 +13503,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cuUqpOqZyzfJLzRa6syhOLUCvNW.jpg"
       }
     ],
-    "date_added": 1788302715052
+    "date_added": 1788327112046
   },
   {
     "adult": false,
@@ -13523,13 +13523,13 @@
     "original_language": "ja",
     "original_name": "サイバーパンク: エッジランナーズ",
     "overview": "في واقع مستقبلي بائس يغزوه الفساد والأعضاء الإلكترونية يسعى فتًى مشرّد موهوب لكنّه مندفع ليصبح مرتزقًا خارجًا على القانون أي مُجازفًا",
-    "popularity": 42.2277,
+    "popularity": 42.4161,
     "poster_path": "/rNkilVmALgaIb4SenfbaecRStDD.jpg",
     "first_air_date": "2022-09-13",
     "softcore": false,
     "name": "Cyberpunk: Edgerunners",
     "vote_average": 8.476,
-    "vote_count": 1949,
+    "vote_count": 1950,
     "media_type": "tv",
     "seasons": [
       {
@@ -13560,7 +13560,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg"
       }
     ],
-    "date_added": 1788302715100
+    "date_added": 1788327112279
   },
   {
     "adult": false,
@@ -13578,7 +13578,7 @@
     "original_language": "ja",
     "original_name": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
     "overview": "",
-    "popularity": 41.6288,
+    "popularity": 38.6306,
     "poster_path": "/xSYojwle5RdwhglSTqR1HSm3lA4.jpg",
     "first_air_date": "2025-04-07",
     "softcore": false,
@@ -13635,6 +13635,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pvnOU0RZuMKeISDTBEU7uSt3Xkn.jpg"
       }
     ],
-    "date_added": 1788302715172
+    "date_added": 1788327112568
   }
 ]
