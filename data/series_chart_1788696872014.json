@@ -1,6 +1,240 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "genre_ids": [
+      10759,
+      80
+    ],
+    "id": 108978,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Reacher",
+    "overview": "يصل جاك ريتشر الضابط السابق في الشرطة العسكرية إلى بلدة مارغريف الصغيرة لكنه يجد نفسه متورطًا في قضية قتل غامضة بعد وقت قصير من وصوله يكتشف ريتشر أن الجريمة ليست حادثًا عابرًا بل جزء من مؤامرة كبيرة تضم رجال أعمال ومسؤولين وشخصيات نافذة في البلدة يتعاون مع الضابطة روسكو كونكلين والمحقق أوسكار فينلي لكشف الحقيقة مستفيدًا من خبرته العسكرية وقدرته على التحقيق ومواجهة خصومه ومع اتساع دائرة الخطر يجد ريتشر نفسه في مواجهة شبكة إجرامية مستعدة لفعل أي شيء لإخفاء أسرارها",
+    "popularity": 581.2452,
+    "poster_path": "/Aq8xZcOwCwXw5xH28BLL32oMm0W.jpg",
+    "first_air_date": "2022-02-03",
+    "softcore": false,
+    "name": "ريتشر",
+    "vote_average": 8.1,
+    "vote_count": 3225,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2022-02-03",
+        "episode_count": 8,
+        "id": 161571,
+        "name": "الموسم ١",
+        "overview": "",
+        "poster_path": "/wjfXgcrd5qXFZL8jqZQ7v185xMe.jpg",
+        "season_number": 1,
+        "vote_average": 7.6,
+        "cast": [
+          {
+            "name": "آلان ريتشسون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+          },
+          {
+            "name": "مالكولم جودوين",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/h2AVP07OdXOsX3ERNwpsQuvrUEB.jpg"
+          },
+          {
+            "name": "ويلا فيتزجيرالد",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+          },
+          {
+            "name": "Chris Webster",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yo97GZJnU75mMdTLNQ85SCWOTka.jpg"
+          },
+          {
+            "name": "بروس ماكجيل",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-12-14",
+        "episode_count": 8,
+        "id": 364732,
+        "name": "الموسم ٢",
+        "overview": "عندما يجري اكتشاف جثث لأفراد وحدة \"ريتشر\" القديمة، يصبح لدى \"ريتشر\" شيء واحد يفكر فيه... الانتقام.",
+        "poster_path": "/rQRe3ydBYGoyr1mgxUeGHVs2lw5.jpg",
+        "season_number": 2,
+        "vote_average": 6.9,
+        "cast": [
+          {
+            "name": "آلان ريتشسون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+          },
+          {
+            "name": "Maria Sten",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
+          },
+          {
+            "name": "Serinda Swan",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg"
+          },
+          {
+            "name": "Shaun Sipos",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jc3Zy3lhMGIfk43BkBNrfRrfun.jpg"
+          },
+          {
+            "name": "Ferdinand Kingsley",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/arGWhGhfBl8CvNuUoKkUmfrDG0b.jpg"
+          },
+          {
+            "name": "روبرت باتريك",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-02-20",
+        "episode_count": 8,
+        "id": 432260,
+        "name": "الموسم ٣",
+        "overview": "يسافر \"ريتشر\" إلى \"ماين\" بحثاً عن عدو قاتل من ماضيه، وينتهي به المطاف بأن يتورط مع عملاء يعملون لصالحهم من إدارة مكافحة المخدرات، وقتلة خطرين، وتجارة عائلية غامضة.",
+        "poster_path": "/uV4RKiU5uXOIuxTUy6NZbSYMY77.jpg",
+        "season_number": 3,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "آلان ريتشسون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+          },
+          {
+            "name": "Maria Sten",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
+          },
+          {
+            "name": "Sonya Cassidy",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7z0VYq74tKFXoJtKrIUpmygJxak.jpg"
+          },
+          {
+            "name": "Johnny Berchtold",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tGKPmmdo6ASnNx0GoHiGgDvnndJ.jpg"
+          },
+          {
+            "name": "Roberto Montesinos",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gRYmaYEXawDmOngzOThnxDL2FHs.jpg"
+          },
+          {
+            "name": "Olivier Richters",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg"
+          },
+          {
+            "name": "Brian Tee",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
+          },
+          {
+            "name": "Anthony Michael Hall",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-08-12",
+        "episode_count": 8,
+        "id": 525713,
+        "name": "الموسم ٤",
+        "overview": "لقاءٌ عابر مع غريبة مضطربة في قطار أنفاق فيلادلفيا يدفع جاك ريتشر إلى التورط في لغز مميت.",
+        "poster_path": "/Aq8xZcOwCwXw5xH28BLL32oMm0W.jpg",
+        "season_number": 4,
+        "vote_average": 6.4,
+        "cast": [
+          {
+            "name": "آلان ريتشسون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+          },
+          {
+            "name": "Agnez Mo",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg"
+          },
+          {
+            "name": "Sydelle Noel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg"
+          },
+          {
+            "name": "Anggun",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4WxHGTehDvZudrunxTZmnR66CBi.jpg"
+          },
+          {
+            "name": "Christopher Rodriguez Marquette",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
+          },
+          {
+            "name": "Kevin Corrigan",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "ريتشر",
+    "title_en": "ريتشر",
+    "overview_en": "Jack Reacher a veteran military police investigator has just recently entered civilian life Reacher is a drifter carrying no phone and the barest of essentials as he travels the country and explores the nation he once served",
+    "cast": [
+      {
+        "name": "آلان ريتشسون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+      },
+      {
+        "name": "Agnez Mo",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg"
+      },
+      {
+        "name": "Sydelle Noel",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg"
+      },
+      {
+        "name": "Anggun",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4WxHGTehDvZudrunxTZmnR66CBi.jpg"
+      },
+      {
+        "name": "Christopher Rodriguez Marquette",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
+      },
+      {
+        "name": "Kevin Corrigan",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+      }
+    ],
+    "date_added": 1788696956557
+  },
+  {
+    "adult": false,
     "backdrop_path": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
     "genre_ids": [
       10767,
@@ -18,8 +252,8 @@
     "first_air_date": "2009-07-16",
     "softcore": false,
     "name": "Watch What Happens Live with Andy Cohen",
-    "vote_average": 4.911,
-    "vote_count": 90,
+    "vote_average": 4.868,
+    "vote_count": 91,
     "media_type": "tv",
     "seasons": [
       {
@@ -398,7 +632,7 @@
       },
       {
         "air_date": "2026-01-05",
-        "episode_count": 140,
+        "episode_count": 141,
         "id": 492037,
         "name": "الموسم 23",
         "overview": "",
@@ -424,241 +658,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1788681783011
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "genre_ids": [
-      10759,
-      80
-    ],
-    "id": 108978,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Reacher",
-    "overview": "يصل جاك ريتشر الضابط السابق في الشرطة العسكرية إلى بلدة مارغريف الصغيرة لكنه يجد نفسه متورطًا في قضية قتل غامضة بعد وقت قصير من وصوله يكتشف ريتشر أن الجريمة ليست حادثًا عابرًا بل جزء من مؤامرة كبيرة تضم رجال أعمال ومسؤولين وشخصيات نافذة في البلدة يتعاون مع الضابطة روسكو كونكلين والمحقق أوسكار فينلي لكشف الحقيقة مستفيدًا من خبرته العسكرية وقدرته على التحقيق ومواجهة خصومه ومع اتساع دائرة الخطر يجد ريتشر نفسه في مواجهة شبكة إجرامية مستعدة لفعل أي شيء لإخفاء أسرارها",
-    "popularity": 581.2452,
-    "poster_path": "/Aq8xZcOwCwXw5xH28BLL32oMm0W.jpg",
-    "first_air_date": "2022-02-03",
-    "softcore": false,
-    "name": "ريتشر",
-    "vote_average": 8.109,
-    "vote_count": 3224,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2022-02-03",
-        "episode_count": 8,
-        "id": 161571,
-        "name": "الموسم ١",
-        "overview": "",
-        "poster_path": "/wjfXgcrd5qXFZL8jqZQ7v185xMe.jpg",
-        "season_number": 1,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "آلان ريتشسون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
-          },
-          {
-            "name": "مالكولم جودوين",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/h2AVP07OdXOsX3ERNwpsQuvrUEB.jpg"
-          },
-          {
-            "name": "ويلا فيتزجيرالد",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
-          },
-          {
-            "name": "Chris Webster",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yo97GZJnU75mMdTLNQ85SCWOTka.jpg"
-          },
-          {
-            "name": "بروس ماكجيل",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-12-14",
-        "episode_count": 8,
-        "id": 364732,
-        "name": "الموسم ٢",
-        "overview": "عندما يجري اكتشاف جثث لأفراد وحدة \"ريتشر\" القديمة، يصبح لدى \"ريتشر\" شيء واحد يفكر فيه... الانتقام.",
-        "poster_path": "/rQRe3ydBYGoyr1mgxUeGHVs2lw5.jpg",
-        "season_number": 2,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "آلان ريتشسون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
-          },
-          {
-            "name": "Maria Sten",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
-          },
-          {
-            "name": "Serinda Swan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg"
-          },
-          {
-            "name": "Shaun Sipos",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jc3Zy3lhMGIfk43BkBNrfRrfun.jpg"
-          },
-          {
-            "name": "Ferdinand Kingsley",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/arGWhGhfBl8CvNuUoKkUmfrDG0b.jpg"
-          },
-          {
-            "name": "روبرت باتريك",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-02-20",
-        "episode_count": 8,
-        "id": 432260,
-        "name": "الموسم ٣",
-        "overview": "يسافر \"ريتشر\" إلى \"ماين\" بحثاً عن عدو قاتل من ماضيه، وينتهي به المطاف بأن يتورط مع عملاء يعملون لصالحهم من إدارة مكافحة المخدرات، وقتلة خطرين، وتجارة عائلية غامضة.",
-        "poster_path": "/uV4RKiU5uXOIuxTUy6NZbSYMY77.jpg",
-        "season_number": 3,
-        "vote_average": 7.3,
-        "cast": [
-          {
-            "name": "آلان ريتشسون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
-          },
-          {
-            "name": "Maria Sten",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
-          },
-          {
-            "name": "Sonya Cassidy",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7z0VYq74tKFXoJtKrIUpmygJxak.jpg"
-          },
-          {
-            "name": "Johnny Berchtold",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tGKPmmdo6ASnNx0GoHiGgDvnndJ.jpg"
-          },
-          {
-            "name": "Roberto Montesinos",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gRYmaYEXawDmOngzOThnxDL2FHs.jpg"
-          },
-          {
-            "name": "Olivier Richters",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg"
-          },
-          {
-            "name": "Brian Tee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
-          },
-          {
-            "name": "Anthony Michael Hall",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-08-12",
-        "episode_count": 8,
-        "id": 525713,
-        "name": "الموسم ٤",
-        "overview": "لقاءٌ عابر مع غريبة مضطربة في قطار أنفاق فيلادلفيا يدفع جاك ريتشر إلى التورط في لغز مميت.",
-        "poster_path": "/Aq8xZcOwCwXw5xH28BLL32oMm0W.jpg",
-        "season_number": 4,
-        "vote_average": 6.4,
-        "cast": [
-          {
-            "name": "آلان ريتشسون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
-          },
-          {
-            "name": "Agnez Mo",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg"
-          },
-          {
-            "name": "Sydelle Noel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg"
-          },
-          {
-            "name": "Anggun",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4WxHGTehDvZudrunxTZmnR66CBi.jpg"
-          },
-          {
-            "name": "Christopher Rodriguez Marquette",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
-          },
-          {
-            "name": "Kevin Corrigan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "ريتشر",
-    "title_en": "ريتشر",
-    "overview_en": "Jack Reacher a veteran military police investigator has just recently entered civilian life Reacher is a drifter carrying no phone and the barest of essentials as he travels the country and explores the nation he once served",
-    "cast": [
-      {
-        "name": "آلان ريتشسون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
-      },
-      {
-        "name": "Agnez Mo",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg"
-      },
-      {
-        "name": "Sydelle Noel",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg"
-      },
-      {
-        "name": "Anggun",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4WxHGTehDvZudrunxTZmnR66CBi.jpg"
-      },
-      {
-        "name": "Christopher Rodriguez Marquette",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
-      },
-      {
-        "name": "Kevin Corrigan",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
-      }
-    ],
-    "date_added": 1788681783027
+    "date_added": 1788696956877
   },
   {
     "adult": false,
@@ -681,7 +681,7 @@
     "softcore": false,
     "name": "الوسيط الروحي",
     "vote_average": 8.401,
-    "vote_count": 4658,
+    "vote_count": 4659,
     "media_type": "tv",
     "seasons": [
       {
@@ -984,7 +984,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
       }
     ],
-    "date_added": 1788681783220
+    "date_added": 1788696957783
   },
   {
     "adult": false,
@@ -4356,7 +4356,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1788681783852
+    "date_added": 1788696959411
   },
   {
     "adult": false,
@@ -4377,8 +4377,8 @@
     "first_air_date": "2023-05-04",
     "softcore": false,
     "name": "Silo",
-    "vote_average": 8.203,
-    "vote_count": 2581,
+    "vote_average": 8.204,
+    "vote_count": 2587,
     "media_type": "tv",
     "seasons": [
       {
@@ -4610,7 +4610,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1788681783898
+    "date_added": 1788696959436
   },
   {
     "adult": false,
@@ -4732,7 +4732,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1788681783967
+    "date_added": 1788696959452
   },
   {
     "adult": false,
@@ -4959,7 +4959,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1788681783994
+    "date_added": 1788696959479
   },
   {
     "adult": false,
@@ -6616,7 +6616,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1788681785392
+    "date_added": 1788696964029
   },
   {
     "adult": false,
@@ -6638,7 +6638,7 @@
     "softcore": false,
     "name": "Ted Lasso",
     "vote_average": 8.368,
-    "vote_count": 2621,
+    "vote_count": 2622,
     "media_type": "tv",
     "seasons": [
       {
@@ -6895,7 +6895,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
       }
     ],
-    "date_added": 1788681785410
+    "date_added": 1788696964050
   },
   {
     "adult": false,
@@ -7222,7 +7222,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1788681786065
+    "date_added": 1788696965706
   },
   {
     "adult": false,
@@ -8465,7 +8465,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/308ot27uQ7tSCJCPYgZR0L5XApe.jpg"
       }
     ],
-    "date_added": 1788681787033
+    "date_added": 1788696969351
   },
   {
     "adult": false,
@@ -8688,7 +8688,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg"
       }
     ],
-    "date_added": 1788681787508
+    "date_added": 1788696970802
   },
   {
     "adult": false,
@@ -9678,7 +9678,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7yBbtb5zCJyWq7gWPDCZR3kmWMh.jpg"
       }
     ],
-    "date_added": 1788681788457
+    "date_added": 1788696973168
   },
   {
     "adult": false,
@@ -9949,7 +9949,7 @@
     "title_en": "El conquistador",
     "overview_en": "",
     "cast": [],
-    "date_added": 1788681789594
+    "date_added": 1788696975727
   },
   {
     "adult": false,
@@ -10511,7 +10511,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg"
       }
     ],
-    "date_added": 1788681790391
+    "date_added": 1788696979272
   },
   {
     "adult": false,
@@ -11365,7 +11365,7 @@
     "title_en": "Tagesschau",
     "overview_en": "German daily news program the oldest still existing program on German television",
     "cast": [],
-    "date_added": 1788681793331
+    "date_added": 1788696987753
   },
   {
     "adult": false,
@@ -11875,7 +11875,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg"
       }
     ],
-    "date_added": 1788681793672
+    "date_added": 1788696988779
   },
   {
     "adult": false,
@@ -11898,7 +11898,7 @@
     "softcore": false,
     "name": "صراع العروش",
     "vote_average": 8.471,
-    "vote_count": 27673,
+    "vote_count": 27675,
     "media_type": "tv",
     "seasons": [
       {
@@ -12363,7 +12363,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
       }
     ],
-    "date_added": 1788681793980
+    "date_added": 1788696989684
   },
   {
     "adult": false,
@@ -15346,7 +15346,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lvnMJfeubWplY7U262GPyasbHbD.jpg"
       }
     ],
-    "date_added": 1788681796466
+    "date_added": 1788696996756
   },
   {
     "adult": false,
@@ -16231,7 +16231,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       }
     ],
-    "date_added": 1788681796665
+    "date_added": 1788696997226
   },
   {
     "adult": false,
@@ -17447,7 +17447,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
       }
     ],
-    "date_added": 1788681797492
+    "date_added": 1788697000134
   },
   {
     "adult": false,
@@ -17884,7 +17884,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szigprnenokR4yOpELIB2rj1Er2.jpg"
       }
     ],
-    "date_added": 1788681797924
+    "date_added": 1788697001961
   },
   {
     "adult": false,
@@ -17978,7 +17978,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
       }
     ],
-    "date_added": 1788681797931
+    "date_added": 1788697001976
   },
   {
     "adult": false,
@@ -19198,7 +19198,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
       }
     ],
-    "date_added": 1788681799531
+    "date_added": 1788697004821
   },
   {
     "adult": false,
@@ -20005,7 +20005,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
       }
     ],
-    "date_added": 1788681800089
+    "date_added": 1788697006861
   },
   {
     "adult": false,
@@ -21076,7 +21076,7 @@
     "title_en": "القانون والنظام",
     "overview_en": "In cases ripped from the headlines police investigate serious and often deadly crimes weighing the evidence and questioning the suspects until someone is taken into custody The district attorney s office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt Working together these expert teams navigate all sides of the complex criminal justice system to make New York a safer place",
     "cast": [],
-    "date_added": 1788681801114
+    "date_added": 1788697010005
   },
   {
     "adult": false,
@@ -22880,7 +22880,7 @@
     "title_en": "Kamen Rider",
     "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
     "cast": [],
-    "date_added": 1788681801381
+    "date_added": 1788697010859
   },
   {
     "adult": false,
@@ -23206,7 +23206,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg"
       }
     ],
-    "date_added": 1788681801505
+    "date_added": 1788697010974
   },
   {
     "adult": false,
@@ -24220,7 +24220,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rEZ4LALVCDh6RXvd3l3SzYbzKlb.jpg"
       }
     ],
-    "date_added": 1788681803054
+    "date_added": 1788697018086
   },
   {
     "adult": false,
@@ -24390,7 +24390,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o5BGJDlLzy00oQiEUMYk78JGSRe.jpg"
       }
     ],
-    "date_added": 1788681803293
+    "date_added": 1788697018946
   },
   {
     "adult": false,
@@ -25580,7 +25580,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1788681804963
+    "date_added": 1788697022480
   },
   {
     "adult": false,
@@ -26514,7 +26514,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
       }
     ],
-    "date_added": 1788681805959
+    "date_added": 1788697025248
   },
   {
     "adult": false,
@@ -26906,7 +26906,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
       }
     ],
-    "date_added": 1788681806043
+    "date_added": 1788697025517
   },
   {
     "adult": false,
@@ -27099,7 +27099,7 @@
     "title_en": "All Elite Wrestling Dynamite",
     "overview_en": "A world class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years",
     "cast": [],
-    "date_added": 1788681806129
+    "date_added": 1788697025619
   },
   {
     "adult": false,
@@ -27492,7 +27492,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
       }
     ],
-    "date_added": 1788681806425
+    "date_added": 1788697026668
   },
   {
     "adult": false,
@@ -27646,7 +27646,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mfqjGz99cMbZLLg1eHwU2OUsOjK.jpg"
       }
     ],
-    "date_added": 1788681806739
+    "date_added": 1788697027536
   },
   {
     "adult": false,
@@ -28961,7 +28961,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1788681807985
+    "date_added": 1788697030530
   },
   {
     "adult": false,
@@ -29388,7 +29388,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "Danish version of the reality series Paradise Hotel",
     "cast": [],
-    "date_added": 1788681808698
+    "date_added": 1788697033075
   },
   {
     "adult": false,
@@ -29937,7 +29937,7 @@
     "title_en": "Fuse",
     "overview_en": "Fitil is a popular Soviet Russian television satirical comedy short film series which ran for about 500 episodes Some of the episodes were aimed at children and were called Фитилёк Fitilyok Little Fuse Each issue contained from the few short segments documentary fictional and animated ones Directed by various artists including Leonid Gaidai who presented his famous trio of Nikulin Vitsin and Morgunov into the cast It was called in USSR as the anecdotes from the Soviet government",
     "cast": [],
-    "date_added": 1788681809737
+    "date_added": 1788697038395
   },
   {
     "adult": false,
@@ -30064,7 +30064,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
       }
     ],
-    "date_added": 1788681809794
+    "date_added": 1788697038613
   },
   {
     "adult": false,
@@ -31209,7 +31209,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
       }
     ],
-    "date_added": 1788681810646
+    "date_added": 1788697041376
   },
   {
     "adult": false,
@@ -31230,8 +31230,8 @@
     "first_air_date": "2011-01-09",
     "softcore": false,
     "name": "وقح",
-    "vote_average": 8.167,
-    "vote_count": 3467,
+    "vote_average": 8.166,
+    "vote_count": 3468,
     "media_type": "tv",
     "seasons": [
       {
@@ -31852,7 +31852,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
       }
     ],
-    "date_added": 1788681811164
+    "date_added": 1788697042576
   },
   {
     "adult": false,
@@ -31874,8 +31874,8 @@
     "first_air_date": "2024-03-07",
     "softcore": false,
     "name": "السادة الأفاضل",
-    "vote_average": 7.829,
-    "vote_count": 870,
+    "vote_average": 7.833,
+    "vote_count": 873,
     "media_type": "tv",
     "seasons": [
       {
@@ -31923,7 +31923,7 @@
         "overview": "",
         "poster_path": "/2lqTaSL1t2r5Ap6nZbPfM6B91YD.jpg",
         "season_number": 2,
-        "vote_average": 9.1,
+        "vote_average": 9,
         "cast": [
           {
             "name": "ثيو جيمس",
@@ -32003,7 +32003,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aYSJ87nrceznZJPScm9wF5LNt8E.jpg"
       }
     ],
-    "date_added": 1788681811187
+    "date_added": 1788697042611
   },
   {
     "adult": false,
@@ -32175,909 +32175,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/avAbkkbbYKDRumklH1kV4fWSzkz.jpg"
       }
     ],
-    "date_added": 1788681811455
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 764,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Midsomer Murders",
-    "overview": "",
-    "popularity": 184.9981,
-    "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-    "first_air_date": "1997-03-23",
-    "softcore": false,
-    "name": "Midsomer Murders",
-    "vote_average": 7.466,
-    "vote_count": 372,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1997-03-23",
-        "episode_count": 5,
-        "id": 2250,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/hpigYNT9IzrxtfzI8EKpdi7JnlH.jpg",
-        "season_number": 1,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Daniel Casey",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1999-01-20",
-        "episode_count": 4,
-        "id": 2248,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/j1nfxSKvxQCTastdpeoYgT6npR8.jpg",
-        "season_number": 2,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Daniel Casey",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1999-12-31",
-        "episode_count": 4,
-        "id": 2249,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/biWRVCklKtmDHrIKYmGqOrG0jb8.jpg",
-        "season_number": 3,
-        "vote_average": 6.9,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Daniel Casey",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2000-09-10",
-        "episode_count": 6,
-        "id": 2247,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/4uiguW1OD3mUYmIyoq1H0igWWIW.jpg",
-        "season_number": 4,
-        "vote_average": 6.8,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Daniel Casey",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2002-06-16",
-        "episode_count": 4,
-        "id": 2252,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/kTzj1tmKYLLPI78V8u5ttRuT7QY.jpg",
-        "season_number": 5,
-        "vote_average": 7.6,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Daniel Casey",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2003-01-03",
-        "episode_count": 5,
-        "id": 2251,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/rKgN0olLl5QsACqqoMi7JC11M03.jpg",
-        "season_number": 6,
-        "vote_average": 7.3,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Daniel Casey",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2003-11-02",
-        "episode_count": 6,
-        "id": 2253,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/nkVRnMf3ea3bZaC3mSMmRFIpHrI.jpg",
-        "season_number": 7,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "John Hopkins",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uHlU7Noyk784MXMwwPRa0Gl02aZ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2004-10-10",
-        "episode_count": 9,
-        "id": 2255,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/lvlGX9VutwIxcSqbncXG0U6qDB0.jpg",
-        "season_number": 8,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "John Hopkins",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uHlU7Noyk784MXMwwPRa0Gl02aZ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2005-10-09",
-        "episode_count": 8,
-        "id": 2256,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": "/ktgbelJYRfECmvQaEdXnTVjFJRZ.jpg",
-        "season_number": 9,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2006-11-12",
-        "episode_count": 8,
-        "id": 2246,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/mDlUc53Zi7CyVJNX8GhjHP1IGzJ.jpg",
-        "season_number": 10,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "Kirsty Dillon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umxReUMox2Z1qyW3l0Z49a6ff0V.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-01-01",
-        "episode_count": 7,
-        "id": 2254,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/muJMsCgrXVOfdH42O3eTAe6OuRz.jpg",
-        "season_number": 11,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "Kirsty Dillon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umxReUMox2Z1qyW3l0Z49a6ff0V.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-07-22",
-        "episode_count": 7,
-        "id": 2257,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": "/1au5yo7ZZluWpBsRyLCGhEDVOnG.jpg",
-        "season_number": 12,
-        "vote_average": 7.8,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Laura Howard",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b69jGKtI7MiiHmfJafByLzrmaHJ.jpg"
-          },
-          {
-            "name": "Kirsty Dillon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umxReUMox2Z1qyW3l0Z49a6ff0V.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-02-10",
-        "episode_count": 8,
-        "id": 2258,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/vTUVfJsgBkZgYcDoodPlQ7qqTcj.jpg",
-        "season_number": 13,
-        "vote_average": 7.2,
-        "cast": [
-          {
-            "name": "John Nettles",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4ZRhABlWoYkybPuUPi33QZRxQ0T.jpg"
-          },
-          {
-            "name": "Jane Wymark",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tBJSyVMol8invbX7uQJtbHArf7l.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Kirsty Dillon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umxReUMox2Z1qyW3l0Z49a6ff0V.jpg"
-          },
-          {
-            "name": "Barry Jackson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mlJgycuaiffRpTSeNZiiZiPZ9l8.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-03-23",
-        "episode_count": 8,
-        "id": 2260,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": "/oiXEyI8zC8vVz6WNL1BWY2rbL5L.jpg",
-        "season_number": 14,
-        "vote_average": 6.7,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Tamzin Malleson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mUqVqkgKOoV4vrU0iditUvvCtL3.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-02-01",
-        "episode_count": 6,
-        "id": 2261,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/kb1kHkNbxFtNPH3dOvkVi1F0eOJ.jpg",
-        "season_number": 15,
-        "vote_average": 7.7,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Tamzin Malleson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mUqVqkgKOoV4vrU0iditUvvCtL3.jpg"
-          },
-          {
-            "name": "Jason Hughes",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s22a4k057Zj9Q37RVd5B0MykNdv.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-12-24",
-        "episode_count": 5,
-        "id": 59564,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/eSU5a0IC2OmuZfkwVHbMPqQss7p.jpg",
-        "season_number": 16,
-        "vote_average": 7.3,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Gwilym Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHSmjJLJyrg5Q0tC0W2FFreuOnO.jpg"
-          },
-          {
-            "name": "Tamzin Malleson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mUqVqkgKOoV4vrU0iditUvvCtL3.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-01-28",
-        "episode_count": 4,
-        "id": 64697,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/tg4uPyxAcrt9Q1ToQuMnAdSe0VH.jpg",
-        "season_number": 17,
-        "vote_average": 7.1,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Gwilym Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHSmjJLJyrg5Q0tC0W2FFreuOnO.jpg"
-          },
-          {
-            "name": "Tamzin Malleson",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mUqVqkgKOoV4vrU0iditUvvCtL3.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-01-06",
-        "episode_count": 6,
-        "id": 73574,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/1CrMCFwqHI6vyLJNCbcG8zoNXpx.jpg",
-        "season_number": 18,
-        "vote_average": 7.1,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Gwilym Lee",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bHSmjJLJyrg5Q0tC0W2FFreuOnO.jpg"
-          },
-          {
-            "name": "Manjinder Virk",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cTP1k6D0ByRmErgZkARsZDjEgLf.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-12-18",
-        "episode_count": 6,
-        "id": 82889,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/g3pky2CfUkCp9U5LTuEL1ue1gGs.jpg",
-        "season_number": 19,
-        "vote_average": 7.4,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Manjinder Virk",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cTP1k6D0ByRmErgZkARsZDjEgLf.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2019-03-10",
-        "episode_count": 6,
-        "id": 103790,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/w7zJifl9tDMf2Bp9vcmeFhFX86i.jpg",
-        "season_number": 20,
-        "vote_average": 5.9,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Annette Badland",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2020-01-21",
-        "episode_count": 4,
-        "id": 137075,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/dPC6m7bthz7XvRcOKi6RpKqCyZS.jpg",
-        "season_number": 21,
-        "vote_average": 5.4,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Annette Badland",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2021-04-04",
-        "episode_count": 6,
-        "id": 189178,
-        "name": "الموسم 22",
-        "overview": "",
-        "poster_path": "/h9Suh9wAkt6vsrdqM6uPAV8LGJx.jpg",
-        "season_number": 22,
-        "vote_average": 4.2,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Annette Badland",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-04-14",
-        "episode_count": 4,
-        "id": 320311,
-        "name": "الموسم 23",
-        "overview": "",
-        "poster_path": "/s2mWBa39zMWeYod9l6blpaCt3Nh.jpg",
-        "season_number": 23,
-        "vote_average": 2.4,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Annette Badland",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-12-29",
-        "episode_count": 4,
-        "id": 366708,
-        "name": "الموسم 24",
-        "overview": "",
-        "poster_path": "/A1rUQlUPo300IKCeVDINinoUWdf.jpg",
-        "season_number": 24,
-        "vote_average": 3.3,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Annette Badland",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": null,
-        "episode_count": 4,
-        "id": 486338,
-        "name": "الموسم 25",
-        "overview": "",
-        "poster_path": "/30Ujr08k6dwxBA86o5ohVPL9Fc6.jpg",
-        "season_number": 25,
-        "vote_average": 3.5,
-        "cast": [
-          {
-            "name": "Neil Dudgeon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-          },
-          {
-            "name": "Fiona Dolman",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-          },
-          {
-            "name": "Annette Badland",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-          },
-          {
-            "name": "Nick Hendrix",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "Midsomer Murders",
-    "title_en": "Midsomer Murders",
-    "overview_en": "The peacefulness of the Midsomer community is shattered by violent crimes suspects are placed under suspicion and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty",
-    "cast": [
-      {
-        "name": "Neil Dudgeon",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
-      },
-      {
-        "name": "Nick Hendrix",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
-      },
-      {
-        "name": "Fiona Dolman",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
-      },
-      {
-        "name": "Annette Badland",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-      }
-    ],
-    "date_added": 1788681812146
+    "date_added": 1788697043389
   },
   {
     "adult": false,
@@ -33565,7 +32663,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
       }
     ],
-    "date_added": 1788681812483
+    "date_added": 1788697044381
   },
   {
     "adult": false,
@@ -35309,99 +34407,7 @@
     "title_en": "Gute Zeiten schlechte Zeiten",
     "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
     "cast": [],
-    "date_added": 1788681813763
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 299952,
-    "origin_country": [
-      "CN"
-    ],
-    "original_language": "zh",
-    "original_name": "早春晴朗",
-    "overview": "",
-    "popularity": 157.796,
-    "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-    "first_air_date": "2026-08-26",
-    "softcore": false,
-    "name": "早春晴朗",
-    "vote_average": 7.6,
-    "vote_count": 7,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-08-26",
-        "episode_count": 24,
-        "id": 473557,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
-        "season_number": 1,
-        "vote_average": 9,
-        "cast": [
-          {
-            "name": "井柏然",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg"
-          },
-          {
-            "name": "孙千",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3W570R5S7hcjKb1gLLRMVc7liJH.jpg"
-          },
-          {
-            "name": "刘小北",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/t7ORvESrEq0K2n1ognceKdeAorQ.jpg"
-          },
-          {
-            "name": "齐天晴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z7oPJy5Q1jsBJMygBdwWJS3b3n9.jpg"
-          },
-          {
-            "name": "张晔子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nd7F98xzR3dFaUnzD8hc03374eR.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "早春晴朗",
-    "title_en": "The Early Spring",
-    "overview_en": "New to Beijing Shang Zhitao crosses paths with Luan Nian a true creative genius Bold and open hearted she grows stronger step by step and gradually breaks through the defenses around Luan s guarded heart Drawn to each other they find themselves caught in an intense on again off again relationship in the urban jungle To love is to summon all your courage and leave no regrets to heal each other and to grow together But when love and her career pull her in different directions she puts her career first When she has come into her own and he has learned to soften his sharp edges they finally stand as equals ready to write a new ending together",
-    "cast": [
-      {
-        "name": "井柏然",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg"
-      },
-      {
-        "name": "孙千",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3W570R5S7hcjKb1gLLRMVc7liJH.jpg"
-      },
-      {
-        "name": "刘小北",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/t7ORvESrEq0K2n1ognceKdeAorQ.jpg"
-      },
-      {
-        "name": "齐天晴",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z7oPJy5Q1jsBJMygBdwWJS3b3n9.jpg"
-      },
-      {
-        "name": "张晔子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/nd7F98xzR3dFaUnzD8hc03374eR.jpg"
-      }
-    ],
-    "date_added": 1788681813769
+    "date_added": 1788697048599
   },
   {
     "adult": false,
@@ -35939,7 +34945,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1788681814058
+    "date_added": 1788697049084
   },
   {
     "adult": false,
@@ -36064,7 +35070,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
       }
     ],
-    "date_added": 1788681814101
+    "date_added": 1788697049287
   },
   {
     "adult": false,
@@ -36088,7 +35094,7 @@
     "softcore": false,
     "name": "ريك ومورتي",
     "vote_average": 8.682,
-    "vote_count": 11357,
+    "vote_count": 11359,
     "media_type": "tv",
     "seasons": [
       {
@@ -36425,7 +35431,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg"
       }
     ],
-    "date_added": 1788681814173
+    "date_added": 1788697050391
   },
   {
     "adult": false,
@@ -36653,7 +35659,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1788681814226
+    "date_added": 1788697050579
   },
   {
     "adult": false,
@@ -37029,7 +36035,99 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/34ivXmllDg33Ivumx87q2oKHMtS.jpg"
       }
     ],
-    "date_added": 1788681814786
+    "date_added": 1788697052725
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 299952,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "早春晴朗",
+    "overview": "",
+    "popularity": 157.796,
+    "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+    "first_air_date": "2026-08-26",
+    "softcore": false,
+    "name": "早春晴朗",
+    "vote_average": 7.6,
+    "vote_count": 7,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-08-26",
+        "episode_count": 24,
+        "id": 473557,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+        "season_number": 1,
+        "vote_average": 9,
+        "cast": [
+          {
+            "name": "井柏然",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg"
+          },
+          {
+            "name": "孙千",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3W570R5S7hcjKb1gLLRMVc7liJH.jpg"
+          },
+          {
+            "name": "刘小北",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/t7ORvESrEq0K2n1ognceKdeAorQ.jpg"
+          },
+          {
+            "name": "齐天晴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z7oPJy5Q1jsBJMygBdwWJS3b3n9.jpg"
+          },
+          {
+            "name": "张晔子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nd7F98xzR3dFaUnzD8hc03374eR.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "早春晴朗",
+    "title_en": "The Early Spring",
+    "overview_en": "New to Beijing Shang Zhitao crosses paths with Luan Nian a true creative genius Bold and open hearted she grows stronger step by step and gradually breaks through the defenses around Luan s guarded heart Drawn to each other they find themselves caught in an intense on again off again relationship in the urban jungle To love is to summon all your courage and leave no regrets to heal each other and to grow together But when love and her career pull her in different directions she puts her career first When she has come into her own and he has learned to soften his sharp edges they finally stand as equals ready to write a new ending together",
+    "cast": [
+      {
+        "name": "井柏然",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg"
+      },
+      {
+        "name": "孙千",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3W570R5S7hcjKb1gLLRMVc7liJH.jpg"
+      },
+      {
+        "name": "刘小北",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/t7ORvESrEq0K2n1ognceKdeAorQ.jpg"
+      },
+      {
+        "name": "齐天晴",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z7oPJy5Q1jsBJMygBdwWJS3b3n9.jpg"
+      },
+      {
+        "name": "张晔子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nd7F98xzR3dFaUnzD8hc03374eR.jpg"
+      }
+    ],
+    "date_added": 1788697052732
   },
   {
     "adult": false,
@@ -37669,7 +36767,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1788681815716
+    "date_added": 1788697055367
   },
   {
     "adult": false,
@@ -37691,7 +36789,7 @@
     "softcore": false,
     "name": "Breaking Bad",
     "vote_average": 8.951,
-    "vote_count": 18537,
+    "vote_count": 18539,
     "media_type": "tv",
     "seasons": [
       {
@@ -37975,7 +37073,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
       }
     ],
-    "date_added": 1788681815973
+    "date_added": 1788697056000
   },
   {
     "adult": false,
@@ -38680,7 +37778,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kbo15Tdm0nxLSdgoXL30dBsNSiG.jpg"
       }
     ],
-    "date_added": 1788681816146
+    "date_added": 1788697056921
   },
   {
     "adult": false,
@@ -39029,7 +38127,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
       }
     ],
-    "date_added": 1788681816361
+    "date_added": 1788697057998
   },
   {
     "adult": false,
@@ -39796,7 +38894,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u0OMYtsv7MapoXDqbafgGH1raRv.jpg"
       }
     ],
-    "date_added": 1788681817074
+    "date_added": 1788697060762
   },
   {
     "adult": false,
@@ -40070,7 +39168,153 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1788681817596
+    "date_added": 1788697062763
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 30984,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLEACH",
+    "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
+    "popularity": 151.7018,
+    "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
+    "first_air_date": "2004-10-05",
+    "softcore": false,
+    "name": "المطهر",
+    "vote_average": 8.358,
+    "vote_count": 2259,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2004-10-05",
+        "episode_count": 366,
+        "id": 42567,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
+        "season_number": 1,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "森田成一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+          },
+          {
+            "name": "فوميكو أوريكاسا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+          },
+          {
+            "name": "安元洋貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+          },
+          {
+            "name": "松岡由貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+          },
+          {
+            "name": "杉山紀彰",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+          },
+          {
+            "name": "伊藤健太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fIoreUBVEWcRLZanJlHUSQAjpeE.jpg"
+          },
+          {
+            "name": "置鮎龍太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg"
+          },
+          {
+            "name": "真殿光昭",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j2zw5q1tqfFoMhEbolca6Sqrjbk.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-10-11",
+        "episode_count": 50,
+        "id": 295738,
+        "name": "حرب الدم التي دامت ألف عام",
+        "overview": "الفصل الأخير من سلسلة بليتش، حيث يواجه إيتشيغو كوروساكي وحاصدو الأرواح جيش الكوينسي القوي بقيادة يوهاخ، في معركة تهدد توازن جميع العوالم",
+        "poster_path": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+        "season_number": 2,
+        "vote_average": 7.4,
+        "cast": [
+          {
+            "name": "森田成一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+          },
+          {
+            "name": "فوميكو أوريكاسا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+          },
+          {
+            "name": "安元洋貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+          },
+          {
+            "name": "松岡由貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+          },
+          {
+            "name": "杉山紀彰",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "المطهر",
+    "title_en": "Bleach",
+    "overview_en": "For as long as he can remember Ichigo Kurosaki has been able to see ghosts But when he meets Rukia a Soul Reaper who battles evil spirits known as Hollows he finds his life is changed forever Now with a newfound wealth of spiritual energy Ichigo discovers his true calling to protect the living and the dead from evil",
+    "cast": [
+      {
+        "name": "森田成一",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+      },
+      {
+        "name": "فوميكو أوريكاسا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+      },
+      {
+        "name": "安元洋貴",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+      },
+      {
+        "name": "松岡由貴",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+      },
+      {
+        "name": "杉山紀彰",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+      }
+    ],
+    "date_added": 1788697062788
   },
   {
     "adult": false,
@@ -40920,6 +40164,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/s3y6xA1U8rJCcw4KmBv5xjjHJ7w.jpg"
       }
     ],
-    "date_added": 1788681818514
+    "date_added": 1788697064609
   }
 ]
