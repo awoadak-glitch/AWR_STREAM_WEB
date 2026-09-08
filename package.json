@@ -1,5 +1,23 @@
 {
-  "name": "awr-stream-web-deployment",
+  "name": "anime-witcher-web-deploy",
+  "version": "1.0.0",
   "private": true,
-  "type": "module"
+  "scripts": {
+    "postinstall": "node bootstrap.mjs",
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.5.2",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "hls.js": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.3"
+  }
 }
