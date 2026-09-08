@@ -3,7 +3,7 @@ const path = require('path');
 const https = require('https');
 const { execFileSync } = require('child_process');
 
-const COMMIT = 'ca0e7cc496014fd17c8f8062f369246a8456cc7e';
+const COMMIT = '0a7bbb78218d281fd78481dc0b780580a33b61f4';
 const ARCHIVE = `/tmp/anime-witcher-${COMMIT}.tar.gz`;
 const URL = `https://codeload.github.com/awoadak-glitch/STREMING_WEP/tar.gz/${COMMIT}`;
 
