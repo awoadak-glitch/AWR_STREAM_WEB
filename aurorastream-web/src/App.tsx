@@ -5,6 +5,7 @@ import SearchView from "@/views/SearchView";
 import SettingsView from "@/views/SettingsView";
 import DetailsView from "@/views/DetailsView";
 import PlayerView from "@/views/PlayerView";
+import FusionApp from "@/views/FusionApp";
 import RequestDialog from "@/components/RequestDialog";
 import { HomeIcon, SearchIcon, SettingsIcon, PlusIcon } from "@/components/Icons";
 
@@ -17,6 +18,11 @@ const TABS: { key: Tab; label: string; icon: (p: { className?: string }) => JSX.
 ];
 
 export default function App() {
+  const fusionMode = new URLSearchParams(window.location.search).get("mode") === "fusion";
+  return fusionMode ? <FusionApp /> : <LegacyApp />;
+}
+
+function LegacyApp() {
   const [tab, setTab] = useState<Tab>("home");
 
   const {
@@ -45,8 +51,6 @@ export default function App() {
         <FloatingTabBar active={tab} onChange={setTab} />
       </div>
 
-      {/* زر عائم لفتح نافذة "طلب إضافة / إصلاح / تقسيم مواسم" — نفس فكرة الـ FAB
-          بنسخة أندرويد، بس بدون تبويب مخصص عشان ما نزاحم شريط التنقل الأساسي. */}
       <button
         onClick={() => openRequestDialog()}
         className="fixed bottom-24 left-5 z-10 flex h-14 w-14 items-center justify-center rounded-full bg-brandRed shadow-[0_4px_20px_rgba(255,45,120,0.5)] transition hover:scale-105 active:scale-95"
@@ -57,10 +61,6 @@ export default function App() {
 
       <RequestDialog />
 
-      {/* الطبقات تُرسم آخر شي بترتيب واضح (تفاصيل ثم مشغّل) عشان تطلع دايماً فوق أي
-          تبويب فعّال — بدون أي "نافذة منفصلة" ممكن يختل ترتيبها. تفاصيل العمل تبقى
-          مرسومة بالخلفية حتى أثناء تشغيل المشغّل فوقها، فلما تسكّر المشغّل ترجع تلقائياً
-          لنفس شاشة التفاصيل بدل ما ترجعك للرئيسية. */}
       {selectedItem && !playingUrl && (
         <DetailsView
           item={selectedItem}
