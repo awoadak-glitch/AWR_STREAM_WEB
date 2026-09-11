@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node bootstrap.cjs && next build",
+    "build": "node bootstrap.cjs && node fusion.cjs && next build",
     "start": "next start"
   },
   "dependencies": {
