@@ -424,7 +424,7 @@
     "title_en": "Paradise Hotel",
     "overview_en": "Danish version of the reality series Paradise Hotel",
     "cast": [],
-    "date_added": 1789363147355
+    "date_added": 1789383293602
   },
   {
     "adult": false,
@@ -800,7 +800,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/34ivXmllDg33Ivumx87q2oKHMtS.jpg"
       }
     ],
-    "date_added": 1789363148426
+    "date_added": 1789383294565
   },
   {
     "adult": false,
@@ -924,7 +924,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jkO19DHEN5MOROsHjhi2F75fGky.jpg"
       }
     ],
-    "date_added": 1789363148490
+    "date_added": 1789383294719
   },
   {
     "adult": false,
@@ -1097,7 +1097,7 @@
       },
       {
         "air_date": "2019-12-08",
-        "episode_count": 342,
+        "episode_count": 343,
         "id": 136960,
         "name": "الموسم 4",
         "overview": "",
@@ -1173,11 +1173,11 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bF3Zg2vzl4wUnFgcPhcS1J3Csxe.jpg"
       }
     ],
-    "date_added": 1789363148621
+    "date_added": 1789383295334
   },
   {
     "adult": false,
-    "backdrop_path": "/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+    "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
     "genre_ids": [
       10759,
       80
@@ -1194,8 +1194,8 @@
     "first_air_date": "2022-02-03",
     "softcore": false,
     "name": "ريتشر",
-    "vote_average": 8.113,
-    "vote_count": 3289,
+    "vote_average": 8.1,
+    "vote_count": 3290,
     "media_type": "tv",
     "seasons": [
       {
@@ -1407,7 +1407,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
       }
     ],
-    "date_added": 1789363148642
+    "date_added": 1789383295417
   },
   {
     "adult": false,
@@ -1834,7 +1834,234 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1789363148814
+    "date_added": 1789383295835
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 113962,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lioness",
+    "overview": "بينما تسعى جو للحفاظ على استقرار حياتها الشخصية والعملية في آن واحد تواجه العديد من العقبات في حرب المخابرات المركزية ضد الإرهاب وتستعين بـ كروز من قوات المارينز للعمل عميلة سرية لحسابها في إحدى المهمات",
+    "popularity": 403.5216,
+    "poster_path": "/iuvropv4Fj1PQM2DSgYYzOtimm2.jpg",
+    "first_air_date": "2023-07-23",
+    "softcore": false,
+    "name": "ليونيس",
+    "vote_average": 8.169,
+    "vote_count": 1525,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2023-07-23",
+        "episode_count": 8,
+        "id": 170740,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/fU5ZbaTqZRVD8uGoAzjY6rzsDbf.jpg",
+        "season_number": 1,
+        "vote_average": 7.9,
+        "cast": [
+          {
+            "name": "زوي سالدانا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+          },
+          {
+            "name": "Laysla De Oliveira",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+          },
+          {
+            "name": "Dave Annable",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+          },
+          {
+            "name": "جيل فاغنر",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
+          },
+          {
+            "name": "LaMonica Garrett",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+          },
+          {
+            "name": "James Jordan",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+          },
+          {
+            "name": "Austin Hébert",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vOuRMtOtPVd8vuNCCxxavQSdGIC.jpg"
+          },
+          {
+            "name": "Stephanie Nur",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kpYEaUMYU60Cu8sZLWwDo4GZkVR.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-10-27",
+        "episode_count": 8,
+        "id": 408622,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/y7nhi6ceyZfdXFAw330b97qAn5F.jpg",
+        "season_number": 2,
+        "vote_average": 8.3,
+        "cast": [
+          {
+            "name": "زوي سالدانا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+          },
+          {
+            "name": "Laysla De Oliveira",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+          },
+          {
+            "name": "Dave Annable",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+          },
+          {
+            "name": "جيل فاغنر",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
+          },
+          {
+            "name": "LaMonica Garrett",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+          },
+          {
+            "name": "James Jordan",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+          },
+          {
+            "name": "Genesis Rodriguez",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+          },
+          {
+            "name": "مايكل كيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-08-02",
+        "episode_count": 8,
+        "id": 520890,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/sJaKqjDPL2HpDpk7kF4RlnAhP0v.jpg",
+        "season_number": 3,
+        "vote_average": 8.4,
+        "cast": [
+          {
+            "name": "زوي سالدانا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+          },
+          {
+            "name": "Laysla De Oliveira",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+          },
+          {
+            "name": "Dave Annable",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+          },
+          {
+            "name": "جيل فاغنر",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
+          },
+          {
+            "name": "LaMonica Garrett",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+          },
+          {
+            "name": "James Jordan",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+          },
+          {
+            "name": "Genesis Rodriguez",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+          },
+          {
+            "name": "مايكل كيلي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "ليونيس",
+    "title_en": "ليونيس",
+    "overview_en": "Cruz Manuelos a rough around the edges but passionate young Marine is recruited to join the CIA s Lioness Engagement Team to help bring down a terrorist organization from within Joe the station chief of the Lioness program is tasked with training managing and leading her female undercover operatives",
+    "cast": [
+      {
+        "name": "زوي سالدانا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+      },
+      {
+        "name": "Laysla De Oliveira",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+      },
+      {
+        "name": "Dave Annable",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+      },
+      {
+        "name": "جيل فاغنر",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
+      },
+      {
+        "name": "LaMonica Garrett",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+      },
+      {
+        "name": "James Jordan",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+      },
+      {
+        "name": "Genesis Rodriguez",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+      },
+      {
+        "name": "مايكل كيلي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+      }
+    ],
+    "date_added": 1789383295880
   },
   {
     "adult": false,
@@ -1856,8 +2083,8 @@
     "first_air_date": "2008-09-23",
     "softcore": false,
     "name": "الوسيط الروحي",
-    "vote_average": 8.407,
-    "vote_count": 4706,
+    "vote_average": 8.406,
+    "vote_count": 4707,
     "media_type": "tv",
     "seasons": [
       {
@@ -2160,7 +2387,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
       }
     ],
-    "date_added": 1789363149470
+    "date_added": 1789383296273
   },
   {
     "adult": false,
@@ -3014,722 +3241,7 @@
     "title_en": "Tagesschau",
     "overview_en": "German daily news program the oldest still existing program on German television",
     "cast": [],
-    "date_added": 1789363153148
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759
-    ],
-    "id": 45857,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "家庭教師ヒットマン REBORN!",
-    "overview": "تسونا طالب خجول في المرحلة الإعدادية فاشل في المدرسة والرياضة والحياة الاجتماعية لكن كل شيء حول تسونا تغير تمامًا عندما ظهر طفل يُدعى ريبورن يدعي أنه نجم إيطالي شهير",
-    "popularity": 330.5,
-    "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-    "first_air_date": "2006-10-07",
-    "softcore": false,
-    "name": "家庭教師ヒットマン REBORN!",
-    "vote_average": 8.147,
-    "vote_count": 194,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2006-10-07",
-        "episode_count": 33,
-        "id": 54291,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-        "season_number": 1,
-        "vote_average": 6.5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-06-02",
-        "episode_count": 32,
-        "id": 54292,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/cOm4hKIzfw1WmddY9NHbElIWQ0p.jpg",
-        "season_number": 2,
-        "vote_average": 5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-01-19",
-        "episode_count": 8,
-        "id": 54298,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/unP2KGOxoS0MAzVgPwsACrrxx5u.jpg",
-        "season_number": 3,
-        "vote_average": 5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-03-15",
-        "episode_count": 68,
-        "id": 54299,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/pkHMjerpqFp0isZYC12ICQalDt9.jpg",
-        "season_number": 4,
-        "vote_average": 5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-07-18",
-        "episode_count": 13,
-        "id": 54297,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/yIREK5KPvNjYgSybxtsOkasuwch.jpg",
-        "season_number": 5,
-        "vote_average": 5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2009-10-17",
-        "episode_count": 23,
-        "id": 54296,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/nnCq2Bvf7R98BgHqTVacMy2a3o8.jpg",
-        "season_number": 6,
-        "vote_average": 5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-04-03",
-        "episode_count": 12,
-        "id": 54295,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/l5dzOMxtRYRZthtsvJRTS3zOAJ6.jpg",
-        "season_number": 7,
-        "vote_average": 5,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-06-26",
-        "episode_count": 14,
-        "id": 54294,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/rF53SLKb8UtUdrnqlD7dIObNC3.jpg",
-        "season_number": 8,
-        "vote_average": 5.1,
-        "cast": [
-          {
-            "name": "國分優香里",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-          },
-          {
-            "name": "ニーコ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-          },
-          {
-            "name": "近藤隆",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-          },
-          {
-            "name": "Toshinobu Iida",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-          },
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-          },
-          {
-            "name": "寺崎裕香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "明坂聡美",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "家庭教師ヒットマン REBORN",
-    "title_en": "REBORN",
-    "overview_en": "Tsuna a timid junior high student is a failure at school sports and social life But everything around Tsuna has been completely changed when a baby called Reborn who claims to be an Italian hit man from Vongola family shows up Reborn was sent to groom Tsuna for his future life as a mafia boss of the family",
-    "cast": [
-      {
-        "name": "國分優香里",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
-      },
-      {
-        "name": "ニーコ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
-      },
-      {
-        "name": "近藤隆",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
-      },
-      {
-        "name": "Toshinobu Iida",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
-      },
-      {
-        "name": "كينجيرو تسودا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
-      },
-      {
-        "name": "寺崎裕香",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
-      },
-      {
-        "name": "جونكو تاكيوتشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-      },
-      {
-        "name": "明坂聡美",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
-      }
-    ],
-    "date_added": 1789363153743
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 113962,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lioness",
-    "overview": "بينما تسعى جو للحفاظ على استقرار حياتها الشخصية والعملية في آن واحد تواجه العديد من العقبات في حرب المخابرات المركزية ضد الإرهاب وتستعين بـ كروز من قوات المارينز للعمل عميلة سرية لحسابها في إحدى المهمات",
-    "popularity": 403.5216,
-    "poster_path": "/iuvropv4Fj1PQM2DSgYYzOtimm2.jpg",
-    "first_air_date": "2023-07-23",
-    "softcore": false,
-    "name": "ليونيس",
-    "vote_average": 8.167,
-    "vote_count": 1523,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2023-07-23",
-        "episode_count": 8,
-        "id": 170740,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/fU5ZbaTqZRVD8uGoAzjY6rzsDbf.jpg",
-        "season_number": 1,
-        "vote_average": 7.9,
-        "cast": [
-          {
-            "name": "زوي سالدانا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
-          },
-          {
-            "name": "Laysla De Oliveira",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
-          },
-          {
-            "name": "Dave Annable",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
-          },
-          {
-            "name": "جيل فاغنر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
-          },
-          {
-            "name": "LaMonica Garrett",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
-          },
-          {
-            "name": "James Jordan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
-          },
-          {
-            "name": "Austin Hébert",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vOuRMtOtPVd8vuNCCxxavQSdGIC.jpg"
-          },
-          {
-            "name": "Stephanie Nur",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kpYEaUMYU60Cu8sZLWwDo4GZkVR.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-10-27",
-        "episode_count": 8,
-        "id": 408622,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/y7nhi6ceyZfdXFAw330b97qAn5F.jpg",
-        "season_number": 2,
-        "vote_average": 8.3,
-        "cast": [
-          {
-            "name": "زوي سالدانا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
-          },
-          {
-            "name": "Laysla De Oliveira",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
-          },
-          {
-            "name": "Dave Annable",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
-          },
-          {
-            "name": "جيل فاغنر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
-          },
-          {
-            "name": "LaMonica Garrett",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
-          },
-          {
-            "name": "James Jordan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
-          },
-          {
-            "name": "Genesis Rodriguez",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
-          },
-          {
-            "name": "مايكل كيلي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-08-02",
-        "episode_count": 8,
-        "id": 520890,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/sJaKqjDPL2HpDpk7kF4RlnAhP0v.jpg",
-        "season_number": 3,
-        "vote_average": 8.5,
-        "cast": [
-          {
-            "name": "زوي سالدانا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
-          },
-          {
-            "name": "Laysla De Oliveira",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
-          },
-          {
-            "name": "Dave Annable",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
-          },
-          {
-            "name": "جيل فاغنر",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
-          },
-          {
-            "name": "LaMonica Garrett",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
-          },
-          {
-            "name": "James Jordan",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
-          },
-          {
-            "name": "Genesis Rodriguez",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
-          },
-          {
-            "name": "مايكل كيلي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "ليونيس",
-    "title_en": "ليونيس",
-    "overview_en": "Cruz Manuelos a rough around the edges but passionate young Marine is recruited to join the CIA s Lioness Engagement Team to help bring down a terrorist organization from within Joe the station chief of the Lioness program is tasked with training managing and leading her female undercover operatives",
-    "cast": [
-      {
-        "name": "زوي سالدانا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
-      },
-      {
-        "name": "Laysla De Oliveira",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
-      },
-      {
-        "name": "Dave Annable",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
-      },
-      {
-        "name": "جيل فاغنر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
-      },
-      {
-        "name": "LaMonica Garrett",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
-      },
-      {
-        "name": "James Jordan",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
-      },
-      {
-        "name": "Genesis Rodriguez",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
-      },
-      {
-        "name": "مايكل كيلي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
-      }
-    ],
-    "date_added": 1789363153765
+    "date_added": 1789383300642
   },
   {
     "adult": false,
@@ -3957,7 +3469,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1789363153796
+    "date_added": 1789383300698
   },
   {
     "adult": false,
@@ -4724,7 +4236,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/u0OMYtsv7MapoXDqbafgGH1raRv.jpg"
       }
     ],
-    "date_added": 1789363155297
+    "date_added": 1789383302272
   },
   {
     "adult": false,
@@ -7707,7 +7219,495 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lvnMJfeubWplY7U262GPyasbHbD.jpg"
       }
     ],
-    "date_added": 1789363158247
+    "date_added": 1789383306342
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759
+    ],
+    "id": 45857,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "家庭教師ヒットマン REBORN!",
+    "overview": "تسونا طالب خجول في المرحلة الإعدادية فاشل في المدرسة والرياضة والحياة الاجتماعية لكن كل شيء حول تسونا تغير تمامًا عندما ظهر طفل يُدعى ريبورن يدعي أنه نجم إيطالي شهير",
+    "popularity": 330.5,
+    "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+    "first_air_date": "2006-10-07",
+    "softcore": false,
+    "name": "家庭教師ヒットマン REBORN!",
+    "vote_average": 8.2,
+    "vote_count": 195,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2006-10-07",
+        "episode_count": 33,
+        "id": 54291,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+        "season_number": 1,
+        "vote_average": 6.5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-06-02",
+        "episode_count": 32,
+        "id": 54292,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/cOm4hKIzfw1WmddY9NHbElIWQ0p.jpg",
+        "season_number": 2,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2008-01-19",
+        "episode_count": 8,
+        "id": 54298,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/unP2KGOxoS0MAzVgPwsACrrxx5u.jpg",
+        "season_number": 3,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2009-03-15",
+        "episode_count": 68,
+        "id": 54299,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/pkHMjerpqFp0isZYC12ICQalDt9.jpg",
+        "season_number": 4,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2009-07-18",
+        "episode_count": 13,
+        "id": 54297,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/yIREK5KPvNjYgSybxtsOkasuwch.jpg",
+        "season_number": 5,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2009-10-17",
+        "episode_count": 23,
+        "id": 54296,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/nnCq2Bvf7R98BgHqTVacMy2a3o8.jpg",
+        "season_number": 6,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-04-03",
+        "episode_count": 12,
+        "id": 54295,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/l5dzOMxtRYRZthtsvJRTS3zOAJ6.jpg",
+        "season_number": 7,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-06-26",
+        "episode_count": 14,
+        "id": 54294,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/rF53SLKb8UtUdrnqlD7dIObNC3.jpg",
+        "season_number": 8,
+        "vote_average": 5.1,
+        "cast": [
+          {
+            "name": "國分優香里",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+          },
+          {
+            "name": "ニーコ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+          },
+          {
+            "name": "近藤隆",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+          },
+          {
+            "name": "Toshinobu Iida",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+          },
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+          },
+          {
+            "name": "寺崎裕香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "明坂聡美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "家庭教師ヒットマン REBORN",
+    "title_en": "REBORN",
+    "overview_en": "Tsuna a timid junior high student is a failure at school sports and social life But everything around Tsuna has been completely changed when a baby called Reborn who claims to be an Italian hit man from Vongola family shows up Reborn was sent to groom Tsuna for his future life as a mafia boss of the family",
+    "cast": [
+      {
+        "name": "國分優香里",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/62oCBhq366fTpsOojdOW01QGs75.jpg"
+      },
+      {
+        "name": "ニーコ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pSZhnghRr7k8WOiOUaCCGyorzWg.jpg"
+      },
+      {
+        "name": "近藤隆",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9KRXSp1m4fofxJKtoEzsYFnai46.jpg"
+      },
+      {
+        "name": "Toshinobu Iida",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ycMjrKbKrP7FDlvI0GBpcZ8iOq7.jpg"
+      },
+      {
+        "name": "كينجيرو تسودا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+      },
+      {
+        "name": "寺崎裕香",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+      },
+      {
+        "name": "جونكو تاكيوتشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+      },
+      {
+        "name": "明坂聡美",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/lzNjOMm9jomHb7XlVsjJy53a4CC.jpg"
+      }
+    ],
+    "date_added": 1789383306837
   },
   {
     "adult": false,
@@ -7887,7 +7887,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789363158445
+    "date_added": 1789383307226
   },
   {
     "adult": false,
@@ -8449,7 +8449,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sSltRe7S82Zw29lMRGLeEoL2PUu.jpg"
       }
     ],
-    "date_added": 1789363160541
+    "date_added": 1789383309043
   },
   {
     "adult": false,
@@ -11821,7 +11821,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1789363160957
+    "date_added": 1789383310145
   },
   {
     "adult": false,
@@ -11843,7 +11843,7 @@
     "softcore": false,
     "name": "آل سيمبسون",
     "vote_average": 8.021,
-    "vote_count": 11001,
+    "vote_count": 11002,
     "media_type": "tv",
     "seasons": [
       {
@@ -13478,7 +13478,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1789363161197
+    "date_added": 1789383312203
   },
   {
     "adult": false,
@@ -13778,7 +13778,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pvJQ3AzPWjeCoduYe8VhKRqS0UR.jpg"
       }
     ],
-    "date_added": 1789363161497
+    "date_added": 1789383312735
   },
   {
     "adult": false,
@@ -14049,7 +14049,7 @@
     "title_en": "El conquistador",
     "overview_en": "",
     "cast": [],
-    "date_added": 1789363163233
+    "date_added": 1789383314506
   },
   {
     "adult": false,
@@ -14071,7 +14071,7 @@
     "softcore": false,
     "name": "Breaking Bad",
     "vote_average": 8.95,
-    "vote_count": 18603,
+    "vote_count": 18605,
     "media_type": "tv",
     "seasons": [
       {
@@ -14355,7 +14355,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
       }
     ],
-    "date_added": 1789363163383
+    "date_added": 1789383314842
   },
   {
     "adult": false,
@@ -14377,8 +14377,8 @@
     "first_air_date": "1999-09-20",
     "softcore": false,
     "name": "القانون والنظام: وحدة الضحايا الخاصة",
-    "vote_average": 7.959,
-    "vote_count": 4347,
+    "vote_average": 7.958,
+    "vote_count": 4348,
     "media_type": "tv",
     "seasons": [
       {
@@ -15598,7 +15598,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/308ot27uQ7tSCJCPYgZR0L5XApe.jpg"
       }
     ],
-    "date_added": 1789363165419
+    "date_added": 1789383316615
   },
   {
     "adult": false,
@@ -15619,8 +15619,8 @@
     "first_air_date": "2023-05-04",
     "softcore": false,
     "name": "Silo",
-    "vote_average": 8.211,
-    "vote_count": 2654,
+    "vote_average": 8.212,
+    "vote_count": 2657,
     "media_type": "tv",
     "seasons": [
       {
@@ -15852,7 +15852,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
       }
     ],
-    "date_added": 1789363165448
+    "date_added": 1789383316674
   },
   {
     "adult": false,
@@ -15965,7 +15965,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1789363165463
+    "date_added": 1789383316705
   },
   {
     "adult": false,
@@ -15986,8 +15986,8 @@
     "first_air_date": "1999-01-31",
     "softcore": false,
     "name": "رجل العائلة",
-    "vote_average": 7.41,
-    "vote_count": 5106,
+    "vote_average": 7.409,
+    "vote_count": 5107,
     "media_type": "tv",
     "seasons": [
       {
@@ -16899,7 +16899,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
       }
     ],
-    "date_added": 1789363166387
+    "date_added": 1789383318092
   },
   {
     "adult": false,
@@ -16920,8 +16920,8 @@
     "first_air_date": "2020-08-14",
     "softcore": false,
     "name": "Ted Lasso",
-    "vote_average": 8.368,
-    "vote_count": 2647,
+    "vote_average": 8.369,
+    "vote_count": 2650,
     "media_type": "tv",
     "seasons": [
       {
@@ -17178,7 +17178,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
       }
     ],
-    "date_added": 1789363166409
+    "date_added": 1789383318174
   },
   {
     "adult": false,
@@ -17305,7 +17305,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
       }
     ],
-    "date_added": 1789363166459
+    "date_added": 1789383318309
   },
   {
     "adult": false,
@@ -18091,7 +18091,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7P3ebI3m3Dsxj5eTZFL4qdSpZAk.jpg"
       }
     ],
-    "date_added": 1789363167814
+    "date_added": 1789383320389
   },
   {
     "adult": false,
@@ -18307,7 +18307,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
       }
     ],
-    "date_added": 1789363167956
+    "date_added": 1789383320604
   },
   {
     "adult": false,
@@ -18328,8 +18328,8 @@
     "first_air_date": "1990-09-13",
     "softcore": false,
     "name": "القانون والنظام",
-    "vote_average": 7.3,
-    "vote_count": 714,
+    "vote_average": 7.271,
+    "vote_count": 715,
     "media_type": "tv",
     "seasons": [
       {
@@ -19378,7 +19378,7 @@
     "title_en": "القانون والنظام",
     "overview_en": "In cases ripped from the headlines police investigate serious and often deadly crimes weighing the evidence and questioning the suspects until someone is taken into custody The district attorney s office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt Working together these expert teams navigate all sides of the complex criminal justice system to make New York a safer place",
     "cast": [],
-    "date_added": 1789363169570
+    "date_added": 1789383322334
   },
   {
     "adult": false,
@@ -20098,7 +20098,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/A2MUaEZBpu4EGVwGHq6dH1sGjhe.jpg"
       }
     ],
-    "date_added": 1789363171311
+    "date_added": 1789383324320
   },
   {
     "adult": false,
@@ -21842,7 +21842,7 @@
     "title_en": "Gute Zeiten schlechte Zeiten",
     "overview_en": "Gute Zeiten schlechte Zeiten is a long running German television soap opera first broadcast on RTL in 1992 The programme concerns the lives of a fictional neighborhood in Germany s capital city Berlin Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties targeting a young viewership",
     "cast": [],
-    "date_added": 1789363171589
+    "date_added": 1789383324783
   },
   {
     "adult": false,
@@ -21864,8 +21864,8 @@
     "first_air_date": "2026-08-16",
     "softcore": false,
     "name": "الفوانيس",
-    "vote_average": 8.3,
-    "vote_count": 323,
+    "vote_average": 8.265,
+    "vote_count": 328,
     "media_type": "tv",
     "seasons": [
       {
@@ -21876,7 +21876,7 @@
         "overview": "",
         "poster_path": "/qbTO96IcUmkyJLmNbFeFdHlt7f6.jpg",
         "season_number": 1,
-        "vote_average": 6.6,
+        "vote_average": 6,
         "cast": [
           {
             "name": "كايل تشاندلر",
@@ -21936,7 +21936,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
       }
     ],
-    "date_added": 1789363171596
+    "date_added": 1789383324804
   },
   {
     "adult": false,
@@ -23156,7 +23156,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
       }
     ],
-    "date_added": 1789363172823
+    "date_added": 1789383326705
   },
   {
     "adult": false,
@@ -23177,7 +23177,7 @@
     "softcore": false,
     "name": "هاوس",
     "vote_average": 8.562,
-    "vote_count": 7878,
+    "vote_count": 7880,
     "media_type": "tv",
     "seasons": [
       {
@@ -23592,7 +23592,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1lNDk1RfiGlGdgLEF5E35PpEc22.jpg"
       }
     ],
-    "date_added": 1789363173421
+    "date_added": 1789383327258
   },
   {
     "adult": false,
@@ -23615,7 +23615,7 @@
     "softcore": false,
     "name": "خارق للطبيعة",
     "vote_average": 8.315,
-    "vote_count": 8674,
+    "vote_count": 8675,
     "media_type": "tv",
     "seasons": [
       {
@@ -24029,7 +24029,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szigprnenokR4yOpELIB2rj1Er2.jpg"
       }
     ],
-    "date_added": 1789363174338
+    "date_added": 1789383328252
   },
   {
     "adult": false,
@@ -24539,7 +24539,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg"
       }
     ],
-    "date_added": 1789363174661
+    "date_added": 1789383329344
   },
   {
     "adult": false,
@@ -26343,7 +26343,7 @@
     "title_en": "Kamen Rider",
     "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
     "cast": [],
-    "date_added": 1789363174903
+    "date_added": 1789383329898
   },
   {
     "adult": false,
@@ -26692,7 +26692,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1789363175018
+    "date_added": 1789383330147
   },
   {
     "adult": false,
@@ -27577,7 +27577,1152 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       }
     ],
-    "date_added": 1789363176314
+    "date_added": 1789383331482
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 45789,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Sturm der Liebe",
+    "overview": "",
+    "popularity": 254.1195,
+    "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+    "first_air_date": "2005-09-26",
+    "softcore": false,
+    "name": "Sturm der Liebe",
+    "vote_average": 6,
+    "vote_count": 39,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2005-09-26",
+        "episode_count": 313,
+        "id": 91102,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/7lepnXbhtOiT8hvoDdvmB0TY9bZ.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Nicola Tiggeler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Gregory B Waldis",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Christof Arnold",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oFhgKKpqdVfpzrTXdjS2hrcKnqS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-02-01",
+        "episode_count": 207,
+        "id": 91103,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/bNRnl5uCoqUOR3MWDLzWEmXq3o6.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Nicola Tiggeler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Christof Arnold",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oFhgKKpqdVfpzrTXdjS2hrcKnqS.jpg"
+          },
+          {
+            "name": "Inez Bjørg David",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4dInRRYSXBYI6VwzokxNB6CTP4T.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-12-19",
+        "episode_count": 183,
+        "id": 91104,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/64my7t1S2yHHadBDA45uJ12lVjF.jpg",
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Dominique Siassia",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Christof Arnold",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oFhgKKpqdVfpzrTXdjS2hrcKnqS.jpg"
+          },
+          {
+            "name": "René Oltmanns",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2008-10-09",
+        "episode_count": 211,
+        "id": 91105,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/tS8Sst8leI05SMRIOdlbTotY3fj.jpg",
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Nicola Tiggeler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Natalie Alison",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2009-09-15",
+        "episode_count": 203,
+        "id": 91106,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/4H871VRjGh13Mu519BejOVUBACI.jpg",
+        "season_number": 5,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Judith Hildebrandt",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-08-06",
+        "episode_count": 274,
+        "id": 91107,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/xN04jVI91vdbHVNJzIuyNOkK65A.jpg",
+        "season_number": 6,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Judith Hildebrandt",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Nicola Tiggeler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2011-10-11",
+        "episode_count": 209,
+        "id": 91108,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/g00q4QC7fWcybfpWwgKbKA9uphE.jpg",
+        "season_number": 7,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Judith Hildebrandt",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2012-09-06",
+        "episode_count": 214,
+        "id": 91109,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/zGrzBdkrbe6v4tVITIPii1PPQoo.jpg",
+        "season_number": 8,
+        "vote_average": 6,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Melanie Wiegmann",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2013-08-05",
+        "episode_count": 252,
+        "id": 91110,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": "/bvvWdgyyOqyvmuVB11TgzbkSTqj.jpg",
+        "season_number": 9,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Melanie Wiegmann",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2014-09-11",
+        "episode_count": 200,
+        "id": 91111,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": "/8M4h1P6mCZ7VPvdQbffFkgMRhwB.jpg",
+        "season_number": 10,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Melanie Wiegmann",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2015-07-30",
+        "episode_count": 233,
+        "id": 91112,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": "/J1NZAVs0RGN8xZVWVKo1dZJQsB.jpg",
+        "season_number": 11,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Melanie Wiegmann",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2016-07-26",
+        "episode_count": 193,
+        "id": 91113,
+        "name": "الموسم 12",
+        "overview": "",
+        "poster_path": "/3E4AAnt8Y9pHQ1v6TvFFhrcdirm.jpg",
+        "season_number": 12,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Melanie Wiegmann",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2017-05-23",
+        "episode_count": 120,
+        "id": 91114,
+        "name": "الموسم 13",
+        "overview": "",
+        "poster_path": "/jKxhLlWr4DeXx0Fsh89dj7lnWkw.jpg",
+        "season_number": 13,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Sebastian D Fischer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xUp5p40npjEd5Ju50rzhpiJ81sA.jpg"
+          },
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Florian Stadler",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2017-11-20",
+        "episode_count": 207,
+        "id": 93674,
+        "name": "الموسم 14",
+        "overview": "",
+        "poster_path": "/i5rB6qORyOmIry3oZOZPNGQrCVv.jpg",
+        "season_number": 14,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Larissa Marolt",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uOm8Mw75DEt7oOZRbjS3HnRyxD0.jpg"
+          },
+          {
+            "name": "Sebastian D Fischer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xUp5p40npjEd5Ju50rzhpiJ81sA.jpg"
+          },
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2018-10-19",
+        "episode_count": 245,
+        "id": 126386,
+        "name": "الموسم 15",
+        "overview": "",
+        "poster_path": "/4LDf43tErk2k5mnDtgln4YQD1Q8.jpg",
+        "season_number": 15,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Uta Kargel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/caPCLNoQUooUn0UX3bMI3TGqdQl.jpg"
+          },
+          {
+            "name": "Melanie Wiegmann",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2019-11-06",
+        "episode_count": 251,
+        "id": 188672,
+        "name": "الموسم 16",
+        "overview": "",
+        "poster_path": "/6MmyTmwERYapxnsueU5pRWEtSuy.jpg",
+        "season_number": 16,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Uta Kargel",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/caPCLNoQUooUn0UX3bMI3TGqdQl.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2020-12-22",
+        "episode_count": 214,
+        "id": 366879,
+        "name": "الموسم 17",
+        "overview": "",
+        "poster_path": "/ykzX3wYvBRSm9xnmPtOQLrWVLbT.jpg",
+        "season_number": 17,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Natalie Alison",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2021-12-01",
+        "episode_count": 228,
+        "id": 366878,
+        "name": "الموسم 18",
+        "overview": "",
+        "poster_path": "/k2jW78v5X5ueliQscdfrarIyv6I.jpg",
+        "season_number": 18,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Mona Seefried",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Natalie Alison",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2023-01-02",
+        "episode_count": 194,
+        "id": 356974,
+        "name": "الموسم 19",
+        "overview": "",
+        "poster_path": "/1hghjpxXGPFaSHvtwesqO6QkEZP.jpg",
+        "season_number": 19,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Lorenzo Patané",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
+          },
+          {
+            "name": "Joachim Lätsch",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Dieter Bach",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/njFl1thZDLxqV9iuRcjB4dBPOi8.jpg"
+          },
+          {
+            "name": "Dorothée Neff",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      },
+      {
+        "air_date": "2023-11-22",
+        "episode_count": 183,
+        "id": 366880,
+        "name": "الموسم 20",
+        "overview": "",
+        "poster_path": "/gxMQGb1zHMN5mqQuNodbC9U6w8L.jpg",
+        "season_number": 20,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Erich Altenkopf",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
+          },
+          {
+            "name": "Dieter Bach",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/njFl1thZDLxqV9iuRcjB4dBPOi8.jpg"
+          },
+          {
+            "name": "Soluna Delta Kokol",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Robin Schick",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Martin Walde",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/q4ZuVjKogRA6bIgMLwxMntBCaKl.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-12-04",
+        "episode_count": 151,
+        "id": 422685,
+        "name": "الموسم 21",
+        "overview": "",
+        "poster_path": "/1azB3CxhzW07Ll06MLZeI4fiR5m.jpg",
+        "season_number": 21,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          },
+          {
+            "name": "Katharina Scheuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kzSllD6gMH1wevK3S8gY196FA1l.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-10-28",
+        "episode_count": 50,
+        "id": 462837,
+        "name": "الموسم 22",
+        "overview": "",
+        "poster_path": "/3aMgu2uNb0t4FG9j1BGRVpSIooF.jpg",
+        "season_number": 22,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Dirk Galuba",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+          },
+          {
+            "name": "Sepp Schauer",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+          },
+          {
+            "name": "Antje Hagen",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "Sturm der Liebe",
+    "title_en": "Storm of Love",
+    "overview_en": "These are the stories of relationships taking place in the fictional five star hotel Fürstenhof located in Feldkirchen Westerham near Rosenheim with the plot revolving around members of the family room area the hotel owners and employees",
+    "cast": [
+      {
+        "name": "Dirk Galuba",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
+      },
+      {
+        "name": "Sepp Schauer",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
+      },
+      {
+        "name": "Antje Hagen",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
+      }
+    ],
+    "date_added": 1789383333203
   },
   {
     "adult": false,
@@ -28793,1152 +29938,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
       }
     ],
-    "date_added": 1789363177608
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 45789,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "Sturm der Liebe",
-    "overview": "",
-    "popularity": 254.1195,
-    "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
-    "first_air_date": "2005-09-26",
-    "softcore": false,
-    "name": "Sturm der Liebe",
-    "vote_average": 6,
-    "vote_count": 39,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2005-09-26",
-        "episode_count": 313,
-        "id": 91102,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/7lepnXbhtOiT8hvoDdvmB0TY9bZ.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Nicola Tiggeler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Gregory B Waldis",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Christof Arnold",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oFhgKKpqdVfpzrTXdjS2hrcKnqS.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-02-01",
-        "episode_count": 207,
-        "id": 91103,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/bNRnl5uCoqUOR3MWDLzWEmXq3o6.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Nicola Tiggeler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Christof Arnold",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oFhgKKpqdVfpzrTXdjS2hrcKnqS.jpg"
-          },
-          {
-            "name": "Inez Bjørg David",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4dInRRYSXBYI6VwzokxNB6CTP4T.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-12-19",
-        "episode_count": 183,
-        "id": 91104,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/64my7t1S2yHHadBDA45uJ12lVjF.jpg",
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Dominique Siassia",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Christof Arnold",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oFhgKKpqdVfpzrTXdjS2hrcKnqS.jpg"
-          },
-          {
-            "name": "René Oltmanns",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2008-10-09",
-        "episode_count": 211,
-        "id": 91105,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/tS8Sst8leI05SMRIOdlbTotY3fj.jpg",
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Nicola Tiggeler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Natalie Alison",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2009-09-15",
-        "episode_count": 203,
-        "id": 91106,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/4H871VRjGh13Mu519BejOVUBACI.jpg",
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Judith Hildebrandt",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-08-06",
-        "episode_count": 274,
-        "id": 91107,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/xN04jVI91vdbHVNJzIuyNOkK65A.jpg",
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Judith Hildebrandt",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Nicola Tiggeler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pKinVKjWE2FkLynJaGPhQgmFEAY.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-10-11",
-        "episode_count": 209,
-        "id": 91108,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/g00q4QC7fWcybfpWwgKbKA9uphE.jpg",
-        "season_number": 7,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Judith Hildebrandt",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-09-06",
-        "episode_count": 214,
-        "id": 91109,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/zGrzBdkrbe6v4tVITIPii1PPQoo.jpg",
-        "season_number": 8,
-        "vote_average": 6,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Melanie Wiegmann",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2013-08-05",
-        "episode_count": 252,
-        "id": 91110,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": "/bvvWdgyyOqyvmuVB11TgzbkSTqj.jpg",
-        "season_number": 9,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Melanie Wiegmann",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2014-09-11",
-        "episode_count": 200,
-        "id": 91111,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/8M4h1P6mCZ7VPvdQbffFkgMRhwB.jpg",
-        "season_number": 10,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Melanie Wiegmann",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2015-07-30",
-        "episode_count": 233,
-        "id": 91112,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/J1NZAVs0RGN8xZVWVKo1dZJQsB.jpg",
-        "season_number": 11,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Melanie Wiegmann",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2016-07-26",
-        "episode_count": 193,
-        "id": 91113,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": "/3E4AAnt8Y9pHQ1v6TvFFhrcdirm.jpg",
-        "season_number": 12,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Melanie Wiegmann",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2017-05-23",
-        "episode_count": 120,
-        "id": 91114,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/jKxhLlWr4DeXx0Fsh89dj7lnWkw.jpg",
-        "season_number": 13,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Sebastian D Fischer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xUp5p40npjEd5Ju50rzhpiJ81sA.jpg"
-          },
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Florian Stadler",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rBajSDLpWYar6Fh6lRqpDTvEil9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2017-11-20",
-        "episode_count": 207,
-        "id": 93674,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": "/i5rB6qORyOmIry3oZOZPNGQrCVv.jpg",
-        "season_number": 14,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Larissa Marolt",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uOm8Mw75DEt7oOZRbjS3HnRyxD0.jpg"
-          },
-          {
-            "name": "Sebastian D Fischer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xUp5p40npjEd5Ju50rzhpiJ81sA.jpg"
-          },
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2018-10-19",
-        "episode_count": 245,
-        "id": 126386,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/4LDf43tErk2k5mnDtgln4YQD1Q8.jpg",
-        "season_number": 15,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Uta Kargel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/caPCLNoQUooUn0UX3bMI3TGqdQl.jpg"
-          },
-          {
-            "name": "Melanie Wiegmann",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2019-11-06",
-        "episode_count": 251,
-        "id": 188672,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/6MmyTmwERYapxnsueU5pRWEtSuy.jpg",
-        "season_number": 16,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Uta Kargel",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/caPCLNoQUooUn0UX3bMI3TGqdQl.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2020-12-22",
-        "episode_count": 214,
-        "id": 366879,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/ykzX3wYvBRSm9xnmPtOQLrWVLbT.jpg",
-        "season_number": 17,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Natalie Alison",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2021-12-01",
-        "episode_count": 228,
-        "id": 366878,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/k2jW78v5X5ueliQscdfrarIyv6I.jpg",
-        "season_number": 18,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Mona Seefried",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbjIPc4tcwVsmNjF9FJjKUm9MPU.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Natalie Alison",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2023-01-02",
-        "episode_count": 194,
-        "id": 356974,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/1hghjpxXGPFaSHvtwesqO6QkEZP.jpg",
-        "season_number": 19,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Lorenzo Patané",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xRmAv909KFDDRM2oUUd1ChSaaD3.jpg"
-          },
-          {
-            "name": "Joachim Lätsch",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bsL9w6JhWZZQx5Hi6pzqwJN6tY9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Dieter Bach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/njFl1thZDLxqV9iuRcjB4dBPOi8.jpg"
-          },
-          {
-            "name": "Dorothée Neff",
-            "role": "بطوله",
-            "photo_url": null
-          }
-        ]
-      },
-      {
-        "air_date": "2023-11-22",
-        "episode_count": 183,
-        "id": 366880,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/gxMQGb1zHMN5mqQuNodbC9U6w8L.jpg",
-        "season_number": 20,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Erich Altenkopf",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nMDLJZbcllPQggIFes4PnKkkU1B.jpg"
-          },
-          {
-            "name": "Dieter Bach",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/njFl1thZDLxqV9iuRcjB4dBPOi8.jpg"
-          },
-          {
-            "name": "Soluna Delta Kokol",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Robin Schick",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Martin Walde",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/q4ZuVjKogRA6bIgMLwxMntBCaKl.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-12-04",
-        "episode_count": 151,
-        "id": 422685,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/1azB3CxhzW07Ll06MLZeI4fiR5m.jpg",
-        "season_number": 21,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          },
-          {
-            "name": "Katharina Scheuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kzSllD6gMH1wevK3S8gY196FA1l.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-10-28",
-        "episode_count": 50,
-        "id": 462837,
-        "name": "الموسم 22",
-        "overview": "",
-        "poster_path": "/3aMgu2uNb0t4FG9j1BGRVpSIooF.jpg",
-        "season_number": 22,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Dirk Galuba",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-          },
-          {
-            "name": "Sepp Schauer",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-          },
-          {
-            "name": "Antje Hagen",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "Sturm der Liebe",
-    "title_en": "Storm of Love",
-    "overview_en": "These are the stories of relationships taking place in the fictional five star hotel Fürstenhof located in Feldkirchen Westerham near Rosenheim with the plot revolving around members of the family room area the hotel owners and employees",
-    "cast": [
-      {
-        "name": "Dirk Galuba",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg"
-      },
-      {
-        "name": "Sepp Schauer",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg"
-      },
-      {
-        "name": "Antje Hagen",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8r3c92gsghsNFlf40GUMuCIGIb9.jpg"
-      }
-    ],
-    "date_added": 1789363178481
+    "date_added": 1789383334590
   },
   {
     "adult": false,
@@ -30110,7 +30110,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/avAbkkbbYKDRumklH1kV4fWSzkz.jpg"
       }
     ],
-    "date_added": 1789363178752
+    "date_added": 1789383335004
   },
   {
     "adult": false,
@@ -30132,8 +30132,8 @@
     "first_air_date": "2024-03-07",
     "softcore": false,
     "name": "السادة الأفاضل",
-    "vote_average": 7.9,
-    "vote_count": 913,
+    "vote_average": 7.861,
+    "vote_count": 915,
     "media_type": "tv",
     "seasons": [
       {
@@ -30261,7 +30261,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aYSJ87nrceznZJPScm9wF5LNt8E.jpg"
       }
     ],
-    "date_added": 1789363178772
+    "date_added": 1789383335040
   },
   {
     "adult": false,
@@ -30385,7 +30385,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7Ub8Qo6CIiNtSKgCdtOyFqK4iET.jpg"
       }
     ],
-    "date_added": 1789363179228
+    "date_added": 1789383335147
   },
   {
     "adult": false,
@@ -30408,7 +30408,7 @@
     "softcore": false,
     "name": "صراع العروش",
     "vote_average": 8.471,
-    "vote_count": 27723,
+    "vote_count": 27726,
     "media_type": "tv",
     "seasons": [
       {
@@ -30873,7 +30873,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
       }
     ],
-    "date_added": 1789363179575
+    "date_added": 1789383335665
   },
   {
     "adult": false,
@@ -31654,7 +31654,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rQpk7IJFgfblzZE757oSshjkUtP.jpg"
       }
     ],
-    "date_added": 1789363179743
+    "date_added": 1789383335984
   },
   {
     "adult": false,
@@ -32863,7 +32863,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/84kqZzeWF8L397qMQM2lcSZ9IFa.jpg"
       }
     ],
-    "date_added": 1789363179963
+    "date_added": 1789383336397
   },
   {
     "adult": false,
@@ -33086,7 +33086,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg"
       }
     ],
-    "date_added": 1789363180377
+    "date_added": 1789383337109
   },
   {
     "adult": false,
@@ -33563,7 +33563,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6IX328pAt0E2GAYek84v4KWi8pb.jpg"
       }
     ],
-    "date_added": 1789363182618
+    "date_added": 1789383338827
   },
   {
     "adult": false,
@@ -34500,7 +34500,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789363183252
+    "date_added": 1789383339902
   },
   {
     "adult": false,
@@ -35307,7 +35307,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
       }
     ],
-    "date_added": 1789363184311
+    "date_added": 1789383340848
   },
   {
     "adult": false,
@@ -36262,7 +36262,7 @@
     "title_en": "Secret Lives",
     "overview_en": "Salatut elämät Secret Lives is a Finnish television soap opera that premiered on MTV3 on 25 January 1999 The series storylines follow the daily lives of several families who live in the same apartment block in Helsinki",
     "cast": [],
-    "date_added": 1789363184556
+    "date_added": 1789383341210
   },
   {
     "adult": false,
@@ -37618,7 +37618,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rsgX6mHBt7hP540uUZ4CBwR21ru.jpg"
       }
     ],
-    "date_added": 1789363185024
+    "date_added": 1789383342105
   },
   {
     "adult": false,
@@ -37700,234 +37700,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iqROAuZPvNRwAgdCoJeV6MQHNgL.jpg"
       }
     ],
-    "date_added": 1789363185103
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3Jolb6Ky31IhEwyS8QhRykKo79J.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 243117,
-    "origin_country": [
-      "FR"
-    ],
-    "original_language": "fr",
-    "original_name": "Plus belle la vie, encore plus belle",
-    "overview": "",
-    "popularity": 72.3615,
-    "poster_path": "/ps0WuyL384MahVCxysxOfF1fhgq.jpg",
-    "first_air_date": "2024-01-08",
-    "softcore": false,
-    "name": "Plus belle la vie, encore plus belle",
-    "vote_average": 5.7,
-    "vote_count": 12,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2024-01-08",
-        "episode_count": 239,
-        "id": 373192,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/d936QZVAzmSproiGnKqaGH4z7Pu.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Laurent Kerusoré",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j5TrKscirrGlDCgKfCVvUi7GhFH.jpg"
-          },
-          {
-            "name": "Sylvie Flepp",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umrpSZv7Kblg7bvQ6t91Gvn1jHS.jpg"
-          },
-          {
-            "name": "Cécilia Hornus",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bbaFaqPoywxRGmypJJEFliLx7QB.jpg"
-          },
-          {
-            "name": "Anne Décis",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eMjwJnXLwOzP3gFEySdoeCwwalu.jpg"
-          },
-          {
-            "name": "Stéphane Henon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o3Jv6AjbVbizwY9ABIvLSiAB4s8.jpg"
-          },
-          {
-            "name": "Léa François",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s2ZT6RtP5A6Or8TFoN6uG0BMDog.jpg"
-          },
-          {
-            "name": "Joakim Latzko",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rdShlcMx8ru25XhyzCgEi09Zasf.jpg"
-          },
-          {
-            "name": "Marie Hennerez",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/J6To6uSuEGKjHRZhUaKbQ7hQYt.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-01-06",
-        "episode_count": 250,
-        "id": 437408,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/p7jpcRxjipXdWn1c7VepUWteeVg.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Laurent Kerusoré",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j5TrKscirrGlDCgKfCVvUi7GhFH.jpg"
-          },
-          {
-            "name": "Sylvie Flepp",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umrpSZv7Kblg7bvQ6t91Gvn1jHS.jpg"
-          },
-          {
-            "name": "Cécilia Hornus",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bbaFaqPoywxRGmypJJEFliLx7QB.jpg"
-          },
-          {
-            "name": "Anne Décis",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eMjwJnXLwOzP3gFEySdoeCwwalu.jpg"
-          },
-          {
-            "name": "Stéphane Henon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o3Jv6AjbVbizwY9ABIvLSiAB4s8.jpg"
-          },
-          {
-            "name": "Léa François",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s2ZT6RtP5A6Or8TFoN6uG0BMDog.jpg"
-          },
-          {
-            "name": "Joakim Latzko",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rdShlcMx8ru25XhyzCgEi09Zasf.jpg"
-          },
-          {
-            "name": "Marie Hennerez",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/J6To6uSuEGKjHRZhUaKbQ7hQYt.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-01-05",
-        "episode_count": 215,
-        "id": 490219,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Laurent Kerusoré",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j5TrKscirrGlDCgKfCVvUi7GhFH.jpg"
-          },
-          {
-            "name": "Sylvie Flepp",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/umrpSZv7Kblg7bvQ6t91Gvn1jHS.jpg"
-          },
-          {
-            "name": "Cécilia Hornus",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bbaFaqPoywxRGmypJJEFliLx7QB.jpg"
-          },
-          {
-            "name": "Anne Décis",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eMjwJnXLwOzP3gFEySdoeCwwalu.jpg"
-          },
-          {
-            "name": "Stéphane Henon",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/o3Jv6AjbVbizwY9ABIvLSiAB4s8.jpg"
-          },
-          {
-            "name": "Léa François",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s2ZT6RtP5A6Or8TFoN6uG0BMDog.jpg"
-          },
-          {
-            "name": "Joakim Latzko",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rdShlcMx8ru25XhyzCgEi09Zasf.jpg"
-          },
-          {
-            "name": "Marie Hennerez",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/J6To6uSuEGKjHRZhUaKbQ7hQYt.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "Plus belle la vie encore plus belle",
-    "title_en": "Plus belle la vie encore plus belle",
-    "overview_en": "",
-    "cast": [
-      {
-        "name": "Laurent Kerusoré",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/j5TrKscirrGlDCgKfCVvUi7GhFH.jpg"
-      },
-      {
-        "name": "Sylvie Flepp",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/umrpSZv7Kblg7bvQ6t91Gvn1jHS.jpg"
-      },
-      {
-        "name": "Cécilia Hornus",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bbaFaqPoywxRGmypJJEFliLx7QB.jpg"
-      },
-      {
-        "name": "Anne Décis",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/eMjwJnXLwOzP3gFEySdoeCwwalu.jpg"
-      },
-      {
-        "name": "Stéphane Henon",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/o3Jv6AjbVbizwY9ABIvLSiAB4s8.jpg"
-      },
-      {
-        "name": "Léa François",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/s2ZT6RtP5A6Or8TFoN6uG0BMDog.jpg"
-      },
-      {
-        "name": "Joakim Latzko",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rdShlcMx8ru25XhyzCgEi09Zasf.jpg"
-      },
-      {
-        "name": "Marie Hennerez",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/J6To6uSuEGKjHRZhUaKbQ7hQYt.jpg"
-      }
-    ],
-    "date_added": 1789363185144
+    "date_added": 1789383342259
   },
   {
     "adult": false,
@@ -39398,7 +39171,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vQAreeDAnUPzAGLROpXFtfc2p7F.jpg"
       }
     ],
-    "date_added": 1789363186512
+    "date_added": 1789383343965
   },
   {
     "adult": false,
@@ -39936,7 +39709,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1789363186737
+    "date_added": 1789383344414
   },
   {
     "adult": false,
@@ -40059,7 +39832,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/A40e3krw9mTlBarbNnHRYOLP4t.jpg"
       }
     ],
-    "date_added": 1789363186860
+    "date_added": 1789383344499
   },
   {
     "adult": false,
@@ -40080,7 +39853,7 @@
     "softcore": false,
     "name": "المكتب",
     "vote_average": 8.581,
-    "vote_count": 5462,
+    "vote_count": 5464,
     "media_type": "tv",
     "seasons": [
       {
@@ -40452,7 +40225,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
       }
     ],
-    "date_added": 1789363187192
+    "date_added": 1789383345048
   },
   {
     "adult": false,
@@ -40881,6 +40654,144 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/taoknxCAJcuzn71YKbCqc4hsYyR.jpg"
       }
     ],
-    "date_added": 1789363187502
+    "date_added": 1789383345488
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 94664,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無職転生 ～異世界行ったら本気だす～",
+    "overview": "عندما تدهس شاحنة شابًا يبلغ من العمر 34 سنة لا تنتهي قصته هناك بل يعاد بعثه في عالم جديد كرضيع ينتهز رودي كلّ فرصة ليعيش الحياة التي لطالما أرادها مدعومًا بأصدقاء جُدد وبعض القدرات السحرية المكتسبة حديثًا والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا ينطلق في مغامرة ملحمية مع تذكره لكل تجربته السابقة",
+    "popularity": 174.3456,
+    "poster_path": "/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
+    "first_air_date": "2021-01-11",
+    "softcore": false,
+    "name": "موشوكو تينسي",
+    "vote_average": 8.41,
+    "vote_count": 1711,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2021-01-11",
+        "episode_count": 23,
+        "id": 134338,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+        "season_number": 1,
+        "vote_average": 5,
+        "cast": [
+          {
+            "name": "内山夕実",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+          },
+          {
+            "name": "杉田智和",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2023-07-10",
+        "episode_count": 24,
+        "id": 334394,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/4QXhxdeA4ahGVIBlp7xRkIyzCTa.jpg",
+        "season_number": 2,
+        "vote_average": 4.1,
+        "cast": [
+          {
+            "name": "内山夕実",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+          },
+          {
+            "name": "杉田智和",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-07-04",
+        "episode_count": 14,
+        "id": 400493,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+        "season_number": 3,
+        "vote_average": 5.4,
+        "cast": [
+          {
+            "name": "内山夕実",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+          },
+          {
+            "name": "杉田智和",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+          },
+          {
+            "name": "加隈亜衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg"
+          },
+          {
+            "name": "茅野愛衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+          },
+          {
+            "name": "小原好美",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "موشوكو تينسي",
+    "title_en": "Mushoku Tensei Jobless Reincarnation",
+    "overview_en": "When a 34 year old underachiever gets run over by a truck his story doesn t end there Reincarnated in a new world as an infant Rudy will seize every opportunity to live the life he s always wanted Armed with new friends some freshly acquired magical abilities and the courage to do the things he s always dreamed of he s embarking on an epic adventure with all of his past experience intact",
+    "cast": [
+      {
+        "name": "内山夕実",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+      },
+      {
+        "name": "杉田智和",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+      },
+      {
+        "name": "加隈亜衣",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg"
+      },
+      {
+        "name": "茅野愛衣",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+      },
+      {
+        "name": "小原好美",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
+      }
+    ],
+    "date_added": 1789383345548
   }
 ]
