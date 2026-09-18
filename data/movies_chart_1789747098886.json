@@ -81,8 +81,8 @@
     "tagline": "يوم جديد يبدأ الآن.",
     "title": "سبايدر مان يوم جديد",
     "video": false,
-    "vote_average": 7.8,
-    "vote_count": 2741,
+    "vote_average": 7.848,
+    "vote_count": 2744,
     "translations": {
       "translations": [
         {
@@ -5766,7 +5766,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
       }
     ],
-    "date_added": 1789731582026
+    "date_added": 1789747128335
   },
   {
     "adult": false,
@@ -5846,7 +5846,7 @@
     "title": "كايوتي ضد أكمي",
     "video": false,
     "vote_average": 7.5,
-    "vote_count": 430,
+    "vote_count": 432,
     "translations": {
       "translations": [
         {
@@ -8198,7 +8198,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
       }
     ],
-    "date_added": 1789731582040
+    "date_added": 1789747128340
   },
   {
     "adult": false,
@@ -8277,8 +8277,8 @@
     "tagline": "إلى أين يذهب الحي؟",
     "title": "نهاية شارع أوك",
     "video": false,
-    "vote_average": 6.906,
-    "vote_count": 1034,
+    "vote_average": 6.9,
+    "vote_count": 1052,
     "translations": {
       "translations": [
         {
@@ -11613,7 +11613,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yNqUNepmVQ462yoTnZOWVbudKeG.jpg"
       }
     ],
-    "date_added": 1789731582054
+    "date_added": 1789747128344
   },
   {
     "adult": false,
@@ -11686,8 +11686,8 @@
     "tagline": "",
     "title": "مستعمرة",
     "video": false,
-    "vote_average": 8.087,
-    "vote_count": 808,
+    "vote_average": 8.1,
+    "vote_count": 809,
     "translations": {
       "translations": [
         {
@@ -12684,7 +12684,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1789731582068
+    "date_added": 1789747128386
   },
   {
     "adult": false,
@@ -12756,8 +12756,8 @@
     "tagline": "تحدَّ الآلهة.",
     "title": "الأوديسة",
     "video": false,
-    "vote_average": 8.012,
-    "vote_count": 3758,
+    "vote_average": 8.014,
+    "vote_count": 3763,
     "translations": {
       "translations": [
         {
@@ -17813,7 +17813,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1789731582108
+    "date_added": 1789747128390
   },
   {
     "adult": false,
@@ -18600,7 +18600,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/17AaSGRY0RyJBFbdj0uSLK7n5wV.jpg"
       }
     ],
-    "date_added": 1789731582152
+    "date_added": 1789747128394
   },
   {
     "adult": false,
@@ -18667,7 +18667,7 @@
     "tagline": "هناك دماء في الماء.",
     "title": "تمرد",
     "video": false,
-    "vote_average": 6.437,
+    "vote_average": 6.4,
     "vote_count": 411,
     "translations": {
       "translations": [
@@ -20268,7 +20268,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1789731582167
+    "date_added": 1789747128398
   },
   {
     "adult": false,
@@ -20537,6 +20537,19 @@
           "job": "Director"
         },
         {
+          "adult": true,
+          "gender": 2,
+          "id": 48862,
+          "known_for_department": "Directing",
+          "name": "Hans Billian",
+          "original_name": "Hans Billian",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "5f0166607caa470036df13ff",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
           "adult": false,
           "gender": 2,
           "id": 1271844,
@@ -20550,17 +20563,17 @@
           "job": "Producer"
         },
         {
-          "adult": true,
+          "adult": false,
           "gender": 2,
-          "id": 48862,
-          "known_for_department": "Directing",
-          "name": "Hans Billian",
-          "original_name": "Hans Billian",
-          "popularity": 0,
+          "id": 2230752,
+          "known_for_department": "Sound",
+          "name": "Helmut Trunz",
+          "original_name": "Helmut Trunz",
+          "popularity": 0.6107,
           "profile_path": null,
-          "credit_id": "5f0166607caa470036df13ff",
-          "department": "Writing",
-          "job": "Screenplay"
+          "credit_id": "5f01668e15959f003657e23d",
+          "department": "Sound",
+          "job": "Original Music Composer"
         },
         {
           "adult": false,
@@ -20587,19 +20600,6 @@
           "credit_id": "5f0166ecd0b434003466c8a0",
           "department": "Production",
           "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2230752,
-          "known_for_department": "Sound",
-          "name": "Helmut Trunz",
-          "original_name": "Helmut Trunz",
-          "popularity": 0.6107,
-          "profile_path": null,
-          "credit_id": "5f01668e15959f003657e23d",
-          "department": "Sound",
-          "job": "Original Music Composer"
         }
       ]
     },
@@ -20651,7 +20651,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582212
+    "date_added": 1789747128438
   },
   {
     "adult": false,
@@ -20734,8 +20734,8 @@
     "tagline": "",
     "title": "موانا",
     "video": false,
-    "vote_average": 7.33,
-    "vote_count": 672,
+    "vote_average": 7.3,
+    "vote_count": 677,
     "translations": {
       "translations": [
         {
@@ -24087,7 +24087,1360 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582226
+    "date_added": 1789747128442
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "رعب"
+      },
+      {
+        "id": 878,
+        "name": "خيال علمي"
+      },
+      {
+        "id": 12,
+        "name": "مغامرة"
+      }
+    ],
+    "homepage": "",
+    "id": 1423191,
+    "imdb_id": "tt35538033",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Resident Evil",
+    "overview": "",
+    "popularity": 243.9374,
+    "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "production_companies": [
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 240675,
+        "logo_path": null,
+        "name": "Subconscious",
+        "origin_country": "US"
+      },
+      {
+        "id": 829,
+        "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+        "name": "Vertigo Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 342,
+        "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+        "name": "Davis Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 125281,
+        "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
+        "name": "PlayStation Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2026-09-16",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "الشر المقيم",
+    "video": false,
+    "vote_average": 7.693,
+    "vote_count": 57,
+    "translations": {
+      "translations": [
+        {
+          "iso_3166_1": "US",
+          "iso_639_1": "en",
+          "name": "English",
+          "english_name": "English",
+          "data": {
+            "homepage": "https://residentevil.movie",
+            "overview": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
+            "runtime": 95,
+            "tagline": "A new era of evil.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "KR",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말",
+          "english_name": "Korean",
+          "data": {
+            "homepage": "",
+            "overview": "의료 택배 기사 브라이언은 긴급 배달을 맡아 심야에 라쿤 시티 종합 병원으로 향한다. 눈발을 헤치며 가던 중 갑자기 차로 뛰어든 누군가를 치게 되고, 죽은 줄 알았던 이가 다시 그를 덮쳐온다. 하나인 줄 알았던 정체불명의 존재들은 끊임없이 늘어나고, 통신마저 끊긴다. 브라이언은 자신이 무엇을 배달하고 있는지도 모른 채 눈앞에 닥친 존재들을 피해 필사의 사투를 벌이는데…",
+            "runtime": 94,
+            "tagline": "",
+            "title": "레지던트 이블: 0번째 밤"
+          }
+        },
+        {
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "homepage": "",
+            "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+            "runtime": 93,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "UA",
+          "iso_639_1": "uk",
+          "name": "Український",
+          "english_name": "Ukrainian",
+          "data": {
+            "homepage": "",
+            "overview": "Кур'єр отримує завдання доставити посилку до віддаленої лікарні. Невдовзі він опиняється в самому центрі спалаху інфекції та змушений пробиватися крізь орди мутованих істот, щоб вижити.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Resident Evil: Оселя Зла"
+          }
+        },
+        {
+          "iso_3166_1": "VN",
+          "iso_639_1": "vi",
+          "name": "Tiếng Việt",
+          "english_name": "Vietnamese",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Vùng Đất Quỷ Dữ"
+          }
+        },
+        {
+          "iso_3166_1": "FR",
+          "iso_639_1": "fr",
+          "name": "Français",
+          "english_name": "French",
+          "data": {
+            "homepage": "",
+            "overview": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+            "runtime": 95,
+            "tagline": "Une nouvelle ère du mal commence.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "BR",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "homepage": "https://residentevilfilme.com.br/",
+            "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+            "runtime": 90,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "BG",
+          "iso_639_1": "bg",
+          "name": "български език",
+          "english_name": "Bulgarian",
+          "data": {
+            "homepage": "",
+            "overview": "Режисьорът и сценарист Зак Крегър застава начело на нова филмова адаптация с обещание за радикален прочит – интензивен, мрачен и безкомпромисен ужас, по-близък до духа на игрите от всичко, което сме виждали досега. Без да разчита на познати герои и сюжетни линии, Заразно зло разказва оригинална история в добре познатата вселена, фокусирана върху обикновен човек, попаднал в невъобразим кошмар.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Заразно зло"
+          }
+        },
+        {
+          "iso_3166_1": "MX",
+          "iso_639_1": "es",
+          "name": "Español",
+          "english_name": "Spanish",
+          "data": {
+            "homepage": "",
+            "overview": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+            "runtime": 93,
+            "tagline": "",
+            "title": "Resident Evil: Noche cero"
+          }
+        },
+        {
+          "iso_3166_1": "JP",
+          "iso_639_1": "ja",
+          "name": "日本語",
+          "english_name": "Japanese",
+          "data": {
+            "homepage": "https://biomovie.jp",
+            "overview": "ある医療品の配送を請け負った男を襲う、地獄の一夜。 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
+            "runtime": 0,
+            "tagline": "",
+            "title": "バイオハザード"
+          }
+        },
+        {
+          "iso_3166_1": "PT",
+          "iso_639_1": "pt",
+          "name": "Português",
+          "english_name": "Portuguese",
+          "data": {
+            "homepage": "",
+            "overview": "Bryan, um estafeta médico, está a fazer uma entrega quando ocorre um surto repentino, obrigando-o a lutar pela sobrevivência.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "RU",
+          "iso_639_1": "ru",
+          "name": "Pусский",
+          "english_name": "Russian",
+          "data": {
+            "homepage": "",
+            "overview": "Незадачливому курьеру поручено доставить посылку в отдалённую больницу. Вскоре он оказывается в эпицентре вспышки неизвестного вируса, где вынужден сражаться с ордами мутировавших существ, чтобы выжить.",
+            "runtime": 0,
+            "tagline": "«Новая эра зла»",
+            "title": "Обитель зла"
+          }
+        },
+        {
+          "iso_3166_1": "IT",
+          "iso_639_1": "it",
+          "name": "Italiano",
+          "english_name": "Italian",
+          "data": {
+            "homepage": "",
+            "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "TW",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "醫療快遞員布萊恩在毫無預警之下，被捲入一場充滿動作、毫不停歇的生存競賽；隨著一個致命且恐怖的夜晚逐步崩解，混亂全面爆發，他只能拼命求生。",
+            "runtime": 94,
+            "tagline": "從靈開始",
+            "title": "惡靈古堡：爆發夜"
+          }
+        },
+        {
+          "iso_3166_1": "DE",
+          "iso_639_1": "de",
+          "name": "Deutsch",
+          "english_name": "German",
+          "data": {
+            "homepage": "https://constantin.film/kino/resident-evil-2/",
+            "overview": "Der Kurierfahrer Bryan nimmt einen scheinbar harmlosen Auftrag an: die Lieferung eines biomedizinischen Pakets. Was wie ein gewöhnlicher Arbeitstag beginnt, wird zur Hölle auf Erden. Eine Nacht, kein Ausweg – und ein Horror, der alles verschlingt.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "IL",
+          "iso_639_1": "he",
+          "name": "עִבְרִית",
+          "english_name": "Hebrew",
+          "data": {
+            "homepage": "http://forumfilm.co.il/resident_evil",
+            "overview": "שליח רפואי מוצא את עצמו, מבלי שהתכוון לכך, במרוץ הישרדות אינטנסיבי, בזמן שלילה אחד גורלי ומפחיד יוצא מכלל שליטה, והוא נאלץ להילחם כדי לשרוד בתוך הכאוס שסביבו.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "האויב שבפנים"
+          }
+        },
+        {
+          "iso_3166_1": "CN",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+            "runtime": 0,
+            "tagline": "",
+            "title": "生化危机：爆发夜"
+          }
+        },
+        {
+          "iso_3166_1": "HU",
+          "iso_639_1": "hu",
+          "name": "Magyar",
+          "english_name": "Hungarian",
+          "data": {
+            "homepage": "",
+            "overview": "Egy szerencsétlen futár, akit azzal bíznak meg, hogy egy csomagot eljuttasson egy távoli kórházba, egy járvány kellős közepébe csöppen, és mutálódott lények hordáin kell keresztülverekednie magát, hogy életben maradjon. (Csillag Lajos)",
+            "runtime": 0,
+            "tagline": "",
+            "title": "A kaptár"
+          }
+        },
+        {
+          "iso_3166_1": "SE",
+          "iso_639_1": "sv",
+          "name": "svenska",
+          "english_name": "Swedish",
+          "data": {
+            "homepage": "",
+            "overview": "Bryan, en medicinsk kurir, dras ovetandes in i en desperat kamp för sin överlevnad när en ödesdiger och skräckfylld natt urartar i kaos.",
+            "runtime": 94,
+            "tagline": "En ny era av ondska.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "HK",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "醫務速遞員 Bryan（奧斯汀艾布斯 飾）在一個再平凡不過的夜晚，意外捲入一場令整個城市崩潰的恐怖浩劫。在失去法律與秩序的混亂夜晚，他必須在喪屍與生化怪物橫行的圍城中展開一場永無止境的生存賽跑。電影強調「非典型英雄」的無助感，面對突如其來的生理與心理極限挑戰，Bryan 必須在混沌中拼死尋求一線生機。",
+            "runtime": 0,
+            "tagline": "",
+            "title": "生化危機"
+          }
+        },
+        {
+          "iso_3166_1": "TH",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย",
+          "english_name": "Thai",
+          "data": {
+            "homepage": "",
+            "overview": "เรื่องราวของคนส่งของผู้โชคร้ายคนหนึ่ง ที่กำลังนำส่งพัสดุไปยังโรงพยาบาลอันห่างไกล ไม่นานนักเขาก็ได้พบว่า ตัวเองตกอยู่ท่ามกลางการแพร่ระบาด และต้องต่อสู้ฝ่าฟันฝูงสิ่งมีชีวิตกลายพันธุ์เพื่อเอาตัวรอด",
+            "runtime": 97,
+            "tagline": "",
+            "title": "เรสซิเดนท์ อีวิล"
+          }
+        },
+        {
+          "iso_3166_1": "EE",
+          "iso_639_1": "et",
+          "name": "Eesti",
+          "english_name": "Estonian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "LT",
+          "iso_639_1": "lt",
+          "name": "Lietuvių",
+          "english_name": "Lithuanian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Absoliutus blogis"
+          }
+        },
+        {
+          "iso_3166_1": "PL",
+          "iso_639_1": "pl",
+          "name": "Polski",
+          "english_name": "Polish",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "GE",
+          "iso_639_1": "ka",
+          "name": "ქართული",
+          "english_name": "Georgian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "ბოროტების სავანე"
+          }
+        },
+        {
+          "iso_3166_1": "LV",
+          "iso_639_1": "lv",
+          "name": "Latviešu",
+          "english_name": "Latvian",
+          "data": {
+            "homepage": "",
+            "overview": "“Nezūdošais ļaunums” seko Braiena, medikamentu kurjera gaitām, kurš neapzināti nonāk spriedzes pilnā, nemitīgā cīņā par izdzīvošanu, kad vienā liktenīgā, šausminošā naktī viņam visapkārt sākas pilnīgs haoss.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Nezūdošais ļaunums"
+          }
+        },
+        {
+          "iso_3166_1": "TR",
+          "iso_639_1": "tr",
+          "name": "Türkçe",
+          "english_name": "Turkish",
+          "data": {
+            "homepage": "",
+            "overview": "Uzak bir hastaneye paket götürmekle görevlendirilen talihsiz bir kurye, vardığında kendini aniden bir salgının tam ortasında bulur. Hayatta kalabilmek için mutasyona uğramış yaratık sürülerine karşı amansız bir mücadele vermek zorundadır.",
+            "runtime": 0,
+            "tagline": "Kötülüğün yeni bir çağı başlıyor.",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "SI",
+          "iso_639_1": "sl",
+          "name": "Slovenščina",
+          "english_name": "Slovenian",
+          "data": {
+            "homepage": "",
+            "overview": "V povsem novi zgodbi film Nevidno zlo spremlja Bryana (Austin Abrams), medicinskega dostavljavca, ki se nehote znajde v akcijsko nabiti, neprekinjeni bitki za preživetje, medtem ko se okoli njega v eni usodni in grozljivi noči vse spreobrne v kaos.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Nevidno zlo"
+          }
+        },
+        {
+          "iso_3166_1": "NL",
+          "iso_639_1": "nl",
+          "name": "Nederlands",
+          "english_name": "Dutch",
+          "data": {
+            "homepage": "",
+            "overview": "Bryan is een medisch koerier die in een spectaculaire strijd op leven en dood belandt als zijn nacht ineens in een nachtmerrie verandert.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "BY",
+          "iso_639_1": "be",
+          "name": "беларуская мова",
+          "english_name": "Belarusian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Прыстанак зла"
+          }
+        },
+        {
+          "iso_3166_1": "SA",
+          "iso_639_1": "ar",
+          "name": "العربية",
+          "english_name": "Arabic",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "الشر المقيم"
+          }
+        },
+        {
+          "iso_3166_1": "IR",
+          "iso_639_1": "fa",
+          "name": "فارسی",
+          "english_name": "Persian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "رزیدنت ایول"
+          }
+        },
+        {
+          "iso_3166_1": "CZ",
+          "iso_639_1": "cs",
+          "name": "Český",
+          "english_name": "Czech",
+          "data": {
+            "homepage": "",
+            "overview": "Film sleduje jedinou noc, kdy se obyčejný kurýr Bryan vydává doručit zásilku do Raccoon City – města, které se mezitím propadá do naprostého chaosu po úniku smrtícího viru. Jak se ulice zaplňují nakaženými a realita se mění v noční můru, Bryan je nucen bojovat o přežití, improvizovat s omezenými prostředky a čelit nejen hordám nemrtvých, ale i rozpadu společnosti kolem sebe. Izolovaný, bez pomoci a bez jasného vysvětlení toho, co se vlastně stalo, se postupně dostává hlouběji do centra katastrofy – a zjišťuje, že za nákazou stojí něco mnohem děsivějšího, než si dokázal představit.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "BD",
+          "iso_639_1": "bn",
+          "name": "বাংলা",
+          "english_name": "Bengali",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "রেসিডেন্ট ইভিল"
+          }
+        },
+        {
+          "iso_3166_1": "IN",
+          "iso_639_1": "mr",
+          "name": "",
+          "english_name": "Marathi",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "रेसिडेंट ईविल"
+          }
+        },
+        {
+          "iso_3166_1": "MY",
+          "iso_639_1": "ms",
+          "name": "Bahasa melayu",
+          "english_name": "Malay",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Kubu Iblis"
+          }
+        },
+        {
+          "iso_3166_1": "LK",
+          "iso_639_1": "si",
+          "name": "සිංහල",
+          "english_name": "Sinhalese",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "රෙසිඩන්ට් ඊවල්"
+          }
+        },
+        {
+          "iso_3166_1": "SG",
+          "iso_639_1": "zh",
+          "name": "普通话",
+          "english_name": "Mandarin",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "生化危机系列"
+          }
+        },
+        {
+          "iso_3166_1": "GR",
+          "iso_639_1": "el",
+          "name": "ελληνικά",
+          "english_name": "Greek",
+          "data": {
+            "homepage": "",
+            "overview": "Ο Μπράιαν, ένας ιατρικός κούριερ, χωρίς να το θέλει βρίσκεται μπλεγμένος σε έναν ασταμάτητο αγώνα επιβίωσης, καθώς μια μοιραία φρικιαστική νύχτα διαλύει τα πάντα γύρω του και το χάος επικρατεί.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "HR",
+          "iso_639_1": "hr",
+          "name": "Hrvatski",
+          "english_name": "Croatian",
+          "data": {
+            "homepage": "",
+            "overview": "U potpuno novoj priči, Resident Evil prati Bryana, medicinskog kurira koji se nesvjesno zatekne u akcijskoj, neprekidnoj utrci za preživljavanjem, dok se jedna sudbonosna, jeziva noć pretvara u potpuni kaos.",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "DK",
+          "iso_639_1": "da",
+          "name": "Dansk",
+          "english_name": "Danish",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": ""
+          }
+        }
+      ]
+    },
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148992,
+          "known_for_department": "Acting",
+          "name": "أوستن أبرامز",
+          "original_name": "Austin Abrams",
+          "popularity": 7.0497,
+          "profile_path": "/5S7ahFPQk4NUh8GTwp8zZlUQNFs.jpg",
+          "cast_id": 9,
+          "character": "Bryan",
+          "credit_id": "67e56043421eb8c331ba5197",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1838225,
+          "known_for_department": "Acting",
+          "name": "زَاكْ تْشَرّي",
+          "original_name": "Zach Cherry",
+          "popularity": 3.1935,
+          "profile_path": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
+          "cast_id": 18,
+          "character": "Dave",
+          "credit_id": "68e0459e58abaa2a2eaa5ce0",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3119545,
+          "known_for_department": "Acting",
+          "name": "Kali Reis",
+          "original_name": "Kali Reis",
+          "popularity": 1.8597,
+          "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+          "cast_id": 19,
+          "character": "Pauline",
+          "credit_id": "68e045ab954a0976d0932205",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1294982,
+          "known_for_department": "Acting",
+          "name": "باول والتر هوزر",
+          "original_name": "Paul Walter Hauser",
+          "popularity": 3.3586,
+          "profile_path": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
+          "cast_id": 14,
+          "character": "Carl",
+          "credit_id": "68caeb292e10060fbfe3641f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1169291,
+          "known_for_department": "Acting",
+          "name": "Johnno Wilson",
+          "original_name": "Johnno Wilson",
+          "popularity": 1.3714,
+          "profile_path": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg",
+          "cast_id": 20,
+          "character": "Max",
+          "credit_id": "68e04a1777d7e617f7ecb935",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2445714,
+          "known_for_department": "Acting",
+          "name": "Shaun W. Loeser",
+          "original_name": "Shaun W. Loeser",
+          "popularity": 0.6198,
+          "profile_path": "/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg",
+          "cast_id": 40,
+          "character": "Puker",
+          "credit_id": "6aa90412528c52abaa6a0167",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2347838,
+          "known_for_department": "Directing",
+          "name": "Devon Deshaun Stewart",
+          "original_name": "Devon Deshaun Stewart",
+          "popularity": 0.8275,
+          "profile_path": "/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg",
+          "cast_id": 41,
+          "character": "",
+          "credit_id": "6aa904332b948fbb536a0031",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84833,
+          "known_for_department": "Acting",
+          "name": "زاك كريجر",
+          "original_name": "Zach Cregger",
+          "popularity": 4.6051,
+          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+          "cast_id": 42,
+          "character": "(voice)",
+          "credit_id": "6aaada55404f1dddec099737",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1362996,
+          "known_for_department": "Acting",
+          "name": "Emily Piggford",
+          "original_name": "Emily Piggford",
+          "popularity": 2.1678,
+          "profile_path": "/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg",
+          "cast_id": 43,
+          "character": "Dr. Maria Stokes",
+          "credit_id": "6aaada922ae626a92756ca1f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1221073,
+          "known_for_department": "Acting",
+          "name": "Will Merrick",
+          "original_name": "Will Merrick",
+          "popularity": 1.2842,
+          "profile_path": "/3IVuzHqE8FIBV679o4VGrZInpsE.jpg",
+          "cast_id": 44,
+          "character": "Dave",
+          "credit_id": "6aaadaa61f02124df13dbd88",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5848547,
+          "known_for_department": "Acting",
+          "name": "Zoé Bellas",
+          "original_name": "Zoé Bellas",
+          "popularity": 1.037,
+          "profile_path": "/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg",
+          "cast_id": 45,
+          "character": "Birdie",
+          "credit_id": "6aaadab184183119983dbd8b",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1548222,
+          "known_for_department": "Acting",
+          "name": "Chris Lew Kum Hoi",
+          "original_name": "Chris Lew Kum Hoi",
+          "popularity": 0.6837,
+          "profile_path": "/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg",
+          "cast_id": 46,
+          "character": "Stanley",
+          "credit_id": "6aaadabe9481e9c18578dc97",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 225377,
+          "known_for_department": "Acting",
+          "name": "Griffin Newman",
+          "original_name": "Griffin Newman",
+          "popularity": 1.0409,
+          "profile_path": "/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg",
+          "cast_id": 47,
+          "character": "Wade",
+          "credit_id": "6aaadbaa33ff313665f87089",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2832950,
+          "known_for_department": "Crew",
+          "name": "Magdalena Šittová",
+          "original_name": "Magdalena Šittová",
+          "popularity": 0.5852,
+          "profile_path": "/6QDtKNoL6DXwJHpzDrvWG3rKSwa.jpg",
+          "cast_id": 48,
+          "character": "Agatha",
+          "credit_id": "6aaadbbab80452e49556ca67",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 183729,
+          "known_for_department": "Acting",
+          "name": "Andrea Miltner",
+          "original_name": "Andrea Miltner",
+          "popularity": 0.8877,
+          "profile_path": "/oBdyio9RROvtUgauXJH6kE2dWEY.jpg",
+          "cast_id": 50,
+          "character": "Pedestrian",
+          "credit_id": "6aaadc0a90eaf606095149a1",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 231246,
+          "known_for_department": "Acting",
+          "name": "Karel Dobrý",
+          "original_name": "Karel Dobrý",
+          "popularity": 0.8436,
+          "profile_path": "/mcvTqsqIPTVZiT4saALPljNUQ5B.jpg",
+          "cast_id": 58,
+          "character": "",
+          "credit_id": "6aacd1e7e8f48797087325b2",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84833,
+          "known_for_department": "Acting",
+          "name": "زاك كريجر",
+          "original_name": "Zach Cregger",
+          "popularity": 4.6051,
+          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+          "credit_id": "6794204025d2980fb023abc3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4017,
+          "known_for_department": "Production",
+          "name": "Robert Kulzer",
+          "original_name": "Robert Kulzer",
+          "popularity": 0.6076,
+          "profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
+          "credit_id": "67cb3aee05adfb9eb95b8074",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21036,
+          "known_for_department": "Production",
+          "name": "روي لي",
+          "original_name": "Roy Lee",
+          "popularity": 0.9809,
+          "profile_path": "/7HGbsI8y3TGK8VQhN5rkaXtQnro.jpg",
+          "credit_id": "67cb3b048230b256f4f57992",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1123422,
+          "known_for_department": "Production",
+          "name": "Miri Yoon",
+          "original_name": "Miri Yoon",
+          "popularity": 1.5125,
+          "profile_path": "/kZZoOpkSvscG4YHAuUJaNGg3WTM.jpg",
+          "credit_id": "67cb3b0c05adfb9eb95b8084",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1098783,
+          "known_for_department": "Art",
+          "name": "Tom Hammock",
+          "original_name": "Tom Hammock",
+          "popularity": 0.5159,
+          "profile_path": "/mCB9AEVpATXxweHESls50ZXYOLo.jpg",
+          "credit_id": "682fc2c994584af5ae054261",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53530,
+          "known_for_department": "Directing",
+          "name": "Sean Guest",
+          "original_name": "Sean Guest",
+          "popularity": 0.5715,
+          "profile_path": null,
+          "credit_id": "6890f37dfd76b2d399b23759",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120,
+          "known_for_department": "Camera",
+          "name": "داريوش فولسكي",
+          "original_name": "Dariusz Wolski",
+          "popularity": 0.8245,
+          "profile_path": "/qnNirhrjkbi6RGdP4FZeljbjzkU.jpg",
+          "credit_id": "68bfa54cfdd786ebf99c1179",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1691952,
+          "known_for_department": "Visual Effects",
+          "name": "Alessandro Ongaro",
+          "original_name": "Alessandro Ongaro",
+          "popularity": 0.6334,
+          "profile_path": null,
+          "credit_id": "68c04fa4d826c7d50906a938",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2457600,
+          "known_for_department": "Production",
+          "name": "Asad Qizilbash",
+          "original_name": "Asad Qizilbash",
+          "popularity": 0.6897,
+          "profile_path": "/hZdqsU1EmLsPDnW2LElvoRlSaFp.jpg",
+          "credit_id": "68caeb683cfb77f54de4fd0e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1058615,
+          "known_for_department": "Production",
+          "name": "Carter Swan",
+          "original_name": "Carter Swan",
+          "popularity": 0.5842,
+          "profile_path": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+          "credit_id": "68caeb6e2ee8b85a241f240a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1950723,
+          "known_for_department": "Crew",
+          "name": "Jan Petřina",
+          "original_name": "Jan Petřina",
+          "popularity": 0.5299,
+          "profile_path": null,
+          "credit_id": "691e315ace274732a9b50266",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1360848,
+          "known_for_department": "Sound",
+          "name": "Viktor Prášil",
+          "original_name": "Viktor Prášil",
+          "popularity": 0.4385,
+          "profile_path": null,
+          "credit_id": "6990e5dec8dc8a02df064dc0",
+          "department": "Sound",
+          "job": "Production Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1334494,
+          "known_for_department": "Art",
+          "name": "Martina Ter-Akopowá",
+          "original_name": "Martina Ter-Akopowá",
+          "popularity": 0.3271,
+          "profile_path": null,
+          "credit_id": "69bf27ac7ffc660363a24c31",
+          "department": "Art",
+          "job": "Supervising Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1721340,
+          "known_for_department": "Production",
+          "name": "Ludek Vomacka",
+          "original_name": "Ludek Vomacka",
+          "popularity": 0.4026,
+          "profile_path": null,
+          "credit_id": "69cf1671669eba65faa642b9",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2104243,
+          "known_for_department": "Writing",
+          "name": "شاي هتان",
+          "original_name": "Shay Hatten",
+          "popularity": 1.0363,
+          "profile_path": "/hu4OQVq5whk0C6v7B7KHCVUsmUG.jpg",
+          "credit_id": "69f386fa7a7ff60126a14ab1",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84833,
+          "known_for_department": "Acting",
+          "name": "زاك كريجر",
+          "original_name": "Zach Cregger",
+          "popularity": 4.6051,
+          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+          "credit_id": "69f387014796389a1f61fc1b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84833,
+          "known_for_department": "Acting",
+          "name": "زاك كريجر",
+          "original_name": "Zach Cregger",
+          "popularity": 4.6051,
+          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+          "credit_id": "69f387357eeb00cbb312ecb3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 674,
+          "known_for_department": "Production",
+          "name": "Oliver Berben",
+          "original_name": "Oliver Berben",
+          "popularity": 0.5452,
+          "profile_path": "/xzokTXR0FO1LGANvgUDbs4nKem1.jpg",
+          "credit_id": "69f3874dd8832e3ac312ece3",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3954,
+          "known_for_department": "Production",
+          "name": "Richard S. Wright",
+          "original_name": "Richard S. Wright",
+          "popularity": 0.5534,
+          "profile_path": null,
+          "credit_id": "69f3875ec38c559c3a12ecc2",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3959,
+          "known_for_department": "Production",
+          "name": "Robert Bernacchi",
+          "original_name": "Robert Bernacchi",
+          "popularity": 0.6314,
+          "profile_path": null,
+          "credit_id": "69f387676a5fff34b8a14b2f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 373986,
+          "known_for_department": "Visual Effects",
+          "name": "Brice R. Parker",
+          "original_name": "Brice R. Parker",
+          "popularity": 0.49,
+          "profile_path": null,
+          "credit_id": "69f528f35539a979231ab560",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 373986,
+          "known_for_department": "Visual Effects",
+          "name": "Brice R. Parker",
+          "original_name": "Brice R. Parker",
+          "popularity": 0.49,
+          "profile_path": null,
+          "credit_id": "69f528f8236fd639cb87e470",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2504586,
+          "known_for_department": "Visual Effects",
+          "name": "Carolyn Shea",
+          "original_name": "Carolyn Shea",
+          "popularity": 0.3366,
+          "profile_path": null,
+          "credit_id": "69f5297a360bfde04487e55b",
+          "department": "Visual Effects",
+          "job": "Visual Effects Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1457329,
+          "known_for_department": "Visual Effects",
+          "name": "Kevin Andrew Smith",
+          "original_name": "Kevin Andrew Smith",
+          "popularity": 0.7027,
+          "profile_path": "/7HDtq3d0uPjmBpJIB7fXtdljQpQ.jpg",
+          "credit_id": "69f52988fab26a8f65c05a86",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1496396,
+          "known_for_department": "Editing",
+          "name": "Joe Murphy",
+          "original_name": "Joe Murphy",
+          "popularity": 0.3724,
+          "profile_path": null,
+          "credit_id": "6a02879215d7006139fb831c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1424621,
+          "known_for_department": "Visual Effects",
+          "name": "Eric Reynolds",
+          "original_name": "Eric Reynolds",
+          "popularity": 0.4893,
+          "profile_path": null,
+          "credit_id": "6a05ffad24f3081bb0e3c3fe",
+          "department": "Visual Effects",
+          "job": "Animation Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6213509,
+          "known_for_department": "Visual Effects",
+          "name": "Janet Walters",
+          "original_name": "Janet Walters",
+          "popularity": 0.5883,
+          "profile_path": null,
+          "credit_id": "6a0600401706d291f0580770",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2379291,
+          "known_for_department": "Sound",
+          "name": "Hays Holladay",
+          "original_name": "Hays Holladay",
+          "popularity": 0.3524,
+          "profile_path": null,
+          "credit_id": "6aab30e6c01ced18e1c533db",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2379292,
+          "known_for_department": "Sound",
+          "name": "Ryan Holladay",
+          "original_name": "Ryan Holladay",
+          "popularity": 0.391,
+          "profile_path": null,
+          "credit_id": "6aab30f592915c3ed2180ad3",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4425181,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Caroline Fahrer",
+          "original_name": "Caroline Fahrer",
+          "popularity": 0.3255,
+          "profile_path": null,
+          "credit_id": "6aab311093e3a644f345eeed",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1559163,
+          "known_for_department": "Visual Effects",
+          "name": "Nathan Abbot",
+          "original_name": "Nathan Abbot",
+          "popularity": 0.393,
+          "profile_path": null,
+          "credit_id": "6aac4b2266a92581db3cbfb6",
+          "department": "Visual Effects",
+          "job": "Compositing Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1473448,
+          "known_for_department": "Camera",
+          "name": "James Goldman",
+          "original_name": "James Goldman",
+          "popularity": 0.7491,
+          "profile_path": null,
+          "credit_id": "6aac4b5b5f585dd5f10c12ac",
+          "department": "Camera",
+          "job": "\"A\" Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31516,
+          "known_for_department": "Production",
+          "name": "Victor Hadida",
+          "original_name": "Victor Hadida",
+          "popularity": 0.7762,
+          "profile_path": "/6wk7SIcR3UA5NZ2V1nQeaYG8ByH.jpg",
+          "credit_id": "6aac5038196a4ca3460c12c0",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "genre_ids": [
+      27,
+      878,
+      12
+    ],
+    "media_type": "movie",
+    "title_en": "الشر المقيم",
+    "overview_en": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town",
+    "cast": [
+      {
+        "name": "أوستن أبرامز",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5S7ahFPQk4NUh8GTwp8zZlUQNFs.jpg"
+      },
+      {
+        "name": "زَاكْ تْشَرّي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+      },
+      {
+        "name": "Kali Reis",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+      },
+      {
+        "name": "باول والتر هوزر",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+      },
+      {
+        "name": "Johnno Wilson",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+      },
+      {
+        "name": "Shaun W Loeser",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+      },
+      {
+        "name": "Devon Deshaun Stewart",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg"
+      },
+      {
+        "name": "زاك كريجر",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+      }
+    ],
+    "date_added": 1789747128445
   },
   {
     "adult": false,
@@ -24149,8 +25502,8 @@
     "tagline": "",
     "title": "حين اقتربنا",
     "video": false,
-    "vote_average": 6.624,
-    "vote_count": 89,
+    "vote_average": 6.65,
+    "vote_count": 90,
     "translations": {
       "translations": [
         {
@@ -26191,7 +27544,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a0wqnZmewxpNIXi1ol9fii2CzWJ.jpg"
       }
     ],
-    "date_added": 1789731582239
+    "date_added": 1789747128454
   },
   {
     "adult": false,
@@ -27409,7 +28762,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582285
+    "date_added": 1789747128490
   },
   {
     "adult": false,
@@ -27720,7 +29073,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582310
+    "date_added": 1789747128494
   },
   {
     "adult": false,
@@ -28173,1360 +29526,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582402
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-    "belongs_to_collection": null,
-    "budget": 75000000,
-    "genres": [
-      {
-        "id": 27,
-        "name": "رعب"
-      },
-      {
-        "id": 878,
-        "name": "خيال علمي"
-      },
-      {
-        "id": 12,
-        "name": "مغامرة"
-      }
-    ],
-    "homepage": "",
-    "id": 1423191,
-    "imdb_id": "tt35538033",
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_title": "Resident Evil",
-    "overview": "",
-    "popularity": 243.9374,
-    "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-    "production_companies": [
-      {
-        "id": 47,
-        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
-        "name": "Constantin Film",
-        "origin_country": "DE"
-      },
-      {
-        "id": 240675,
-        "logo_path": null,
-        "name": "Subconscious",
-        "origin_country": "US"
-      },
-      {
-        "id": 829,
-        "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-        "name": "Vertigo Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 342,
-        "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
-        "name": "Davis Films",
-        "origin_country": "FR"
-      },
-      {
-        "id": 5,
-        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-        "name": "Columbia Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 125281,
-        "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
-        "name": "PlayStation Productions",
-        "origin_country": "US"
-      },
-      {
-        "id": 559,
-        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
-        "name": "TriStar Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      },
-      {
-        "iso_3166_1": "DE",
-        "name": "Germany"
-      },
-      {
-        "iso_3166_1": "FR",
-        "name": "France"
-      }
-    ],
-    "release_date": "2026-09-16",
-    "revenue": 0,
-    "runtime": 95,
-    "softcore": false,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "",
-    "title": "الشر المقيم",
-    "video": false,
-    "vote_average": 7.9,
-    "vote_count": 51,
-    "translations": {
-      "translations": [
-        {
-          "iso_3166_1": "US",
-          "iso_639_1": "en",
-          "name": "English",
-          "english_name": "English",
-          "data": {
-            "homepage": "https://residentevil.movie",
-            "overview": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
-            "runtime": 95,
-            "tagline": "A new era of evil.",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "KR",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말",
-          "english_name": "Korean",
-          "data": {
-            "homepage": "",
-            "overview": "의료 택배 기사 브라이언은 긴급 배달을 맡아 심야에 라쿤 시티 종합 병원으로 향한다. 눈발을 헤치며 가던 중 갑자기 차로 뛰어든 누군가를 치게 되고, 죽은 줄 알았던 이가 다시 그를 덮쳐온다. 하나인 줄 알았던 정체불명의 존재들은 끊임없이 늘어나고, 통신마저 끊긴다. 브라이언은 자신이 무엇을 배달하고 있는지도 모른 채 눈앞에 닥친 존재들을 피해 필사의 사투를 벌이는데…",
-            "runtime": 94,
-            "tagline": "",
-            "title": "레지던트 이블: 0번째 밤"
-          }
-        },
-        {
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "name": "Español",
-          "english_name": "Spanish",
-          "data": {
-            "homepage": "",
-            "overview": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-            "runtime": 93,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "UA",
-          "iso_639_1": "uk",
-          "name": "Український",
-          "english_name": "Ukrainian",
-          "data": {
-            "homepage": "",
-            "overview": "Кур'єр отримує завдання доставити посилку до віддаленої лікарні. Невдовзі він опиняється в самому центрі спалаху інфекції та змушений пробиватися крізь орди мутованих істот, щоб вижити.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Resident Evil: Оселя Зла"
-          }
-        },
-        {
-          "iso_3166_1": "VN",
-          "iso_639_1": "vi",
-          "name": "Tiếng Việt",
-          "english_name": "Vietnamese",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Vùng Đất Quỷ Dữ"
-          }
-        },
-        {
-          "iso_3166_1": "FR",
-          "iso_639_1": "fr",
-          "name": "Français",
-          "english_name": "French",
-          "data": {
-            "homepage": "",
-            "overview": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
-            "runtime": 95,
-            "tagline": "Une nouvelle ère du mal commence.",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "BR",
-          "iso_639_1": "pt",
-          "name": "Português",
-          "english_name": "Portuguese",
-          "data": {
-            "homepage": "https://residentevilfilme.com.br/",
-            "overview": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
-            "runtime": 90,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "BG",
-          "iso_639_1": "bg",
-          "name": "български език",
-          "english_name": "Bulgarian",
-          "data": {
-            "homepage": "",
-            "overview": "Режисьорът и сценарист Зак Крегър застава начело на нова филмова адаптация с обещание за радикален прочит – интензивен, мрачен и безкомпромисен ужас, по-близък до духа на игрите от всичко, което сме виждали досега. Без да разчита на познати герои и сюжетни линии, Заразно зло разказва оригинална история в добре познатата вселена, фокусирана върху обикновен човек, попаднал в невъобразим кошмар.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Заразно зло"
-          }
-        },
-        {
-          "iso_3166_1": "MX",
-          "iso_639_1": "es",
-          "name": "Español",
-          "english_name": "Spanish",
-          "data": {
-            "homepage": "",
-            "overview": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
-            "runtime": 93,
-            "tagline": "",
-            "title": "Resident Evil: Noche cero"
-          }
-        },
-        {
-          "iso_3166_1": "JP",
-          "iso_639_1": "ja",
-          "name": "日本語",
-          "english_name": "Japanese",
-          "data": {
-            "homepage": "https://biomovie.jp",
-            "overview": "ある医療品の配送を請け負った男を襲う、地獄の一夜。 男は、己の命運を懸けた壮絶なサバイバルを余儀なくされる…",
-            "runtime": 0,
-            "tagline": "",
-            "title": "バイオハザード"
-          }
-        },
-        {
-          "iso_3166_1": "PT",
-          "iso_639_1": "pt",
-          "name": "Português",
-          "english_name": "Portuguese",
-          "data": {
-            "homepage": "",
-            "overview": "Bryan, um estafeta médico, está a fazer uma entrega quando ocorre um surto repentino, obrigando-o a lutar pela sobrevivência.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "RU",
-          "iso_639_1": "ru",
-          "name": "Pусский",
-          "english_name": "Russian",
-          "data": {
-            "homepage": "",
-            "overview": "Незадачливому курьеру поручено доставить посылку в отдалённую больницу. Вскоре он оказывается в эпицентре вспышки неизвестного вируса, где вынужден сражаться с ордами мутировавших существ, чтобы выжить.",
-            "runtime": 0,
-            "tagline": "«Новая эра зла»",
-            "title": "Обитель зла"
-          }
-        },
-        {
-          "iso_3166_1": "IT",
-          "iso_639_1": "it",
-          "name": "Italiano",
-          "english_name": "Italian",
-          "data": {
-            "homepage": "",
-            "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "TW",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "醫療快遞員布萊恩在毫無預警之下，被捲入一場充滿動作、毫不停歇的生存競賽；隨著一個致命且恐怖的夜晚逐步崩解，混亂全面爆發，他只能拼命求生。",
-            "runtime": 94,
-            "tagline": "從靈開始",
-            "title": "惡靈古堡：爆發夜"
-          }
-        },
-        {
-          "iso_3166_1": "DE",
-          "iso_639_1": "de",
-          "name": "Deutsch",
-          "english_name": "German",
-          "data": {
-            "homepage": "https://constantin.film/kino/resident-evil-2/",
-            "overview": "Der Kurierfahrer Bryan nimmt einen scheinbar harmlosen Auftrag an: die Lieferung eines biomedizinischen Pakets. Was wie ein gewöhnlicher Arbeitstag beginnt, wird zur Hölle auf Erden. Eine Nacht, kein Ausweg – und ein Horror, der alles verschlingt.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "IL",
-          "iso_639_1": "he",
-          "name": "עִבְרִית",
-          "english_name": "Hebrew",
-          "data": {
-            "homepage": "http://forumfilm.co.il/resident_evil",
-            "overview": "שליח רפואי מוצא את עצמו, מבלי שהתכוון לכך, במרוץ הישרדות אינטנסיבי, בזמן שלילה אחד גורלי ומפחיד יוצא מכלל שליטה, והוא נאלץ להילחם כדי לשרוד בתוך הכאוס שסביבו.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "האויב שבפנים"
-          }
-        },
-        {
-          "iso_3166_1": "CN",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-            "runtime": 0,
-            "tagline": "",
-            "title": "生化危机：爆发夜"
-          }
-        },
-        {
-          "iso_3166_1": "HU",
-          "iso_639_1": "hu",
-          "name": "Magyar",
-          "english_name": "Hungarian",
-          "data": {
-            "homepage": "",
-            "overview": "Egy szerencsétlen futár, akit azzal bíznak meg, hogy egy csomagot eljuttasson egy távoli kórházba, egy járvány kellős közepébe csöppen, és mutálódott lények hordáin kell keresztülverekednie magát, hogy életben maradjon. (Csillag Lajos)",
-            "runtime": 0,
-            "tagline": "",
-            "title": "A kaptár"
-          }
-        },
-        {
-          "iso_3166_1": "SE",
-          "iso_639_1": "sv",
-          "name": "svenska",
-          "english_name": "Swedish",
-          "data": {
-            "homepage": "",
-            "overview": "Bryan, en medicinsk kurir, dras ovetandes in i en desperat kamp för sin överlevnad när en ödesdiger och skräckfylld natt urartar i kaos.",
-            "runtime": 94,
-            "tagline": "En ny era av ondska.",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "HK",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "醫務速遞員 Bryan（奧斯汀艾布斯 飾）在一個再平凡不過的夜晚，意外捲入一場令整個城市崩潰的恐怖浩劫。在失去法律與秩序的混亂夜晚，他必須在喪屍與生化怪物橫行的圍城中展開一場永無止境的生存賽跑。電影強調「非典型英雄」的無助感，面對突如其來的生理與心理極限挑戰，Bryan 必須在混沌中拼死尋求一線生機。",
-            "runtime": 0,
-            "tagline": "",
-            "title": "生化危機"
-          }
-        },
-        {
-          "iso_3166_1": "TH",
-          "iso_639_1": "th",
-          "name": "ภาษาไทย",
-          "english_name": "Thai",
-          "data": {
-            "homepage": "",
-            "overview": "เรื่องราวของคนส่งของผู้โชคร้ายคนหนึ่ง ที่กำลังนำส่งพัสดุไปยังโรงพยาบาลอันห่างไกล ไม่นานนักเขาก็ได้พบว่า ตัวเองตกอยู่ท่ามกลางการแพร่ระบาด และต้องต่อสู้ฝ่าฟันฝูงสิ่งมีชีวิตกลายพันธุ์เพื่อเอาตัวรอด",
-            "runtime": 97,
-            "tagline": "",
-            "title": "เรสซิเดนท์ อีวิล"
-          }
-        },
-        {
-          "iso_3166_1": "EE",
-          "iso_639_1": "et",
-          "name": "Eesti",
-          "english_name": "Estonian",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "LT",
-          "iso_639_1": "lt",
-          "name": "Lietuvių",
-          "english_name": "Lithuanian",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Absoliutus blogis"
-          }
-        },
-        {
-          "iso_3166_1": "PL",
-          "iso_639_1": "pl",
-          "name": "Polski",
-          "english_name": "Polish",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "GE",
-          "iso_639_1": "ka",
-          "name": "ქართული",
-          "english_name": "Georgian",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "ბოროტების სავანე"
-          }
-        },
-        {
-          "iso_3166_1": "LV",
-          "iso_639_1": "lv",
-          "name": "Latviešu",
-          "english_name": "Latvian",
-          "data": {
-            "homepage": "",
-            "overview": "“Nezūdošais ļaunums” seko Braiena, medikamentu kurjera gaitām, kurš neapzināti nonāk spriedzes pilnā, nemitīgā cīņā par izdzīvošanu, kad vienā liktenīgā, šausminošā naktī viņam visapkārt sākas pilnīgs haoss.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Nezūdošais ļaunums"
-          }
-        },
-        {
-          "iso_3166_1": "TR",
-          "iso_639_1": "tr",
-          "name": "Türkçe",
-          "english_name": "Turkish",
-          "data": {
-            "homepage": "",
-            "overview": "Uzak bir hastaneye paket götürmekle görevlendirilen talihsiz bir kurye, vardığında kendini aniden bir salgının tam ortasında bulur. Hayatta kalabilmek için mutasyona uğramış yaratık sürülerine karşı amansız bir mücadele vermek zorundadır.",
-            "runtime": 0,
-            "tagline": "Kötülüğün yeni bir çağı başlıyor.",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "SI",
-          "iso_639_1": "sl",
-          "name": "Slovenščina",
-          "english_name": "Slovenian",
-          "data": {
-            "homepage": "",
-            "overview": "V povsem novi zgodbi film Nevidno zlo spremlja Bryana (Austin Abrams), medicinskega dostavljavca, ki se nehote znajde v akcijsko nabiti, neprekinjeni bitki za preživetje, medtem ko se okoli njega v eni usodni in grozljivi noči vse spreobrne v kaos.",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Nevidno zlo"
-          }
-        },
-        {
-          "iso_3166_1": "NL",
-          "iso_639_1": "nl",
-          "name": "Nederlands",
-          "english_name": "Dutch",
-          "data": {
-            "homepage": "",
-            "overview": "Bryan is een medisch koerier die in een spectaculaire strijd op leven en dood belandt als zijn nacht ineens in een nachtmerrie verandert.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "BY",
-          "iso_639_1": "be",
-          "name": "беларуская мова",
-          "english_name": "Belarusian",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Прыстанак зла"
-          }
-        },
-        {
-          "iso_3166_1": "SA",
-          "iso_639_1": "ar",
-          "name": "العربية",
-          "english_name": "Arabic",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "الشر المقيم"
-          }
-        },
-        {
-          "iso_3166_1": "IR",
-          "iso_639_1": "fa",
-          "name": "فارسی",
-          "english_name": "Persian",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "رزیدنت ایول"
-          }
-        },
-        {
-          "iso_3166_1": "CZ",
-          "iso_639_1": "cs",
-          "name": "Český",
-          "english_name": "Czech",
-          "data": {
-            "homepage": "",
-            "overview": "Film sleduje jedinou noc, kdy se obyčejný kurýr Bryan vydává doručit zásilku do Raccoon City – města, které se mezitím propadá do naprostého chaosu po úniku smrtícího viru. Jak se ulice zaplňují nakaženými a realita se mění v noční můru, Bryan je nucen bojovat o přežití, improvizovat s omezenými prostředky a čelit nejen hordám nemrtvých, ale i rozpadu společnosti kolem sebe. Izolovaný, bez pomoci a bez jasného vysvětlení toho, co se vlastně stalo, se postupně dostává hlouběji do centra katastrofy – a zjišťuje, že za nákazou stojí něco mnohem děsivějšího, než si dokázal představit.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "BD",
-          "iso_639_1": "bn",
-          "name": "বাংলা",
-          "english_name": "Bengali",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "রেসিডেন্ট ইভিল"
-          }
-        },
-        {
-          "iso_3166_1": "IN",
-          "iso_639_1": "mr",
-          "name": "",
-          "english_name": "Marathi",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "रेसिडेंट ईविल"
-          }
-        },
-        {
-          "iso_3166_1": "MY",
-          "iso_639_1": "ms",
-          "name": "Bahasa melayu",
-          "english_name": "Malay",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "Kubu Iblis"
-          }
-        },
-        {
-          "iso_3166_1": "LK",
-          "iso_639_1": "si",
-          "name": "සිංහල",
-          "english_name": "Sinhalese",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "රෙසිඩන්ට් ඊවල්"
-          }
-        },
-        {
-          "iso_3166_1": "SG",
-          "iso_639_1": "zh",
-          "name": "普通话",
-          "english_name": "Mandarin",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": "生化危机系列"
-          }
-        },
-        {
-          "iso_3166_1": "GR",
-          "iso_639_1": "el",
-          "name": "ελληνικά",
-          "english_name": "Greek",
-          "data": {
-            "homepage": "",
-            "overview": "Ο Μπράιαν, ένας ιατρικός κούριερ, χωρίς να το θέλει βρίσκεται μπλεγμένος σε έναν ασταμάτητο αγώνα επιβίωσης, καθώς μια μοιραία φρικιαστική νύχτα διαλύει τα πάντα γύρω του και το χάος επικρατεί.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "HR",
-          "iso_639_1": "hr",
-          "name": "Hrvatski",
-          "english_name": "Croatian",
-          "data": {
-            "homepage": "",
-            "overview": "U potpuno novoj priči, Resident Evil prati Bryana, medicinskog kurira koji se nesvjesno zatekne u akcijskoj, neprekidnoj utrci za preživljavanjem, dok se jedna sudbonosna, jeziva noć pretvara u potpuni kaos.",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        },
-        {
-          "iso_3166_1": "DK",
-          "iso_639_1": "da",
-          "name": "Dansk",
-          "english_name": "Danish",
-          "data": {
-            "homepage": "",
-            "overview": "",
-            "runtime": 0,
-            "tagline": "",
-            "title": ""
-          }
-        }
-      ]
-    },
-    "credits": {
-      "cast": [
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 148992,
-          "known_for_department": "Acting",
-          "name": "أوستن أبرامز",
-          "original_name": "Austin Abrams",
-          "popularity": 7.0497,
-          "profile_path": "/5S7ahFPQk4NUh8GTwp8zZlUQNFs.jpg",
-          "cast_id": 9,
-          "character": "Bryan",
-          "credit_id": "67e56043421eb8c331ba5197",
-          "order": 0
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1838225,
-          "known_for_department": "Acting",
-          "name": "زَاكْ تْشَرّي",
-          "original_name": "Zach Cherry",
-          "popularity": 3.1935,
-          "profile_path": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg",
-          "cast_id": 18,
-          "character": "Dave",
-          "credit_id": "68e0459e58abaa2a2eaa5ce0",
-          "order": 1
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 3119545,
-          "known_for_department": "Acting",
-          "name": "Kali Reis",
-          "original_name": "Kali Reis",
-          "popularity": 1.8597,
-          "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
-          "cast_id": 19,
-          "character": "Pauline",
-          "credit_id": "68e045ab954a0976d0932205",
-          "order": 2
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1294982,
-          "known_for_department": "Acting",
-          "name": "باول والتر هوزر",
-          "original_name": "Paul Walter Hauser",
-          "popularity": 3.3586,
-          "profile_path": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
-          "cast_id": 14,
-          "character": "Carl",
-          "credit_id": "68caeb292e10060fbfe3641f",
-          "order": 3
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1169291,
-          "known_for_department": "Acting",
-          "name": "Johnno Wilson",
-          "original_name": "Johnno Wilson",
-          "popularity": 1.3714,
-          "profile_path": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg",
-          "cast_id": 20,
-          "character": "Max",
-          "credit_id": "68e04a1777d7e617f7ecb935",
-          "order": 4
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2445714,
-          "known_for_department": "Acting",
-          "name": "Shaun W. Loeser",
-          "original_name": "Shaun W. Loeser",
-          "popularity": 0.6198,
-          "profile_path": "/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg",
-          "cast_id": 40,
-          "character": "Puker",
-          "credit_id": "6aa90412528c52abaa6a0167",
-          "order": 5
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2347838,
-          "known_for_department": "Directing",
-          "name": "Devon Deshaun Stewart",
-          "original_name": "Devon Deshaun Stewart",
-          "popularity": 0.8275,
-          "profile_path": "/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg",
-          "cast_id": 41,
-          "character": "",
-          "credit_id": "6aa904332b948fbb536a0031",
-          "order": 6
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 84833,
-          "known_for_department": "Acting",
-          "name": "زاك كريجر",
-          "original_name": "Zach Cregger",
-          "popularity": 4.6051,
-          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
-          "cast_id": 42,
-          "character": "(voice)",
-          "credit_id": "6aaada55404f1dddec099737",
-          "order": 7
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1362996,
-          "known_for_department": "Acting",
-          "name": "Emily Piggford",
-          "original_name": "Emily Piggford",
-          "popularity": 2.1678,
-          "profile_path": "/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg",
-          "cast_id": 43,
-          "character": "Dr. Maria Stokes",
-          "credit_id": "6aaada922ae626a92756ca1f",
-          "order": 8
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1221073,
-          "known_for_department": "Acting",
-          "name": "Will Merrick",
-          "original_name": "Will Merrick",
-          "popularity": 1.2842,
-          "profile_path": "/3IVuzHqE8FIBV679o4VGrZInpsE.jpg",
-          "cast_id": 44,
-          "character": "Dave",
-          "credit_id": "6aaadaa61f02124df13dbd88",
-          "order": 9
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 5848547,
-          "known_for_department": "Acting",
-          "name": "Zoé Bellas",
-          "original_name": "Zoé Bellas",
-          "popularity": 1.037,
-          "profile_path": "/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg",
-          "cast_id": 45,
-          "character": "Birdie",
-          "credit_id": "6aaadab184183119983dbd8b",
-          "order": 10
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1548222,
-          "known_for_department": "Acting",
-          "name": "Chris Lew Kum Hoi",
-          "original_name": "Chris Lew Kum Hoi",
-          "popularity": 0.6837,
-          "profile_path": "/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg",
-          "cast_id": 46,
-          "character": "Stanley",
-          "credit_id": "6aaadabe9481e9c18578dc97",
-          "order": 11
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 225377,
-          "known_for_department": "Acting",
-          "name": "Griffin Newman",
-          "original_name": "Griffin Newman",
-          "popularity": 1.0409,
-          "profile_path": "/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg",
-          "cast_id": 47,
-          "character": "Wade",
-          "credit_id": "6aaadbaa33ff313665f87089",
-          "order": 12
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2832950,
-          "known_for_department": "Crew",
-          "name": "Magdalena Šittová",
-          "original_name": "Magdalena Šittová",
-          "popularity": 0.5852,
-          "profile_path": "/6QDtKNoL6DXwJHpzDrvWG3rKSwa.jpg",
-          "cast_id": 48,
-          "character": "Agatha",
-          "credit_id": "6aaadbbab80452e49556ca67",
-          "order": 13
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 183729,
-          "known_for_department": "Acting",
-          "name": "Andrea Miltner",
-          "original_name": "Andrea Miltner",
-          "popularity": 0.8877,
-          "profile_path": "/oBdyio9RROvtUgauXJH6kE2dWEY.jpg",
-          "cast_id": 50,
-          "character": "Pedestrian",
-          "credit_id": "6aaadc0a90eaf606095149a1",
-          "order": 14
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 231246,
-          "known_for_department": "Acting",
-          "name": "Karel Dobrý",
-          "original_name": "Karel Dobrý",
-          "popularity": 0.8436,
-          "profile_path": "/mcvTqsqIPTVZiT4saALPljNUQ5B.jpg",
-          "cast_id": 58,
-          "character": "",
-          "credit_id": "6aacd1e7e8f48797087325b2",
-          "order": 15
-        }
-      ],
-      "crew": [
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 84833,
-          "known_for_department": "Acting",
-          "name": "زاك كريجر",
-          "original_name": "Zach Cregger",
-          "popularity": 4.6051,
-          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
-          "credit_id": "6794204025d2980fb023abc3",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 4017,
-          "known_for_department": "Production",
-          "name": "Robert Kulzer",
-          "original_name": "Robert Kulzer",
-          "popularity": 0.6076,
-          "profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
-          "credit_id": "67cb3aee05adfb9eb95b8074",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 21036,
-          "known_for_department": "Production",
-          "name": "روي لي",
-          "original_name": "Roy Lee",
-          "popularity": 0.9809,
-          "profile_path": "/7HGbsI8y3TGK8VQhN5rkaXtQnro.jpg",
-          "credit_id": "67cb3b048230b256f4f57992",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1123422,
-          "known_for_department": "Production",
-          "name": "Miri Yoon",
-          "original_name": "Miri Yoon",
-          "popularity": 1.5125,
-          "profile_path": "/kZZoOpkSvscG4YHAuUJaNGg3WTM.jpg",
-          "credit_id": "67cb3b0c05adfb9eb95b8084",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1098783,
-          "known_for_department": "Art",
-          "name": "Tom Hammock",
-          "original_name": "Tom Hammock",
-          "popularity": 0.5159,
-          "profile_path": "/mCB9AEVpATXxweHESls50ZXYOLo.jpg",
-          "credit_id": "682fc2c994584af5ae054261",
-          "department": "Art",
-          "job": "Production Design"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 53530,
-          "known_for_department": "Directing",
-          "name": "Sean Guest",
-          "original_name": "Sean Guest",
-          "popularity": 0.5715,
-          "profile_path": null,
-          "credit_id": "6890f37dfd76b2d399b23759",
-          "department": "Directing",
-          "job": "First Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 120,
-          "known_for_department": "Camera",
-          "name": "داريوش فولسكي",
-          "original_name": "Dariusz Wolski",
-          "popularity": 0.8245,
-          "profile_path": "/qnNirhrjkbi6RGdP4FZeljbjzkU.jpg",
-          "credit_id": "68bfa54cfdd786ebf99c1179",
-          "department": "Camera",
-          "job": "Director of Photography"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1691952,
-          "known_for_department": "Visual Effects",
-          "name": "Alessandro Ongaro",
-          "original_name": "Alessandro Ongaro",
-          "popularity": 0.6334,
-          "profile_path": null,
-          "credit_id": "68c04fa4d826c7d50906a938",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2457600,
-          "known_for_department": "Production",
-          "name": "Asad Qizilbash",
-          "original_name": "Asad Qizilbash",
-          "popularity": 0.6897,
-          "profile_path": "/hZdqsU1EmLsPDnW2LElvoRlSaFp.jpg",
-          "credit_id": "68caeb683cfb77f54de4fd0e",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1058615,
-          "known_for_department": "Production",
-          "name": "Carter Swan",
-          "original_name": "Carter Swan",
-          "popularity": 0.5842,
-          "profile_path": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
-          "credit_id": "68caeb6e2ee8b85a241f240a",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1950723,
-          "known_for_department": "Crew",
-          "name": "Jan Petřina",
-          "original_name": "Jan Petřina",
-          "popularity": 0.5299,
-          "profile_path": null,
-          "credit_id": "691e315ace274732a9b50266",
-          "department": "Crew",
-          "job": "Stunt Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1360848,
-          "known_for_department": "Sound",
-          "name": "Viktor Prášil",
-          "original_name": "Viktor Prášil",
-          "popularity": 0.4385,
-          "profile_path": null,
-          "credit_id": "6990e5dec8dc8a02df064dc0",
-          "department": "Sound",
-          "job": "Production Sound Mixer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1334494,
-          "known_for_department": "Art",
-          "name": "Martina Ter-Akopowá",
-          "original_name": "Martina Ter-Akopowá",
-          "popularity": 0.3271,
-          "profile_path": null,
-          "credit_id": "69bf27ac7ffc660363a24c31",
-          "department": "Art",
-          "job": "Supervising Art Director"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1721340,
-          "known_for_department": "Production",
-          "name": "Ludek Vomacka",
-          "original_name": "Ludek Vomacka",
-          "popularity": 0.4026,
-          "profile_path": null,
-          "credit_id": "69cf1671669eba65faa642b9",
-          "department": "Production",
-          "job": "Unit Production Manager"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2104243,
-          "known_for_department": "Writing",
-          "name": "شاي هتان",
-          "original_name": "Shay Hatten",
-          "popularity": 1.0363,
-          "profile_path": "/hu4OQVq5whk0C6v7B7KHCVUsmUG.jpg",
-          "credit_id": "69f386fa7a7ff60126a14ab1",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 84833,
-          "known_for_department": "Acting",
-          "name": "زاك كريجر",
-          "original_name": "Zach Cregger",
-          "popularity": 4.6051,
-          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
-          "credit_id": "69f387014796389a1f61fc1b",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 84833,
-          "known_for_department": "Acting",
-          "name": "زاك كريجر",
-          "original_name": "Zach Cregger",
-          "popularity": 4.6051,
-          "profile_path": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
-          "credit_id": "69f387357eeb00cbb312ecb3",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 674,
-          "known_for_department": "Production",
-          "name": "Oliver Berben",
-          "original_name": "Oliver Berben",
-          "popularity": 0.5452,
-          "profile_path": "/xzokTXR0FO1LGANvgUDbs4nKem1.jpg",
-          "credit_id": "69f3874dd8832e3ac312ece3",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3954,
-          "known_for_department": "Production",
-          "name": "Richard S. Wright",
-          "original_name": "Richard S. Wright",
-          "popularity": 0.5534,
-          "profile_path": null,
-          "credit_id": "69f3875ec38c559c3a12ecc2",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3959,
-          "known_for_department": "Production",
-          "name": "Robert Bernacchi",
-          "original_name": "Robert Bernacchi",
-          "popularity": 0.6314,
-          "profile_path": null,
-          "credit_id": "69f387676a5fff34b8a14b2f",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 373986,
-          "known_for_department": "Visual Effects",
-          "name": "Brice R. Parker",
-          "original_name": "Brice R. Parker",
-          "popularity": 0.49,
-          "profile_path": null,
-          "credit_id": "69f528f35539a979231ab560",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 373986,
-          "known_for_department": "Visual Effects",
-          "name": "Brice R. Parker",
-          "original_name": "Brice R. Parker",
-          "popularity": 0.49,
-          "profile_path": null,
-          "credit_id": "69f528f8236fd639cb87e470",
-          "department": "Production",
-          "job": "Associate Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2504586,
-          "known_for_department": "Visual Effects",
-          "name": "Carolyn Shea",
-          "original_name": "Carolyn Shea",
-          "popularity": 0.3366,
-          "profile_path": null,
-          "credit_id": "69f5297a360bfde04487e55b",
-          "department": "Visual Effects",
-          "job": "Visual Effects Production Manager"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1457329,
-          "known_for_department": "Visual Effects",
-          "name": "Kevin Andrew Smith",
-          "original_name": "Kevin Andrew Smith",
-          "popularity": 0.7027,
-          "profile_path": "/7HDtq3d0uPjmBpJIB7fXtdljQpQ.jpg",
-          "credit_id": "69f52988fab26a8f65c05a86",
-          "department": "Visual Effects",
-          "job": "Visual Effects Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1496396,
-          "known_for_department": "Editing",
-          "name": "Joe Murphy",
-          "original_name": "Joe Murphy",
-          "popularity": 0.3724,
-          "profile_path": null,
-          "credit_id": "6a02879215d7006139fb831c",
-          "department": "Editing",
-          "job": "Editor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1424621,
-          "known_for_department": "Visual Effects",
-          "name": "Eric Reynolds",
-          "original_name": "Eric Reynolds",
-          "popularity": 0.4893,
-          "profile_path": null,
-          "credit_id": "6a05ffad24f3081bb0e3c3fe",
-          "department": "Visual Effects",
-          "job": "Animation Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 6213509,
-          "known_for_department": "Visual Effects",
-          "name": "Janet Walters",
-          "original_name": "Janet Walters",
-          "popularity": 0.5883,
-          "profile_path": null,
-          "credit_id": "6a0600401706d291f0580770",
-          "department": "Visual Effects",
-          "job": "Visual Effects Producer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2379291,
-          "known_for_department": "Sound",
-          "name": "Hays Holladay",
-          "original_name": "Hays Holladay",
-          "popularity": 0.3524,
-          "profile_path": null,
-          "credit_id": "6aab30e6c01ced18e1c533db",
-          "department": "Sound",
-          "job": "Original Music Composer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2379292,
-          "known_for_department": "Sound",
-          "name": "Ryan Holladay",
-          "original_name": "Ryan Holladay",
-          "popularity": 0.391,
-          "profile_path": null,
-          "credit_id": "6aab30f592915c3ed2180ad3",
-          "department": "Sound",
-          "job": "Original Music Composer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4425181,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Caroline Fahrer",
-          "original_name": "Caroline Fahrer",
-          "popularity": 0.3255,
-          "profile_path": null,
-          "credit_id": "6aab311093e3a644f345eeed",
-          "department": "Costume & Make-Up",
-          "job": "Costume Design"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1559163,
-          "known_for_department": "Visual Effects",
-          "name": "Nathan Abbot",
-          "original_name": "Nathan Abbot",
-          "popularity": 0.393,
-          "profile_path": null,
-          "credit_id": "6aac4b2266a92581db3cbfb6",
-          "department": "Visual Effects",
-          "job": "Compositing Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1473448,
-          "known_for_department": "Camera",
-          "name": "James Goldman",
-          "original_name": "James Goldman",
-          "popularity": 0.7491,
-          "profile_path": null,
-          "credit_id": "6aac4b5b5f585dd5f10c12ac",
-          "department": "Camera",
-          "job": "\"A\" Camera Operator"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 31516,
-          "known_for_department": "Production",
-          "name": "Victor Hadida",
-          "original_name": "Victor Hadida",
-          "popularity": 0.7762,
-          "profile_path": "/6wk7SIcR3UA5NZ2V1nQeaYG8ByH.jpg",
-          "credit_id": "6aac5038196a4ca3460c12c0",
-          "department": "Production",
-          "job": "Executive Producer"
-        }
-      ]
-    },
-    "genre_ids": [
-      27,
-      878,
-      12
-    ],
-    "media_type": "movie",
-    "title_en": "الشر المقيم",
-    "overview_en": "A hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town",
-    "cast": [
-      {
-        "name": "أوستن أبرامز",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5S7ahFPQk4NUh8GTwp8zZlUQNFs.jpg"
-      },
-      {
-        "name": "زَاكْ تْشَرّي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
-      },
-      {
-        "name": "Kali Reis",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
-      },
-      {
-        "name": "باول والتر هوزر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
-      },
-      {
-        "name": "Johnno Wilson",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
-      },
-      {
-        "name": "Shaun W Loeser",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
-      },
-      {
-        "name": "Devon Deshaun Stewart",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/qZ5BMtEva7XEEdO3BpB9pCPzqMx.jpg"
-      },
-      {
-        "name": "زاك كريجر",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
-      }
-    ],
-    "date_added": 1789731582415
+    "date_added": 1789747128509
   },
   {
     "adult": false,
@@ -29588,8 +29588,8 @@
     "tagline": "",
     "title": "العداءة",
     "video": false,
-    "vote_average": 6.772,
-    "vote_count": 503,
+    "vote_average": 6.786,
+    "vote_count": 508,
     "translations": {
       "translations": [
         {
@@ -32329,7 +32329,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hwlsIMEImnpOc046cROxtVyJ2Ao.jpg"
       }
     ],
-    "date_added": 1789731582429
+    "date_added": 1789747128513
   },
   {
     "adult": false,
@@ -32408,7 +32408,7 @@
     "title": "விஸ்வநாத் சன்ஸ்",
     "video": false,
     "vote_average": 7.2,
-    "vote_count": 25,
+    "vote_count": 26,
     "translations": {
       "translations": [
         {
@@ -33741,7 +33741,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/be0atwoQTudy7WaVCNwWbQuxjvG.jpg"
       }
     ],
-    "date_added": 1789731582443
+    "date_added": 1789747128517
   },
   {
     "adult": false,
@@ -35804,7 +35804,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fa2IjUgmUrFLxGXkemSrl92r7J2.jpg"
       }
     ],
-    "date_added": 1789731582457
+    "date_added": 1789747128522
   },
   {
     "adult": false,
@@ -35878,8 +35878,8 @@
     "tagline": "صداقة مضطربة تحت راية الخطر.",
     "title": "Mayday",
     "video": false,
-    "vote_average": 7.992,
-    "vote_count": 652,
+    "vote_average": 7.989,
+    "vote_count": 655,
     "translations": {
       "translations": [
         {
@@ -40059,7 +40059,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
       }
     ],
-    "date_added": 1789731582471
+    "date_added": 1789747128526
   },
   {
     "adult": false,
@@ -40139,8 +40139,8 @@
     "tagline": "مرحبًا! هيا بنا نلعب!",
     "title": "حكاية لعبة ٥",
     "video": false,
-    "vote_average": 8.356,
-    "vote_count": 2173,
+    "vote_average": 8.355,
+    "vote_count": 2176,
     "translations": {
       "translations": [
         {
@@ -42351,7 +42351,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4TvVJYo8gEks8cegfNoZogXJgp2.jpg"
       }
     ],
-    "date_added": 1789731582486
+    "date_added": 1789747128530
   },
   {
     "adult": false,
@@ -42431,7 +42431,7 @@
     "title": "هوس",
     "video": false,
     "vote_average": 8.195,
-    "vote_count": 5566,
+    "vote_count": 5567,
     "translations": {
       "translations": [
         {
@@ -45216,7 +45216,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1789731582500
+    "date_added": 1789747128533
   },
   {
     "adult": false,
@@ -46079,7 +46079,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jkQwV1jOwCCI5uTe99dS4ZfYc9p.jpg"
       }
     ],
-    "date_added": 1789731582588
+    "date_added": 1789747128590
   },
   {
     "adult": false,
@@ -47732,7 +47732,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1789731582603
+    "date_added": 1789747128595
   },
   {
     "adult": false,
@@ -50113,7 +50113,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
       }
     ],
-    "date_added": 1789731582618
+    "date_added": 1789747128600
   },
   {
     "adult": false,
@@ -50163,13 +50163,7 @@
     "revenue": 0,
     "runtime": 106,
     "softcore": false,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
+    "spoken_languages": [],
     "status": "Released",
     "tagline": "",
     "title": "Rage of Stars",
@@ -51150,7 +51144,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582632
+    "date_added": 1789747128648
   },
   {
     "adult": false,
@@ -52273,7 +52267,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ohFw8S6Ff7lY8x26DMktBoZdifL.jpg"
       }
     ],
-    "date_added": 1789731582656
+    "date_added": 1789747128653
   },
   {
     "adult": false,
@@ -54616,7 +54610,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/92UnW3XPciP9jPHhVIdn8m3TbiJ.jpg"
       }
     ],
-    "date_added": 1789731582696
+    "date_added": 1789747128670
   },
   {
     "adult": false,
@@ -56071,7 +56065,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg"
       }
     ],
-    "date_added": 1789731582737
+    "date_added": 1789747128673
   },
   {
     "adult": false,
@@ -57233,6 +57227,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 16938,
+          "known_for_department": "Directing",
+          "name": "Renny Harlin",
+          "original_name": "Renny Harlin",
+          "popularity": 2.0967,
+          "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+          "credit_id": "6462939a0f365500e20c4f18",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 57756,
           "known_for_department": "Acting",
           "name": "Gene Simmons",
@@ -57255,19 +57262,6 @@
           "credit_id": "646293c0a67254014367b883",
           "department": "Production",
           "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 16938,
-          "known_for_department": "Directing",
-          "name": "Renny Harlin",
-          "original_name": "Renny Harlin",
-          "popularity": 2.0967,
-          "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
-          "credit_id": "6462939a0f365500e20c4f18",
-          "department": "Directing",
-          "job": "Director"
         },
         {
           "adult": false,
@@ -57788,7 +57782,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
       }
     ],
-    "date_added": 1789731582752
+    "date_added": 1789747128677
   },
   {
     "adult": false,
@@ -58988,7 +58982,7 @@
           "name": "Drew Goddard",
           "original_name": "Drew Goddard",
           "popularity": 1.0782,
-          "profile_path": "/rcxxyIGDgPkXVgAQb9LLXfR89pv.jpg",
+          "profile_path": "/2ff2wbCu0kc61JDHgBiPSqtb3e3.jpg",
           "credit_id": "6622545f78570e017e1171c5",
           "department": "Production",
           "job": "Executive Producer"
@@ -59183,7 +59177,7 @@
           "name": "Drew Goddard",
           "original_name": "Drew Goddard",
           "popularity": 1.0782,
-          "profile_path": "/rcxxyIGDgPkXVgAQb9LLXfR89pv.jpg",
+          "profile_path": "/2ff2wbCu0kc61JDHgBiPSqtb3e3.jpg",
           "credit_id": "66e06a5b919e4a20abba3241",
           "department": "Writing",
           "job": "Screenplay"
@@ -64725,7 +64719,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bU4Twfk4as290gPFouByj7Wjd2.jpg"
       }
     ],
-    "date_added": 1789731582805
+    "date_added": 1789747128683
   },
   {
     "adult": false,
@@ -64795,22 +64789,10 @@
         "origin_country": "IT"
       },
       {
-        "id": 13839,
-        "logo_path": "/125UdB9wgDkY2RNpjgCiKyk3Dll.png",
-        "name": "Metafilms",
-        "origin_country": "CA"
-      },
-      {
         "id": 251066,
         "logo_path": null,
         "name": "In Bloom",
         "origin_country": "IT"
-      },
-      {
-        "id": 244902,
-        "logo_path": "/e1OAXOyxwCHaFUdXIoNboz0XNwI.png",
-        "name": "UK Global Screen Fund",
-        "origin_country": "GB"
       },
       {
         "id": 187321,
@@ -64825,22 +64807,10 @@
         "origin_country": "GB"
       },
       {
-        "id": 239839,
-        "logo_path": "/2ZzqmXCXNvdGi5lkCCORKFYH2T5.png",
-        "name": "Fremantle",
-        "origin_country": "GB"
-      },
-      {
         "id": 289340,
         "logo_path": null,
         "name": "Rosebushpruning",
         "origin_country": "ES"
-      },
-      {
-        "id": 309458,
-        "logo_path": null,
-        "name": "SCoT(T)",
-        "origin_country": "FR"
       }
     ],
     "production_countries": [
@@ -64874,7 +64844,7 @@
       }
     ],
     "release_date": "2026-04-23",
-    "revenue": 0,
+    "revenue": 85294,
     "runtime": 95,
     "softcore": false,
     "spoken_languages": [
@@ -64954,7 +64924,7 @@
             "overview": "W luksusowej willi pod katalońskim słońcem, rodzeństwo z Ameryki, Jack, Ed, Anna i Robert, żyją w odosobnieniu i odziedziczonym majątku, unikając wymagań niewidomego ojca i szukając miłości i uznania w sobie nawzajem i w najnowszych markowych ubraniach. Kiedy Jack, najstarszy brat i filar rodziny, ogłasza, że ​​przeprowadza się do swojej dziewczyny Marthy, więzy krwi zostają zerwane, a Ed jest zmuszony odkryć prawdę o śmierci matki. Kłamstwa pokoleniowe zaczynają się ujawniać, a struktura tej rodziny powoli się rozpada. Zjadliwa satyra na absurd tradycyjnej, patriarchalnej rodziny.",
             "runtime": 97,
             "tagline": "Ludzie są jak róże. Rodziny są jak krzewy róż. Krzewy róż wymagają przycinania.",
-            "title": "Rosebush Pruning"
+            "title": "Jak przycinać róże"
           }
         },
         {
@@ -65915,7 +65885,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hSkjzOfvRQ8DUJdhWveIKgRlyXb.jpg"
       }
     ],
-    "date_added": 1789731582830
+    "date_added": 1789747128688
   },
   {
     "adult": false,
@@ -66085,7 +66055,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mqxT6ZeRwleXsfsk44pA1a28uDf.jpg"
       }
     ],
-    "date_added": 1789731582897
+    "date_added": 1789747128724
   },
   {
     "adult": false,
@@ -68175,7 +68145,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/XcJAw0P7bPE9ET52P4fZ2hdokk.jpg"
       }
     ],
-    "date_added": 1789731582949
+    "date_added": 1789747128729
   },
   {
     "adult": false,
@@ -69024,7 +68994,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731582963
+    "date_added": 1789747128733
   },
   {
     "adult": false,
@@ -73547,7 +73517,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
       }
     ],
-    "date_added": 1789731583011
+    "date_added": 1789747128749
   },
   {
     "adult": false,
@@ -75310,7 +75280,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
       }
     ],
-    "date_added": 1789731583060
+    "date_added": 1789747128754
   },
   {
     "adult": false,
@@ -85717,7 +85687,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
       }
     ],
-    "date_added": 1789731583078
+    "date_added": 1789747128760
   },
   {
     "adult": false,
@@ -87034,7 +87004,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9f2p2T61K4pIvKQMLRlow8znkXU.jpg"
       }
     ],
-    "date_added": 1789731583093
+    "date_added": 1789747128765
   },
   {
     "adult": false,
@@ -87513,7 +87483,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5ZaMAvEZo0teBFPOFw1BOTxBQe1.jpg"
       }
     ],
-    "date_added": 1789731583136
+    "date_added": 1789747128778
   },
   {
     "adult": false,
@@ -91042,7 +91012,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1789731583151
+    "date_added": 1789747128781
   },
   {
     "adult": false,
@@ -91480,7 +91450,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9iJdwxJUJSIts1EoE5Of1vpjolm.jpg"
       }
     ],
-    "date_added": 1789731583199
+    "date_added": 1789747128819
   },
   {
     "adult": false,
@@ -93175,7 +93145,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/AmeKWIanHlHYEDXpDfySEk95Myo.jpg"
       }
     ],
-    "date_added": 1789731583311
+    "date_added": 1789747128827
   },
   {
     "adult": false,
@@ -93887,6 +93857,7 @@
       ]
     },
     "credits": {
+      "id": 218,
       "cast": [
         {
           "adult": false,
@@ -94564,19 +94535,6 @@
       "crew": [
         {
           "adult": false,
-          "gender": 2,
-          "id": 2710,
-          "known_for_department": "Directing",
-          "name": "جيمس كاميرون",
-          "original_name": "James Cameron",
-          "popularity": 4.0754,
-          "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
-          "credit_id": "52fe4228c3a36847f8008515",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 869,
           "known_for_department": "Production",
@@ -94587,32 +94545,6 @@
           "credit_id": "52fe4228c3a36847f8008545",
           "department": "Production",
           "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2720,
-          "known_for_department": "Production",
-          "name": "Derek Gibson",
-          "original_name": "Derek Gibson",
-          "popularity": 0.5171,
-          "profile_path": null,
-          "credit_id": "52fe4228c3a36847f800854b",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2721,
-          "known_for_department": "Production",
-          "name": "John Daly",
-          "original_name": "John Daly",
-          "popularity": 0.6221,
-          "profile_path": null,
-          "credit_id": "52fe4228c3a36847f8008551",
-          "department": "Production",
-          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -94643,28 +94575,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 898,
-          "known_for_department": "Editing",
-          "name": "Mark Goldblatt",
-          "original_name": "Mark Goldblatt",
-          "popularity": 0.7302,
-          "profile_path": "/9PuP0ma2BGgDyuauMQ9weWNk4t7.jpg",
-          "credit_id": "52fe4228c3a36847f8008563",
-          "department": "Editing",
-          "job": "Editor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2724,
-          "known_for_department": "Production",
-          "name": "Stanzi Stokes",
-          "original_name": "Stanzi Stokes",
-          "popularity": 0.4962,
-          "profile_path": null,
-          "credit_id": "52fe4228c3a36847f8008569",
-          "department": "Production",
-          "job": "Casting"
+          "id": 2710,
+          "known_for_department": "Directing",
+          "name": "جيمس كاميرون",
+          "original_name": "James Cameron",
+          "popularity": 4.0754,
+          "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+          "credit_id": "52fe4228c3a36847f8008515",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -94678,6 +94597,45 @@
           "credit_id": "52fe4228c3a36847f8008573",
           "department": "Writing",
           "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 898,
+          "known_for_department": "Editing",
+          "name": "Mark Goldblatt",
+          "original_name": "Mark Goldblatt",
+          "popularity": 0.7302,
+          "profile_path": "/9PuP0ma2BGgDyuauMQ9weWNk4t7.jpg",
+          "credit_id": "52fe4228c3a36847f8008563",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2721,
+          "known_for_department": "Production",
+          "name": "John Daly",
+          "original_name": "John Daly",
+          "popularity": 0.6221,
+          "profile_path": null,
+          "credit_id": "52fe4228c3a36847f8008551",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2724,
+          "known_for_department": "Production",
+          "name": "Stanzi Stokes",
+          "original_name": "Stanzi Stokes",
+          "popularity": 0.4962,
+          "profile_path": null,
+          "credit_id": "52fe4228c3a36847f8008569",
+          "department": "Production",
+          "job": "Casting"
         },
         {
           "adult": false,
@@ -94695,15 +94653,28 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 45090,
-          "known_for_department": "Art",
-          "name": "George Costello",
-          "original_name": "George Costello",
-          "popularity": 0.6947,
+          "id": 2720,
+          "known_for_department": "Production",
+          "name": "Derek Gibson",
+          "original_name": "Derek Gibson",
+          "popularity": 0.5171,
           "profile_path": null,
-          "credit_id": "537a1ef7c3a3681cdf000046",
-          "department": "Art",
-          "job": "Art Direction"
+          "credit_id": "52fe4228c3a36847f800854b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22107,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Deborah Everton",
+          "original_name": "Deborah Everton",
+          "popularity": 0.5936,
+          "profile_path": "/5VwTUOm9iDxVhFrmtf4bmQi2QYT.jpg",
+          "credit_id": "537a1fa1c3a3681cef00004b",
+          "department": "Costume & Make-Up",
+          "job": "Costume Supervisor"
         },
         {
           "adult": false,
@@ -94721,6 +94692,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 45090,
+          "known_for_department": "Art",
+          "name": "George Costello",
+          "original_name": "George Costello",
+          "popularity": 0.6947,
+          "profile_path": null,
+          "credit_id": "537a1ef7c3a3681cdf000046",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 3995,
           "known_for_department": "Costume & Make-Up",
           "name": "Jeff Dawn",
@@ -94733,16 +94717,81 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 22107,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Deborah Everton",
-          "original_name": "Deborah Everton",
-          "popularity": 0.5936,
-          "profile_path": "/5VwTUOm9iDxVhFrmtf4bmQi2QYT.jpg",
-          "credit_id": "537a1fa1c3a3681cef00004b",
-          "department": "Costume & Make-Up",
-          "job": "Costume Supervisor"
+          "gender": 2,
+          "id": 74978,
+          "known_for_department": "Sound",
+          "name": "Terry Porter",
+          "original_name": "Terry Porter",
+          "popularity": 0.6148,
+          "profile_path": null,
+          "credit_id": "544e21d9c3a36872cc003d9b",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 74976,
+          "known_for_department": "Sound",
+          "name": "Mel Metcalfe",
+          "original_name": "Mel Metcalfe",
+          "popularity": 0.7212,
+          "profile_path": null,
+          "credit_id": "544e21c20e0a2608d000447c",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1314343,
+          "known_for_department": "Editing",
+          "name": "David Campling",
+          "original_name": "David Campling",
+          "popularity": 0.6295,
+          "profile_path": null,
+          "credit_id": "544e211ac3a36872cc003d89",
+          "department": "Sound",
+          "job": "Supervising Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1378195,
+          "known_for_department": "Art",
+          "name": "Amy McGary",
+          "original_name": "Amy McGary",
+          "popularity": 0.5305,
+          "profile_path": null,
+          "credit_id": "544e207bc3a3682427001ad8",
+          "department": "Crew",
+          "job": "Scenic Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1378197,
+          "known_for_department": "Art",
+          "name": "Gary Schoeneck",
+          "original_name": "Gary Schoeneck",
+          "popularity": 0.3816,
+          "profile_path": null,
+          "credit_id": "544e20a3c3a3682424001b53",
+          "department": "Art",
+          "job": "Leadman"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 102339,
+          "known_for_department": "Art",
+          "name": "Ernest Farino",
+          "original_name": "Ernest Farino",
+          "popularity": 0.794,
+          "profile_path": null,
+          "credit_id": "544e220cc3a36872e000479f",
+          "department": "Crew",
+          "job": "Special Effects Coordinator"
         },
         {
           "adult": false,
@@ -94756,6 +94805,19 @@
           "credit_id": "544e1faac3a36872bc004612",
           "department": "Costume & Make-Up",
           "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1378196,
+          "known_for_department": "Art",
+          "name": "Kristen McGary",
+          "original_name": "Kristen McGary",
+          "popularity": 0.5045,
+          "profile_path": null,
+          "credit_id": "544e208dc3a3682427001adf",
+          "department": "Crew",
+          "job": "Scenic Artist"
         },
         {
           "adult": false,
@@ -94785,42 +94847,16 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 1378195,
-          "known_for_department": "Art",
-          "name": "Amy McGary",
-          "original_name": "Amy McGary",
-          "popularity": 0.5305,
+          "gender": 2,
+          "id": 1378201,
+          "known_for_department": "Sound",
+          "name": "John Post",
+          "original_name": "John Post",
+          "popularity": 0.7398,
           "profile_path": null,
-          "credit_id": "544e207bc3a3682427001ad8",
-          "department": "Crew",
-          "job": "Scenic Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1378196,
-          "known_for_department": "Art",
-          "name": "Kristen McGary",
-          "original_name": "Kristen McGary",
-          "popularity": 0.5045,
-          "profile_path": null,
-          "credit_id": "544e208dc3a3682427001adf",
-          "department": "Crew",
-          "job": "Scenic Artist"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1378197,
-          "known_for_department": "Art",
-          "name": "Gary Schoeneck",
-          "original_name": "Gary Schoeneck",
-          "popularity": 0.3816,
-          "profile_path": null,
-          "credit_id": "544e20a3c3a3682424001b53",
-          "department": "Art",
-          "job": "Leadman"
+          "credit_id": "544e216e0e0a2608d4004389",
+          "department": "Sound",
+          "job": "Foley"
         },
         {
           "adult": false,
@@ -94838,19 +94874,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1314343,
-          "known_for_department": "Editing",
-          "name": "David Campling",
-          "original_name": "David Campling",
-          "popularity": 0.6295,
-          "profile_path": null,
-          "credit_id": "544e211ac3a36872cc003d89",
-          "department": "Sound",
-          "job": "Supervising Sound Editor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1378199,
           "known_for_department": "Sound",
           "name": "Gordon Daniel",
@@ -94858,19 +94881,6 @@
           "popularity": 0.457,
           "profile_path": "/2M1HP8CEUQ2g9NvlulkfWXFkz5V.jpg",
           "credit_id": "544e2145c3a36872b4004510",
-          "department": "Sound",
-          "job": "Foley"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1378201,
-          "known_for_department": "Sound",
-          "name": "John Post",
-          "original_name": "John Post",
-          "popularity": 0.7398,
-          "profile_path": null,
-          "credit_id": "544e216e0e0a2608d4004389",
           "department": "Sound",
           "job": "Foley"
         },
@@ -94890,58 +94900,6 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 74976,
-          "known_for_department": "Sound",
-          "name": "Mel Metcalfe",
-          "original_name": "Mel Metcalfe",
-          "popularity": 0.7212,
-          "profile_path": null,
-          "credit_id": "544e21c20e0a2608d000447c",
-          "department": "Sound",
-          "job": "Sound Re-Recording Mixer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 74978,
-          "known_for_department": "Sound",
-          "name": "Terry Porter",
-          "original_name": "Terry Porter",
-          "popularity": 0.6148,
-          "profile_path": null,
-          "credit_id": "544e21d9c3a36872cc003d9b",
-          "department": "Sound",
-          "job": "Sound Re-Recording Mixer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 102339,
-          "known_for_department": "Art",
-          "name": "Ernest Farino",
-          "original_name": "Ernest Farino",
-          "popularity": 0.794,
-          "profile_path": null,
-          "credit_id": "544e220cc3a36872e000479f",
-          "department": "Crew",
-          "job": "Special Effects Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1378202,
-          "known_for_department": "Crew",
-          "name": "Ken Fritz",
-          "original_name": "Ken Fritz",
-          "popularity": 0.4395,
-          "profile_path": null,
-          "credit_id": "544e22ab0e0a2608c500443c",
-          "department": "Crew",
-          "job": "Stunt Coordinator"
-        },
-        {
-          "adult": false,
-          "gender": 0,
           "id": 1378203,
           "known_for_department": "Lighting",
           "name": "Dennis Bishop",
@@ -94951,45 +94909,6 @@
           "credit_id": "544e22f60e0a2608c80046b2",
           "department": "Lighting",
           "job": "Gaffer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1378204,
-          "known_for_department": "Lighting",
-          "name": "Tim Morton",
-          "original_name": "Tim Morton",
-          "popularity": 0.4632,
-          "profile_path": null,
-          "credit_id": "544e23360e0a2608bb0046a0",
-          "department": "Lighting",
-          "job": "Best Boy Electric"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 74992,
-          "known_for_department": "Camera",
-          "name": "Joyce Rudolph",
-          "original_name": "Joyce Rudolph",
-          "popularity": 0.3835,
-          "profile_path": null,
-          "credit_id": "544e234bc3a36872bc00469d",
-          "department": "Camera",
-          "job": "Still Photographer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1378206,
-          "known_for_department": "Sound",
-          "name": "Emilie Robertson",
-          "original_name": "Emilie Robertson",
-          "popularity": 0.5315,
-          "profile_path": null,
-          "credit_id": "544e23850e0a2608d40043d4",
-          "department": "Sound",
-          "job": "Music Editor"
         },
         {
           "adult": false,
@@ -95019,6 +94938,32 @@
         },
         {
           "adult": false,
+          "gender": 0,
+          "id": 1378206,
+          "known_for_department": "Sound",
+          "name": "Emilie Robertson",
+          "original_name": "Emilie Robertson",
+          "popularity": 0.5315,
+          "profile_path": null,
+          "credit_id": "544e23850e0a2608d40043d4",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1378202,
+          "known_for_department": "Crew",
+          "name": "Ken Fritz",
+          "original_name": "Ken Fritz",
+          "popularity": 0.4395,
+          "profile_path": null,
+          "credit_id": "544e22ab0e0a2608c500443c",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
           "gender": 2,
           "id": 1378211,
           "known_for_department": "Production",
@@ -95029,6 +94974,58 @@
           "credit_id": "544e2402c3a36872bc0046bd",
           "department": "Production",
           "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 74992,
+          "known_for_department": "Camera",
+          "name": "Joyce Rudolph",
+          "original_name": "Joyce Rudolph",
+          "popularity": 0.3835,
+          "profile_path": null,
+          "credit_id": "544e234bc3a36872bc00469d",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1378204,
+          "known_for_department": "Lighting",
+          "name": "Tim Morton",
+          "original_name": "Tim Morton",
+          "popularity": 0.4632,
+          "profile_path": null,
+          "credit_id": "544e23360e0a2608bb0046a0",
+          "department": "Lighting",
+          "job": "Best Boy Electric"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2020454,
+          "known_for_department": "Sound",
+          "name": "Horace Manzanares",
+          "original_name": "Horace Manzanares",
+          "popularity": 0.4361,
+          "profile_path": null,
+          "credit_id": "619438fdc8f85800623d451c",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4714,
+          "known_for_department": "Sound",
+          "name": "Greg Dillon",
+          "original_name": "Greg Dillon",
+          "popularity": 0.4498,
+          "profile_path": null,
+          "credit_id": "6194397241465c002abe7786",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
         },
         {
           "adult": false,
@@ -95059,13 +95056,13 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 2020454,
+          "id": 1054,
           "known_for_department": "Sound",
-          "name": "Horace Manzanares",
-          "original_name": "Horace Manzanares",
-          "popularity": 0.4361,
+          "name": "James Fritch",
+          "original_name": "James Fritch",
+          "popularity": 0.5656,
           "profile_path": null,
-          "credit_id": "619438fdc8f85800623d451c",
+          "credit_id": "6194396576eecf0043ec3852",
           "department": "Sound",
           "job": "Sound Effects Editor"
         },
@@ -95097,32 +95094,6 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 1054,
-          "known_for_department": "Sound",
-          "name": "James Fritch",
-          "original_name": "James Fritch",
-          "popularity": 0.5656,
-          "profile_path": null,
-          "credit_id": "6194396576eecf0043ec3852",
-          "department": "Sound",
-          "job": "Sound Effects Editor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4714,
-          "known_for_department": "Sound",
-          "name": "Greg Dillon",
-          "original_name": "Greg Dillon",
-          "popularity": 0.4498,
-          "profile_path": null,
-          "credit_id": "6194397241465c002abe7786",
-          "department": "Sound",
-          "job": "Sound Effects Editor"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 1456721,
           "known_for_department": "Crew",
@@ -95133,6 +95104,32 @@
           "credit_id": "56afa1e8c3a368317a000532",
           "department": "Crew",
           "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1258399,
+          "known_for_department": "Production",
+          "name": "Bruce M. Kerner",
+          "original_name": "Bruce M. Kerner",
+          "popularity": 0.5891,
+          "profile_path": null,
+          "credit_id": "56b0e5409251412eb30004c4",
+          "department": "Production",
+          "job": "Executive In Charge Of Production"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1116736,
+          "known_for_department": "Production",
+          "name": "Donna Smith",
+          "original_name": "Donna Smith",
+          "popularity": 0.4231,
+          "profile_path": null,
+          "credit_id": "56b0e60d9251412eb30004e4",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
         },
         {
           "adult": false,
@@ -95163,32 +95160,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1258399,
-          "known_for_department": "Production",
-          "name": "Bruce M. Kerner",
-          "original_name": "Bruce M. Kerner",
-          "popularity": 0.5891,
-          "profile_path": null,
-          "credit_id": "56b0e5409251412eb30004c4",
-          "department": "Production",
-          "job": "Executive In Charge Of Production"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1116736,
-          "known_for_department": "Production",
-          "name": "Donna Smith",
-          "original_name": "Donna Smith",
-          "popularity": 0.4231,
-          "profile_path": null,
-          "credit_id": "56b0e60d9251412eb30004e4",
-          "department": "Crew",
-          "job": "Post Production Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1159421,
           "known_for_department": "Acting",
           "name": "Greg Robbins",
@@ -95198,19 +95169,6 @@
           "credit_id": "56b0e87b925141407400033b",
           "department": "Production",
           "job": "Casting"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1424531,
-          "known_for_department": "Sound",
-          "name": "Lorna Anderson",
-          "original_name": "Lorna Anderson",
-          "popularity": 0.3729,
-          "profile_path": null,
-          "credit_id": "56b0e904c3a368620600054e",
-          "department": "Editing",
-          "job": "First Assistant Editor"
         },
         {
           "adult": false,
@@ -95237,6 +95195,19 @@
           "credit_id": "56b0eaeac3a3686217000599",
           "department": "Crew",
           "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1424531,
+          "known_for_department": "Sound",
+          "name": "Lorna Anderson",
+          "original_name": "Lorna Anderson",
+          "popularity": 0.3729,
+          "profile_path": null,
+          "credit_id": "56b0e904c3a368620600054e",
+          "department": "Editing",
+          "job": "First Assistant Editor"
         },
         {
           "adult": false,
@@ -95306,19 +95277,6 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 1619537,
-          "known_for_department": "Camera",
-          "name": "Chuck Colwell",
-          "original_name": "Chuck Colwell",
-          "popularity": 0.5291,
-          "profile_path": null,
-          "credit_id": "5a5b7c519251413f74021226",
-          "department": "Camera",
-          "job": "Second Unit Director of Photography"
-        },
-        {
-          "adult": false,
-          "gender": 0,
           "id": 1420714,
           "known_for_department": "Camera",
           "name": "Sean McLin",
@@ -95328,32 +95286,6 @@
           "credit_id": "5a5b7c699251413f74021248",
           "department": "Camera",
           "job": "Camera Operator"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1959860,
-          "known_for_department": "Camera",
-          "name": "David Michels",
-          "original_name": "David Michels",
-          "popularity": 0.4154,
-          "profile_path": null,
-          "credit_id": "5a5b7cb90e0a267fe6022375",
-          "department": "Camera",
-          "job": "Dolly Grip"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1959862,
-          "known_for_department": "Lighting",
-          "name": "Mark Morton",
-          "original_name": "Mark Morton",
-          "popularity": 0.371,
-          "profile_path": null,
-          "credit_id": "5a5b7cfbc3a368680d0206e0",
-          "department": "Lighting",
-          "job": "Electrician"
         },
         {
           "adult": false,
@@ -95371,6 +95303,32 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 1959860,
+          "known_for_department": "Camera",
+          "name": "David Michels",
+          "original_name": "David Michels",
+          "popularity": 0.4154,
+          "profile_path": null,
+          "credit_id": "5a5b7cb90e0a267fe6022375",
+          "department": "Camera",
+          "job": "Dolly Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1619537,
+          "known_for_department": "Camera",
+          "name": "Chuck Colwell",
+          "original_name": "Chuck Colwell",
+          "popularity": 0.5291,
+          "profile_path": null,
+          "credit_id": "5a5b7c519251413f74021226",
+          "department": "Camera",
+          "job": "Second Unit Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 102339,
           "known_for_department": "Art",
           "name": "Ernest Farino",
@@ -95380,6 +95338,19 @@
           "credit_id": "5a5b7d9f0e0a26576701ecff",
           "department": "Art",
           "job": "Title Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1413509,
+          "known_for_department": "Visual Effects",
+          "name": "Gene Warren Jr.",
+          "original_name": "Gene Warren Jr.",
+          "popularity": 0.4861,
+          "profile_path": null,
+          "credit_id": "5a5b7e520e0a267fd7022523",
+          "department": "Visual Effects",
+          "job": "Special Effects Supervisor"
         },
         {
           "adult": false,
@@ -95396,16 +95367,16 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1413509,
-          "known_for_department": "Visual Effects",
-          "name": "Gene Warren Jr.",
-          "original_name": "Gene Warren Jr.",
-          "popularity": 0.4861,
+          "gender": 0,
+          "id": 1959862,
+          "known_for_department": "Lighting",
+          "name": "Mark Morton",
+          "original_name": "Mark Morton",
+          "popularity": 0.371,
           "profile_path": null,
-          "credit_id": "5a5b7e520e0a267fd7022523",
-          "department": "Visual Effects",
-          "job": "Special Effects Supervisor"
+          "credit_id": "5a5b7cfbc3a368680d0206e0",
+          "department": "Lighting",
+          "job": "Electrician"
         },
         {
           "adult": false,
@@ -95436,6 +95407,32 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 23285,
+          "known_for_department": "Crew",
+          "name": "Jeff Dashnaw",
+          "original_name": "Jeff Dashnaw",
+          "popularity": 0.9617,
+          "profile_path": "/5Sw0YV4U8Yg7BpN8yVX7vVc8y8x.jpg",
+          "credit_id": "648db4b6559d2200ff109f6a",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504123,
+          "known_for_department": "Acting",
+          "name": "Eddy Donno",
+          "original_name": "Eddy Donno",
+          "popularity": 0.6055,
+          "profile_path": "/rv7ALEG5UVL3lKcmtzyWZT0j57j.jpg",
+          "credit_id": "648db4f3c3c891012d5d726c",
+          "department": "Crew",
+          "job": "Stunt Driver"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 1545466,
           "known_for_department": "Crew",
           "name": "Anthony Cecere",
@@ -95448,29 +95445,42 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 3372343,
-          "known_for_department": "Crew",
-          "name": "J. Suzanne Fish",
-          "original_name": "J. Suzanne Fish",
-          "popularity": 0.302,
+          "gender": 2,
+          "id": 1204294,
+          "known_for_department": "Acting",
+          "name": "Monty Jordan",
+          "original_name": "Monty Jordan",
+          "popularity": 0.898,
           "profile_path": null,
-          "credit_id": "648db4b0559d2200ad820062",
+          "credit_id": "648db50142bf0100c7fb33a9",
+          "department": "Crew",
+          "job": "Stunt Driver"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2132303,
+          "known_for_department": "Crew",
+          "name": "Pete Turner",
+          "original_name": "Pete Turner",
+          "popularity": 0.5816,
+          "profile_path": "/k9FScWXWuZt1u0v4wsntU0lo6Xq.jpg",
+          "credit_id": "648db4e8263462010cbb9c35",
           "department": "Crew",
           "job": "Stunts"
         },
         {
           "adult": false,
           "gender": 2,
-          "id": 23285,
-          "known_for_department": "Crew",
-          "name": "Jeff Dashnaw",
-          "original_name": "Jeff Dashnaw",
-          "popularity": 0.9617,
-          "profile_path": "/5Sw0YV4U8Yg7BpN8yVX7vVc8y8x.jpg",
-          "credit_id": "648db4b6559d2200ff109f6a",
+          "id": 37029,
+          "known_for_department": "Acting",
+          "name": "Peter Kent",
+          "original_name": "Peter Kent",
+          "popularity": 1.162,
+          "profile_path": "/el1868cXV8Byu4uAUPkOrkIu9wd.jpg",
+          "credit_id": "648db517c3c891010ca4ad0f",
           "department": "Crew",
-          "job": "Stunts"
+          "job": "Stunt Double"
         },
         {
           "adult": false,
@@ -95500,68 +95510,16 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 1378202,
-          "known_for_department": "Crew",
-          "name": "Ken Fritz",
-          "original_name": "Ken Fritz",
-          "popularity": 0.4395,
-          "profile_path": null,
-          "credit_id": "648db4d6c3c891014ebd7a4f",
-          "department": "Crew",
-          "job": "Stunt Double"
-        },
-        {
-          "adult": false,
           "gender": 2,
-          "id": 184792,
+          "id": 1399638,
           "known_for_department": "Crew",
-          "name": "Gene Hartline",
-          "original_name": "Gene Hartline",
-          "popularity": 0.6775,
-          "profile_path": "/uQ63i9cXIH2rk0NEcF4uqR3szfG.jpg",
-          "credit_id": "648db4dbc2ff3d00ad01bf35",
+          "name": "Rob King",
+          "original_name": "Rob King",
+          "popularity": 0.5066,
+          "profile_path": null,
+          "credit_id": "648db51d263462012d49f76f",
           "department": "Crew",
           "job": "Stunts"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2132303,
-          "known_for_department": "Crew",
-          "name": "Pete Turner",
-          "original_name": "Pete Turner",
-          "popularity": 0.5816,
-          "profile_path": "/k9FScWXWuZt1u0v4wsntU0lo6Xq.jpg",
-          "credit_id": "648db4e8263462010cbb9c35",
-          "department": "Crew",
-          "job": "Stunts"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1504123,
-          "known_for_department": "Acting",
-          "name": "Eddy Donno",
-          "original_name": "Eddy Donno",
-          "popularity": 0.6055,
-          "profile_path": "/rv7ALEG5UVL3lKcmtzyWZT0j57j.jpg",
-          "credit_id": "648db4f3c3c891012d5d726c",
-          "department": "Crew",
-          "job": "Stunt Driver"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1204294,
-          "known_for_department": "Acting",
-          "name": "Monty Jordan",
-          "original_name": "Monty Jordan",
-          "popularity": 0.898,
-          "profile_path": null,
-          "credit_id": "648db50142bf0100c7fb33a9",
-          "department": "Crew",
-          "job": "Stunt Driver"
         },
         {
           "adult": false,
@@ -95579,41 +95537,54 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 37029,
-          "known_for_department": "Acting",
-          "name": "Peter Kent",
-          "original_name": "Peter Kent",
-          "popularity": 1.162,
-          "profile_path": "/el1868cXV8Byu4uAUPkOrkIu9wd.jpg",
-          "credit_id": "648db517c3c891010ca4ad0f",
+          "id": 138631,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Brian Wade",
+          "original_name": "Brian Wade",
+          "popularity": 0.6782,
+          "profile_path": null,
+          "credit_id": "648db55d559d2200ff109f97",
+          "department": "Costume & Make-Up",
+          "job": "Special Effects Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1378202,
+          "known_for_department": "Crew",
+          "name": "Ken Fritz",
+          "original_name": "Ken Fritz",
+          "popularity": 0.4395,
+          "profile_path": null,
+          "credit_id": "648db4d6c3c891014ebd7a4f",
           "department": "Crew",
           "job": "Stunt Double"
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1399638,
+          "gender": 0,
+          "id": 3372343,
           "known_for_department": "Crew",
-          "name": "Rob King",
-          "original_name": "Rob King",
-          "popularity": 0.5066,
+          "name": "J. Suzanne Fish",
+          "original_name": "J. Suzanne Fish",
+          "popularity": 0.302,
           "profile_path": null,
-          "credit_id": "648db51d263462012d49f76f",
+          "credit_id": "648db4b0559d2200ad820062",
           "department": "Crew",
           "job": "Stunts"
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 2443385,
+          "gender": 2,
+          "id": 184792,
           "known_for_department": "Crew",
-          "name": "Lee Waddell",
-          "original_name": "Lee Waddell",
-          "popularity": 0.7122,
-          "profile_path": null,
-          "credit_id": "648db5292f8d0900ad34870c",
+          "name": "Gene Hartline",
+          "original_name": "Gene Hartline",
+          "popularity": 0.6775,
+          "profile_path": "/uQ63i9cXIH2rk0NEcF4uqR3szfG.jpg",
+          "credit_id": "648db4dbc2ff3d00ad01bf35",
           "department": "Crew",
-          "job": "Utility Stunts"
+          "job": "Stunts"
         },
         {
           "adult": false,
@@ -95627,6 +95598,32 @@
           "credit_id": "648db5312f8d0900ad348712",
           "department": "Crew",
           "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103570,
+          "known_for_department": "Crew",
+          "name": "Roger George",
+          "original_name": "Roger George",
+          "popularity": 0.4309,
+          "profile_path": null,
+          "credit_id": "648db5c8c3c89100eb32770b",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2443385,
+          "known_for_department": "Crew",
+          "name": "Lee Waddell",
+          "original_name": "Lee Waddell",
+          "popularity": 0.7122,
+          "profile_path": null,
+          "credit_id": "648db5292f8d0900ad34870c",
+          "department": "Crew",
+          "job": "Utility Stunts"
         },
         {
           "adult": false,
@@ -95644,19 +95641,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 138631,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Brian Wade",
-          "original_name": "Brian Wade",
-          "popularity": 0.6782,
-          "profile_path": null,
-          "credit_id": "648db55d559d2200ff109f97",
-          "department": "Costume & Make-Up",
-          "job": "Special Effects Makeup Artist"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 3069928,
           "known_for_department": "Crew",
           "name": "Frank DeMarco",
@@ -95664,19 +95648,6 @@
           "popularity": 0.3059,
           "profile_path": null,
           "credit_id": "648db5b942bf01013bbcba4b",
-          "department": "Crew",
-          "job": "Special Effects"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 103570,
-          "known_for_department": "Crew",
-          "name": "Roger George",
-          "original_name": "Roger George",
-          "popularity": 0.4309,
-          "profile_path": null,
-          "credit_id": "648db5c8c3c89100eb32770b",
           "department": "Crew",
           "job": "Special Effects"
         },
@@ -95734,6 +95705,19 @@
         },
         {
           "adult": false,
+          "gender": 1,
+          "id": 1747999,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Julia Gombert",
+          "original_name": "Julia Gombert",
+          "popularity": 0.4131,
+          "profile_path": null,
+          "credit_id": "5dd6b32aaf85de00137e4261",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
           "gender": 0,
           "id": 1339197,
           "known_for_department": "Production",
@@ -95744,19 +95728,6 @@
           "credit_id": "5dd6b0f512aabc00168c5f98",
           "department": "Production",
           "job": "Production Accountant"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 2463444,
-          "known_for_department": "Production",
-          "name": "Kathy Breen",
-          "original_name": "Kathy Breen",
-          "popularity": 0.3072,
-          "profile_path": null,
-          "credit_id": "5dd6b15928723c18ad511c21",
-          "department": "Production",
-          "job": "Production Coordinator"
         },
         {
           "adult": false,
@@ -95774,15 +95745,15 @@
         {
           "adult": false,
           "gender": 0,
-          "id": 1623963,
-          "known_for_department": "Editing",
-          "name": "Michael Bloecher",
-          "original_name": "Michael Bloecher",
-          "popularity": 0.4473,
+          "id": 2463444,
+          "known_for_department": "Production",
+          "name": "Kathy Breen",
+          "original_name": "Kathy Breen",
+          "popularity": 0.3072,
           "profile_path": null,
-          "credit_id": "5dd6b24baf85de00157e3225",
-          "department": "Editing",
-          "job": "Associate Editor"
+          "credit_id": "5dd6b15928723c18ad511c21",
+          "department": "Production",
+          "job": "Production Coordinator"
         },
         {
           "adult": false,
@@ -95799,16 +95770,29 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1747999,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Julia Gombert",
-          "original_name": "Julia Gombert",
-          "popularity": 0.4131,
+          "gender": 0,
+          "id": 1623963,
+          "known_for_department": "Editing",
+          "name": "Michael Bloecher",
+          "original_name": "Michael Bloecher",
+          "popularity": 0.4473,
           "profile_path": null,
-          "credit_id": "5dd6b32aaf85de00137e4261",
-          "department": "Costume & Make-Up",
-          "job": "Costumer"
+          "credit_id": "5dd6b24baf85de00157e3225",
+          "department": "Editing",
+          "job": "Associate Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2312177,
+          "known_for_department": "Directing",
+          "name": "Robert Roda",
+          "original_name": "Robert Roda",
+          "popularity": 0.3801,
+          "profile_path": null,
+          "credit_id": "5e76072f2f3b17001150ed22",
+          "department": "Directing",
+          "job": "Second Assistant Director"
         },
         {
           "adult": false,
@@ -95822,6 +95806,32 @@
           "credit_id": "5e7607022fe2fa001013ed2d",
           "department": "Directing",
           "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1277679,
+          "known_for_department": "Acting",
+          "name": "Polly Apostolof",
+          "original_name": "Polly Apostolof",
+          "popularity": 0.4277,
+          "profile_path": null,
+          "credit_id": "5e7607a6b1f68d0012e34c03",
+          "department": "Production",
+          "job": "Assistant Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1714508,
+          "known_for_department": "Directing",
+          "name": "Sharon Kirkpatrick",
+          "original_name": "Sharon Kirkpatrick",
+          "popularity": 0.3642,
+          "profile_path": null,
+          "credit_id": "5e760769cabfe40011200b91",
+          "department": "Directing",
+          "job": "Script Supervisor"
         },
         {
           "adult": false,
@@ -95839,19 +95849,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 2312177,
-          "known_for_department": "Directing",
-          "name": "Robert Roda",
-          "original_name": "Robert Roda",
-          "popularity": 0.3801,
-          "profile_path": null,
-          "credit_id": "5e76072f2f3b17001150ed22",
-          "department": "Directing",
-          "job": "Second Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 60261,
           "known_for_department": "Crew",
           "name": "Stan Winston",
@@ -95861,32 +95858,6 @@
           "credit_id": "5e76073e357c0000114fc3a3",
           "department": "Directing",
           "job": "Second Unit Director"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1714508,
-          "known_for_department": "Directing",
-          "name": "Sharon Kirkpatrick",
-          "original_name": "Sharon Kirkpatrick",
-          "popularity": 0.3642,
-          "profile_path": null,
-          "credit_id": "5e760769cabfe40011200b91",
-          "department": "Directing",
-          "job": "Script Supervisor"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1277679,
-          "known_for_department": "Acting",
-          "name": "Polly Apostolof",
-          "original_name": "Polly Apostolof",
-          "popularity": 0.4277,
-          "profile_path": null,
-          "credit_id": "5e7607a6b1f68d0012e34c03",
-          "department": "Production",
-          "job": "Assistant Production Manager"
         },
         {
           "adult": false,
@@ -95966,7 +95937,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
       }
     ],
-    "date_added": 1789731583360
+    "date_added": 1789747128881
   },
   {
     "adult": false,
@@ -100194,7 +100165,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg"
       }
     ],
-    "date_added": 1789731583374
+    "date_added": 1789747128887
   },
   {
     "adult": false,
@@ -101694,7 +101665,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
       }
     ],
-    "date_added": 1789731583390
+    "date_added": 1789747128893
   },
   {
     "adult": false,
@@ -103979,7 +103950,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bXM7QfjA1WfLDLq3KxHQQEG5WFc.jpg"
       }
     ],
-    "date_added": 1789731583442
+    "date_added": 1789747129429
   },
   {
     "adult": false,
@@ -107445,7 +107416,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
       }
     ],
-    "date_added": 1789731583457
+    "date_added": 1789747129434
   },
   {
     "adult": false,
@@ -122228,7 +122199,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
       }
     ],
-    "date_added": 1789731583522
+    "date_added": 1789747129452
   },
   {
     "adult": false,
@@ -125155,7 +125126,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dSCcuypWkQzspAQQq4AuejMzYfo.jpg"
       }
     ],
-    "date_added": 1789731583573
+    "date_added": 1789747129457
   },
   {
     "adult": false,
@@ -129164,7 +129135,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
       }
     ],
-    "date_added": 1789731583626
+    "date_added": 1789747129496
   },
   {
     "adult": false,
@@ -130777,7 +130748,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
       }
     ],
-    "date_added": 1789731583639
+    "date_added": 1789747129499
   },
   {
     "adult": false,
@@ -132004,7 +131975,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/93IBKGgxSbgEjj0OfXhwAlpUOHk.jpg"
       }
     ],
-    "date_added": 1789731583690
+    "date_added": 1789747129533
   },
   {
     "adult": false,
@@ -132108,7 +132079,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789731583736
+    "date_added": 1789747129570
   },
   {
     "adult": false,
@@ -133480,7 +133451,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lwdf4exkA8foHw7w9SWoLHxQSzu.jpg"
       }
     ],
-    "date_added": 1789731583787
+    "date_added": 1789747129585
   },
   {
     "adult": false,
@@ -144888,7 +144859,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
       }
     ],
-    "date_added": 1789731583845
+    "date_added": 1789747129592
   },
   {
     "adult": false,
@@ -147574,7 +147545,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/46nLaoxRvXpx8ohmG7hx2Qq00Sr.jpg"
       }
     ],
-    "date_added": 1789731583895
+    "date_added": 1789747129597
   },
   {
     "adult": false,
@@ -153261,7 +153232,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
       }
     ],
-    "date_added": 1789731583944
+    "date_added": 1789747129638
   },
   {
     "adult": false,
@@ -156672,7 +156643,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
       }
     ],
-    "date_added": 1789731583992
+    "date_added": 1789747129678
   },
   {
     "adult": false,
@@ -161106,7 +161077,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
       }
     ],
-    "date_added": 1789731584049
+    "date_added": 1789747129722
   },
   {
     "adult": false,
@@ -163353,7 +163324,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
       }
     ],
-    "date_added": 1789731584095
+    "date_added": 1789747129766
   },
   {
     "adult": false,
@@ -171086,6 +171057,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oW43gBTpGzRM4ASOpgphJLVCHCa.jpg"
       }
     ],
-    "date_added": 1789731584190
+    "date_added": 1789747129787
   }
 ]
