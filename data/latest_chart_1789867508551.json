@@ -963,15 +963,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 11412,
-          "known_for_department": "Art",
-          "name": "Steve Arnold",
-          "original_name": "Steve Arnold",
-          "popularity": 0.8254,
-          "profile_path": null,
-          "credit_id": "655292a6903c52011b6a1b43",
-          "department": "Art",
-          "job": "Production Design"
+          "id": 66897,
+          "known_for_department": "Production",
+          "name": "Christopher DeFaria",
+          "original_name": "Christopher DeFaria",
+          "popularity": 0.922,
+          "profile_path": "/e7sPWVvfV9UfVNPegDlcf1z73su.jpg",
+          "credit_id": "6552921ad4fe04013980a7b4",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -985,45 +985,6 @@
           "credit_id": "6552927267b61345cf03f0d7",
           "department": "Editing",
           "job": "Editor"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1887252,
-          "known_for_department": "Writing",
-          "name": "Samy Burch",
-          "original_name": "Samy Burch",
-          "popularity": 1.1718,
-          "profile_path": "/vtIeOc09F5I6JjvLfW5HhmzXx8S.jpg",
-          "credit_id": "655291a4ea84c71094febb96",
-          "department": "Writing",
-          "job": "Screenplay"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 66897,
-          "known_for_department": "Production",
-          "name": "Christopher DeFaria",
-          "original_name": "Christopher DeFaria",
-          "popularity": 0.922,
-          "profile_path": "/e7sPWVvfV9UfVNPegDlcf1z73su.jpg",
-          "credit_id": "6552921ad4fe04013980a7b4",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1877301,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Daniela Moore",
-          "original_name": "Daniela Moore",
-          "popularity": 0.5398,
-          "profile_path": null,
-          "credit_id": "655292fa0816c700c3da06a7",
-          "department": "Costume & Make-Up",
-          "job": "Costume Design"
         },
         {
           "adult": false,
@@ -1079,29 +1040,42 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 15218,
+          "gender": 1,
+          "id": 1877301,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Daniela Moore",
+          "original_name": "Daniela Moore",
+          "popularity": 0.5398,
+          "profile_path": null,
+          "credit_id": "655292fa0816c700c3da06a7",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1887252,
           "known_for_department": "Writing",
-          "name": "جيمس غان",
-          "original_name": "James Gunn",
-          "popularity": 3.4401,
-          "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
-          "credit_id": "655296e20816c7011a0a4908",
+          "name": "Samy Burch",
+          "original_name": "Samy Burch",
+          "popularity": 1.1718,
+          "profile_path": "/vtIeOc09F5I6JjvLfW5HhmzXx8S.jpg",
+          "credit_id": "655291a4ea84c71094febb96",
           "department": "Writing",
-          "job": "Screenstory"
+          "job": "Screenplay"
         },
         {
           "adult": false,
           "gender": 2,
-          "id": 1147923,
-          "known_for_department": "Writing",
-          "name": "Jeremy Slater",
-          "original_name": "Jeremy Slater",
-          "popularity": 1.273,
-          "profile_path": "/iRey6rQs0C2Dd8HAfY6IkDnzqQu.jpg",
-          "credit_id": "655296e9ea84c7109225eed1",
-          "department": "Writing",
-          "job": "Screenstory"
+          "id": 11412,
+          "known_for_department": "Art",
+          "name": "Steve Arnold",
+          "original_name": "Steve Arnold",
+          "popularity": 0.8254,
+          "profile_path": null,
+          "credit_id": "655292a6903c52011b6a1b43",
+          "department": "Art",
+          "job": "Production Design"
         },
         {
           "adult": false,
@@ -1115,19 +1089,6 @@
           "credit_id": "655296effb5299011d9600d2",
           "department": "Writing",
           "job": "Screenstory"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 928414,
-          "known_for_department": "Production",
-          "name": "Rachel Tenner",
-          "original_name": "Rachel Tenner",
-          "popularity": 1.1036,
-          "profile_path": "/rc7y4ymAuhItKVVok7EJxxJTTZB.jpg",
-          "credit_id": "655297b1903c5200e1ef3777",
-          "department": "Production",
-          "job": "Casting"
         },
         {
           "adult": false,
@@ -1154,6 +1115,45 @@
           "credit_id": "655297a4fb5299013a6f0ea2",
           "department": "Camera",
           "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1147923,
+          "known_for_department": "Writing",
+          "name": "Jeremy Slater",
+          "original_name": "Jeremy Slater",
+          "popularity": 1.273,
+          "profile_path": "/iRey6rQs0C2Dd8HAfY6IkDnzqQu.jpg",
+          "credit_id": "655296e9ea84c7109225eed1",
+          "department": "Writing",
+          "job": "Screenstory"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15218,
+          "known_for_department": "Writing",
+          "name": "جيمس غان",
+          "original_name": "James Gunn",
+          "popularity": 3.4401,
+          "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+          "credit_id": "655296e20816c7011a0a4908",
+          "department": "Writing",
+          "job": "Screenstory"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 928414,
+          "known_for_department": "Production",
+          "name": "Rachel Tenner",
+          "original_name": "Rachel Tenner",
+          "popularity": 1.1036,
+          "profile_path": "/rc7y4ymAuhItKVVok7EJxxJTTZB.jpg",
+          "credit_id": "655297b1903c5200e1ef3777",
+          "department": "Production",
+          "job": "Casting"
         },
         {
           "adult": false,
@@ -2429,7 +2429,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
       }
     ],
-    "date_added": 1789852830424
+    "date_added": 1789867519079
   },
   {
     "adult": false,
@@ -3402,32 +3402,6 @@
       "crew": [
         {
           "adult": false,
-          "gender": 2,
-          "id": 558929,
-          "known_for_department": "Directing",
-          "name": "ديفيد روبرت ميتشيل",
-          "original_name": "David Robert Mitchell",
-          "popularity": 2.2088,
-          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
-          "credit_id": "6414a381ede1b028c599198d",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 558929,
-          "known_for_department": "Directing",
-          "name": "ديفيد روبرت ميتشيل",
-          "original_name": "David Robert Mitchell",
-          "popularity": 2.2088,
-          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
-          "credit_id": "6414a38eb4224241cf95d9ce",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 2014297,
           "known_for_department": "Production",
@@ -3438,6 +3412,32 @@
           "credit_id": "6414a40b99259c00d7069dbc",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1095252,
+          "known_for_department": "Production",
+          "name": "Matt Jackson",
+          "original_name": "Matt Jackson",
+          "popularity": 0.459,
+          "profile_path": "/l644nk8NNjv3VCknRDRzV1GpvmK.jpg",
+          "credit_id": "6414a43bb4224241cf95da0e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 62241,
+          "known_for_department": "Production",
+          "name": "Jake Weiner",
+          "original_name": "Jake Weiner",
+          "popularity": 0.6459,
+          "profile_path": "/jo8DXL0RlSpuiDgYa2mLFKpps99.jpg",
+          "credit_id": "6414a46aa6c1040082547c7a",
+          "department": "Production",
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -3468,15 +3468,28 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1095252,
-          "known_for_department": "Production",
-          "name": "Matt Jackson",
-          "original_name": "Matt Jackson",
-          "popularity": 0.459,
-          "profile_path": "/l644nk8NNjv3VCknRDRzV1GpvmK.jpg",
-          "credit_id": "6414a43bb4224241cf95da0e",
-          "department": "Production",
-          "job": "Producer"
+          "id": 558929,
+          "known_for_department": "Directing",
+          "name": "ديفيد روبرت ميتشيل",
+          "original_name": "David Robert Mitchell",
+          "popularity": 2.2088,
+          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+          "credit_id": "6414a38eb4224241cf95d9ce",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 558929,
+          "known_for_department": "Directing",
+          "name": "ديفيد روبرت ميتشيل",
+          "original_name": "David Robert Mitchell",
+          "popularity": 2.2088,
+          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+          "credit_id": "6414a381ede1b028c599198d",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -3488,19 +3501,6 @@
           "popularity": 0.8253,
           "profile_path": "/kNgEirIudu5xJfmwc9i9fN8aEJE.jpg",
           "credit_id": "6414a456266778007cbde850",
-          "department": "Production",
-          "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 62241,
-          "known_for_department": "Production",
-          "name": "Jake Weiner",
-          "original_name": "Jake Weiner",
-          "popularity": 0.6459,
-          "profile_path": "/jo8DXL0RlSpuiDgYa2mLFKpps99.jpg",
-          "credit_id": "6414a46aa6c1040082547c7a",
           "department": "Production",
           "job": "Executive Producer"
         },
@@ -5844,7 +5844,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yNqUNepmVQ462yoTnZOWVbudKeG.jpg"
       }
     ],
-    "date_added": 1789852830551
+    "date_added": 1789867519084
   },
   {
     "adult": false,
@@ -7460,7 +7460,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
       }
     ],
-    "date_added": 1789852830670
+    "date_added": 1789867519090
   },
   {
     "adult": false,
@@ -12589,7 +12589,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1789852830804
+    "date_added": 1789867519096
   },
   {
     "adult": false,
@@ -13660,7 +13660,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1789852831021
+    "date_added": 1789867519114
   },
   {
     "adult": false,
@@ -14695,19 +14695,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 976,
-          "known_for_department": "Acting",
-          "name": "جيسون ستاثام",
-          "original_name": "Jason Statham",
-          "popularity": 17.7362,
-          "profile_path": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
-          "credit_id": "663e7dd8ec544462166cc059",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 58324,
           "known_for_department": "Directing",
           "name": "Jean-François Richet",
@@ -14717,6 +14704,19 @@
           "credit_id": "663e7d2b7413cf82ad3f978a",
           "department": "Directing",
           "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 976,
+          "known_for_department": "Acting",
+          "name": "جيسون ستاثام",
+          "original_name": "Jason Statham",
+          "popularity": 17.7362,
+          "profile_path": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
+          "credit_id": "663e7dd8ec544462166cc059",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -15328,7 +15328,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1789852831141
+    "date_added": 1789867519141
   },
   {
     "adult": false,
@@ -15879,8 +15879,8 @@
             "homepage": "",
             "overview": "تستجيب موانا المراهقة لنداء المحيط، ولأول مرة، تبحر إلى ما وراء الشعاب المرجانية لجزيرتها موتوني مع نصف الإله سيئ السمعة ماوي في رحلة لا تُنسى لاستعادة الازدهار لشعبها",
             "runtime": 0,
-            "tagline": "",
-            "title": "موانا"
+            "tagline": "‏اختارها المحيط لسبب.‏",
+            "title": "فلم موانا"
           }
         },
         {
@@ -16711,6 +16711,32 @@
         },
         {
           "adult": false,
+          "gender": 2,
+          "id": 1466097,
+          "known_for_department": "Production",
+          "name": "Hiram Garcia",
+          "original_name": "Hiram Garcia",
+          "popularity": 0.7458,
+          "profile_path": "/ksMGKpOLuafSaTv68OKaYDtAJ13.jpg",
+          "credit_id": "642b470d01b1ca0113ccd192",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1039217,
+          "known_for_department": "Production",
+          "name": "Dany Garcia",
+          "original_name": "Dany Garcia",
+          "popularity": 0.9539,
+          "profile_path": "/tagn66w0Y17fq7yZz5epMa7JF5M.jpg",
+          "credit_id": "642b47288de0ae00f4c14fcb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
           "gender": 1,
           "id": 1564846,
           "known_for_department": "Acting",
@@ -16738,28 +16764,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1466097,
+          "id": 2026870,
           "known_for_department": "Production",
-          "name": "Hiram Garcia",
-          "original_name": "Hiram Garcia",
-          "popularity": 0.7458,
-          "profile_path": "/ksMGKpOLuafSaTv68OKaYDtAJ13.jpg",
-          "credit_id": "642b470d01b1ca0113ccd192",
+          "name": "Scott Sheldon",
+          "original_name": "Scott Sheldon",
+          "popularity": 0.7293,
+          "profile_path": null,
+          "credit_id": "64347791391b9c11e1494713",
           "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1039217,
-          "known_for_department": "Production",
-          "name": "Dany Garcia",
-          "original_name": "Dany Garcia",
-          "popularity": 0.9539,
-          "profile_path": "/tagn66w0Y17fq7yZz5epMa7JF5M.jpg",
-          "credit_id": "642b47288de0ae00f4c14fcb",
-          "department": "Production",
-          "job": "Producer"
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -16773,19 +16786,6 @@
           "credit_id": "6434776a9b86160114cb2143",
           "department": "Production",
           "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 2026870,
-          "known_for_department": "Production",
-          "name": "Scott Sheldon",
-          "original_name": "Scott Sheldon",
-          "popularity": 0.7293,
-          "profile_path": null,
-          "credit_id": "64347791391b9c11e1494713",
-          "department": "Production",
-          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -18710,6 +18710,32 @@
           "credit_id": "6aa06655a7a151bd04366e33",
           "department": "Production",
           "job": "Unit Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1915259,
+          "known_for_department": "Visual Effects",
+          "name": "Sidney Kombo",
+          "original_name": "Sidney Kombo",
+          "popularity": 0.5138,
+          "profile_path": "/crbHs874Kle1tBDel4iF5ijHC3W.jpg",
+          "credit_id": "6aaf22fc17174befaaf093ea",
+          "department": "Visual Effects",
+          "job": "Pre-Visualization Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1571494,
+          "known_for_department": "Visual Effects",
+          "name": "Craig Young",
+          "original_name": "Craig Young",
+          "popularity": 0.302,
+          "profile_path": null,
+          "credit_id": "6aaf230d6d1ef146cd3920b8",
+          "department": "Visual Effects",
+          "job": "Pre-Visualization Supervisor"
         }
       ]
     },
@@ -18764,7 +18790,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fDqCryVbJGSb6CPLCIxmfbN8wsV.jpg"
       }
     ],
-    "date_added": 1789852831287
+    "date_added": 1789867519158
   },
   {
     "adult": false,
@@ -19101,7 +19127,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789852831495
+    "date_added": 1789867519175
   },
   {
     "adult": false,
@@ -21904,7 +21930,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hwlsIMEImnpOc046cROxtVyJ2Ao.jpg"
       }
     ],
-    "date_added": 1789852831621
+    "date_added": 1789867519181
   },
   {
     "adult": false,
@@ -24008,7 +24034,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a0wqnZmewxpNIXi1ol9fii2CzWJ.jpg"
       }
     ],
-    "date_added": 1789852831747
+    "date_added": 1789867519187
   },
   {
     "adult": false,
@@ -25434,7 +25460,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/be0atwoQTudy7WaVCNwWbQuxjvG.jpg"
       }
     ],
-    "date_added": 1789852831960
+    "date_added": 1789867519206
   },
   {
     "adult": false,
@@ -28299,7 +28325,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1789852832086
+    "date_added": 1789867519212
   },
   {
     "adult": false,
@@ -32554,7 +32580,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
       }
     ],
-    "date_added": 1789852832212
+    "date_added": 1789867519220
   },
   {
     "adult": false,
@@ -34630,7 +34656,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fa2IjUgmUrFLxGXkemSrl92r7J2.jpg"
       }
     ],
-    "date_added": 1789852832432
+    "date_added": 1789867519241
   },
   {
     "adult": false,
@@ -35727,32 +35753,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1482026,
-          "known_for_department": "Acting",
-          "name": "Scott Chambers",
-          "original_name": "Scott Chambers",
-          "popularity": 1.0309,
-          "profile_path": "/pANsw8kWaQzSwuVmr1Em5di9u4o.jpg",
-          "credit_id": "66b36be975d97e3eb82b13a7",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 3122176,
-          "known_for_department": "Production",
-          "name": "Rhys Frake-Waterfield",
-          "original_name": "Rhys Frake-Waterfield",
-          "popularity": 1.0352,
-          "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
-          "credit_id": "66b36cec3139e04832886a89",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 3122176,
           "known_for_department": "Production",
           "name": "Rhys Frake-Waterfield",
@@ -35766,15 +35766,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1480608,
-          "known_for_department": "Production",
-          "name": "Stuart Alson",
-          "original_name": "Stuart Alson",
-          "popularity": 0.5587,
-          "profile_path": "/oqeOAcZkqiVl1BWWiDhdJ4Tx5hH.jpg",
-          "credit_id": "66b36dfbeca5552fee2b1523",
+          "id": 1482026,
+          "known_for_department": "Acting",
+          "name": "Scott Chambers",
+          "original_name": "Scott Chambers",
+          "popularity": 1.0309,
+          "profile_path": "/pANsw8kWaQzSwuVmr1Em5di9u4o.jpg",
+          "credit_id": "66b36be975d97e3eb82b13a7",
           "department": "Production",
-          "job": "Executive Producer"
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -35792,6 +35792,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 1480608,
+          "known_for_department": "Production",
+          "name": "Stuart Alson",
+          "original_name": "Stuart Alson",
+          "popularity": 0.5587,
+          "profile_path": "/oqeOAcZkqiVl1BWWiDhdJ4Tx5hH.jpg",
+          "credit_id": "66b36dfbeca5552fee2b1523",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 1491704,
           "known_for_department": "Costume & Make-Up",
           "name": "Todd Masters",
@@ -35801,6 +35814,19 @@
           "credit_id": "66b36e2c5e88f587f9a87933",
           "department": "Crew",
           "job": "Makeup Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3122176,
+          "known_for_department": "Production",
+          "name": "Rhys Frake-Waterfield",
+          "original_name": "Rhys Frake-Waterfield",
+          "popularity": 1.0352,
+          "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+          "credit_id": "66b36cec3139e04832886a89",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -36283,7 +36309,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1789852832653
+    "date_added": 1789867519259
   },
   {
     "adult": false,
@@ -38664,7 +38690,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
       }
     ],
-    "date_added": 1789852832884
+    "date_added": 1789867519284
   },
   {
     "adult": false,
@@ -40119,7 +40145,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg"
       }
     ],
-    "date_added": 1789852833003
+    "date_added": 1789867519290
   },
   {
     "adult": false,
@@ -40995,7 +41021,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jkQwV1jOwCCI5uTe99dS4ZfYc9p.jpg"
       }
     ],
-    "date_added": 1789852833217
+    "date_added": 1789867519306
   },
   {
     "adult": false,
@@ -43338,7 +43364,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/92UnW3XPciP9jPHhVIdn8m3TbiJ.jpg"
       }
     ],
-    "date_added": 1789852833441
+    "date_added": 1789867519327
   },
   {
     "adult": false,
@@ -44461,7 +44487,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ohFw8S6Ff7lY8x26DMktBoZdifL.jpg"
       }
     ],
-    "date_added": 1789852833657
+    "date_added": 1789867519360
   },
   {
     "adult": false,
@@ -45627,6 +45653,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 16938,
+          "known_for_department": "Directing",
+          "name": "Renny Harlin",
+          "original_name": "Renny Harlin",
+          "popularity": 2.0973,
+          "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+          "credit_id": "6462939a0f365500e20c4f18",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 57756,
           "known_for_department": "Acting",
           "name": "Gene Simmons",
@@ -45649,19 +45688,6 @@
           "credit_id": "646293c0a67254014367b883",
           "department": "Production",
           "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 16938,
-          "known_for_department": "Directing",
-          "name": "Renny Harlin",
-          "original_name": "Renny Harlin",
-          "popularity": 2.0973,
-          "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
-          "credit_id": "6462939a0f365500e20c4f18",
-          "department": "Directing",
-          "job": "Director"
         },
         {
           "adult": false,
@@ -46183,7 +46209,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
       }
     ],
-    "date_added": 1789852834093
+    "date_added": 1789867519393
   },
   {
     "adult": false,
@@ -47500,7 +47526,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9f2p2T61K4pIvKQMLRlow8znkXU.jpg"
       }
     ],
-    "date_added": 1789852834317
+    "date_added": 1789867519413
   },
   {
     "adult": false,
@@ -48666,7 +48692,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hSkjzOfvRQ8DUJdhWveIKgRlyXb.jpg"
       }
     ],
-    "date_added": 1789852834534
+    "date_added": 1789867519438
   },
   {
     "adult": false,
@@ -59073,7 +59099,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
       }
     ],
-    "date_added": 1789852834941
+    "date_added": 1789867519468
   },
   {
     "adult": false,
@@ -62602,7 +62628,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1789852835068
+    "date_added": 1789867519475
   },
   {
     "adult": false,
@@ -63451,7 +63477,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1789852835290
+    "date_added": 1789867519495
   },
   {
     "adult": false,
@@ -64951,7 +64977,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
       }
     ],
-    "date_added": 1789852835508
+    "date_added": 1789867519528
   },
   {
     "adult": false,
@@ -68417,7 +68443,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
       }
     ],
-    "date_added": 1789852835746
+    "date_added": 1789867519557
   },
   {
     "adult": false,
@@ -72645,7 +72671,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg"
       }
     ],
-    "date_added": 1789852835873
+    "date_added": 1789867520030
   },
   {
     "adult": false,
@@ -73187,19 +73213,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1951740,
-          "known_for_department": "Directing",
-          "name": "Yoko Okumura",
-          "original_name": "Yoko Okumura",
-          "popularity": 0.6529,
-          "profile_path": "/bIOsosaeMEuONToPbFo9PSWlF7O.jpg",
-          "credit_id": "6699598df7f6e684a06fd48f",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 84348,
           "known_for_department": "Production",
@@ -73210,6 +73223,19 @@
           "credit_id": "669959dddb6ffac159143bce",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1951740,
+          "known_for_department": "Directing",
+          "name": "Yoko Okumura",
+          "original_name": "Yoko Okumura",
+          "popularity": 0.6529,
+          "profile_path": "/bIOsosaeMEuONToPbFo9PSWlF7O.jpg",
+          "credit_id": "6699598df7f6e684a06fd48f",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -74030,7 +74056,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lwdf4exkA8foHw7w9SWoLHxQSzu.jpg"
       }
     ],
-    "date_added": 1789852836087
+    "date_added": 1789867520046
   },
   {
     "adult": false,
@@ -74457,7 +74483,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1789852842334
+    "date_added": 1789867521275
   },
   {
     "adult": false,
@@ -74806,7 +74832,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1789852846073
+    "date_added": 1789867522100
   },
   {
     "adult": false,
@@ -74827,8 +74853,8 @@
     "first_air_date": "2023-07-23",
     "softcore": false,
     "name": "ليونيس",
-    "vote_average": 8.2,
-    "vote_count": 1568,
+    "vote_average": 8.206,
+    "vote_count": 1569,
     "media_type": "tv",
     "seasons": [
       {
@@ -75033,7 +75059,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
       }
     ],
-    "date_added": 1789852846555
+    "date_added": 1789867522141
   },
   {
     "adult": false,
@@ -75146,7 +75172,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1789852847102
+    "date_added": 1789867522215
   },
   {
     "adult": false,
@@ -76950,7 +76976,7 @@
     "title_en": "Kamen Rider",
     "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
     "cast": [],
-    "date_added": 1789852855944
+    "date_added": 1789867524481
   },
   {
     "adult": false,
@@ -77488,7 +77514,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1789852863579
+    "date_added": 1789867526170
   },
   {
     "adult": false,
@@ -77509,8 +77535,8 @@
     "first_air_date": "2020-08-14",
     "softcore": false,
     "name": "Ted Lasso",
-    "vote_average": 8.371,
-    "vote_count": 2669,
+    "vote_average": 8.37,
+    "vote_count": 2671,
     "media_type": "tv",
     "seasons": [
       {
@@ -77767,7 +77793,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
       }
     ],
-    "date_added": 1789852864167
+    "date_added": 1789867526204
   },
   {
     "adult": false,
@@ -77889,7 +77915,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1789852864629
+    "date_added": 1789867526262
   },
   {
     "adult": false,
@@ -78163,7 +78189,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1789852868525
+    "date_added": 1789867526780
   },
   {
     "adult": false,
@@ -78257,7 +78283,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
       }
     ],
-    "date_added": 1789852868857
+    "date_added": 1789867526794
   },
   {
     "adult": false,
@@ -78485,7 +78511,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1789852869855
+    "date_added": 1789867526953
   },
   {
     "adult": false,
@@ -80350,7 +80376,7 @@
     "title_en": "Emmerdale",
     "overview_en": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village With murders affairs lies deceit laughter and tears it s all there in the village",
     "cast": [],
-    "date_added": 1789852882966
+    "date_added": 1789867529722
   },
   {
     "adult": false,
@@ -80753,7 +80779,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1789852891478
+    "date_added": 1789867531737
   },
   {
     "adult": false,
@@ -81962,7 +81988,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/84kqZzeWF8L397qMQM2lcSZ9IFa.jpg"
       }
     ],
-    "date_added": 1789852897217
+    "date_added": 1789867533163
   },
   {
     "adult": false,
@@ -85334,7 +85360,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1789852912929
+    "date_added": 1789867536674
   },
   {
     "adult": false,
@@ -85357,7 +85383,7 @@
     "softcore": false,
     "name": "موشوكو تينسي",
     "vote_average": 8.4,
-    "vote_count": 1717,
+    "vote_count": 1720,
     "media_type": "tv",
     "seasons": [
       {
@@ -85472,11 +85498,11 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1789852913950
+    "date_added": 1789867536778
   },
   {
     "adult": false,
-    "backdrop_path": "/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+    "backdrop_path": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
     "genre_ids": [
       80,
       18
@@ -85494,8 +85520,8 @@
     "first_air_date": "2025-03-30",
     "softcore": false,
     "name": "أرض العصابات",
-    "vote_average": 8.39,
-    "vote_count": 859,
+    "vote_average": 8.4,
+    "vote_count": 863,
     "media_type": "tv",
     "seasons": [
       {
@@ -85558,7 +85584,7 @@
         "overview": "",
         "poster_path": "/3MNnM6KJ1kivrRNRull6mLazZjV.jpg",
         "season_number": 2,
-        "vote_average": 8.5,
+        "vote_average": 8.3,
         "cast": [
           {
             "name": "توم هاردي",
@@ -85648,7 +85674,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
       }
     ],
-    "date_added": 1789852914310
+    "date_added": 1789867536800
   },
   {
     "adult": false,
@@ -88378,7 +88404,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
       }
     ],
-    "date_added": 1789852927150
+    "date_added": 1789867539319
   },
   {
     "adult": false,
@@ -88502,7 +88528,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg"
       }
     ],
-    "date_added": 1789852927579
+    "date_added": 1789867539363
   },
   {
     "adult": false,
@@ -88772,7 +88798,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v9wriaP3eFOzmsEvFm5kWQpxKc0.jpg"
       }
     ],
-    "date_added": 1789852928984
+    "date_added": 1789867539521
   },
   {
     "adult": false,
@@ -89056,7 +89082,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mpsq3UnNiFgmd3MY2Q6a3ZBMGQ8.jpg"
       }
     ],
-    "date_added": 1789852930017
+    "date_added": 1789867540022
   },
   {
     "adult": false,
@@ -89170,7 +89196,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
       }
     ],
-    "date_added": 1789852930460
+    "date_added": 1789867540076
   },
   {
     "adult": false,
@@ -89784,7 +89810,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zndDiPrNXtbxGLVhFhSlpCkaHIH.jpg"
       }
     ],
-    "date_added": 1789852938658
+    "date_added": 1789867542198
   },
   {
     "adult": false,
@@ -90437,7 +90463,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
       }
     ],
-    "date_added": 1789852941887
+    "date_added": 1789867542332
   },
   {
     "adult": false,
@@ -92191,7 +92217,7 @@
     "title_en": "Goede Tijden Slechte Tijden",
     "overview_en": "Goede tijden slechte tijden also known as GTST is the longest running Dutch soap opera revolving around the lives of the families Alberts Sanders De Jong Van Houten and Bouwhuis It all takes place in the fictional town of Meerdijk",
     "cast": [],
-    "date_added": 1789852951056
+    "date_added": 1789867544739
   },
   {
     "adult": false,
@@ -92549,7 +92575,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/xxayvzBbRIpZt4Aow3zf7uYQulm.jpg"
       }
     ],
-    "date_added": 1789852956031
+    "date_added": 1789867545635
   },
   {
     "adult": false,
@@ -93208,7 +93234,7 @@
     "title_en": "Scene of the Crime",
     "overview_en": "Tatort is a long running German Austrian Swiss crime television series set in various parts of these countries The show is broadcast on the channels of ARD in Germany ORF in Austria and SF1 in Switzerland",
     "cast": [],
-    "date_added": 1789852970017
+    "date_added": 1789867548904
   },
   {
     "adult": false,
@@ -93313,7 +93339,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1789852970502
+    "date_added": 1789867548923
   },
   {
     "adult": false,
@@ -93405,7 +93431,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
       }
     ],
-    "date_added": 1789852970941
+    "date_added": 1789867548988
   },
   {
     "adult": false,
@@ -93530,6 +93556,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
       }
     ],
-    "date_added": 1789852971479
+    "date_added": 1789867549487
   }
 ]
