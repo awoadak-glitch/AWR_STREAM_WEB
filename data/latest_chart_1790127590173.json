@@ -102,8 +102,8 @@
     "tagline": "",
     "title": "الشر المقيم",
     "video": false,
-    "vote_average": 7.3,
-    "vote_count": 296,
+    "vote_average": 7.329,
+    "vote_count": 331,
     "translations": {
       "translations": [
         {
@@ -1666,7 +1666,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
       }
     ],
-    "date_added": 1790108615946
+    "date_added": 1790127598731
   },
   {
     "adult": false,
@@ -1745,8 +1745,8 @@
     "tagline": "إلى أين يذهب الحي؟",
     "title": "نهاية شارع أوك",
     "video": false,
-    "vote_average": 7.016,
-    "vote_count": 1398,
+    "vote_average": 7.009,
+    "vote_count": 1409,
     "translations": {
       "translations": [
         {
@@ -1836,7 +1836,7 @@
             "homepage": "https://www.ofimdaruafilme.com.br",
             "overview": "Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.",
             "runtime": 100,
-            "tagline": "",
+            "tagline": "Lá se vai a vizinhança",
             "title": "O Fim da Rua"
           }
         },
@@ -2652,53 +2652,14 @@
       "crew": [
         {
           "adult": false,
-          "gender": 2,
-          "id": 15344,
-          "known_for_department": "Directing",
-          "name": "جاي جاي أبرامز",
-          "original_name": "J.J. Abrams",
-          "popularity": 2.9797,
-          "profile_path": "/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg",
-          "credit_id": "6414a427e18e3f08403d6086",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 558929,
-          "known_for_department": "Directing",
-          "name": "ديفيد روبرت ميتشيل",
-          "original_name": "David Robert Mitchell",
-          "popularity": 2.0515,
-          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
-          "credit_id": "6414a381ede1b028c599198d",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 558929,
-          "known_for_department": "Directing",
-          "name": "ديفيد روبرت ميتشيل",
-          "original_name": "David Robert Mitchell",
-          "popularity": 2.0515,
-          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
-          "credit_id": "6414a38eb4224241cf95d9ce",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 558929,
-          "known_for_department": "Directing",
-          "name": "ديفيد روبرت ميتشيل",
-          "original_name": "David Robert Mitchell",
-          "popularity": 2.0515,
-          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
-          "credit_id": "6414a41a99259c00d7069dc2",
+          "gender": 1,
+          "id": 2014297,
+          "known_for_department": "Production",
+          "name": "Hannah Minghella",
+          "original_name": "Hannah Minghella",
+          "popularity": 0.7119,
+          "profile_path": "/s5QVlwjbZdCJFIgYN4qBQqvTe7H.jpg",
+          "credit_id": "6414a40b99259c00d7069dbc",
           "department": "Production",
           "job": "Producer"
         },
@@ -2731,6 +2692,58 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 558929,
+          "known_for_department": "Directing",
+          "name": "ديفيد روبرت ميتشيل",
+          "original_name": "David Robert Mitchell",
+          "popularity": 2.0515,
+          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+          "credit_id": "6414a41a99259c00d7069dc2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15344,
+          "known_for_department": "Directing",
+          "name": "جاي جاي أبرامز",
+          "original_name": "J.J. Abrams",
+          "popularity": 2.9797,
+          "profile_path": "/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg",
+          "credit_id": "6414a427e18e3f08403d6086",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 558929,
+          "known_for_department": "Directing",
+          "name": "ديفيد روبرت ميتشيل",
+          "original_name": "David Robert Mitchell",
+          "popularity": 2.0515,
+          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+          "credit_id": "6414a38eb4224241cf95d9ce",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 558929,
+          "known_for_department": "Directing",
+          "name": "ديفيد روبرت ميتشيل",
+          "original_name": "David Robert Mitchell",
+          "popularity": 2.0515,
+          "profile_path": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+          "credit_id": "6414a381ede1b028c599198d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 298,
           "known_for_department": "Production",
           "name": "Chris Bender",
@@ -2740,19 +2753,6 @@
           "credit_id": "6414a456266778007cbde850",
           "department": "Production",
           "job": "Executive Producer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 2014297,
-          "known_for_department": "Production",
-          "name": "Hannah Minghella",
-          "original_name": "Hannah Minghella",
-          "popularity": 0.7119,
-          "profile_path": "/s5QVlwjbZdCJFIgYN4qBQqvTe7H.jpg",
-          "credit_id": "6414a40b99259c00d7069dbc",
-          "department": "Production",
-          "job": "Producer"
         },
         {
           "adult": false,
@@ -5094,7 +5094,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yNqUNepmVQ462yoTnZOWVbudKeG.jpg"
       }
     ],
-    "date_added": 1790108615969
+    "date_added": 1790127598738
   },
   {
     "adult": false,
@@ -5173,8 +5173,8 @@
     "tagline": "",
     "title": "كايوتي ضد أكمي",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 479,
+    "vote_average": 7.536,
+    "vote_count": 487,
     "translations": {
       "translations": [
         {
@@ -6073,15 +6073,28 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1101410,
-          "known_for_department": "Directing",
-          "name": "ديف غرين",
-          "original_name": "Dave Green",
-          "popularity": 0.7444,
-          "profile_path": "/eRUCqrBpWNSr8893Fcf1A1Hsbog.jpg",
-          "credit_id": "65528e0f67b61345cf03ef9f",
-          "department": "Directing",
-          "job": "Director"
+          "id": 11412,
+          "known_for_department": "Art",
+          "name": "Steve Arnold",
+          "original_name": "Steve Arnold",
+          "popularity": 0.8233,
+          "profile_path": null,
+          "credit_id": "655292a6903c52011b6a1b43",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1377461,
+          "known_for_department": "Editing",
+          "name": "Carsten Kurpanek",
+          "original_name": "Carsten Kurpanek",
+          "popularity": 0.4466,
+          "profile_path": null,
+          "credit_id": "6552927267b61345cf03f0d7",
+          "department": "Editing",
+          "job": "Editor"
         },
         {
           "adult": false,
@@ -6111,16 +6124,29 @@
         },
         {
           "adult": false,
+          "gender": 1,
+          "id": 1877301,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Daniela Moore",
+          "original_name": "Daniela Moore",
+          "popularity": 0.6244,
+          "profile_path": null,
+          "credit_id": "655292fa0816c700c3da06a7",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
           "gender": 2,
-          "id": 15218,
-          "known_for_department": "Writing",
-          "name": "جيمس غان",
-          "original_name": "James Gunn",
-          "popularity": 3.7783,
-          "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
-          "credit_id": "65529221fd6fa101380b831a",
-          "department": "Production",
-          "job": "Producer"
+          "id": 1101410,
+          "known_for_department": "Directing",
+          "name": "ديف غرين",
+          "original_name": "Dave Green",
+          "popularity": 0.7444,
+          "profile_path": "/eRUCqrBpWNSr8893Fcf1A1Hsbog.jpg",
+          "credit_id": "65528e0f67b61345cf03ef9f",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -6137,29 +6163,16 @@
         },
         {
           "adult": false,
-          "gender": 0,
-          "id": 1377461,
-          "known_for_department": "Editing",
-          "name": "Carsten Kurpanek",
-          "original_name": "Carsten Kurpanek",
-          "popularity": 0.4466,
-          "profile_path": null,
-          "credit_id": "6552927267b61345cf03f0d7",
-          "department": "Editing",
-          "job": "Editor"
-        },
-        {
-          "adult": false,
           "gender": 2,
-          "id": 11412,
-          "known_for_department": "Art",
-          "name": "Steve Arnold",
-          "original_name": "Steve Arnold",
-          "popularity": 0.8233,
-          "profile_path": null,
-          "credit_id": "655292a6903c52011b6a1b43",
-          "department": "Art",
-          "job": "Production Design"
+          "id": 15218,
+          "known_for_department": "Writing",
+          "name": "جيمس غان",
+          "original_name": "James Gunn",
+          "popularity": 3.7783,
+          "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+          "credit_id": "65529221fd6fa101380b831a",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -6173,19 +6186,6 @@
           "credit_id": "655292d3903c5200e1ef3624",
           "department": "Art",
           "job": "Set Decoration"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1877301,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Daniela Moore",
-          "original_name": "Daniela Moore",
-          "popularity": 0.6244,
-          "profile_path": null,
-          "credit_id": "655292fa0816c700c3da06a7",
-          "department": "Costume & Make-Up",
-          "job": "Costume Design"
         },
         {
           "adult": false,
@@ -6228,19 +6228,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 64227,
-          "known_for_department": "Camera",
-          "name": "براندون تروست",
-          "original_name": "Brandon Trost",
-          "popularity": 0.9253,
-          "profile_path": "/ojlCBUXBaueoNV0dFUWspVSkKLL.jpg",
-          "credit_id": "655297a4fb5299013a6f0ea2",
-          "department": "Camera",
-          "job": "Director of Photography"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 928414,
           "known_for_department": "Production",
@@ -6264,6 +6251,19 @@
           "credit_id": "655297bcea84c7109225ef14",
           "department": "Sound",
           "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64227,
+          "known_for_department": "Camera",
+          "name": "براندون تروست",
+          "original_name": "Brandon Trost",
+          "popularity": 0.9253,
+          "profile_path": "/ojlCBUXBaueoNV0dFUWspVSkKLL.jpg",
+          "credit_id": "655297a4fb5299013a6f0ea2",
+          "department": "Camera",
+          "job": "Director of Photography"
         },
         {
           "adult": false,
@@ -7539,7 +7539,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
       }
     ],
-    "date_added": 1790108615992
+    "date_added": 1790127598744
   },
   {
     "adult": false,
@@ -7612,7 +7612,7 @@
     "title": "الأوديسة",
     "video": false,
     "vote_average": 8.017,
-    "vote_count": 3853,
+    "vote_count": 3858,
     "translations": {
       "translations": [
         {
@@ -12668,7 +12668,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1790108616016
+    "date_added": 1790127598751
   },
   {
     "adult": false,
@@ -12741,8 +12741,8 @@
     "tagline": "",
     "title": "مستعمرة",
     "video": false,
-    "vote_average": 8.084,
-    "vote_count": 856,
+    "vote_average": 8.1,
+    "vote_count": 859,
     "translations": {
       "translations": [
         {
@@ -13739,7 +13739,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1790108616086
+    "date_added": 1790127598769
   },
   {
     "adult": false,
@@ -15407,7 +15407,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1790108616108
+    "date_added": 1790127599319
   },
   {
     "adult": false,
@@ -15744,7 +15744,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790108616173
+    "date_added": 1790127599338
   },
   {
     "adult": false,
@@ -15827,8 +15827,8 @@
     "tagline": "‏اختارها المحيط لسبب.‏",
     "title": "فلم موانا",
     "video": false,
-    "vote_average": 7.417,
-    "vote_count": 741,
+    "vote_average": 7.414,
+    "vote_count": 748,
     "translations": {
       "translations": [
         {
@@ -19206,7 +19206,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fDqCryVbJGSb6CPLCIxmfbN8wsV.jpg"
       }
     ],
-    "date_added": 1790108616196
+    "date_added": 1790127599345
   },
   {
     "adult": false,
@@ -21323,7 +21323,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a0wqnZmewxpNIXi1ol9fii2CzWJ.jpg"
       }
     ],
-    "date_added": 1790108616219
+    "date_added": 1790127599367
   },
   {
     "adult": false,
@@ -21403,7 +21403,7 @@
     "title": "هوس",
     "video": false,
     "vote_average": 8.194,
-    "vote_count": 5674,
+    "vote_count": 5678,
     "translations": {
       "translations": [
         {
@@ -22872,9 +22872,9 @@
           "original_name": "Curry Barker",
           "popularity": 2.6709,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3c9dd8f4fa10a363a57c",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "66ce3ce46f680bc91897d416",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -22885,9 +22885,9 @@
           "original_name": "Curry Barker",
           "popularity": 2.6709,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3ce46f680bc91897d416",
-          "department": "Writing",
-          "job": "Writer"
+          "credit_id": "66ce3c9dd8f4fa10a363a57c",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -24188,7 +24188,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1790108616244
+    "date_added": 1790127599373
   },
   {
     "adult": false,
@@ -25841,7 +25841,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1790108616321
+    "date_added": 1790127599406
   },
   {
     "adult": false,
@@ -25909,8 +25909,8 @@
     "tagline": "",
     "title": "العداءة",
     "video": false,
-    "vote_average": 6.748,
-    "vote_count": 549,
+    "vote_average": 6.8,
+    "vote_count": 552,
     "translations": {
       "translations": [
         {
@@ -28650,7 +28650,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hwlsIMEImnpOc046cROxtVyJ2Ao.jpg"
       }
     ],
-    "date_added": 1790108616464
+    "date_added": 1790127599412
   },
   {
     "adult": false,
@@ -31031,7 +31031,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
       }
     ],
-    "date_added": 1790108616586
+    "date_added": 1790127599432
   },
   {
     "adult": false,
@@ -32457,7 +32457,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/be0atwoQTudy7WaVCNwWbQuxjvG.jpg"
       }
     ],
-    "date_added": 1790108616665
+    "date_added": 1790127599451
   },
   {
     "adult": false,
@@ -32514,7 +32514,7 @@
       }
     ],
     "release_date": "2026-08-06",
-    "revenue": 7533008,
+    "revenue": 8525000,
     "runtime": 112,
     "softcore": false,
     "spoken_languages": [
@@ -32529,7 +32529,7 @@
     "title": "Teenage Sex and Death at Camp Miasma",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 156,
+    "vote_count": 160,
     "translations": {
       "translations": [
         {
@@ -33332,6 +33332,34 @@
           "character": "Camp Counselor (uncredited)",
           "credit_id": "6a9ef62545a23434be0c6463",
           "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1674817,
+          "known_for_department": "Camera",
+          "name": "Eric K. Yue",
+          "original_name": "Eric K. Yue",
+          "popularity": 0.754,
+          "profile_path": "/iAoRpO2ORQ6WXmhRKQIu0JPcDNS.jpg",
+          "cast_id": 275,
+          "character": "(uncredited)",
+          "credit_id": "6ab2abb92687f0bf6b042466",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 1827119,
+          "known_for_department": "Directing",
+          "name": "Jane Schoenbrun",
+          "original_name": "Jane Schoenbrun",
+          "popularity": 2.882,
+          "profile_path": "/gHqq6STc0lnPFXs8CuZ6fZMwMPA.jpg",
+          "cast_id": 276,
+          "character": "(uncredited)",
+          "credit_id": "6ab2abc3c963d20fc920d582",
+          "order": 31
         }
       ],
       "crew": [
@@ -33344,9 +33372,9 @@
           "original_name": "Jane Schoenbrun",
           "popularity": 2.882,
           "profile_path": "/gHqq6STc0lnPFXs8CuZ6fZMwMPA.jpg",
-          "credit_id": "65c111f8cf62cd018696b4c0",
-          "department": "Writing",
-          "job": "Writer"
+          "credit_id": "65c111eb43999b0184ca745d",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -33357,9 +33385,9 @@
           "original_name": "Jane Schoenbrun",
           "popularity": 2.882,
           "profile_path": "/gHqq6STc0lnPFXs8CuZ6fZMwMPA.jpg",
-          "credit_id": "65c111eb43999b0184ca745d",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "65c111f8cf62cd018696b4c0",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -36078,7 +36106,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
       }
     ],
-    "date_added": 1790108616714
+    "date_added": 1790127599458
   },
   {
     "adult": false,
@@ -36153,7 +36181,7 @@
     "title": "Mayday",
     "video": false,
     "vote_average": 8,
-    "vote_count": 755,
+    "vote_count": 758,
     "translations": {
       "translations": [
         {
@@ -37639,48 +37667,9 @@
           "original_name": "John Francis Daley",
           "popularity": 2.5106,
           "profile_path": "/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg",
-          "credit_id": "64823c1199259c00c5b36eba",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 52935,
-          "known_for_department": "Writing",
-          "name": "جون فرانسيس دالي",
-          "original_name": "John Francis Daley",
-          "popularity": 2.5106,
-          "profile_path": "/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg",
           "credit_id": "64823c3699259c00e2f3a200",
           "department": "Writing",
           "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1236679,
-          "known_for_department": "Writing",
-          "name": "Jonathan Goldstein",
-          "original_name": "Jonathan Goldstein",
-          "popularity": 1.2405,
-          "profile_path": "/5KVyvhBILaZsddFYSpruD0u5F3M.jpg",
-          "credit_id": "64823c408c0a4800af97fcc6",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 58433,
-          "known_for_department": "Production",
-          "name": "ديفيد إليسون",
-          "original_name": "David Ellison",
-          "popularity": 1.6381,
-          "profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg",
-          "credit_id": "64823c53e2726000c92f64e2",
-          "department": "Production",
-          "job": "Producer"
         },
         {
           "adult": false,
@@ -37724,19 +37713,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 2773892,
-          "known_for_department": "Production",
-          "name": "Johnny Pariseau",
-          "original_name": "Johnny Pariseau",
-          "popularity": 0.3928,
-          "profile_path": null,
-          "credit_id": "64823c8cc9dbf900c5707bd4",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1236679,
           "known_for_department": "Writing",
           "name": "Jonathan Goldstein",
@@ -37756,7 +37732,59 @@
           "original_name": "John Francis Daley",
           "popularity": 2.5106,
           "profile_path": "/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg",
+          "credit_id": "64823c1199259c00c5b36eba",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58433,
+          "known_for_department": "Production",
+          "name": "ديفيد إليسون",
+          "original_name": "David Ellison",
+          "popularity": 1.6381,
+          "profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg",
+          "credit_id": "64823c53e2726000c92f64e2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52935,
+          "known_for_department": "Writing",
+          "name": "جون فرانسيس دالي",
+          "original_name": "John Francis Daley",
+          "popularity": 2.5106,
+          "profile_path": "/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg",
           "credit_id": "64823cafe375c00139beee97",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1236679,
+          "known_for_department": "Writing",
+          "name": "Jonathan Goldstein",
+          "original_name": "Jonathan Goldstein",
+          "popularity": 1.2405,
+          "profile_path": "/5KVyvhBILaZsddFYSpruD0u5F3M.jpg",
+          "credit_id": "64823c408c0a4800af97fcc6",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2773892,
+          "known_for_department": "Production",
+          "name": "Johnny Pariseau",
+          "original_name": "Johnny Pariseau",
+          "popularity": 0.3928,
+          "profile_path": null,
+          "credit_id": "64823c8cc9dbf900c5707bd4",
           "department": "Production",
           "job": "Producer"
         },
@@ -40359,7 +40387,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
       }
     ],
-    "date_added": 1790108616737
+    "date_added": 1790127599468
   },
   {
     "adult": false,
@@ -40450,8 +40478,8 @@
     "tagline": "",
     "title": "الشروق الأخير",
     "video": false,
-    "vote_average": 6.774,
-    "vote_count": 186,
+    "vote_average": 6.775,
+    "vote_count": 187,
     "translations": {
       "translations": [
         {
@@ -42702,7 +42730,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/92UnW3XPciP9jPHhVIdn8m3TbiJ.jpg"
       }
     ],
-    "date_added": 1790108616808
+    "date_added": 1790127599485
   },
   {
     "adult": false,
@@ -42768,8 +42796,8 @@
     "tagline": "",
     "title": "مواجهة إل تشابو",
     "video": false,
-    "vote_average": 8.8,
-    "vote_count": 785,
+    "vote_average": 8.797,
+    "vote_count": 786,
     "translations": {
       "translations": [
         {
@@ -43825,7 +43853,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ohFw8S6Ff7lY8x26DMktBoZdifL.jpg"
       }
     ],
-    "date_added": 1790108616924
+    "date_added": 1790127599513
   },
   {
     "adult": false,
@@ -43916,7 +43944,7 @@
     "title": "PAW Patrol The Dino Movie",
     "video": false,
     "vote_average": 7.973,
-    "vote_count": 131,
+    "vote_count": 132,
     "translations": {
       "translations": [
         {
@@ -45142,7 +45170,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9f2p2T61K4pIvKQMLRlow8znkXU.jpg"
       }
     ],
-    "date_added": 1790108616992
+    "date_added": 1790127599537
   },
   {
     "adult": false,
@@ -45230,7 +45258,7 @@
     "tagline": "",
     "title": "Ghost in the Cell",
     "video": false,
-    "vote_average": 7.188,
+    "vote_average": 7.2,
     "vote_count": 72,
     "translations": {
       "translations": [
@@ -47218,7 +47246,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fa2IjUgmUrFLxGXkemSrl92r7J2.jpg"
       }
     ],
-    "date_added": 1790108617061
+    "date_added": 1790127599559
   },
   {
     "adult": false,
@@ -47297,8 +47325,8 @@
     "tagline": "",
     "title": "Toi Moi Seuls contre tous",
     "video": false,
-    "vote_average": 5.6,
-    "vote_count": 35,
+    "vote_average": 5.7,
+    "vote_count": 37,
     "translations": {
       "translations": [
         {
@@ -47880,7 +47908,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790108617184
+    "date_added": 1790127599578
   },
   {
     "adult": false,
@@ -48005,8 +48033,8 @@
     "tagline": "",
     "title": "مياه عميقة",
     "video": false,
-    "vote_average": 7.356,
-    "vote_count": 596,
+    "vote_average": 7.361,
+    "vote_count": 598,
     "translations": {
       "translations": [
         {
@@ -49966,7 +49994,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
       }
     ],
-    "date_added": 1790108617265
+    "date_added": 1790127599597
   },
   {
     "adult": false,
@@ -50055,8 +50083,8 @@
     "tagline": "لا يُفترض بك أن تكون هنا.",
     "title": "الغرفة الخلفية",
     "video": false,
-    "vote_average": 7,
-    "vote_count": 3373,
+    "vote_average": 7.033,
+    "vote_count": 3377,
     "translations": {
       "translations": [
         {
@@ -53495,7 +53523,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1790108617288
+    "date_added": 1790127599603
   },
   {
     "adult": false,
@@ -53646,8 +53674,8 @@
     "tagline": "",
     "title": "تقليم شجيرة الورد",
     "video": false,
-    "vote_average": 6.085,
-    "vote_count": 53,
+    "vote_average": 6.12,
+    "vote_count": 54,
     "translations": {
       "translations": [
         {
@@ -53882,6 +53910,19 @@
             "runtime": 0,
             "tagline": "",
             "title": "Το κλάδεμα της τριανταφυλλιάς"
+          }
+        },
+        {
+          "iso_3166_1": "TR",
+          "iso_639_1": "tr",
+          "name": "Türkçe",
+          "english_name": "Turkish",
+          "data": {
+            "homepage": "",
+            "overview": "İspanya'daki bir villada, Amerikalı kardeşler Jack, Ed, Anna ve Robert, miras yoluyla elde ettikleri servetin ve yalnızlığın içinde yaşamaktadırlar. Jack kız arkadaşıyla birlikte yaşamak isteyince ve Ed annelerinin ölümünün ardındaki gerçeği ortaya çıkarınca, ailenin dokusu çözülmeye başlar.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Gül Budama"
           }
         }
       ]
@@ -54686,7 +54727,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hSkjzOfvRQ8DUJdhWveIKgRlyXb.jpg"
       }
     ],
-    "date_added": 1790108617378
+    "date_added": 1790127599620
   },
   {
     "adult": false,
@@ -54966,6 +55007,19 @@
             "runtime": 0,
             "tagline": "",
             "title": "A Thunderman-család - Szétszakadás, földindulás"
+          }
+        },
+        {
+          "iso_3166_1": "UA",
+          "iso_639_1": "uk",
+          "name": "Український",
+          "english_name": "Ukrainian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Сутичка Тандерманів"
           }
         }
       ]
@@ -55575,7 +55629,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jkQwV1jOwCCI5uTe99dS4ZfYc9p.jpg"
       }
     ],
-    "date_added": 1790108617445
+    "date_added": 1790127599640
   },
   {
     "adult": false,
@@ -55652,7 +55706,7 @@
     "title": "المنتقمون نهاية اللعبة",
     "video": false,
     "vote_average": 8.2,
-    "vote_count": 28736,
+    "vote_count": 28738,
     "translations": {
       "translations": [
         {
@@ -65982,7 +66036,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
       }
     ],
-    "date_added": 1790108617574
+    "date_added": 1790127599679
   },
   {
     "adult": false,
@@ -66056,7 +66110,7 @@
     "title": "أمل",
     "video": false,
     "vote_average": 7.4,
-    "vote_count": 84,
+    "vote_count": 85,
     "translations": {
       "translations": [
         {
@@ -67437,7 +67491,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg"
       }
     ],
-    "date_added": 1790108617596
+    "date_added": 1790127599685
   },
   {
     "adult": false,
@@ -68937,7 +68991,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
       }
     ],
-    "date_added": 1790108617666
+    "date_added": 1790127599706
   },
   {
     "adult": false,
@@ -69004,8 +69058,8 @@
     "tagline": "",
     "title": "The Last Kiss",
     "video": false,
-    "vote_average": 6.417,
-    "vote_count": 12,
+    "vote_average": 6.385,
+    "vote_count": 13,
     "translations": {
       "translations": [
         {
@@ -69479,19 +69533,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1951740,
-          "known_for_department": "Directing",
-          "name": "Yoko Okumura",
-          "original_name": "Yoko Okumura",
-          "popularity": 0.6771,
-          "profile_path": "/bIOsosaeMEuONToPbFo9PSWlF7O.jpg",
-          "credit_id": "6699598df7f6e684a06fd48f",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 84348,
           "known_for_department": "Production",
@@ -69502,6 +69543,19 @@
           "credit_id": "669959dddb6ffac159143bce",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1951740,
+          "known_for_department": "Directing",
+          "name": "Yoko Okumura",
+          "original_name": "Yoko Okumura",
+          "popularity": 0.6771,
+          "profile_path": "/bIOsosaeMEuONToPbFo9PSWlF7O.jpg",
+          "credit_id": "6699598df7f6e684a06fd48f",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -70335,7 +70389,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cffy89cf47GLzJxdXsGu7meuEyb.jpg"
       }
     ],
-    "date_added": 1790108617732
+    "date_added": 1790127599729
   },
   {
     "adult": false,
@@ -73801,7 +73855,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
       }
     ],
-    "date_added": 1790108617842
+    "date_added": 1790127599754
   },
   {
     "adult": false,
@@ -74228,7 +74282,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1790108619886
+    "date_added": 1790127601068
   },
   {
     "adult": false,
@@ -74577,7 +74631,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1790108621265
+    "date_added": 1790127601855
   },
   {
     "adult": false,
@@ -76234,7 +76288,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1790108624535
+    "date_added": 1790127603694
   },
   {
     "adult": false,
@@ -76508,7 +76562,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1790108625803
+    "date_added": 1790127604515
   },
   {
     "adult": false,
@@ -77046,7 +77100,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1790108628609
+    "date_added": 1790127606238
   },
   {
     "adult": false,
@@ -77139,7 +77193,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
       }
     ],
-    "date_added": 1790108628841
+    "date_added": 1790127606372
   },
   {
     "adult": false,
@@ -78943,7 +78997,7 @@
     "title_en": "Kamen Rider",
     "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
     "cast": [],
-    "date_added": 1790108632285
+    "date_added": 1790127608190
   },
   {
     "adult": false,
@@ -79017,7 +79071,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
       }
     ],
-    "date_added": 1790108632371
+    "date_added": 1790127608202
   },
   {
     "adult": false,
@@ -79130,7 +79184,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1790108632535
+    "date_added": 1790127608273
   },
   {
     "adult": false,
@@ -79268,7 +79322,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1790108632631
+    "date_added": 1790127608302
   },
   {
     "adult": false,
@@ -80270,7 +80324,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kaemnryG3n9coES6AwsU2YJHRnD.jpg"
       }
     ],
-    "date_added": 1790108636240
+    "date_added": 1790127610757
   },
   {
     "adult": false,
@@ -80673,7 +80727,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1790108639201
+    "date_added": 1790127612434
   },
   {
     "adult": false,
@@ -81882,7 +81936,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/84kqZzeWF8L397qMQM2lcSZ9IFa.jpg"
       }
     ],
-    "date_added": 1790108641234
+    "date_added": 1790127613733
   },
   {
     "adult": false,
@@ -81968,7 +82022,7 @@
         "overview": "",
         "poster_path": "/fTlH5NNTXOP96mElp0DaIStRVvK.jpg",
         "season_number": 2,
-        "vote_average": 8,
+        "vote_average": 8.1,
         "cast": [
           {
             "name": "توم هاردي",
@@ -82058,7 +82112,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
       }
     ],
-    "date_added": 1790108641340
+    "date_added": 1790127613751
   },
   {
     "adult": false,
@@ -83146,7 +83200,7 @@
       },
       {
         "air_date": "2026-09-08",
-        "episode_count": 9,
+        "episode_count": 14,
         "id": 533269,
         "name": "الموسم 30",
         "overview": "",
@@ -83222,7 +83276,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/q53d695nbyb4YJUltGp7uAmwxPc.jpg"
       }
     ],
-    "date_added": 1790108643864
+    "date_added": 1790127615479
   },
   {
     "adult": false,
@@ -83449,9 +83503,9 @@
             "photo_url": "https://image.tmdb.org/t/p/w185/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
           },
           {
-            "name": "Jude Mack",
+            "name": "Rex Hayes",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
+            "photo_url": null
           }
         ]
       }
@@ -83496,12 +83550,12 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
       },
       {
-        "name": "Jude Mack",
+        "name": "Rex Hayes",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg"
+        "photo_url": null
       }
     ],
-    "date_added": 1790108643975
+    "date_added": 1790127615512
   },
   {
     "adult": false,
@@ -83623,7 +83677,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1790108644173
+    "date_added": 1790127615570
   },
   {
     "adult": false,
@@ -86353,7 +86407,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
       }
     ],
-    "date_added": 1790108648865
+    "date_added": 1790127618305
   },
   {
     "adult": false,
@@ -88107,7 +88161,7 @@
     "title_en": "Goede Tijden Slechte Tijden",
     "overview_en": "Goede tijden slechte tijden also known as GTST is the longest running Dutch soap opera revolving around the lives of the families Alberts Sanders De Jong Van Houten and Bouwhuis It all takes place in the fictional town of Meerdijk",
     "cast": [],
-    "date_added": 1790108652474
+    "date_added": 1790127620595
   },
   {
     "adult": false,
@@ -88221,7 +88275,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
       }
     ],
-    "date_added": 1790108652612
+    "date_added": 1790127620647
   },
   {
     "adult": false,
@@ -91593,7 +91647,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1790108658620
+    "date_added": 1790127624615
   },
   {
     "adult": false,
@@ -92207,7 +92261,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zndDiPrNXtbxGLVhFhSlpCkaHIH.jpg"
       }
     ],
-    "date_added": 1790108661546
+    "date_added": 1790127626129
   },
   {
     "adult": false,
@@ -92435,7 +92489,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1790108661859
+    "date_added": 1790127626405
   },
   {
     "adult": false,
@@ -92662,7 +92716,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
       }
     ],
-    "date_added": 1790108662149
+    "date_added": 1790127626682
   },
   {
     "adult": false,
@@ -93163,11 +93217,11 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hoKeBhuTzgGcN1b4IL7HaPc2O8D.jpg"
       }
     ],
-    "date_added": 1790108664485
+    "date_added": 1790127628293
   },
   {
     "adult": false,
-    "backdrop_path": "/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
+    "backdrop_path": "/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
     "genre_ids": [
       80,
       18,
@@ -93447,7 +93501,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mpsq3UnNiFgmd3MY2Q6a3ZBMGQ8.jpg"
       }
     ],
-    "date_added": 1790108664637
+    "date_added": 1790127628333
   },
   {
     "adult": false,
@@ -94100,7 +94154,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
       }
     ],
-    "date_added": 1790108665757
+    "date_added": 1790127628674
   },
   {
     "adult": false,
@@ -94223,7 +94277,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/A40e3krw9mTlBarbNnHRYOLP4t.jpg"
       }
     ],
-    "date_added": 1790108665903
+    "date_added": 1790127628712
   },
   {
     "adult": false,
@@ -95079,7 +95133,7 @@
     "title_en": "LIVE with Kelly and Mark",
     "overview_en": "A morning talk show with A list celebrity guests top notch performances and one of a kind segments that are unrivaled on daytime television plus spontaneous hilarious and unpredictable talk",
     "cast": [],
-    "date_added": 1790108669291
+    "date_added": 1790127630865
   },
   {
     "adult": false,
@@ -96944,6 +96998,6 @@
     "title_en": "Emmerdale",
     "overview_en": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village With murders affairs lies deceit laughter and tears it s all there in the village",
     "cast": [],
-    "date_added": 1790108674616
+    "date_added": 1790127633676
   }
 ]
