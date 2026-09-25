@@ -119,7 +119,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2vBAQc9BKRAePO0NQcSp90KHMpk.jpg"
       }
     ],
-    "date_added": 1790351793887
+    "date_added": 1790366138050
   },
   {
     "adult": false,
@@ -242,7 +242,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1790351793946
+    "date_added": 1790366138125
   },
   {
     "adult": false,
@@ -355,7 +355,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1790351793974
+    "date_added": 1790366138185
   },
   {
     "adult": false,
@@ -448,7 +448,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
       }
     ],
-    "date_added": 1790351794038
+    "date_added": 1790366138272
   },
   {
     "adult": false,
@@ -650,7 +650,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tQ4E9MhTkPnsOnuAxD2TQWjrc5L.jpg"
       }
     ],
-    "date_added": 1790351794125
+    "date_added": 1790366138681
   },
   {
     "adult": false,
@@ -772,7 +772,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1790351794353
+    "date_added": 1790366138744
   },
   {
     "adult": false,
@@ -895,7 +895,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oDHFWR6JHmQnmNbl73et1G4KzGc.jpg"
       }
     ],
-    "date_added": 1790351794548
+    "date_added": 1790366138971
   },
   {
     "adult": false,
@@ -1909,7 +1909,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rEZ4LALVCDh6RXvd3l3SzYbzKlb.jpg"
       }
     ],
-    "date_added": 1790351800567
+    "date_added": 1790366145087
   },
   {
     "adult": false,
@@ -1961,7 +1961,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg"
       }
     ],
-    "date_added": 1790351800858
+    "date_added": 1790366145370
   },
   {
     "adult": false,
@@ -2024,7 +2024,109 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg"
       }
     ],
-    "date_added": 1790351801066
+    "date_added": 1790366145630
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ivHoFv1aJCmtpi8Kejs3ubjLYAR.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 35024,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "쇼! 음악중심",
+    "overview": "",
+    "popularity": 97.0273,
+    "poster_path": "/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
+    "first_air_date": "2005-10-29",
+    "softcore": false,
+    "name": "쇼! 음악중심",
+    "vote_average": 7,
+    "vote_count": 1,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2005-10-29",
+        "episode_count": 971,
+        "id": 73842,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/gf9sdLzo1B0saiO1I0fG2bzoF29.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "영훈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
+          },
+          {
+            "name": "이정하",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
+          },
+          {
+            "name": "설윤",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
+          },
+          {
+            "name": "정우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pVvj4tdP6VcCGHSxhfiFzlBeqxX.jpg"
+          },
+          {
+            "name": "리노",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
+          },
+          {
+            "name": "김민주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "쇼 음악중심",
+    "title_en": "Show Music Core",
+    "overview_en": "Show Music Core is a music show that has been aired since 2005 Not like any other music shows this show doesn t include any charts or awards There are a few segments such as This Week s Hot 3 Chart Up Core and Core of Rising Stars",
+    "cast": [
+      {
+        "name": "영훈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
+      },
+      {
+        "name": "이정하",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
+      },
+      {
+        "name": "설윤",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
+      },
+      {
+        "name": "정우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pVvj4tdP6VcCGHSxhfiFzlBeqxX.jpg"
+      },
+      {
+        "name": "리노",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
+      },
+      {
+        "name": "김민주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
+      }
+    ],
+    "date_added": 1790366145847
   },
   {
     "adult": false,
@@ -2273,7 +2375,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bF3Zg2vzl4wUnFgcPhcS1J3Csxe.jpg"
       }
     ],
-    "date_added": 1790351801616
+    "date_added": 1790366146333
   },
   {
     "adult": false,
@@ -2326,109 +2428,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
       }
     ],
-    "date_added": 1790351801848
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ivHoFv1aJCmtpi8Kejs3ubjLYAR.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 35024,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "쇼! 음악중심",
-    "overview": "",
-    "popularity": 97.0273,
-    "poster_path": "/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
-    "first_air_date": "2005-10-29",
-    "softcore": false,
-    "name": "쇼! 음악중심",
-    "vote_average": 7,
-    "vote_count": 1,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2005-10-29",
-        "episode_count": 971,
-        "id": 73842,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/gf9sdLzo1B0saiO1I0fG2bzoF29.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "영훈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
-          },
-          {
-            "name": "이정하",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
-          },
-          {
-            "name": "설윤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
-          },
-          {
-            "name": "정우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pVvj4tdP6VcCGHSxhfiFzlBeqxX.jpg"
-          },
-          {
-            "name": "리노",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
-          },
-          {
-            "name": "김민주",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "쇼 음악중심",
-    "title_en": "Show Music Core",
-    "overview_en": "Show Music Core is a music show that has been aired since 2005 Not like any other music shows this show doesn t include any charts or awards There are a few segments such as This Week s Hot 3 Chart Up Core and Core of Rising Stars",
-    "cast": [
-      {
-        "name": "영훈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/byheBXv7v29wEQrpfa5R5Wfh6Eq.jpg"
-      },
-      {
-        "name": "이정하",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pCUlAO603SXqfvpp5cOCccNFsgL.jpg"
-      },
-      {
-        "name": "설윤",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7225PexjDkZvdJ80RI50zJgY4Di.jpg"
-      },
-      {
-        "name": "정우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pVvj4tdP6VcCGHSxhfiFzlBeqxX.jpg"
-      },
-      {
-        "name": "리노",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sAjPzyMO6ClA667zAEH3DoT5TD2.jpg"
-      },
-      {
-        "name": "김민주",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
-      }
-    ],
-    "date_added": 1790351802041
+    "date_added": 1790366146622
   },
   {
     "adult": false,
@@ -2811,182 +2811,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nnbCQ5nNo81lHZrWB8QVPXD9gIC.jpg"
       }
     ],
-    "date_added": 1790351802831
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o82rmThq339zBdO8Bd3gUyBic0o.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 80736,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "전지적 참견 시점",
-    "overview": "",
-    "popularity": 73.7563,
-    "poster_path": "/oRoGuuYiyQmxc1fU5oV5dPKlnAz.jpg",
-    "first_air_date": "2018-03-10",
-    "softcore": false,
-    "name": "전지적 참견 시점",
-    "vote_average": 5.5,
-    "vote_count": 6,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2018-03-10",
-        "episode_count": 418,
-        "id": 119505,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/20vO0sAmSMepw04oBiQlL8ZMxUX.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "전현무",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
-          },
-          {
-            "name": "송은이",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9L4FpVWBn0GUJLtDTt117ISoPxQ.jpg"
-          },
-          {
-            "name": "유병재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ct2r00JX472zoNMcqUWGv12gQnv.jpg"
-          },
-          {
-            "name": "양세형",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5KFgASri0lSN7P2J1BCZCnXOsbC.jpg"
-          },
-          {
-            "name": "이영자",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "전지적 참견 시점",
-    "title_en": "The Manager",
-    "overview_en": "We will get involved in every little detail of the stars lives The managers who work closely with the stars reveal their mundane lives Once the information is all revealed the professional meddlers from various different fields are invited to make comments regarding even the smallest details Lee Yeong Ja Jun Hyun Moo Song Eun I Kim Saeng Min Yang Se Hyeong and Yoo Byung Jae participate as the life meddlers along with the professionals",
-    "cast": [
-      {
-        "name": "전현무",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
-      },
-      {
-        "name": "송은이",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9L4FpVWBn0GUJLtDTt117ISoPxQ.jpg"
-      },
-      {
-        "name": "유병재",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ct2r00JX472zoNMcqUWGv12gQnv.jpg"
-      },
-      {
-        "name": "양세형",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5KFgASri0lSN7P2J1BCZCnXOsbC.jpg"
-      },
-      {
-        "name": "이영자",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
-      }
-    ],
-    "date_added": 1790351803039
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
-    "genre_ids": [
-      10751,
-      10764
-    ],
-    "id": 64369,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "TV 동물농장",
-    "overview": "",
-    "popularity": 79.0594,
-    "poster_path": "/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
-    "first_air_date": "2001-05-06",
-    "softcore": false,
-    "name": "TV 동물농장",
-    "vote_average": 7.6,
-    "vote_count": 4,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2001-05-06",
-        "episode_count": 1289,
-        "id": 71865,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/2SDZ1GnwH5kAxxyNCBPtKyGHbCi.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "정선희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4uv6JEHDLt7jNiYOl3g1aLYO1tI.jpg"
-          },
-          {
-            "name": "신동엽",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
-          },
-          {
-            "name": "토니 안",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sNMkQmafV2IE06JtAUc4vnkG532.jpg"
-          },
-          {
-            "name": "조이",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "TV 동물농장",
-    "title_en": "TV Animal Farm",
-    "overview_en": "",
-    "cast": [
-      {
-        "name": "정선희",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4uv6JEHDLt7jNiYOl3g1aLYO1tI.jpg"
-      },
-      {
-        "name": "신동엽",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
-      },
-      {
-        "name": "토니 안",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sNMkQmafV2IE06JtAUc4vnkG532.jpg"
-      },
-      {
-        "name": "조이",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
-      }
-    ],
-    "date_added": 1790351803243
+    "date_added": 1790366147335
   },
   {
     "adult": false,
@@ -3129,359 +2954,90 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9L4RG3cujCgTHjtDhFAG88gZiOX.jpg"
       }
     ],
-    "date_added": 1790351803831
+    "date_added": 1790366147993
   },
   {
     "adult": false,
-    "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "backdrop_path": "/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
     "genre_ids": [
-      10759,
-      9648,
-      18
+      10751,
+      10764
     ],
-    "id": 93405,
+    "id": 64369,
     "origin_country": [
       "KR"
     ],
     "original_language": "ko",
-    "original_name": "오징어 게임",
-    "overview": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للتنافس في ألعاب للأطفال حيث تنتظرهم جائزة مُغرية تصحبها مخاطر كبيرة ومميتة",
-    "popularity": 72.1487,
-    "poster_path": "/uI8ij7csb43a4DblctmTnzjWLAi.jpg",
-    "first_air_date": "2021-09-17",
-    "softcore": false,
-    "name": "لعبة الحبّار",
-    "vote_average": 7.854,
-    "vote_count": 17779,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2021-09-17",
-        "episode_count": 9,
-        "id": 131977,
-        "name": "الموسم 1",
-        "overview": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للتنافس في ألعاب للأطفال، حيث تنتظرهم جائزة مُغرية تصحبها مخاطر كبيرة ومميتة.",
-        "poster_path": "/wgrW3fMgmzOxYcVHBek5usvr4MH.jpg",
-        "season_number": 1,
-        "vote_average": 8.3,
-        "cast": [
-          {
-            "name": "이정재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
-          },
-          {
-            "name": "وي ها جون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
-          },
-          {
-            "name": "Lee Doo seok",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cQD0FqioziCBJE7KZC3KGmrO6xg.jpg"
-          },
-          {
-            "name": "هو ايون جونغ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/AfQFFyGeG9xOQnEJb1Ash1RomkP.jpg"
-          },
-          {
-            "name": "박해수",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
-          },
-          {
-            "name": "오영수",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/kUzd955UTVnac2sVG0tYmt9w5jb.jpg"
-          },
-          {
-            "name": "허성태",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j65kOkZ8RjGVuwNHjuIVbSD49tB.jpg"
-          },
-          {
-            "name": "أنوبام تريباثي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qiypxSxV93cIv7F4O2MeOpXNlsJ.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-12-26",
-        "episode_count": 7,
-        "id": 287516,
-        "name": "الموسم 2",
-        "overview": "اركضوا للنجاة بحياتكم! يعود اللاعب 456 لخوض المزيد من ألعاب الأطفال التي تبعث على الإثارة، فيواجه تحديات جديدة مميتة... لكنه مسلّح بأجندة خفيّة هذه المرة.",
-        "poster_path": "/lxEJ7FjmLPKcYXWej2oaRwky7c1.jpg",
-        "season_number": 2,
-        "vote_average": 8.1,
-        "cast": [
-          {
-            "name": "이정재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
-          },
-          {
-            "name": "ايم سي وان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
-          },
-          {
-            "name": "وي ها جون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
-          },
-          {
-            "name": "جو يو ري",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
-          },
-          {
-            "name": "لي بيونغ هون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
-          },
-          {
-            "name": "بارك جيو يونغ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
-          },
-          {
-            "name": "강애심",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
-          },
-          {
-            "name": "이진욱",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-06-27",
-        "episode_count": 6,
-        "id": 435948,
-        "name": "الموسم 3",
-        "overview": "جي‑هون، محطم تمامًا من فقدان أعز أصدقائه، وغارق في يأسٍ عميق بعدما اكتشف أن السيّد المسؤول عن اللعبة كان يخفي هويته الحقيقية ليتسلّل إلى داخلها بنفسه.",
-        "poster_path": "/nWnmbnYgAbyt0RLjrvQMv0nMZRy.jpg",
-        "season_number": 3,
-        "vote_average": 7.5,
-        "cast": [
-          {
-            "name": "이정재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
-          },
-          {
-            "name": "ايم سي وان",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
-          },
-          {
-            "name": "وي ها جون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
-          },
-          {
-            "name": "جو يو ري",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
-          },
-          {
-            "name": "لي بيونغ هون",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
-          },
-          {
-            "name": "بارك جيو يونغ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
-          },
-          {
-            "name": "강애심",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
-          },
-          {
-            "name": "이진욱",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "لعبة الحبّار",
-    "title_en": "Squid Game",
-    "overview_en": "Hundreds of cash strapped players accept a strange invitation to compete in children s games Inside a tempting prize awaits with deadly high stakes",
-    "cast": [
-      {
-        "name": "이정재",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
-      },
-      {
-        "name": "ايم سي وان",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
-      },
-      {
-        "name": "وي ها جون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
-      },
-      {
-        "name": "جو يو ري",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
-      },
-      {
-        "name": "لي بيونغ هون",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
-      },
-      {
-        "name": "بارك جيو يونغ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
-      },
-      {
-        "name": "강애심",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
-      },
-      {
-        "name": "이진욱",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
-      }
-    ],
-    "date_added": 1790351804251
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
-    "genre_ids": [
-      18,
-      10768,
-      9648
-    ],
-    "id": 206693,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "연인",
+    "original_name": "TV 동물농장",
     "overview": "",
-    "popularity": 59.1223,
-    "poster_path": "/rrPCrCRyjdQ8igXIVNcIuL5KcIA.jpg",
-    "first_air_date": "2023-08-04",
+    "popularity": 79.0594,
+    "poster_path": "/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
+    "first_air_date": "2001-05-06",
     "softcore": false,
-    "name": "연인",
-    "vote_average": 8.3,
-    "vote_count": 57,
+    "name": "TV 동물농장",
+    "vote_average": 7.6,
+    "vote_count": 4,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2023-08-04",
-        "episode_count": 21,
-        "id": 302149,
+        "air_date": "2001-05-06",
+        "episode_count": 1289,
+        "id": 71865,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/5MYTVjC6diPzWQUg1RwoNgUBSa4.jpg",
+        "poster_path": "/2SDZ1GnwH5kAxxyNCBPtKyGHbCi.jpg",
         "season_number": 1,
-        "vote_average": 8.7,
+        "vote_average": 0,
         "cast": [
           {
-            "name": "남궁민",
+            "name": "정선희",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d67Fh2o6aFm7mJYfkqWzeGjEjco.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/4uv6JEHDLt7jNiYOl3g1aLYO1tI.jpg"
           },
           {
-            "name": "안은진",
+            "name": "신동엽",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
           },
           {
-            "name": "이학주",
+            "name": "토니 안",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9PuGmzY1nm8uYYiOanEKJHEcdbZ.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/sNMkQmafV2IE06JtAUc4vnkG532.jpg"
           },
           {
-            "name": "이다인",
+            "name": "조이",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ySuDqGLyHntJ7mkKKdqJMOCvAs4.jpg"
-          },
-          {
-            "name": "김윤우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rOzQPM9ufU59fuHA9vBgLAhQvjv.jpg"
-          },
-          {
-            "name": "지승현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pV0Bvhrm7RYuNDrWGpUIo5b00cU.jpg"
-          },
-          {
-            "name": "박정연",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/e2m6x62GpO3Un4EanTbj3eS62y1.jpg"
-          },
-          {
-            "name": "권소현",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7Ub8Qo6CIiNtSKgCdtOyFqK4iET.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
           }
         ]
       }
     ],
-    "title": "연인",
-    "title_en": "My Dearest",
-    "overview_en": "A love story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion",
+    "title": "TV 동물농장",
+    "title_en": "TV Animal Farm",
+    "overview_en": "",
     "cast": [
       {
-        "name": "남궁민",
+        "name": "정선희",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/d67Fh2o6aFm7mJYfkqWzeGjEjco.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/4uv6JEHDLt7jNiYOl3g1aLYO1tI.jpg"
       },
       {
-        "name": "안은진",
+        "name": "신동엽",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
       },
       {
-        "name": "이학주",
+        "name": "토니 안",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/9PuGmzY1nm8uYYiOanEKJHEcdbZ.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/sNMkQmafV2IE06JtAUc4vnkG532.jpg"
       },
       {
-        "name": "이다인",
+        "name": "조이",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ySuDqGLyHntJ7mkKKdqJMOCvAs4.jpg"
-      },
-      {
-        "name": "김윤우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rOzQPM9ufU59fuHA9vBgLAhQvjv.jpg"
-      },
-      {
-        "name": "지승현",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pV0Bvhrm7RYuNDrWGpUIo5b00cU.jpg"
-      },
-      {
-        "name": "박정연",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/e2m6x62GpO3Un4EanTbj3eS62y1.jpg"
-      },
-      {
-        "name": "권소현",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7Ub8Qo6CIiNtSKgCdtOyFqK4iET.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
       }
     ],
-    "date_added": 1790351804433
+    "date_added": 1790366148211
   },
   {
     "adult": false,
@@ -3974,7 +3530,507 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
       }
     ],
-    "date_added": 1790351806044
+    "date_added": 1790366149899
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ihE0jp6V7R6dMwV7YrbYyjdQMvr.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 299989,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "제발 조용히 좀 해!",
+    "overview": "",
+    "popularity": 78.0746,
+    "poster_path": "/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+    "first_air_date": "2025-09-02",
+    "softcore": false,
+    "name": "제발 조용히 좀 해!",
+    "vote_average": 7.6,
+    "vote_count": 17,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2025-09-02",
+        "episode_count": 5,
+        "id": 473613,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+        "season_number": 1,
+        "vote_average": 6.8,
+        "cast": [
+          {
+            "name": "Park Jun won",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Min Seung woo",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Lim Hyuk",
+            "role": "بطوله",
+            "photo_url": null
+          }
+        ]
+      }
+    ],
+    "title": "제발 조용히 좀 해",
+    "title_en": "Quiet Please",
+    "overview_en": "One month into living on his own Yi hyuk was hoping for an exciting dramatic start to his independent life but not this kind of drama What he doesn t expect is to be tormented by the thunderous noise coming from the apartment next door Determined to put an end to it he confronts his neighbor only to make things infinitely worse when he accidentally punches him in the face Yi hyuk tries everything from childish pranks to petty power plays but his neighbor just won t budge He even pleads on his knees to make the noise stop Just when it seems the feud will never end they finally manage to call an uneasy truce And somewhere along the way Yi hyuk realizes he might be falling for the very person who once drove him up the wall",
+    "cast": [
+      {
+        "name": "Park Jun won",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "Min Seung woo",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "Lim Hyuk",
+        "role": "بطوله",
+        "photo_url": null
+      }
+    ],
+    "date_added": 1790366150129
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o82rmThq339zBdO8Bd3gUyBic0o.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 80736,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "전지적 참견 시점",
+    "overview": "",
+    "popularity": 73.7563,
+    "poster_path": "/oRoGuuYiyQmxc1fU5oV5dPKlnAz.jpg",
+    "first_air_date": "2018-03-10",
+    "softcore": false,
+    "name": "전지적 참견 시점",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2018-03-10",
+        "episode_count": 418,
+        "id": 119505,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/20vO0sAmSMepw04oBiQlL8ZMxUX.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "전현무",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
+          },
+          {
+            "name": "송은이",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9L4FpVWBn0GUJLtDTt117ISoPxQ.jpg"
+          },
+          {
+            "name": "유병재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ct2r00JX472zoNMcqUWGv12gQnv.jpg"
+          },
+          {
+            "name": "양세형",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5KFgASri0lSN7P2J1BCZCnXOsbC.jpg"
+          },
+          {
+            "name": "이영자",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "전지적 참견 시점",
+    "title_en": "The Manager",
+    "overview_en": "We will get involved in every little detail of the stars lives The managers who work closely with the stars reveal their mundane lives Once the information is all revealed the professional meddlers from various different fields are invited to make comments regarding even the smallest details Lee Yeong Ja Jun Hyun Moo Song Eun I Kim Saeng Min Yang Se Hyeong and Yoo Byung Jae participate as the life meddlers along with the professionals",
+    "cast": [
+      {
+        "name": "전현무",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
+      },
+      {
+        "name": "송은이",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9L4FpVWBn0GUJLtDTt117ISoPxQ.jpg"
+      },
+      {
+        "name": "유병재",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ct2r00JX472zoNMcqUWGv12gQnv.jpg"
+      },
+      {
+        "name": "양세형",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5KFgASri0lSN7P2J1BCZCnXOsbC.jpg"
+      },
+      {
+        "name": "이영자",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
+      }
+    ],
+    "date_added": 1790366150336
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fDSZ9s6QJfgDvqceTBLUFpNB71j.jpg",
+    "genre_ids": [
+      10767,
+      35
+    ],
+    "id": 81978,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "유 퀴즈 온 더 블럭",
+    "overview": "",
+    "popularity": 72.4948,
+    "poster_path": "/tdGJ2swRbtHT2O3fUXauKVSXNp9.jpg",
+    "first_air_date": "2018-08-29",
+    "softcore": false,
+    "name": "유 퀴즈 온 더 블럭",
+    "vote_average": 8.3,
+    "vote_count": 6,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2018-08-29",
+        "episode_count": 361,
+        "id": 108580,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/mKzHtpp1lCvgrIMb3EPQ7Z2cQIS.jpg",
+        "season_number": 1,
+        "vote_average": 10,
+        "cast": [
+          {
+            "name": "유재석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
+          },
+          {
+            "name": "تشو ساي هو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2019-04-16",
+        "episode_count": 1,
+        "id": 497234,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/Aq0CZ3DMkP4jQU56G2enDgkFxS9.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "유재석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
+          },
+          {
+            "name": "تشو ساي هو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2020-03-11",
+        "episode_count": 1,
+        "id": 497235,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/wFDpJhNYne3NgqZyQwIUUApAm8d.jpg",
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "유재석",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
+          },
+          {
+            "name": "تشو ساي هو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "유 퀴즈 온 더 블럭",
+    "title_en": "You Quiz on the Block",
+    "overview_en": "Yoo Jae suk and Jo Se ho who enter ordinary people s everyday lives chat with them and give them surprise quizzes The talk and quiz show program will spotlight these people s lives and aims to gift them a refreshing different kind of day Recently they re also inviting celebrities professionals to the show",
+    "cast": [
+      {
+        "name": "유재석",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
+      },
+      {
+        "name": "تشو ساي هو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
+      }
+    ],
+    "date_added": 1790366150767
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "genre_ids": [
+      10759,
+      9648,
+      18
+    ],
+    "id": 93405,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "오징어 게임",
+    "overview": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للتنافس في ألعاب للأطفال حيث تنتظرهم جائزة مُغرية تصحبها مخاطر كبيرة ومميتة",
+    "popularity": 72.1487,
+    "poster_path": "/uI8ij7csb43a4DblctmTnzjWLAi.jpg",
+    "first_air_date": "2021-09-17",
+    "softcore": false,
+    "name": "لعبة الحبّار",
+    "vote_average": 7.854,
+    "vote_count": 17779,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2021-09-17",
+        "episode_count": 9,
+        "id": 131977,
+        "name": "الموسم 1",
+        "overview": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للتنافس في ألعاب للأطفال، حيث تنتظرهم جائزة مُغرية تصحبها مخاطر كبيرة ومميتة.",
+        "poster_path": "/wgrW3fMgmzOxYcVHBek5usvr4MH.jpg",
+        "season_number": 1,
+        "vote_average": 8.3,
+        "cast": [
+          {
+            "name": "이정재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+          },
+          {
+            "name": "وي ها جون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+          },
+          {
+            "name": "Lee Doo seok",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cQD0FqioziCBJE7KZC3KGmrO6xg.jpg"
+          },
+          {
+            "name": "هو ايون جونغ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/AfQFFyGeG9xOQnEJb1Ash1RomkP.jpg"
+          },
+          {
+            "name": "박해수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+          },
+          {
+            "name": "오영수",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/kUzd955UTVnac2sVG0tYmt9w5jb.jpg"
+          },
+          {
+            "name": "허성태",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j65kOkZ8RjGVuwNHjuIVbSD49tB.jpg"
+          },
+          {
+            "name": "أنوبام تريباثي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qiypxSxV93cIv7F4O2MeOpXNlsJ.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-12-26",
+        "episode_count": 7,
+        "id": 287516,
+        "name": "الموسم 2",
+        "overview": "اركضوا للنجاة بحياتكم! يعود اللاعب 456 لخوض المزيد من ألعاب الأطفال التي تبعث على الإثارة، فيواجه تحديات جديدة مميتة... لكنه مسلّح بأجندة خفيّة هذه المرة.",
+        "poster_path": "/lxEJ7FjmLPKcYXWej2oaRwky7c1.jpg",
+        "season_number": 2,
+        "vote_average": 8.1,
+        "cast": [
+          {
+            "name": "이정재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+          },
+          {
+            "name": "ايم سي وان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
+          },
+          {
+            "name": "وي ها جون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+          },
+          {
+            "name": "جو يو ري",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+          },
+          {
+            "name": "لي بيونغ هون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+          },
+          {
+            "name": "بارك جيو يونغ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
+          },
+          {
+            "name": "강애심",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
+          },
+          {
+            "name": "이진욱",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2025-06-27",
+        "episode_count": 6,
+        "id": 435948,
+        "name": "الموسم 3",
+        "overview": "جي‑هون، محطم تمامًا من فقدان أعز أصدقائه، وغارق في يأسٍ عميق بعدما اكتشف أن السيّد المسؤول عن اللعبة كان يخفي هويته الحقيقية ليتسلّل إلى داخلها بنفسه.",
+        "poster_path": "/nWnmbnYgAbyt0RLjrvQMv0nMZRy.jpg",
+        "season_number": 3,
+        "vote_average": 7.5,
+        "cast": [
+          {
+            "name": "이정재",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+          },
+          {
+            "name": "ايم سي وان",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
+          },
+          {
+            "name": "وي ها جون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+          },
+          {
+            "name": "جو يو ري",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+          },
+          {
+            "name": "لي بيونغ هون",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+          },
+          {
+            "name": "بارك جيو يونغ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
+          },
+          {
+            "name": "강애심",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
+          },
+          {
+            "name": "이진욱",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "لعبة الحبّار",
+    "title_en": "Squid Game",
+    "overview_en": "Hundreds of cash strapped players accept a strange invitation to compete in children s games Inside a tempting prize awaits with deadly high stakes",
+    "cast": [
+      {
+        "name": "이정재",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+      },
+      {
+        "name": "ايم سي وان",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
+      },
+      {
+        "name": "وي ها جون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+      },
+      {
+        "name": "جو يو ري",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+      },
+      {
+        "name": "لي بيونغ هون",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+      },
+      {
+        "name": "بارك جيو يونغ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
+      },
+      {
+        "name": "강애심",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
+      },
+      {
+        "name": "이진욱",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
+      }
+    ],
+    "date_added": 1790366151333
   },
   {
     "adult": false,
@@ -5189,7 +5245,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790351808636
+    "date_added": 1790366153802
   },
   {
     "adult": false,
@@ -5325,7 +5381,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vHDof1Pl8L8vGXTqECnk5m8z6Dg.jpg"
       }
     ],
-    "date_added": 1790351809210
+    "date_added": 1790366154320
   },
   {
     "adult": false,
@@ -5393,7 +5449,131 @@
     "title_en": "Inkigayo",
     "overview_en": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea Every week they ask viewers to vote and select the most popular song of the week",
     "cast": [],
-    "date_added": 1790351809483
+    "date_added": 1790366154647
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
+    "genre_ids": [
+      18,
+      10768,
+      9648
+    ],
+    "id": 206693,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "연인",
+    "overview": "",
+    "popularity": 59.1223,
+    "poster_path": "/rrPCrCRyjdQ8igXIVNcIuL5KcIA.jpg",
+    "first_air_date": "2023-08-04",
+    "softcore": false,
+    "name": "연인",
+    "vote_average": 8.3,
+    "vote_count": 57,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2023-08-04",
+        "episode_count": 21,
+        "id": 302149,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/5MYTVjC6diPzWQUg1RwoNgUBSa4.jpg",
+        "season_number": 1,
+        "vote_average": 8.7,
+        "cast": [
+          {
+            "name": "남궁민",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d67Fh2o6aFm7mJYfkqWzeGjEjco.jpg"
+          },
+          {
+            "name": "안은진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg"
+          },
+          {
+            "name": "이학주",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9PuGmzY1nm8uYYiOanEKJHEcdbZ.jpg"
+          },
+          {
+            "name": "이다인",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ySuDqGLyHntJ7mkKKdqJMOCvAs4.jpg"
+          },
+          {
+            "name": "김윤우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rOzQPM9ufU59fuHA9vBgLAhQvjv.jpg"
+          },
+          {
+            "name": "지승현",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/pV0Bvhrm7RYuNDrWGpUIo5b00cU.jpg"
+          },
+          {
+            "name": "박정연",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/e2m6x62GpO3Un4EanTbj3eS62y1.jpg"
+          },
+          {
+            "name": "권소현",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7Ub8Qo6CIiNtSKgCdtOyFqK4iET.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "연인",
+    "title_en": "My Dearest",
+    "overview_en": "A love story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion",
+    "cast": [
+      {
+        "name": "남궁민",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/d67Fh2o6aFm7mJYfkqWzeGjEjco.jpg"
+      },
+      {
+        "name": "안은진",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg"
+      },
+      {
+        "name": "이학주",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/9PuGmzY1nm8uYYiOanEKJHEcdbZ.jpg"
+      },
+      {
+        "name": "이다인",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/ySuDqGLyHntJ7mkKKdqJMOCvAs4.jpg"
+      },
+      {
+        "name": "김윤우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rOzQPM9ufU59fuHA9vBgLAhQvjv.jpg"
+      },
+      {
+        "name": "지승현",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/pV0Bvhrm7RYuNDrWGpUIo5b00cU.jpg"
+      },
+      {
+        "name": "박정연",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/e2m6x62GpO3Un4EanTbj3eS62y1.jpg"
+      },
+      {
+        "name": "권소현",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7Ub8Qo6CIiNtSKgCdtOyFqK4iET.jpg"
+      }
+    ],
+    "date_added": 1790366154881
   },
   {
     "adult": false,
@@ -5825,7 +6005,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dxv1GQrMgwp3o99z4rlW8QXPOfK.jpg"
       }
     ],
-    "date_added": 1790351810411
+    "date_added": 1790366155730
   },
   {
     "adult": false,
@@ -5887,7 +6067,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
       }
     ],
-    "date_added": 1790351810605
+    "date_added": 1790366155935
   },
   {
     "adult": false,
@@ -6426,7 +6606,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tfOh64A3XptRzyKrJsxCRDbbgq4.jpg"
       }
     ],
-    "date_added": 1790351811750
+    "date_added": 1790366156983
   },
   {
     "adult": false,
@@ -6540,7 +6720,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/xaWFn1sMb20AHa1jfP7igFcDqzt.jpg"
       }
     ],
-    "date_added": 1790351811939
+    "date_added": 1790366157185
   },
   {
     "adult": false,
@@ -6818,7 +6998,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sGFYYeV2WeM1wHZFFJCrXDfq014.jpg"
       }
     ],
-    "date_added": 1790351812585
+    "date_added": 1790366157726
   },
   {
     "adult": false,
@@ -6994,7 +7174,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/x7iITyLrdw4TDhhYdG0sZGASSNA.jpg"
       }
     ],
-    "date_added": 1790351812915
+    "date_added": 1790366158025
   },
   {
     "adult": false,
@@ -7169,7 +7349,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/naGmBR3zAx7u8htEvu4RML6ODi8.jpg"
       }
     ],
-    "date_added": 1790351813229
+    "date_added": 1790366158316
   },
   {
     "adult": false,
@@ -7292,7 +7472,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
       }
     ],
-    "date_added": 1790351813418
+    "date_added": 1790366158510
   },
   {
     "adult": false,
@@ -7478,7 +7658,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6ijMroYuyWbsKncARMPc1bhmD7x.jpg"
       }
     ],
-    "date_added": 1790351814025
+    "date_added": 1790366159012
   },
   {
     "adult": false,
@@ -7593,7 +7773,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg"
       }
     ],
-    "date_added": 1790351814425
+    "date_added": 1790366159330
   },
   {
     "adult": false,
@@ -7728,7 +7908,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/75a945zgCaCP6Mib6EynICgZO6b.jpg"
       }
     ],
-    "date_added": 1790351814550
+    "date_added": 1790366159621
   },
   {
     "adult": false,
@@ -10107,7 +10287,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jZgDHy9GVkF0mtLC8UNIcF8vxuZ.jpg"
       }
     ],
-    "date_added": 1790351821323
+    "date_added": 1790366166376
   },
   {
     "adult": false,
@@ -10199,7 +10379,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
       }
     ],
-    "date_added": 1790351821510
+    "date_added": 1790366166571
   },
   {
     "adult": false,
@@ -10322,7 +10502,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rCQvBbAAkw6n3JW9Xni3T80mOl3.jpg"
       }
     ],
-    "date_added": 1790351821735
+    "date_added": 1790366166791
   },
   {
     "adult": false,
@@ -10499,7 +10679,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9acPcttWXPT2UwTjlxv5lHVscU3.jpg"
       }
     ],
-    "date_added": 1790351822001
+    "date_added": 1790366167142
   },
   {
     "adult": false,
@@ -10593,7 +10773,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a4nQ5seWDMMSDzW37MkRpk0ZnTE.jpg"
       }
     ],
-    "date_added": 1790351822289
+    "date_added": 1790366167447
   },
   {
     "adult": false,
@@ -10715,7 +10895,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kv1KMZfz34fjmHt7E1HRwWnnhl7.jpg"
       }
     ],
-    "date_added": 1790351822553
+    "date_added": 1790366167670
   },
   {
     "adult": false,
@@ -10841,7 +11021,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/71ey2m4Ono5wHYAl4cUjJvYwrzP.jpg"
       }
     ],
-    "date_added": 1790351822751
+    "date_added": 1790366167866
   },
   {
     "adult": false,
@@ -10923,7 +11103,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lL2UrhCd3mBn3URsW91tlQAPrbt.jpg"
       }
     ],
-    "date_added": 1790351822972
+    "date_added": 1790366168091
   },
   {
     "adult": false,
@@ -11117,7 +11297,7 @@
     "title_en": "KBS Drama Special",
     "overview_en": "Forget the existing one act dramas Short but impactive KBS Drama Special presents high quality single episode dramas Dramas are the broadcast content with the widest public appeal KBS Drama Special will produce short dramas of far reaching impact involving at times a serious social message unique emotions or perspectives It will stay abreast of modern viewership",
     "cast": [],
-    "date_added": 1790351824736
+    "date_added": 1790366169813
   },
   {
     "adult": false,
@@ -11291,7 +11471,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790351825121
+    "date_added": 1790366170108
   },
   {
     "adult": false,
@@ -11353,7 +11533,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg"
       }
     ],
-    "date_added": 1790351825314
+    "date_added": 1790366170309
   },
   {
     "adult": false,
@@ -11479,7 +11659,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uZytd3dXQdBpOAiJNOl7S1eIn8u.jpg"
       }
     ],
-    "date_added": 1790351825579
+    "date_added": 1790366170601
   },
   {
     "adult": false,
@@ -11578,7 +11758,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vcW8ErO1c8Py6DAyDG5o4FM0Wij.jpg"
       }
     ],
-    "date_added": 1790351825897
+    "date_added": 1790366170910
   },
   {
     "adult": false,
@@ -11618,7 +11798,7 @@
     "title_en": "MBC Bests Theater",
     "overview_en": "",
     "cast": [],
-    "date_added": 1790351826083
+    "date_added": 1790366171130
   },
   {
     "adult": false,
@@ -11720,7 +11900,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/x9Gk7WwAxwpCVuoGLP8z7T8ac5e.jpg"
       }
     ],
-    "date_added": 1790351826283
+    "date_added": 1790366171338
   },
   {
     "adult": false,
@@ -11843,7 +12023,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8fHGivHyjPxWjLFNlFratxey0To.jpg"
       }
     ],
-    "date_added": 1790351826490
+    "date_added": 1790366171571
   },
   {
     "adult": false,
@@ -11895,7 +12075,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
       }
     ],
-    "date_added": 1790351826777
+    "date_added": 1790366171805
   },
   {
     "adult": false,
@@ -13629,7 +13809,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3oZcRnI0CGdHB0ZgVAMJTE7g3ig.jpg"
       }
     ],
-    "date_added": 1790351830658
+    "date_added": 1790366175349
   },
   {
     "adult": false,
@@ -13837,7 +14017,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1XHPW660y0z6gAe3AVglV6QZYkH.jpg"
       }
     ],
-    "date_added": 1790351831123
+    "date_added": 1790366175775
   },
   {
     "adult": false,
@@ -13919,7 +14099,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
       }
     ],
-    "date_added": 1790351831366
+    "date_added": 1790366175991
   },
   {
     "adult": false,
@@ -13971,7 +14151,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/69AKvrLyMsFx8BkaKm7cN1bQ3Gb.jpg"
       }
     ],
-    "date_added": 1790351831564
+    "date_added": 1790366176222
   },
   {
     "adult": false,
@@ -14093,7 +14273,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uZytd3dXQdBpOAiJNOl7S1eIn8u.jpg"
       }
     ],
-    "date_added": 1790351831743
+    "date_added": 1790366176421
   },
   {
     "adult": false,
@@ -14175,7 +14355,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8szL6k73fWZXsgz5s9M6eO8LNbZ.jpg"
       }
     ],
-    "date_added": 1790351831962
+    "date_added": 1790366176613
   },
   {
     "adult": false,
@@ -14278,331 +14458,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gjEHjHqRiYW8VN5EGRGDk6dlN8q.jpg"
       }
     ],
-    "date_added": 1790351832442
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-    "genre_ids": [
-      10759,
-      80,
-      18
-    ],
-    "id": 296206,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "김부장",
-    "overview": "عندما تُختطَف ابنة شخص يبدو عاديًا يستعين بمهاراته القديمة في العمليات السرية للعثور عليها ليجد نفسه في مواجهة أخطار لم يكن يتوقعها",
-    "popularity": 29.5358,
-    "poster_path": "/gpGxHHa1rCiTBGGJrXWJ0vJbqli.jpg",
-    "first_air_date": "2026-06-26",
-    "softcore": false,
-    "name": "عودة العميل كيم",
-    "vote_average": 8.466,
-    "vote_count": 192,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-06-26",
-        "episode_count": 10,
-        "id": 465802,
-        "name": "الموسم 1",
-        "overview": "كان العميل كيم رب أسرة عادية مع ابنته وعاش كمواطن صغير من أجل العثور على ابنته التي هي كل شيء له يكشف عن سر لا ينبغي الكشف عنه للعالم أبداً",
-        "poster_path": "/uVu0gqOg6GvjW8pLkY1cm5Tz9rQ.jpg",
-        "season_number": 1,
-        "vote_average": 7.5,
-        "cast": [
-          {
-            "name": "소지섭",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bj8YIJd7kXnIoemM0GDqelon3kX.jpg"
-          },
-          {
-            "name": "최대훈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
-          },
-          {
-            "name": "윤경호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
-          },
-          {
-            "name": "주상욱",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/75yEUkCh7TG21JIzatSpPv2v98T.jpg"
-          },
-          {
-            "name": "손나은",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sc27bY7VuG90lH0IqMn0BmHPgjO.jpg"
-          },
-          {
-            "name": "서수민",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qRUOM22gY6ud1WohcOiCHtar1Zs.jpg"
-          },
-          {
-            "name": "박진우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vxrBZKHegGuOGtB1cgcMpDd33hd.jpg"
-          },
-          {
-            "name": "원현준",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/duuhbQUuLwpoxtTLZ1yLg5A7TB2.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "عودة العميل كيم",
-    "title_en": "Agent Kim Reactivated",
-    "overview_en": "When an unassuming dad s daughter goes missing he dusts off his old black ops skills to track her down only to attract the wrong kind of attention",
-    "cast": [
-      {
-        "name": "소지섭",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bj8YIJd7kXnIoemM0GDqelon3kX.jpg"
-      },
-      {
-        "name": "최대훈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
-      },
-      {
-        "name": "윤경호",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
-      },
-      {
-        "name": "주상욱",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/75yEUkCh7TG21JIzatSpPv2v98T.jpg"
-      },
-      {
-        "name": "손나은",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sc27bY7VuG90lH0IqMn0BmHPgjO.jpg"
-      },
-      {
-        "name": "서수민",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/qRUOM22gY6ud1WohcOiCHtar1Zs.jpg"
-      },
-      {
-        "name": "박진우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vxrBZKHegGuOGtB1cgcMpDd33hd.jpg"
-      },
-      {
-        "name": "원현준",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/duuhbQUuLwpoxtTLZ1yLg5A7TB2.jpg"
-      }
-    ],
-    "date_added": 1790351832792
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 68398,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "낭만닥터 김사부",
-    "overview": "",
-    "popularity": 29.2971,
-    "poster_path": "/dmVgWSrtEj39DUv1QEjT6nGpX3L.jpg",
-    "first_air_date": "2016-11-07",
-    "softcore": false,
-    "name": "낭만닥터 김사부",
-    "vote_average": 8.1,
-    "vote_count": 133,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2016-11-07",
-        "episode_count": 20,
-        "id": 81391,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/3Skk68M2vicUa9pUZHpas1GpmQa.jpg",
-        "season_number": 1,
-        "vote_average": 8.8,
-        "cast": [
-          {
-            "name": "한석규",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
-          },
-          {
-            "name": "유연석",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg"
-          },
-          {
-            "name": "서현진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pevSdOgAhz9a75ixFqbf420vK7J.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2020-01-06",
-        "episode_count": 16,
-        "id": 137237,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/aQnRVFNoKQqDHF5r149Ty5AJMNH.jpg",
-        "season_number": 2,
-        "vote_average": 8.6,
-        "cast": [
-          {
-            "name": "한석규",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
-          },
-          {
-            "name": "이성경",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7glIwMg3XZO43wruVz4qeKgtL8.jpg"
-          },
-          {
-            "name": "آهن هيو سوب",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hVnKQ5WO8MGFrm6ShPmL90NZloV.jpg"
-          },
-          {
-            "name": "진경",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
-          },
-          {
-            "name": "임원희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mZg4KkrhwNnH8gVL9c3yqHcbefR.jpg"
-          },
-          {
-            "name": "변우민",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c66Jt6mJMJo8qM92IKmPesIyn6B.jpg"
-          },
-          {
-            "name": "김민재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lIWG7r9PG1qjezy8yGZI8vurODP.jpg"
-          },
-          {
-            "name": "최진호",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pl5qsHEGH9beFQwNUXMLYGgn17J.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2023-04-28",
-        "episode_count": 16,
-        "id": 308723,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/dmVgWSrtEj39DUv1QEjT6nGpX3L.jpg",
-        "season_number": 3,
-        "vote_average": 8.8,
-        "cast": [
-          {
-            "name": "한석규",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
-          },
-          {
-            "name": "이성경",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c7glIwMg3XZO43wruVz4qeKgtL8.jpg"
-          },
-          {
-            "name": "آهن هيو سوب",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hVnKQ5WO8MGFrm6ShPmL90NZloV.jpg"
-          },
-          {
-            "name": "진경",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
-          },
-          {
-            "name": "임원희",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mZg4KkrhwNnH8gVL9c3yqHcbefR.jpg"
-          },
-          {
-            "name": "변우민",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/c66Jt6mJMJo8qM92IKmPesIyn6B.jpg"
-          },
-          {
-            "name": "김민재",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lIWG7r9PG1qjezy8yGZI8vurODP.jpg"
-          },
-          {
-            "name": "이경영",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aDNcLCWs7KHToiXxfG7ACwvne3l.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "낭만닥터 김사부",
-    "title_en": "Dr Romantic",
-    "overview_en": "An eccentric triple board certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital where he mentors young doctors",
-    "cast": [
-      {
-        "name": "한석규",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/AiGNpL7wZViKY0Lpvb03DNstY5b.jpg"
-      },
-      {
-        "name": "이성경",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/c7glIwMg3XZO43wruVz4qeKgtL8.jpg"
-      },
-      {
-        "name": "آهن هيو سوب",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hVnKQ5WO8MGFrm6ShPmL90NZloV.jpg"
-      },
-      {
-        "name": "진경",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
-      },
-      {
-        "name": "임원희",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/mZg4KkrhwNnH8gVL9c3yqHcbefR.jpg"
-      },
-      {
-        "name": "변우민",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/c66Jt6mJMJo8qM92IKmPesIyn6B.jpg"
-      },
-      {
-        "name": "김민재",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lIWG7r9PG1qjezy8yGZI8vurODP.jpg"
-      },
-      {
-        "name": "이경영",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/aDNcLCWs7KHToiXxfG7ACwvne3l.jpg"
-      }
-    ],
-    "date_added": 1790351833232
+    "date_added": 1790366177129
   }
 ]
