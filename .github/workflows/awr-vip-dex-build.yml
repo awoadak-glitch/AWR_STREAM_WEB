@@ -1,0 +1,67 @@
+name: AWR VIP isolated dex build
+
+on:
+  push:
+    branches:
+      - awr-vip-dex-build-20260823
+    paths:
+      - 'awr-vip-build/**'
+      - '.github/workflows/awr-vip-dex-build.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'awr-vip-build/**'
+      - '.github/workflows/awr-vip-dex-build.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.11.1'
+
+      - name: Ensure Android 35 SDK
+        shell: bash
+        run: |
+          SDKMANAGER="$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"
+          if [ ! -x "$SDKMANAGER" ]; then SDKMANAGER="$ANDROID_HOME/tools/bin/sdkmanager"; fi
+          yes | "$SDKMANAGER" --licenses >/dev/null || true
+          "$SDKMANAGER" 'platforms;android-35' 'build-tools;35.0.0'
+
+      - name: Compile isolated Kotlin Activity
+        working-directory: awr-vip-build
+        run: gradle --no-daemon clean classes
+
+      - name: Build classes2.dex with Kotlin runtime
+        shell: bash
+        run: |
+          rm -rf awr-vip-build/out awr-vip-build/jarstage
+          mkdir -p awr-vip-build/out/lib64 awr-vip-build/jarstage
+          cp -a awr-vip-build/build/classes/kotlin/main/. awr-vip-build/jarstage/
+          (cd awr-vip-build/jarstage && jar cf ../awrvip.jar .)
+          KOTLIN_STDLIB="$(find "$HOME/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib" -type f -name 'kotlin-stdlib-*.jar' | head -n1)"
+          D8="$ANDROID_HOME/build-tools/35.0.0/d8"
+          "$D8" --min-api 23 --lib "$ANDROID_HOME/platforms/android-35/android.jar" --output awr-vip-build/out awr-vip-build/awrvip.jar "$KOTLIN_STDLIB"
+          mv awr-vip-build/out/classes.dex awr-vip-build/out/classes2.dex
+          cp "$ANDROID_HOME/build-tools/35.0.0/lib/apksigner.jar" awr-vip-build/out/apksigner.jar
+          cp "$ANDROID_HOME/build-tools/35.0.0/zipalign" awr-vip-build/out/zipalign
+          cp "$ANDROID_HOME/build-tools/35.0.0/lib64/libc++.so" awr-vip-build/out/lib64/libc++.so
+          sha256sum awr-vip-build/out/classes2.dex awr-vip-build/out/lib64/libc++.so
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: awr-vip-final-build-tools
+          path: awr-vip-build/out/
+          if-no-files-found: error
+          retention-days: 1
