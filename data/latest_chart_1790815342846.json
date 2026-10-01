@@ -1966,7 +1966,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
       }
     ],
-    "date_added": 1790802949172
+    "date_added": 1790815353084
   },
   {
     "adult": false,
@@ -4465,7 +4465,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
       }
     ],
-    "date_added": 1790802949200
+    "date_added": 1790815353089
   },
   {
     "adult": false,
@@ -9620,7 +9620,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1790802949207
+    "date_added": 1790815353095
   },
   {
     "adult": false,
@@ -13074,7 +13074,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yNqUNepmVQ462yoTnZOWVbudKeG.jpg"
       }
     ],
-    "date_added": 1790802949232
+    "date_added": 1790815353102
   },
   {
     "adult": false,
@@ -15763,7 +15763,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eLTYiIZagtV006aSyem5SrpifgE.jpg"
       }
     ],
-    "date_added": 1790802949237
+    "date_added": 1790815353108
   },
   {
     "adult": false,
@@ -17041,19 +17041,6 @@
       "crew": [
         {
           "adult": false,
-          "gender": 2,
-          "id": 145612,
-          "known_for_department": "Writing",
-          "name": "Guy Moshe",
-          "original_name": "Guy Moshe",
-          "popularity": 0.945,
-          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
-          "credit_id": "659dbcc391b53000ef1ea759",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 4472963,
           "known_for_department": "Production",
@@ -17068,28 +17055,54 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 145612,
-          "known_for_department": "Writing",
-          "name": "Guy Moshe",
-          "original_name": "Guy Moshe",
-          "popularity": 0.945,
-          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
-          "credit_id": "659dbd49eb64f10097cd4819",
+          "id": 5328,
+          "known_for_department": "Production",
+          "name": "Kerry Barden",
+          "original_name": "Kerry Barden",
+          "popularity": 0.999,
+          "profile_path": null,
+          "credit_id": "659dbda591b530025960290f",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1139529,
+          "known_for_department": "Production",
+          "name": "Jai Khanna",
+          "original_name": "Jai Khanna",
+          "popularity": 0.512,
+          "profile_path": null,
+          "credit_id": "659dbd81d6590b00ed2c9538",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4472964,
+          "known_for_department": "Production",
+          "name": "Harel Kodesh",
+          "original_name": "Harel Kodesh",
+          "popularity": 0.2712,
+          "profile_path": null,
+          "credit_id": "659dbd5eeb64f100f24e2257",
           "department": "Production",
           "job": "Executive Producer"
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 19689,
-          "known_for_department": "Production",
-          "name": "Paul Schnee",
-          "original_name": "Paul Schnee",
-          "popularity": 0.9738,
+          "gender": 0,
+          "id": 1018715,
+          "known_for_department": "Writing",
+          "name": "Mark Bacci",
+          "original_name": "Mark Bacci",
+          "popularity": 0.8713,
           "profile_path": null,
-          "credit_id": "659dbd926728a80201abc28a",
-          "department": "Production",
-          "job": "Casting"
+          "credit_id": "659dbce59bcd0f01481ad1ba",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -17120,15 +17133,41 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1139529,
+          "id": 19689,
           "known_for_department": "Production",
-          "name": "Jai Khanna",
-          "original_name": "Jai Khanna",
-          "popularity": 0.512,
+          "name": "Paul Schnee",
+          "original_name": "Paul Schnee",
+          "popularity": 0.9738,
           "profile_path": null,
-          "credit_id": "659dbd81d6590b00ed2c9538",
+          "credit_id": "659dbd926728a80201abc28a",
           "department": "Production",
-          "job": "Producer"
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 145612,
+          "known_for_department": "Writing",
+          "name": "Guy Moshe",
+          "original_name": "Guy Moshe",
+          "popularity": 0.945,
+          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+          "credit_id": "659dbd49eb64f10097cd4819",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 145612,
+          "known_for_department": "Writing",
+          "name": "Guy Moshe",
+          "original_name": "Guy Moshe",
+          "popularity": 0.945,
+          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+          "credit_id": "659dbcc391b53000ef1ea759",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -17146,15 +17185,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 5328,
-          "known_for_department": "Production",
-          "name": "Kerry Barden",
-          "original_name": "Kerry Barden",
-          "popularity": 0.999,
-          "profile_path": null,
-          "credit_id": "659dbda591b530025960290f",
-          "department": "Production",
-          "job": "Casting"
+          "id": 145612,
+          "known_for_department": "Writing",
+          "name": "Guy Moshe",
+          "original_name": "Guy Moshe",
+          "popularity": 0.945,
+          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+          "credit_id": "659dbcdd24b33300961b9c6e",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -17168,45 +17207,6 @@
           "credit_id": "659dbd0a24b33301a629d1f8",
           "department": "Production",
           "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 145612,
-          "known_for_department": "Writing",
-          "name": "Guy Moshe",
-          "original_name": "Guy Moshe",
-          "popularity": 0.945,
-          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
-          "credit_id": "659dbcdd24b33300961b9c6e",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1018715,
-          "known_for_department": "Writing",
-          "name": "Mark Bacci",
-          "original_name": "Mark Bacci",
-          "popularity": 0.8713,
-          "profile_path": null,
-          "credit_id": "659dbce59bcd0f01481ad1ba",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 4472964,
-          "known_for_department": "Production",
-          "name": "Harel Kodesh",
-          "original_name": "Harel Kodesh",
-          "popularity": 0.2712,
-          "profile_path": null,
-          "credit_id": "659dbd5eeb64f100f24e2257",
-          "department": "Production",
-          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -17467,7 +17467,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg"
       }
     ],
-    "date_added": 1790802949332
+    "date_added": 1790815353203
   },
   {
     "adult": false,
@@ -18066,7 +18066,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790802949422
+    "date_added": 1790815353208
   },
   {
     "adult": false,
@@ -19564,7 +19564,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cMzkT78ZH4qluKg2VumKkF3eTia.jpg"
       }
     ],
-    "date_added": 1790802949447
+    "date_added": 1790815353213
   },
   {
     "adult": false,
@@ -21232,7 +21232,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1790802949559
+    "date_added": 1790815353218
   },
   {
     "adult": false,
@@ -22356,7 +22356,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vf3R5QU7UCVEr3dOGt3bdFbypzu.jpg"
       }
     ],
-    "date_added": 1790802949584
+    "date_added": 1790815353223
   },
   {
     "adult": false,
@@ -22547,8 +22547,8 @@
             "homepage": "",
             "overview": "Ein ehemaliger Soldat der Army Special Forces und sein pensionierter Kampfhund kämpfen ums Überleben, nachdem sie tief in der gnadenlosen Wildnis Alaskas einen verheerenden Flugzeugabsturz erlitten haben. Das Duo muss sich durch das raue Gelände kämpfen, um in die Zivilisation zurückzukehren, während es gegen die Elemente und seine eigenen inneren Dämonen ankämpft.",
             "runtime": 101,
-            "tagline": "",
-            "title": "Eiserne Wildnis - Heart of the Beast"
+            "tagline": "Nur gemeinsam haben sie eine Chance.",
+            "title": "Eiserne Wildnis – Heart of the Beast"
           }
         },
         {
@@ -23033,15 +23033,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 4609220,
-          "known_for_department": "Writing",
-          "name": "Cameron Alexander",
-          "original_name": "Cameron Alexander",
-          "popularity": 1.0614,
-          "profile_path": null,
-          "credit_id": "65fe02433520e8014bd52071",
-          "department": "Writing",
-          "job": "Writer"
+          "id": 19769,
+          "known_for_department": "Directing",
+          "name": "ديفيد آير",
+          "original_name": "David Ayer",
+          "popularity": 3.257,
+          "profile_path": "/7JmWK2wg2StEc9eYjY96s7OJgb7.jpg",
+          "credit_id": "65fe011004733f014ae70e1b",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -23078,22 +23078,22 @@
           "original_name": "Cameron Alexander",
           "popularity": 1.0614,
           "profile_path": null,
-          "credit_id": "65fe025c62f335017d507671",
-          "department": "Production",
-          "job": "Executive Producer"
+          "credit_id": "65fe02433520e8014bd52071",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
           "gender": 2,
-          "id": 19769,
-          "known_for_department": "Directing",
-          "name": "ديفيد آير",
-          "original_name": "David Ayer",
-          "popularity": 3.257,
-          "profile_path": "/7JmWK2wg2StEc9eYjY96s7OJgb7.jpg",
-          "credit_id": "65fe011004733f014ae70e1b",
-          "department": "Directing",
-          "job": "Director"
+          "id": 4609220,
+          "known_for_department": "Writing",
+          "name": "Cameron Alexander",
+          "original_name": "Cameron Alexander",
+          "popularity": 1.0614,
+          "profile_path": null,
+          "credit_id": "65fe025c62f335017d507671",
+          "department": "Production",
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -23560,7 +23560,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
       }
     ],
-    "date_added": 1790802949654
+    "date_added": 1790815353228
   },
   {
     "adult": false,
@@ -26999,7 +26999,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790802949681
+    "date_added": 1790815353233
   },
   {
     "adult": false,
@@ -29864,7 +29864,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1790802949707
+    "date_added": 1790815353238
   },
   {
     "adult": false,
@@ -30844,7 +30844,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uxjZmYJ231RwfZsFQI2cksvz2jJ.jpg"
       }
     ],
-    "date_added": 1790802949773
+    "date_added": 1790815353334
   },
   {
     "adult": false,
@@ -31194,7 +31194,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790802949861
+    "date_added": 1790815353339
   },
   {
     "adult": false,
@@ -32835,7 +32835,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
       }
     ],
-    "date_added": 1790802949886
+    "date_added": 1790815353343
   },
   {
     "adult": false,
@@ -35087,7 +35087,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/scuhT7GDRFIXP2Iw7Yz2Mplq7oW.jpg"
       }
     ],
-    "date_added": 1790802949892
+    "date_added": 1790815353348
   },
   {
     "adult": false,
@@ -36753,7 +36753,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1790802949999
+    "date_added": 1790815353353
   },
   {
     "adult": false,
@@ -47173,7 +47173,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
       }
     ],
-    "date_added": 1790802950105
+    "date_added": 1790815353360
   },
   {
     "adult": false,
@@ -48474,7 +48474,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/neVbiMVlEks9TkChp5qmhS65wiB.jpg"
       }
     ],
-    "date_added": 1790802950202
+    "date_added": 1790815353452
   },
   {
     "adult": false,
@@ -49346,13 +49346,13 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
       }
     ],
-    "date_added": 1790802950401
+    "date_added": 1790815353573
   },
   {
     "adult": false,
     "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
     "belongs_to_collection": null,
-    "budget": 20000000,
+    "budget": 0,
     "genres": [
       {
         "id": 36,
@@ -49428,7 +49428,7 @@
       }
     ],
     "release_date": "2026-09-10",
-    "revenue": 7784963,
+    "revenue": 5084631,
     "runtime": 128,
     "softcore": false,
     "spoken_languages": [
@@ -52099,7 +52099,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg"
       }
     ],
-    "date_added": 1790802950429
+    "date_added": 1790815353579
   },
   {
     "adult": false,
@@ -54216,7 +54216,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a0wqnZmewxpNIXi1ol9fii2CzWJ.jpg"
       }
     ],
-    "date_added": 1790802950526
+    "date_added": 1790815353585
   },
   {
     "adult": false,
@@ -57878,7 +57878,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
       }
     ],
-    "date_added": 1790802950533
+    "date_added": 1790815353591
   },
   {
     "adult": false,
@@ -61420,7 +61420,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
       }
     ],
-    "date_added": 1790802950538
+    "date_added": 1790815353597
   },
   {
     "adult": false,
@@ -64356,7 +64356,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
       }
     ],
-    "date_added": 1790802950566
+    "date_added": 1790815353602
   },
   {
     "adult": false,
@@ -65949,7 +65949,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
       }
     ],
-    "date_added": 1790802950592
+    "date_added": 1790815353607
   },
   {
     "adult": false,
@@ -66251,7 +66251,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/soMA9uxdUFUZyXK94vSaeiEcJjJ.jpg"
       }
     ],
-    "date_added": 1790802950690
+    "date_added": 1790815353696
   },
   {
     "adult": false,
@@ -66978,7 +66978,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790802950791
+    "date_added": 1790815353701
   },
   {
     "adult": false,
@@ -71501,7 +71501,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
       }
     ],
-    "date_added": 1790802950889
+    "date_added": 1790815353706
   },
   {
     "adult": false,
@@ -71928,7 +71928,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1790802953827
+    "date_added": 1790815354942
   },
   {
     "adult": false,
@@ -72277,7 +72277,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yia3GOqqCVfiNISWFjcqih88f1j.jpg"
       }
     ],
-    "date_added": 1790802955513
+    "date_added": 1790815355292
   },
   {
     "adult": false,
@@ -73934,7 +73934,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1790802956603
+    "date_added": 1790815357927
   },
   {
     "adult": false,
@@ -74057,7 +74057,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1790802956821
+    "date_added": 1790815358138
   },
   {
     "adult": false,
@@ -74331,7 +74331,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1790802958528
+    "date_added": 1790815358757
   },
   {
     "adult": false,
@@ -74869,7 +74869,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1790802962143
+    "date_added": 1790815360805
   },
   {
     "adult": false,
@@ -75803,7 +75803,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
       }
     ],
-    "date_added": 1790802964923
+    "date_added": 1790815362320
   },
   {
     "adult": false,
@@ -77023,7 +77023,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
       }
     ],
-    "date_added": 1790802967360
+    "date_added": 1790815363447
   },
   {
     "adult": false,
@@ -77150,7 +77150,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
       }
     ],
-    "date_added": 1790802967781
+    "date_added": 1790815363553
   },
   {
     "adult": false,
@@ -78904,7 +78904,7 @@
     "title_en": "Goede Tijden Slechte Tijden",
     "overview_en": "Goede tijden slechte tijden also known as GTST is the longest running Dutch soap opera revolving around the lives of the families Alberts Sanders De Jong Van Houten and Bouwhuis It all takes place in the fictional town of Meerdijk",
     "cast": [],
-    "date_added": 1790802971984
+    "date_added": 1790815365895
   },
   {
     "adult": false,
@@ -80708,7 +80708,7 @@
     "title_en": "Kamen Rider",
     "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
     "cast": [],
-    "date_added": 1790802976528
+    "date_added": 1790815368503
   },
   {
     "adult": false,
@@ -81111,7 +81111,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1790802980449
+    "date_added": 1790815370480
   },
   {
     "adult": false,
@@ -81185,7 +81185,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
       }
     ],
-    "date_added": 1790802980487
+    "date_added": 1790815370554
   },
   {
     "adult": false,
@@ -81361,7 +81361,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
       }
     ],
-    "date_added": 1790802980626
+    "date_added": 1790815370571
   },
   {
     "adult": false,
@@ -81589,7 +81589,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1790802981178
+    "date_added": 1790815370770
   },
   {
     "adult": false,
@@ -81702,7 +81702,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1790802981425
+    "date_added": 1790815370783
   },
   {
     "adult": false,
@@ -82911,7 +82911,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/84kqZzeWF8L397qMQM2lcSZ9IFa.jpg"
       }
     ],
-    "date_added": 1790802984583
+    "date_added": 1790815372404
   },
   {
     "adult": false,
@@ -85641,7 +85641,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
       }
     ],
-    "date_added": 1790802990666
+    "date_added": 1790815375229
   },
   {
     "adult": false,
@@ -85945,7 +85945,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
       }
     ],
-    "date_added": 1790802990879
+    "date_added": 1790815375268
   },
   {
     "adult": false,
@@ -86038,7 +86038,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
       }
     ],
-    "date_added": 1790802991167
+    "date_added": 1790815375286
   },
   {
     "adult": false,
@@ -86160,7 +86160,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1790802991463
+    "date_added": 1790815375325
   },
   {
     "adult": false,
@@ -87324,7 +87324,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/q53d695nbyb4YJUltGp7uAmwxPc.jpg"
       }
     ],
-    "date_added": 1790802994850
+    "date_added": 1790815377186
   },
   {
     "adult": false,
@@ -88027,7 +88027,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zvFXKr0U6hFrOEkV7ZFVNhJ9m9X.jpg"
       }
     ],
-    "date_added": 1790802995142
+    "date_added": 1790815377398
   },
   {
     "adult": false,
@@ -88686,7 +88686,7 @@
     "title_en": "Scene of the Crime",
     "overview_en": "Tatort is a long running German Austrian Swiss crime television series set in various parts of these countries The show is broadcast on the channels of ARD in Germany ORF in Austria and SF1 in Switzerland",
     "cast": [],
-    "date_added": 1790803001890
+    "date_added": 1790815382905
   },
   {
     "adult": false,
@@ -89300,7 +89300,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zndDiPrNXtbxGLVhFhSlpCkaHIH.jpg"
       }
     ],
-    "date_added": 1790803005971
+    "date_added": 1790815385553
   },
   {
     "adult": false,
@@ -89579,7 +89579,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1790803006085
+    "date_added": 1790815385578
   },
   {
     "adult": false,
@@ -89773,7 +89773,7 @@
         "overview": "",
         "poster_path": "/w2jauz2PeSjFQifDObI3qDen4f7.jpg",
         "season_number": 6,
-        "vote_average": 8,
+        "vote_average": 7.9,
         "cast": [
           {
             "name": "غاري أولدمان",
@@ -89853,7 +89853,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/mpsq3UnNiFgmd3MY2Q6a3ZBMGQ8.jpg"
       }
     ],
-    "date_added": 1790803006305
+    "date_added": 1790815385880
   },
   {
     "adult": false,
@@ -93225,7 +93225,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1790803013762
+    "date_added": 1790815389200
   },
   {
     "adult": false,
@@ -93974,7 +93974,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2qLHQpxvFMlMKf7qeBKGRTsJF4S.jpg"
       }
     ],
-    "date_added": 1790803015396
+    "date_added": 1790815390106
   },
   {
     "adult": false,
@@ -94079,6 +94079,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1790803015456
+    "date_added": 1790815390183
   }
 ]
