@@ -15,7 +15,23 @@ function absolute(path){ try {const url = new URL(path,ORIGIN); if (!['http:','h
 function mediaUrl(path){ if(!path||!String(path).trim())return ''; const link=absolute(path);try {const u = new URL(link);return /(^|\.)aoneroom\.com$|(^|\.)movieboxph\.org$/i.test(u.hostname)?link:'';}catch{return '';}}
 function mediaLink(path) {try {const u = new URL(path,ORIGIN);return u.origin===ORIGIN && /^\/movies\/[a-z0-9-]{5,}$/i.test(u.pathname) ? `${u.origin}${u.pathname}`:'';}catch{return '';}}
 function sectionFrom(text){return text.replace(/^[🔥🎬🎥🏆📺\s]+/gu,'').trim().slice(0,60)||'Trending';}
+// Server-rendered cards often show only the first ~8 <img> tags.
+// Next.js flight data contains the authoritative cover URL for every item.
+function embeddedCovers(html){
+ const images=new Map();
+ const flight=/self\.__next_f\.push\(\[1,("(?:\\.|[^"\\])*")\]\)/g;
+ const card=/"subjectId":"\d+","subjectType":\d+,"title":"([^"]+)"[\s\S]{0,1800}?"cover":\{"url":"([^"]+)"[\s\S]{0,2000}?"detailPath":"([^"]+)"/g;
+ for(const [,encoded] of html.matchAll(flight)){
+   let part;try{part=JSON.parse(encoded);}catch{continue;}
+   for(const hit of part.matchAll(card)){
+     const url=mediaUrl(hit[2]);
+     if(url && !images.has(hit[3])) images.set(hit[3],url);
+   }
+ }
+ return images;
+}
 function extract(html,page){
+ const sourceCovers=embeddedCovers(html);
  const headers=[{pos:0,name:page==='home'?'Trending Now':page}];
  for(const match of html.matchAll(/<h[12]\b[^>]*>([\s\S]*?)<\/h[12]>/gi)){
   let title=sectionFrom(textOnly(match[1]));if(title.length>2 && title.length<65)headers.push({pos:match.index,name:title});
@@ -28,6 +44,7 @@ function extract(html,page){
    const imageAttrs=imgMatch?.[1]||'';
    let image=mediaUrl(attr(imageAttrs,'src')||attr(imageAttrs,'data-src')||attr(imageAttrs,'data-original'));
    if(!image){const srcset=attr(imageAttrs,'srcset');image=mediaUrl(srcset.split(',')[0]?.trim().split(' ')[0]||'');}
+   if(!image)image=sourceCovers.get(new URL(href).pathname.slice(8))||'';
    let title=attr(imageAttrs,'alt')||attr(match[1],'title');
    const label=textOnly(nested);
    if(!title||/^(image|poster|thumbnail|cover)$/i.test(title)) {
@@ -47,7 +64,7 @@ function extract(html,page){
  }
  const list=[...sections].map(([title,items])=>({title,items})).filter(section=>section.items.length);
  if(!list.length)throw new Error('No readable catalogue cards were found in the source page');
- return {page,updatedAt:new Date().toISOString(),source:ORIGIN,sections:list,featured:featured.slice(0,6),count:seen.size};
+ return {page,updatedAt:new Date().toISOString(),source:ORIGIN,sections:list,featured:featured.slice(0,6),count:seen.size,posterCount:[...sections.values()].flat().filter(x=>Boolean(x.image)).length};
 }
 export default async function handler(req,res){
  if(req.method!=='GET')return res.status(405).json({error:'Method not allowed'});
