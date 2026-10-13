@@ -59,3 +59,23 @@ body{background:#090814;color:#f8f3ff}
 .card-meta{color:#a897bd}.poster-badge{background:#18112ddd;border-color:#544064}.dialog{background:#171126;border-color:#674a83}.dialog-close{background:#2f2146}.detail-chips span{background:#37294b;color:#f8e5fb}.dialog-poster{background:#39215c}.toast{background:#3d285d;border-color:#9f71cc;color:#fff}
 .eyebrow i,.loading-line{background:var(--green)}.skeleton{background:linear-gradient(110deg,#211630 8%,#3b294e 18%,#211630 32%);background-size:240% 100%}
 @media(max-width:600px){.hero{min-height:390px}.hero-art{opacity:.21}}
+
+
+/* AWR native playback — no external document or embedded frame */
+.theater{border-color:#6d4f88;background:#120e20;box-shadow:0 35px 140px #000e}
+.theater-top{background:#1c142d;border-color:#43345c}.theater-brand b{color:#dfafff}.theater-head h2{font-size:15px;color:#fff2ff}
+.theater-frame{position:relative;background:radial-gradient(ellipse at center,#161124,#020205);flex:1;min-height:180px}
+.theater-frame video{position:absolute;inset:0;width:100%;height:100%;background:black;display:block;object-fit:contain}
+.theater-frame video[hidden]{display:none!important}
+.player-empty{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:13px;padding:20px;background:radial-gradient(ellipse at 50% 25%,#4c285b77,#090711 68%);text-align:center;color:#e7d8ec}
+.player-empty-icon{width:80px;height:80px;border:2px solid #ba80e282;border-radius:26px;background:linear-gradient(140deg,#45236b,#7c4791);display:grid;place-items:center;font-size:33px;color:#edd1ff;box-shadow:0 15px 45px #9e53c53f}
+.player-empty h3{margin:5px 0 0;font-size:clamp(20px,3vw,29px);font-weight:900;color:#faf3ff}
+.player-empty p{font-size:14px;line-height:1.8;max-width:480px;margin:0;color:#bdafd0}
+.player-empty .btn{margin-top:8px;max-width:360px}
+.player-toolbar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;background:#1b142c;border-top:1px solid #493459;padding:11px 20px}
+.player-toolbar label{display:flex;align-items:center;gap:7px;color:#d8c8e6;font-size:12px;white-space:nowrap}
+.player-toolbar select{border:1px solid #68507c;border-radius:7px;background:#2c203c;color:#fff;min-width:98px;max-width:180px;padding:7px;font-size:12px;outline:0}
+.player-toolbar .btn{min-height:34px;padding:7px 12px;font-size:11px}
+.theater-info{background:#0f0b1b;border-color:#423153;color:#9f8fb7}
+.theater-info span:last-child{color:#d5a3ef}
+@media(max-width:740px){.theater-top{gap:8px}.player-toolbar{gap:7px;padding:9px 11px}.player-toolbar label{font-size:10px}.player-toolbar select{min-width:75px;max-width:110px;padding:5px}.player-empty-icon{width:60px;height:60px;font-size:26px}.player-empty p{font-size:12px}.player-empty .btn{width:auto}}
