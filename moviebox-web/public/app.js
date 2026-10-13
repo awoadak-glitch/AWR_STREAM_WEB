@@ -51,7 +51,7 @@ function updateFavoriteDialog(){if(!state.selected)return;byId('favDetail').text
 function openDetail(item){if(!item)return;state.selected=item;byId('dialogTitle').textContent=item.title;const image=safeImage(item.image);byId('dialogPoster').style.backgroundImage=image?`linear-gradient(0deg,#0b152aa6,#0001),url("${image.replaceAll('"','%22')}")`:'';byId('dialogMeta').innerHTML=`<span>AWR VISION</span>${item.genre?`<span>${escapeHTML(item.genre)}</span>`:''}${item.score?`<span>★ ${escapeHTML(item.score)}</span>`:''}`;byId('watchInSite').textContent=t('watchInside');updateFavoriteDialog();byId('dialogBackdrop').hidden=false;document.body.style.overflow='hidden';}
 function closeDetail(){byId('dialogBackdrop').hidden=true;document.body.style.overflow='';state.selected=null;}
 function closeMenu(){byId('sidebar').classList.remove('open');byId('scrim').classList.remove('visible');}
-let playerHls=null,playerDash=null,activeMedia=null,activePlayback=null;
+let playerHls=null,playerDash=null,activeMedia=null,activePlayback=null,isDemo=false;
 const video=byId('awrVideo'),empty=byId('playerEmpty');
 function playerMessage(title,details,showDemo=false){
  video.hidden=true;empty.hidden=false;byId('playerStatusTitle').textContent=title;byId('playerStatusDetail').textContent=details;byId('playerDemo').hidden=!showDemo;
@@ -94,7 +94,7 @@ async function setStream(stream){
 }
 async function openPlayer(item){
  if(!item)return;
- closeDetail();activeMedia={...item};activePlayback=null;
+ closeDetail();activeMedia={...item};activePlayback=null;isDemo=false;
  byId('playingTitle').textContent=item.title;
  byId('playerBackdrop').hidden=false;document.body.style.overflow='hidden';
  byId('sourcePicker').innerHTML='<option value="">جاري تجهيز المصادر...</option>';
@@ -128,7 +128,38 @@ document.addEventListener('error',e=>{
 },true);
 byId('watchInSite').addEventListener('click',()=>openPlayer(state.selected));
 byId('playerClose').addEventListener('click',closePlayer);
-byId('sourcePlayer').addEventListener('load',()=>{byId('theaterLoading').hidden=true;});
+byId('sourcePicker').addEventListener('change',async e=>{
+ const source=activePlayback?.sources?.[Number(e.target.value)];
+ if(source)try{await setStream(source);}catch(err){playerMessage('تعذر تشغيل المصدر',String(err.message||err),true);}
+});
+byId('speedPicker').addEventListener('change',e=>{video.playbackRate=Number(e.target.value)||1;});
+byId('playerDemo').addEventListener('click',async()=>{
+ if(!activeMedia)return;
+ isDemo=true;activePlayback={sources:[{label:'مقطع تجريبي مجاني',type:'mp4',url:'https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4'}],subtitles:[]};
+ byId('sourcePicker').innerHTML='<option value="0">مقطع تجريبي CC0 — ليس الفيلم</option>';
+ try{await setStream(activePlayback.sources[0]);toast('هذا مقطع تجريبي للمشغل، وليس الفيلم المحدد.');}
+ catch(err){playerMessage('المقطع التجريبي لم يعمل',String(err.message||err),false);}
+});
+byId('playerPip').addEventListener('click',async()=>{
+ try{if(document.pictureInPictureElement)await document.exitPictureInPicture();else if(video.readyState)await video.requestPictureInPicture();}
+ catch{toast('الصورة داخل صورة غير مدعومة على هذا الجهاز');}
+});
+video.addEventListener('timeupdate',()=>{
+ if(isDemo||!activeMedia||!Number.isFinite(video.currentTime))return;
+ if(Math.floor(video.currentTime)%5===0)try{localStorage.setItem('awr-progress-'+activeMedia.id,String(video.currentTime));}catch{}
+});
+video.addEventListener('loadedmetadata',()=>{
+ byId('resumeBtn').hidden=true;
+ if(isDemo||!activeMedia)return;
+ const saved=Number(localStorage.getItem('awr-progress-'+activeMedia.id)||0);
+ if(saved>15&&saved<video.duration-10){byId('resumeBtn').hidden=false;byId('resumeBtn').dataset.time=String(saved);}
+});
+byId('resumeBtn').addEventListener('click',()=>{
+ video.currentTime=Number(byId('resumeBtn').dataset.time)||0;byId('resumeBtn').hidden=true;
+});
+video.addEventListener('error',()=>{
+ if(activeMedia&&activePlayback&&!video.hidden)playerMessage('تعذر تشغيل الفيديو','تحقق من صلاحية الرابط ودعم المتصفح وترخيص الوصول إلى ملف الوسائط.',false);
+});
 byId('playerFullscreen').addEventListener('click',()=>byId('playerFrameWrap').requestFullscreen?.());
 byId('playerBackdrop').addEventListener('click',e=>{if(e.target===byId('playerBackdrop'))closePlayer();});
 byId('nav').addEventListener('click',e=>{let button=e.target.closest('[data-page]');if(button)load(button.dataset.page);});
