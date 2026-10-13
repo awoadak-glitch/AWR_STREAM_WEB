@@ -41,3 +41,21 @@
  .theater-brand{font-size:9px}
  .theater-info{flex-direction:column;gap:5px;padding:8px 12px;font-size:10px}
 }
+
+/* AWR VISION 2026 independent visual system */
+:root{--bg:#090814;--panel:#141022;--line:#332647;--text:#fffaff;--muted:#b4a8c1;--green:#c19bff;--cyan:#ec9ac7;--blue:#7665ee}
+body{background:#090814;color:#f8f3ff}
+.ambient{background:radial-gradient(ellipse at 79% -5%,#4e2c8b65,transparent 46%),radial-gradient(ellipse at 12% 45%,#33226b4a,transparent 55%),linear-gradient(165deg,#090814,#0f0b1c)}
+.sidebar{background:#0f0b1ce9;border-color:#332344}.brand{gap:11px;justify-content:flex-end;margin-bottom:41px;font-size:21px;letter-spacing:-.6px}.brand-icon{background:linear-gradient(145deg,#7454fc,#e478b4);color:white;box-shadow:0 9px 27px #6846e777}.brand-symbol{font-size:25px;transform:translateX(2px)}.brand small{color:#9a88b3;letter-spacing:1.8px;font-size:7px}
+.menu-heading{color:#9683b1}.nav-link{color:#b5a9cb}.nav-link:hover{background:#231a39}.nav-link.active{color:#f9e6ff;background:linear-gradient(90deg,#9357db5c,#9e569a19);border-color:#9a72e856}.nav-link.active .nav-icon{color:#e6a5e9}
+.source-indicator{background:#1b142bb5;border-color:#43335c}.source-dot.on{box-shadow:0 0 0 4px #b990ff32}.topbar{border-color:#3d305c7d;background:#0e0a1985}.crumb{color:#a78cbe}.crumb b{color:#fff}.search-wrap{background:#211830;border-color:#473558}.search-wrap:focus-within{border-color:#af89fc;box-shadow:0 0 0 4px #976cf92a}.icon-button,.lang-button{background:#1c152d;border-color:#453358}.icon-button:hover,.lang-button:hover{background:#342249;border-color:#a681cf}
+.hero{background:linear-gradient(107deg,#100b1c,#201336 53%,#5a2469);border:1px solid #714e9a81;box-shadow:0 23px 95px #0008;min-height:425px}
+.hero::before{background:radial-gradient(ellipse at 79% 32%,#db7df03c,transparent 45%),radial-gradient(ellipse at 65% 77%,#6043c96b,transparent 55%)}
+.hero-veil{background:linear-gradient(90deg,#0d081a1a,#120b23bd 75%,#120b23d9)}.hero h1{letter-spacing:-1.3px}.hero h1 em{color:#ffb7df}.eyebrow{color:#ffe0f0;background:#61367773;border-color:#b079d266}
+.hero p{color:#d6c4e8}.hero .btn-primary,.btn-primary{background:linear-gradient(105deg,#a574ff,#e78ec4);color:#1f0d2a;box-shadow:0 11px 32px #aa5eff3c;border:0}.btn-primary:hover{background:linear-gradient(105deg,#b487ff,#f2a7d5)}
+.play-orb{background:linear-gradient(145deg,#a064ff,#e88dba);box-shadow:0 28px 85px #c87cfe77,0 0 0 16px #d29fff20;color:#fff}
+.hero-meta{color:#d9cbe7}.badge-pro{background:#e8d8ff;color:#6433a7}.filter-box{background:#1b152a;border-color:#45355a}.filter-pill.active{background:#51377f;color:#fff}.micro-label{color:#dfb6ff}
+.rail-title::before{background:linear-gradient(#e68fd6,#9873fa)}.poster{background:linear-gradient(145deg,#402b59,#241c3d);border-color:#473758}.media-card:hover .poster{border-color:#cb91f6;box-shadow:0 14px 45px #2e114ba0}.poster-play{background:linear-gradient(145deg,#d494f9,#f5a8d4);color:#331547}
+.card-meta{color:#a897bd}.poster-badge{background:#18112ddd;border-color:#544064}.dialog{background:#171126;border-color:#674a83}.dialog-close{background:#2f2146}.detail-chips span{background:#37294b;color:#f8e5fb}.dialog-poster{background:#39215c}.toast{background:#3d285d;border-color:#9f71cc;color:#fff}
+.eyebrow i,.loading-line{background:var(--green)}.skeleton{background:linear-gradient(110deg,#211630 8%,#3b294e 18%,#211630 32%);background-size:240% 100%}
+@media(max-width:600px){.hero{min-height:390px}.hero-art{opacity:.21}}
