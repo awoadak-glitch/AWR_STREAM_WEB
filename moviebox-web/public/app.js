@@ -8,7 +8,7 @@ const categories=[
  {id:'shorts',ar:'مسلسلات قصيرة',en:'ShortTV',ico:'▣'},
  {id:'popular',ar:'الأكثر مشاهدة',en:'Most Watched',ico:'♛'}
 ];
-const strings={ar:{discover:'اكتشف',original:'الكتالوج الأصلي',feature:'المختار لك اليوم',details:'التفاصيل والمشاهدة',explore:'تصفح المحتوى',content:'عنوان في الكتالوج',library:'مكتبة المحتوى',all:'الكل',favorites:'♡ المفضلة',search:'ابحث عن فيلم أو مسلسل أو أنمي...',fetched:'تم جلب القوائم مباشرة',loading:'جارٍ الاتصال بالمصدر...',offline:'المصدر غير متاح الآن',no:'لا توجد نتائج مطابقة',try:'جرّب كلمة بحث أخرى، أو انتقل إلى قسم مختلف.',error:'تعذّر تحميل القوائم الآن',errorDesc:'قد يمنع موقع المصدر طلبات الخادم أو يتوقف مؤقتًا. يمكنك فتح الموقع الأصلي لتصفح المحتوى وتشغيله.',watch:'▶ المشاهدة بالمصدر الأصلي ↗',saved:'♥ إزالة من المفضلة',save:'♡ أضف للمفضلة',title:'استكشف أحدث الإضافات',subtitle:'القوائم يتم تحديثها من موقع MovieBox الأصلي',new:'أحدث المحتوى',sync:'تم تحديث القوائم',favEmpty:'المفضلة فارغة',favEmptyDesc:'اضغط على ♡ في أي بطاقة لإضافتها هنا.'},en:{discover:'DISCOVER',original:'Original catalogue',feature:'Featured today',details:'Details & watch',explore:'Explore',content:'titles in catalogue',library:'CONTENT LIBRARY',all:'All',favorites:'♡ Favorites',search:'Search movies, TV shows or anime...',fetched:'Synced with source',loading:'Connecting to source...',offline:'Source is offline',no:'No matching titles',try:'Try another title or choose a section.',error:'Unable to refresh catalogue',errorDesc:'The source site may be temporarily unavailable or block server requests. Open the original site to browse and watch.',watch:'▶ Watch at original source ↗',saved:'♥ Remove favorite',save:'♡ Add to favorites',title:'Discover what’s new',subtitle:'Live listings from the original MovieBox site',new:'Latest titles',sync:'Catalogue refreshed',favEmpty:'No favorites yet',favEmptyDesc:'Click ♡ on a card to add it here.'}};
+const strings={ar:{discover:'اكتشف',original:'الكتالوج الأصلي',feature:'المختار لك اليوم',details:'التفاصيل والمشاهدة',explore:'تصفح المحتوى',content:'عنوان في الكتالوج',library:'مكتبة المحتوى',all:'الكل',favorites:'♡ المفضلة',search:'ابحث عن فيلم أو مسلسل أو أنمي...',fetched:'تم جلب القوائم مباشرة',loading:'جارٍ الاتصال بالمصدر...',offline:'المصدر غير متاح الآن',no:'لا توجد نتائج مطابقة',try:'جرّب كلمة بحث أخرى، أو انتقل إلى قسم مختلف.',error:'تعذّر تحميل القوائم الآن',errorDesc:'قد يمنع موقع المصدر طلبات الخادم أو يتوقف مؤقتًا. يمكنك فتح الموقع الأصلي لتصفح المحتوى وتشغيله.',watch:'▶ المشاهدة داخل الموقع',watchInside:'▶ تشغيل داخل الموقع',watchExternal:'↗ فتح المشغل منفصلًا',saved:'♥ إزالة من المفضلة',save:'♡ أضف للمفضلة',title:'استكشف أحدث الإضافات',subtitle:'القوائم يتم تحديثها من موقع MovieBox الأصلي',new:'أحدث المحتوى',sync:'تم تحديث القوائم',favEmpty:'المفضلة فارغة',favEmptyDesc:'اضغط على ♡ في أي بطاقة لإضافتها هنا.'},en:{discover:'DISCOVER',original:'Original catalogue',feature:'Featured today',details:'Details & watch',explore:'Explore',content:'titles in catalogue',library:'CONTENT LIBRARY',all:'All',favorites:'♡ Favorites',search:'Search movies, TV shows or anime...',fetched:'Synced with source',loading:'Connecting to source...',offline:'Source is offline',no:'No matching titles',try:'Try another title or choose a section.',error:'Unable to refresh catalogue',errorDesc:'The source site may be temporarily unavailable or block server requests. Open the original site to browse and watch.',watch:'▶ Watch in this website',watchInside:'▶ Play inside website',watchExternal:'↗ Open source player',saved:'♥ Remove favorite',save:'♡ Add to favorites',title:'Discover what’s new',subtitle:'Live listings from the original MovieBox site',new:'Latest titles',sync:'Catalogue refreshed',favEmpty:'No favorites yet',favEmptyDesc:'Click ♡ on a card to add it here.'}};
 const fallback=[
  {id:'take-charge-of-my-heart-hindi-oIO9IBe3Lt9',title:'Take Charge of My Heart [Hindi]',href:SOURCE+'/movies/take-charge-of-my-heart-hindi-oIO9IBe3Lt9',genre:'Comedy',score:'6.5',section:'Trending Now',image:''},
  {id:'khalifa-hindi-EgymqlOMMj3',title:'Khalifa [Hindi]',href:SOURCE+'/movies/khalifa-hindi-EgymqlOMMj3',genre:'Action',score:'6.2',section:'Trending Now',image:''},
@@ -27,13 +27,14 @@ const t=key=>strings[state.locale][key]||key;
 function escapeHTML(str){return String(str||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function safeImage(src){try{let u=new URL(src);return u.protocol==='https:'&&(/(^|\.)aoneroom\.com$|(^|\.)movieboxph\.org$/.test(u.hostname))?u.href:'';}catch{return '';}}
 function safeLink(src){try{const u=new URL(src);return u.origin===SOURCE&&/^\/movies\/[a-z\d-]+$/i.test(u.pathname)?u.href:SOURCE;}catch{return SOURCE;}}
+function playPageFor(item){const link=safeLink(item?.href||'');try{const u=new URL(link);if(!/^\/movies\/[a-z\d-]+$/i.test(u.pathname))return SOURCE;return SOURCE+'/play/'+u.pathname.split('/').pop();}catch{return SOURCE;}}
 function categoryTitle(){return categories.find(c=>c.id===state.page)?.[state.locale]||'';}
 function translate(){document.documentElement.lang=state.locale;document.documentElement.dir=state.locale==='ar'?'rtl':'ltr';document.querySelectorAll('[data-i18n]').forEach(el=>el.textContent=t(el.dataset.i18n));byId('langBtn').textContent=state.locale==='ar'?'EN':'AR';byId('searchInput').placeholder=t('search');byId('filterAll').textContent=t('all');byId('filterFav').textContent=t('favorites');byId('crumbTitle').textContent=categoryTitle();byId('pageTitle').textContent=state.page==='home'?t('title'):categoryTitle();byId('pageSub').textContent=t('subtitle');byId('heroSubtitle').textContent=t('subtitle');renderNavigation();render();}
 function renderNavigation(){byId('nav').innerHTML=categories.map(c=>`<button class="nav-link ${c.id===state.page?'active':''}" data-page="${c.id}" type="button"><span class="nav-icon">${c.ico}</span><span>${escapeHTML(c[state.locale])}</span>${c.id==='shorts'?'<small>HOT</small>':''}</button>`).join('');}
 function toast(message){clearTimeout(toastTimer);const el=byId('toast');el.textContent=message;el.classList.add('show');toastTimer=setTimeout(()=>el.classList.remove('show'),3500);}
 function favoritesSave(){localStorage.setItem('mb-favorites',JSON.stringify([...state.favorites]));}
 function toggleFavorite(item){state.favorites.has(item.id)?state.favorites.delete(item.id):state.favorites.add(item.id);favoritesSave();render();if(state.selected?.id===item.id)updateFavoriteDialog();}
-function cardHTML(item){const fav=state.favorites.has(item.id);const image=safeImage(item.image);return `<article class="media-card" data-open="${escapeHTML(item.id)}" tabindex="0" role="button" aria-label="${escapeHTML(item.title)}"><div class="poster">${image?`<img src="${escapeHTML(image)}" alt="${escapeHTML(item.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'"/>`:`<span class="poster-fallback">${escapeHTML(item.title.slice(0,2).toUpperCase())}</span>`}<span class="poster-badge">${escapeHTML(item.genre||'HD')}</span><button type="button" class="fav-card ${fav?'saved':''}" data-fav="${escapeHTML(item.id)}" aria-label="${fav?t('saved'):t('save')}">${fav?'♥':'♡'}</button><div class="poster-play">▶</div></div><h3 title="${escapeHTML(item.title)}">${escapeHTML(item.title)}</h3><div class="card-meta"><span>${escapeHTML(item.genre||'MOVIEBOX')}</span><span class="score">${item.score?'★ '+escapeHTML(item.score):'HD'}</span></div></article>`;}
+function cardHTML(item){const fav=state.favorites.has(item.id);const image=safeImage(item.image);return `<article class="media-card" data-open="${escapeHTML(item.id)}" tabindex="0" role="button" aria-label="${escapeHTML(item.title)}"><div class="poster"><span class="poster-fallback">${escapeHTML(item.title.slice(0,2).toUpperCase())}</span>${image?`<img src="${escapeHTML(image)}" data-original="${escapeHTML(image)}" alt="${escapeHTML(item.title)}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"/>`:`<span class="poster-fallback">${escapeHTML(item.title.slice(0,2).toUpperCase())}</span>`}<span class="poster-badge">${escapeHTML(item.genre||'HD')}</span><button type="button" class="fav-card ${fav?'saved':''}" data-fav="${escapeHTML(item.id)}" aria-label="${fav?t('saved'):t('save')}">${fav?'♥':'♡'}</button><div class="poster-play">▶</div></div><h3 title="${escapeHTML(item.title)}">${escapeHTML(item.title)}</h3><div class="card-meta"><span>${escapeHTML(item.genre||'MOVIEBOX')}</span><span class="score">${item.score?'★ '+escapeHTML(item.score):'HD'}</span></div></article>`;}
 function allItems(){const unique=new Map();for(const section of state.sections)for(const item of section.items)unique.set(item.id,item);return [...unique.values()];}
 function findItem(id){return allItems().find(item=>item.id===id)||fallback.find(item=>item.id===id);}
 function render(){const q=state.query.trim().toLowerCase();let sections=state.sections.map(s=>({...s,items:s.items.filter(item=>(state.filter!=='favorites'||state.favorites.has(item.id))&&(!q||`${item.title} ${item.genre||''}`.toLowerCase().includes(q)))})).filter(s=>s.items.length>0);
@@ -47,9 +48,40 @@ async function load(page){const token=++requestSerial;state.page=page;state.sour
  try {const res=await fetch(`/api/catalog?page=${encodeURIComponent(page)}`,{headers:{'Accept':'application/json'}});const data=await res.json();if(!res.ok||!Array.isArray(data.sections)||!data.sections.length)throw new Error(data.details||data.error||'No source content');if(token!==requestSerial)return;state.sections=data.sections;state.featured=data.featured||[];state.source='live';}catch(e){if(token!==requestSerial)return;console.warn('Source catalogue not reachable:',e);state.sections=makeFallback();state.featured=state.sections[0]?.items||[];state.source='fallback';}
  updateHero();updateStatus();render();}
 function updateFavoriteDialog(){if(!state.selected)return;byId('favDetail').textContent=state.favorites.has(state.selected.id)?t('saved'):t('save');}
-function openDetail(item){if(!item)return;state.selected=item;byId('dialogTitle').textContent=item.title;const image=safeImage(item.image);byId('dialogPoster').style.backgroundImage=image?`linear-gradient(0deg,#0b152aa6,#0001),url("${image.replaceAll('"','%22')}")`:'';byId('dialogMeta').innerHTML=`<span>MovieBoxTV</span>${item.genre?`<span>${escapeHTML(item.genre)}</span>`:''}${item.score?`<span>★ ${escapeHTML(item.score)}</span>`:''}`;byId('watchLink').href=safeLink(item.href);byId('watchLink').textContent=t('watch');updateFavoriteDialog();byId('dialogBackdrop').hidden=false;document.body.style.overflow='hidden';}
+function openDetail(item){if(!item)return;state.selected=item;byId('dialogTitle').textContent=item.title;const image=safeImage(item.image);byId('dialogPoster').style.backgroundImage=image?`linear-gradient(0deg,#0b152aa6,#0001),url("${image.replaceAll('"','%22')}")`:'';byId('dialogMeta').innerHTML=`<span>MovieBoxTV</span>${item.genre?`<span>${escapeHTML(item.genre)}</span>`:''}${item.score?`<span>★ ${escapeHTML(item.score)}</span>`:''}`;byId('watchLink').href=playPageFor(item);byId('watchLink').textContent=t('watchExternal');byId('watchInSite').textContent=t('watchInside');updateFavoriteDialog();byId('dialogBackdrop').hidden=false;document.body.style.overflow='hidden';}
 function closeDetail(){byId('dialogBackdrop').hidden=true;document.body.style.overflow='';state.selected=null;}
 function closeMenu(){byId('sidebar').classList.remove('open');byId('scrim').classList.remove('visible');}
+function openPlayer(item){
+ if(!item)return;
+ const page=playPageFor(item);
+ if(page===SOURCE)return toast(state.locale==='ar'?'رابط المشغل غير صالح':'Invalid player URL');
+ closeDetail();
+ byId('playingTitle').textContent=item.title;
+ byId('openOriginalPlayer').href=page;
+ byId('theaterLoading').hidden=false;
+ byId('sourcePlayer').src=page;
+ byId('playerBackdrop').hidden=false;
+ document.body.style.overflow='hidden';
+}
+function closePlayer(){
+ byId('sourcePlayer').src='about:blank';
+ byId('playerBackdrop').hidden=true;
+ document.body.style.overflow='';
+}
+document.addEventListener('error',e=>{
+ const img=e.target;
+ if(img instanceof HTMLImageElement&&img.closest('.poster')&&img.dataset.original){
+  if(!img.dataset.retry){
+   img.dataset.retry='1';
+   img.src='/api/poster?url='+encodeURIComponent(img.dataset.original);
+  }else img.style.display='none';
+ }
+},true);
+byId('watchInSite').addEventListener('click',()=>openPlayer(state.selected));
+byId('playerClose').addEventListener('click',closePlayer);
+byId('sourcePlayer').addEventListener('load',()=>{byId('theaterLoading').hidden=true;});
+byId('playerFullscreen').addEventListener('click',()=>byId('playerFrameWrap').requestFullscreen?.());
+byId('playerBackdrop').addEventListener('click',e=>{if(e.target===byId('playerBackdrop'))closePlayer();});
 byId('nav').addEventListener('click',e=>{let button=e.target.closest('[data-page]');if(button)load(button.dataset.page);});
 byId('catalogue').addEventListener('click',e=>{const fav=e.target.closest('[data-fav]');if(fav){e.stopPropagation();const item=findItem(fav.dataset.fav);if(item)toggleFavorite(item);return;}const card=e.target.closest('[data-open]');if(card)openDetail(findItem(card.dataset.open));});
 byId('catalogue').addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('[data-open]')){e.preventDefault();openDetail(findItem(e.target.dataset.open));}});
@@ -63,5 +95,5 @@ byId('heroWatch').addEventListener('click',()=>openDetail(state.featured[0]||all
 byId('favDetail').addEventListener('click',()=>{if(state.selected)toggleFavorite(state.selected);});
 byId('dialogClose').addEventListener('click',closeDetail);byId('dialogBackdrop').addEventListener('click',e=>{if(e.target===byId('dialogBackdrop'))closeDetail();});
 byId('menuBtn').addEventListener('click',()=>{byId('sidebar').classList.toggle('open');byId('scrim').classList.toggle('visible');});byId('scrim').addEventListener('click',closeMenu);
-document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeDetail();closeMenu();}if(e.key==='/'&&document.activeElement!==byId('searchInput')){e.preventDefault();byId('searchInput').focus();}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){closePlayer();closeDetail();closeMenu();}if(e.key==='/'&&document.activeElement!==byId('searchInput')){e.preventDefault();byId('searchInput').focus();}});
 load(new URLSearchParams(location.search).get('category')&&categories.some(c=>c.id===new URLSearchParams(location.search).get('category'))?new URLSearchParams(location.search).get('category'):'home');
