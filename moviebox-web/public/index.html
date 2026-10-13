@@ -38,7 +38,17 @@
     </div>
   </div>
   <div class="scrim" id="scrim"></div>
-  <div class="dialog-backdrop" id="dialogBackdrop" hidden><div class="dialog" role="dialog" aria-modal="true" aria-labelledby="dialogTitle"><button class="dialog-close" id="dialogClose" aria-label="إغلاق">✕</button><div class="dialog-poster" id="dialogPoster"></div><div class="dialog-body"><span class="micro-label">MOVIEBOX ORIGINAL CATALOGUE</span><h2 id="dialogTitle"></h2><div class="detail-chips" id="dialogMeta"></div><p id="dialogDescription">يتم عرض هذا العنوان من نفس مصدر تطبيق MovieBox.</p><div class="detail-buttons"><a id="watchLink" class="btn btn-primary" target="_blank" rel="noopener noreferrer">▶ مشاهدة في المصدر الأصلي ↗</a><button type="button" id="favDetail" class="btn btn-glass">♡ أضف للمفضلة</button></div><p class="detail-note">المشاهدة تعمل على موقع المصدر نفسه. لا يتم اختراع رابط بث غير متوفر في التطبيق.</p></div></div></div>
+  <div class="dialog-backdrop" id="dialogBackdrop" hidden><div class="dialog" role="dialog" aria-modal="true" aria-labelledby="dialogTitle"><button class="dialog-close" id="dialogClose" aria-label="إغلاق">✕</button><div class="dialog-poster" id="dialogPoster"></div><div class="dialog-body"><span class="micro-label">MOVIEBOX ORIGINAL CATALOGUE</span><h2 id="dialogTitle"></h2><div class="detail-chips" id="dialogMeta"></div><p id="dialogDescription">يتم عرض هذا العنوان من نفس مصدر تطبيق MovieBox.</p><div class="detail-buttons"><button type="button" id="watchInSite" class="btn btn-primary">▶ مشاهدة داخل الموقع</button><a id="watchLink" class="btn btn-glass" target="_blank" rel="noopener noreferrer">فتح المشغل منفصلًا ↗</a><button type="button" id="favDetail" class="btn btn-glass">♡ أضف للمفضلة</button></div><p class="detail-note">تُعرض صفحة المشغل الرسمية داخل الموقع. التشغيل يعتمد على إتاحة المصدر في منطقتك ومتصفحك؛ ولا يتم تجاوز أي قيود وصول.</p></div></div></div>
+  <div class="theater-backdrop" id="playerBackdrop" hidden>
+    <div class="theater" role="dialog" aria-modal="true" aria-labelledby="playingTitle">
+      <div class="theater-top">
+        <div class="theater-head"><span class="theater-brand">MOVIEBOX <b>WEB</b></span><h2 id="playingTitle">مشغل الفيديو</h2></div>
+        <div class="theater-actions"><button type="button" id="playerFullscreen" class="btn btn-glass">⛶ تكبير</button><a id="openOriginalPlayer" target="_blank" rel="noopener noreferrer" class="btn btn-glass">↗ فتح المصدر</a><button type="button" id="playerClose" class="btn btn-glass" aria-label="إغلاق المشغل">✕ إغلاق</button></div>
+      </div>
+      <div class="theater-frame" id="playerFrameWrap"><div class="theater-loading" id="theaterLoading"><span class="spinner"></span><span>جارٍ تحميل مشغل المصدر...</span></div><iframe id="sourcePlayer" title="مشغل MovieBox" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" allowfullscreen></iframe></div>
+      <div class="theater-info"><span>يعمل المشغل ضمن الموقع باستخدام صفحة المصدر الأصلية، وقد تحتاج إلى اختيار السيرفر أو الحلقة داخله.</span><span>إذا بقي التحميل مستمرًا أو لم يبدأ الفيديو، افتح المصدر من الزر أعلاه.</span></div>
+    </div>
+  </div>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <script type="module" src="/app.js"></script>
 </body>
