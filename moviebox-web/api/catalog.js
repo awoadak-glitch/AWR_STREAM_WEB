@@ -12,12 +12,12 @@ function unescapeHTML(str='') {
 function textOnly(value='') {return unescapeHTML(value.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,' ').replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi,' ').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim());}
 function attr(str,key){const m = String(str).match(new RegExp(`\\b${key}\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s>]+))`,'i'));return m?unescapeHTML(m[1]??m[2]??m[3]??''):'';}
 function absolute(path){ try {const url = new URL(path,ORIGIN); if (!['http:','https:'].includes(url.protocol))return '';return url.href;}catch{return '';}}
-function mediaUrl(path){ const link=absolute(path);try {const u = new URL(link);return /(^|\.)aoneroom\.com$|(^|\.)movieboxph\.org$/i.test(u.hostname)?link:'';}catch{return '';}}
+function mediaUrl(path){ if(!path||!String(path).trim())return ''; const link=absolute(path);try {const u = new URL(link);return /(^|\.)aoneroom\.com$|(^|\.)movieboxph\.org$/i.test(u.hostname)?link:'';}catch{return '';}}
 function mediaLink(path) {try {const u = new URL(path,ORIGIN);return u.origin===ORIGIN && /^\/movies\/[a-z0-9-]{5,}$/i.test(u.pathname) ? `${u.origin}${u.pathname}`:'';}catch{return '';}}
 function sectionFrom(text){return text.replace(/^[🔥🎬🎥🏆📺\s]+/gu,'').trim().slice(0,60)||'Trending';}
 function extract(html,page){
  const headers=[{pos:0,name:page==='home'?'Trending Now':page}];
- for(const match of html.matchAll(/<h[1-3]\b[^>]*>([\s\S]*?)<\/h[1-3]>/gi)){
+ for(const match of html.matchAll(/<h[12]\b[^>]*>([\s\S]*?)<\/h[12]>/gi)){
   let title=sectionFrom(textOnly(match[1]));if(title.length>2 && title.length<65)headers.push({pos:match.index,name:title});
  }
  const sections=new Map();const seen=new Set();const featured=[];
