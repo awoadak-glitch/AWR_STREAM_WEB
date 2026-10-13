@@ -4,3 +4,40 @@
 @media(max-width:1160px){.shell{grid-template-columns:208px minmax(0,1fr)}.sidebar{padding:27px 11px}.hero-copy{padding:35px}.hero-art{left:-6%;opacity:.45}.cards,.loading-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:900px){.shell{display:block}.sidebar{position:fixed;right:0;top:0;width:262px;transform:translateX(110%);transition:transform .25s}.sidebar.open{transform:none}.scrim.visible{display:block;position:fixed;inset:0;z-index:19;background:#0009}.menu-toggle{display:inline-block}.topbar{padding:0 20px}.hero{margin:20px 17px 0}.main-content{padding:27px 19px 0}.search-wrap{width:min(330px,43vw)}.hero-copy{padding:30px}.hero-count{display:none}}
 @media(max-width:600px){.topbar{height:68px;padding:0 12px;gap:9px}.crumb{display:none}.top-actions{flex:1;gap:7px}.search-wrap{width:100%;height:39px}.search-wrap kbd{display:none}.icon-button,.lang-button{width:39px;height:39px;flex-shrink:0}.hero{min-height:365px;margin:14px 11px 0}.hero-art{left:-20%;opacity:.13}.hero-copy{padding:26px 21px}.hero h1{letter-spacing:-1px;font-size:37px}.hero p{font-size:12px}.hero-buttons .btn{font-size:11px;min-height:43px;padding:10px}.hero-meta{gap:9px}.main-content{padding:23px 13px 0}.section-heading{align-items:flex-start;flex-direction:column}.section-heading h2{font-size:21px}.cards,.loading-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.poster-badge{font-size:9px}.media-card h3{font-size:12px}.rail{margin-bottom:30px}.dialog{display:block;width:min(450px,100%);max-height:90vh;overflow:auto}.dialog-poster{height:150px;min-height:0;background-position:center 32%}.dialog-body{padding:22px}.dialog h2{font-size:21px}.detail-buttons{flex-direction:column;align-items:stretch}.btn{width:100%}footer{font-size:10px}}
+
+
+/* Readable artwork while loading, including graceful poster failures. */
+.poster .poster-fallback{position:relative;z-index:0;display:grid;place-items:center;width:100%;height:100%;background:radial-gradient(ellipse at 45% 25%,#20b08a20,transparent 60%)}
+.poster img{position:absolute;inset:0;z-index:1}
+.poster::after{z-index:1}
+.poster .poster-badge,.poster .poster-play,.poster .fav-card{z-index:3}
+.media-card:focus-visible{outline:2px solid var(--green);outline-offset:5px;border-radius:10px}
+/* Integrated cinema screen: title and controls stay on this domain. */
+.theater-backdrop{position:fixed;inset:0;z-index:100;background:#03070ef7;backdrop-filter:blur(19px);display:grid;place-items:center;padding:clamp(8px,2vw,22px)}
+.theater{width:min(1460px,100%);height:min(900px,96dvh);display:flex;flex-direction:column;min-height:0;overflow:hidden;border:1px solid #36505d;border-radius:20px;background:#0b111b;box-shadow:0 35px 140px #000e}
+.theater-top{display:flex;justify-content:space-between;align-items:center;padding:14px 20px;gap:14px;border-bottom:1px solid #27384a;background:#111c2b}
+.theater-head{min-width:0;display:flex;align-items:center;gap:15px}
+.theater-brand{font:900 11px 'DM Sans',sans-serif;letter-spacing:1.1px;white-space:nowrap;color:#c9d7e3}
+.theater-brand b{color:var(--green)}
+.theater-head h2{font-size:16px;margin:0;max-width:40vw;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.theater-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.theater-actions .btn{min-height:36px;padding:8px 12px;font-size:11px}
+.theater-frame{position:relative;flex:1;min-height:0;overflow:hidden;background:#000}
+.theater-frame:fullscreen{width:100vw;height:100vh}
+.theater-frame iframe{display:block;width:100%;height:100%;border:0;background:#000}
+.theater-loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;gap:13px;flex-direction:column;background:#050a12;color:#cbd9e7;font-size:14px;z-index:2;pointer-events:none}
+.spinner{width:36px;height:36px;border:3px solid #3d5d67;border-top-color:var(--green);border-radius:50%;animation:spin 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.theater-info{display:flex;justify-content:space-between;gap:14px;padding:12px 20px;color:#92a4b9;font-size:11px;line-height:1.6;border-top:1px solid #253648}
+.theater-info span:last-child{color:#e0b576}
+@media(max-width:700px){
+ .theater-backdrop{padding:0}
+ .theater{height:100dvh;border:0;border-radius:0}
+ .theater-top{padding:10px;align-items:flex-start}
+ .theater-head{align-items:flex-start;flex-direction:column;gap:5px;padding:3px 2px}
+ .theater-head h2{font-size:12px;max-width:40vw}
+ .theater-actions{justify-content:flex-end}
+ .theater-actions .btn{font-size:10px;min-height:32px;padding:6px 8px}
+ .theater-brand{font-size:9px}
+ .theater-info{flex-direction:column;gap:5px;padding:8px 12px;font-size:10px}
+}
