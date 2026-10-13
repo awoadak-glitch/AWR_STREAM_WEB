@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta name="theme-color" content="#070b13" />
+  <meta name="description" content="MovieBox: أفلام ومسلسلات وأنمي — تصفح أحدث العناوين من الكتالوج الأصلي." />
+  <link rel="icon" type="image/png" href="/icon.png" />
+  <link rel="stylesheet" href="/style.css" />
+  <title>MovieBox — شاهد ما تحب</title>
+</head>
+<body>
+  <div class="ambient" aria-hidden="true"></div>
+  <div class="shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="/" aria-label="MovieBox"><span class="brand-icon"><img src="/icon.png" alt="" /></span><span>Movie<span class="brand-accent">Box</span><small>STREAMING EXPERIENCE</small></span></a>
+      <span class="menu-heading" data-i18n="discover">اكتشف</span>
+      <nav class="primary-nav" id="nav" aria-label="الأقسام"></nav>
+      <div class="sidebar-bottom"><div class="source-indicator"><span class="source-dot" id="sourceDot"></span><div><strong data-i18n="original">الكتالوج الأصلي</strong><small id="sourceStatus">جارٍ الاتصال بالمصدر...</small></div></div><a href="https://movieboxph.org/" target="_blank" rel="noopener noreferrer" class="original-link">MovieBoxTV <span>↗</span></a></div>
+    </aside>
+    <div class="app-body">
+      <header class="topbar">
+        <button type="button" class="icon-button menu-toggle" id="menuBtn" aria-label="القائمة">☰</button>
+        <div class="crumb"><span>MovieBox</span><span class="slash">/</span><b id="crumbTitle">الرئيسية</b></div>
+        <div class="top-actions">
+          <div class="search-wrap"><span class="search-icon">⌕</span><input type="search" id="searchInput" placeholder="ابحث عن فيلم أو مسلسل أو أنمي..." autocomplete="off" aria-label="بحث" /><kbd>/</kbd></div>
+          <button class="icon-button" type="button" id="refreshBtn" title="تحديث القوائم" aria-label="تحديث">↻</button>
+          <button class="lang-button" id="langBtn" type="button" aria-label="تغيير اللغة">EN</button>
+        </div>
+      </header>
+      <main id="content">
+        <section class="hero" id="hero"><div class="hero-veil"></div><div class="hero-copy"><span class="eyebrow"><i></i> <span data-i18n="feature">المختار لك اليوم</span></span><h1 id="heroTitle">شاهد عالماً <em>بلا حدود</em></h1><p id="heroSubtitle">الأفلام والمسلسلات والأنمي في تجربة واحدة. قوائم متجددة من الموقع الذي يستخدمه تطبيق MovieBox الأصلي.</p><div class="hero-buttons"><button class="btn btn-primary" id="heroWatch" type="button">▶ <span data-i18n="details">التفاصيل والمشاهدة</span></button><button class="btn btn-glass" id="heroBrowse" type="button">⌗ <span data-i18n="explore">تصفح المحتوى</span></button></div><div class="hero-meta"><span class="badge-pro">MOVIEBOX</span><span>HD</span><span id="heroGenre">MOVIES • SERIES • ANIME</span></div></div><div class="hero-art"><div class="play-orb">▶</div><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div></div><div class="hero-count"><strong id="itemCount">—</strong><span data-i18n="content">عنوان متاح في الكتالوج</span></div></section>
+        <div class="main-content"><div class="section-heading"><div><span class="micro-label" data-i18n="library">مكتبة المحتوى</span><h2 id="pageTitle">استكشف أحدث الإضافات</h2><p id="pageSub">النتائج تُحمّل مباشرة من المصدر الأصلي</p></div><div class="filter-box"><button type="button" class="filter-pill active" id="filterAll">الكل</button><button type="button" class="filter-pill" id="filterFav">♡ المفضلة</button></div></div>
+          <div id="catalogue" aria-live="polite"><div class="loading-line"></div><div class="loading-grid"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div></div>
+          <footer><span>© MovieBox Web Interface</span><span>Original catalogue: <a href="https://movieboxph.org/" target="_blank" rel="noopener noreferrer">movieboxph.org ↗</a></span></footer>
+        </div>
+      </main>
+    </div>
+  </div>
+  <div class="scrim" id="scrim"></div>
+  <div class="dialog-backdrop" id="dialogBackdrop" hidden><div class="dialog" role="dialog" aria-modal="true" aria-labelledby="dialogTitle"><button class="dialog-close" id="dialogClose" aria-label="إغلاق">✕</button><div class="dialog-poster" id="dialogPoster"></div><div class="dialog-body"><span class="micro-label">MOVIEBOX ORIGINAL CATALOGUE</span><h2 id="dialogTitle"></h2><div class="detail-chips" id="dialogMeta"></div><p id="dialogDescription">يتم عرض هذا العنوان من نفس مصدر تطبيق MovieBox.</p><div class="detail-buttons"><a id="watchLink" class="btn btn-primary" target="_blank" rel="noopener noreferrer">▶ مشاهدة في المصدر الأصلي ↗</a><button type="button" id="favDetail" class="btn btn-glass">♡ أضف للمفضلة</button></div><p class="detail-note">المشاهدة تعمل على موقع المصدر نفسه. لا يتم اختراع رابط بث غير متوفر في التطبيق.</p></div></div></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
