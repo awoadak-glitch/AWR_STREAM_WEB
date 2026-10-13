@@ -48,25 +48,74 @@ async function load(page){const token=++requestSerial;state.page=page;state.sour
  try {const res=await fetch(`/api/catalog?page=${encodeURIComponent(page)}`,{headers:{'Accept':'application/json'}});const data=await res.json();if(!res.ok||!Array.isArray(data.sections)||!data.sections.length)throw new Error(data.details||data.error||'No source content');if(token!==requestSerial)return;state.sections=data.sections;state.featured=data.featured||[];state.source='live';}catch(e){if(token!==requestSerial)return;console.warn('Source catalogue not reachable:',e);state.sections=makeFallback();state.featured=state.sections[0]?.items||[];state.source='fallback';}
  updateHero();updateStatus();render();}
 function updateFavoriteDialog(){if(!state.selected)return;byId('favDetail').textContent=state.favorites.has(state.selected.id)?t('saved'):t('save');}
-function openDetail(item){if(!item)return;state.selected=item;byId('dialogTitle').textContent=item.title;const image=safeImage(item.image);byId('dialogPoster').style.backgroundImage=image?`linear-gradient(0deg,#0b152aa6,#0001),url("${image.replaceAll('"','%22')}")`:'';byId('dialogMeta').innerHTML=`<span>AWR VISION</span>${item.genre?`<span>${escapeHTML(item.genre)}</span>`:''}${item.score?`<span>★ ${escapeHTML(item.score)}</span>`:''}`;byId('watchLink').href=playPageFor(item);byId('watchLink').textContent=t('watchExternal');byId('watchInSite').textContent=t('watchInside');updateFavoriteDialog();byId('dialogBackdrop').hidden=false;document.body.style.overflow='hidden';}
+function openDetail(item){if(!item)return;state.selected=item;byId('dialogTitle').textContent=item.title;const image=safeImage(item.image);byId('dialogPoster').style.backgroundImage=image?`linear-gradient(0deg,#0b152aa6,#0001),url("${image.replaceAll('"','%22')}")`:'';byId('dialogMeta').innerHTML=`<span>AWR VISION</span>${item.genre?`<span>${escapeHTML(item.genre)}</span>`:''}${item.score?`<span>★ ${escapeHTML(item.score)}</span>`:''}`;byId('watchInSite').textContent=t('watchInside');updateFavoriteDialog();byId('dialogBackdrop').hidden=false;document.body.style.overflow='hidden';}
 function closeDetail(){byId('dialogBackdrop').hidden=true;document.body.style.overflow='';state.selected=null;}
 function closeMenu(){byId('sidebar').classList.remove('open');byId('scrim').classList.remove('visible');}
-function openPlayer(item){
+let playerHls=null,playerDash=null,activeMedia=null,activePlayback=null;
+const video=byId('awrVideo'),empty=byId('playerEmpty');
+function playerMessage(title,details,showDemo=false){
+ video.hidden=true;empty.hidden=false;byId('playerStatusTitle').textContent=title;byId('playerStatusDetail').textContent=details;byId('playerDemo').hidden=!showDemo;
+}
+function clearEngines(){
+ if(playerHls){playerHls.destroy();playerHls=null;}
+ if(playerDash){playerDash.reset();playerDash=null;}
+ video.pause();video.removeAttribute('src');video.load();video.querySelectorAll('track').forEach(t=>t.remove());
+}
+function externalScript(url,globalName){
+ return new Promise((resolve,reject)=>{
+   if(window[globalName])return resolve(window[globalName]);
+   const e=document.createElement('script');e.src=url;e.async=true;e.onload=()=>window[globalName]?resolve(window[globalName]):reject(Error('Missing player engine'));
+   e.onerror=()=>reject(Error('Player engine unavailable'));document.head.append(e);
+ });
+}
+async function setStream(stream){
+ if(!activeMedia)return;
+ clearEngines();const current=activeMedia.id;
+ const url=new URL(stream.url);if(url.protocol!=='https:')throw Error('Invalid media URL');
+ empty.hidden=true;video.hidden=false;
+ const mime=stream.type;
+ if(mime==='hls'&&!video.canPlayType('application/vnd.apple.mpegurl')){
+   const Hls=await externalScript('https://cdn.jsdelivr.net/npm/hls.js@1.6.15/dist/hls.min.js','Hls');
+   if(current!==activeMedia?.id)return;
+   if(!Hls.isSupported())throw Error('HLS not supported in this browser');
+   playerHls=new Hls({enableWorker:true,maxBufferLength:30});
+   playerHls.loadSource(url.href);playerHls.attachMedia(video);
+   playerHls.on(Hls.Events.ERROR,(_,event)=>{if(event.fatal)playerMessage('تعذر تشغيل البث','تعذر قراءة ملف البث أو رفض الخادم وصول المتصفح.',false);});
+ }else if(mime==='dash'){
+   const dashjs=await externalScript('https://cdn.jsdelivr.net/npm/dashjs@4.7.4/dist/dash.all.min.js','dashjs');
+   if(current!==activeMedia?.id)return;
+   playerDash=dashjs.MediaPlayer().create();playerDash.initialize(video,url.href,true);
+ }else{video.src=url.href;video.load();}
+ for(const sub of activePlayback?.subtitles||[]){
+   const track=document.createElement('track');track.kind='subtitles';track.label=sub.label;track.srclang=sub.lang;track.src=sub.url;video.append(track);
+ }
+ video.playbackRate=Number(byId('speedPicker').value)||1;
+ try{await video.play();}catch{ /* playback may need user gesture */ }
+}
+async function openPlayer(item){
  if(!item)return;
- const page=playPageFor(item);
- if(page===SOURCE)return toast(state.locale==='ar'?'رابط المشغل غير صالح':'Invalid player URL');
- closeDetail();
+ closeDetail();activeMedia={...item};activePlayback=null;
  byId('playingTitle').textContent=item.title;
- byId('openOriginalPlayer').href=page;
- byId('theaterLoading').hidden=false;
- byId('sourcePlayer').src=page;
- byId('playerBackdrop').hidden=false;
- document.body.style.overflow='hidden';
+ byId('playerBackdrop').hidden=false;document.body.style.overflow='hidden';
+ byId('sourcePicker').innerHTML='<option value="">جاري تجهيز المصادر...</option>';
+ clearEngines();playerMessage('جاري تجهيز المشاهدة','يتم التحقق من توفر مصدر فيديو لهذا العنوان...');
+ try{
+  const response=await fetch('/api/playback?id='+encodeURIComponent(item.id),{cache:'no-store'});
+  if(!response.ok)throw Error('The video service is temporarily unavailable');
+  const data=await response.json();
+  if(activeMedia?.id!==item.id)return;
+  if(!data.available || !data.sources?.length){
+   playerMessage('الفيديو غير متاح حاليًا','بيانات العنوان متاحة في مكتبتنا، لكن رابط البث المباشر لم يتم توفيره أو ترخيصه لهذا العنوان.',true);
+   byId('sourcePicker').innerHTML='<option value="">لا توجد مصادر متاحة</option>';return;
+  }
+  activePlayback=data;
+  byId('sourcePicker').innerHTML=data.sources.map((s,i)=>'<option value="'+i+'">'+escapeHTML(s.label)+'</option>').join('');
+  await setStream(data.sources[0]);
+ }catch(err){if(activeMedia?.id===item.id)playerMessage('تعذر بدء التشغيل',String(err.message||err).slice(0,180),true);}
 }
 function closePlayer(){
- byId('sourcePlayer').src='about:blank';
- byId('playerBackdrop').hidden=true;
- document.body.style.overflow='';
+ activeMedia=null;activePlayback=null;clearEngines();
+ byId('playerBackdrop').hidden=true;document.body.style.overflow='';
 }
 document.addEventListener('error',e=>{
  const img=e.target;
