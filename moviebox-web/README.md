@@ -1,31 +1,38 @@
-# MovieBox Web — source-linked catalogue
+# AWR VISION — Independent Cinema Interface
 
-A responsive, original web frontend inspired by the UI and categories of the uploaded `MovieBox.exe` Windows Electron launcher.
+Responsive Arabic/English streaming catalogue and native video player, built for Vercel.
 
-## Confirmed from the EXE
+## What works
+- Original AWR VISION branding, independent interface, seven catalogue sections.
+- Cached artwork with image retry and server-side image fallback.
+- Search, favorites, title synopsis, release year and rating.
+- Native HTML5 player UI with quality selection, speed, fullscreen, PiP and watch-position saving.
+- Public CC0 player test video. No external movie-site iframe or redirect.
 
-The EXE contains an NSIS-wrapped Electron app. Its `resources/app.asar/src/main.cjs` loads **https://movieboxph.org/?utm_source=windows_exe**. The EXE has **no embedded catalogue, direct video URLs, video player, authentication tokens, or streaming API**. This web app follows the exact upstream site and public movie-page links rather than fabricating playback links.
+## What requires an authorized media source
+The external catalogue does not itself provide browser-playable movie streams. `GET /api/playback?id=<title-id>` returns `available:false` until you configure licensed URLs for the title. Do not mistake a poster or metadata entry for a playable film.
 
-## Features
-- Arabic / English UI; responsive desktop, tablet and mobile layouts
-- The same primary source categories: Home, Movies, TV Shows, Animation, K-Drama, ShortTV, Most Watched
-- Vercel serverless API retrieves publicly available pages and extracts poster, title, rating, category, canonical movie URL
-- Search in current catalogue, favorites stored on device, item information dialog, upstream watch-page links
-- Safeguarded origin allowlists (no open proxy), five-minute Vercel API cache
-- A verified offline fallback with upstream movie-page URLs (no made-up video URLs)
+Set Vercel environment variable `AWR_MEDIA_LIBRARY` to a JSON object, with each key matching a catalogue item ID:
 
-## Limitations
-This is a separate **interface** not the original upstream site. The upstream may change markup, block server-side fetches, limit embeds or require authentication/rights to play content. Playback is handed to the original content page; it is not claimed to be independently playable on this site. Never pretend a direct video URL was recovered from the EXE.
-
-## Deploy
-Works on Vercel with `public/` static files and `api/catalog.js` function. No npm dependencies.
-
-## Local
-```bash
-npm run dev
-# http://localhost:3000
-npm run check
+```json
+{
+  "your-owned-title-id": {
+    "title": "Your licensed video",
+    "sources": [
+      {"label": "1080p", "type": "mp4", "url": "https://YOUR-MEDIA-CDN.example/video.mp4"},
+      {"label": "720p", "type": "hls", "url": "https://YOUR-MEDIA-CDN.example/master.m3u8"}
+    ],
+    "subtitles": [
+      {"label": "Arabic", "lang": "ar", "url": "https://YOUR-MEDIA-CDN.example/subtitles.vtt"}
+    ]
+  }
+}
 ```
 
-## Security
-The application never proxies raw video/CDN streams or bypasses upstream access controls. The source domain is fixed to `movieboxph.org`. Video playback and licensing remain subject to the origin service.
+Use only media streams that you own or have permission to distribute. Playback requires proper cross-origin headers for HLS/DASH, and may be limited by browser codec compatibility or the provider's access controls. No geo-block, token, signature, or DRM bypass is implemented.
+
+## Deploy
+This project is in the `moviebox-web/` subdirectory of the repository. Configure the **Vercel project root** as `moviebox-web` and keep the Vercel framework preset as Other. This does not require running a build command: `public/` hosts the frontend and `api/` contains serverless functions. Do not change the production root directory of an existing unrelated application.
+
+## Status
+GitHub source has been updated. A dedicated Vercel deployment of the final AWR VISION version has **not** been verified; do not treat previously issued MovieBox preview URLs as the current version.
