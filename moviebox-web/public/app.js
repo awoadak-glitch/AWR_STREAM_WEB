@@ -36,7 +36,7 @@ function updateFavoriteDialog(){if(!state.selected)return;byId('favDetail').text
 function openDetail(item){if(!item)return;state.selected=item;byId('dialogTitle').textContent=item.title;const image=safeImage(item.image);byId('dialogPoster').style.backgroundImage=image?`linear-gradient(0deg,#0b152aa6,#0001),url("${image.replaceAll('"','%22')}")`:'';byId('dialogMeta').innerHTML=`<span>AWR VISION</span>${item.genre?`<span>${escapeHTML(item.genre)}</span>`:''}${item.score?`<span>★ ${escapeHTML(item.score)}</span>`:''}`;byId('watchInSite').textContent=t('watchInside');updateFavoriteDialog();byId('dialogDescription').textContent=state.locale==='ar'?'جارٍ تحميل معلومات العنوان...':'Loading title information...';fetch('/api/details?id='+encodeURIComponent(item.id)).then(r=>r.ok?r.json():null).then(data=>{if(state.selected?.id!==item.id)return;byId('dialogDescription').textContent=data?.description|| (state.locale==='ar'?'لا يتوفر وصف إضافي لهذا العنوان.':'No additional synopsis available.');if(data?.year)byId('dialogMeta').insertAdjacentHTML('beforeend','<span>'+escapeHTML(data.year)+'</span>');}).catch(()=>{if(state.selected?.id===item.id)byId('dialogDescription').textContent=state.locale==='ar'?'معلومات الوصف غير متاحة مؤقتًا.':'Synopsis temporarily unavailable.';});byId('dialogBackdrop').hidden=false;document.body.style.overflow='hidden';}
 function closeDetail(){byId('dialogBackdrop').hidden=true;document.body.style.overflow='';state.selected=null;}
 function closeMenu(){byId('sidebar').classList.remove('open');byId('scrim').classList.remove('visible');}
-let playerHls=null,playerDash=null,activeMedia=null,activePlayback=null,isDemo=false;
+let playerHls=null,playerDash=null,activeMedia=null,activePlayback=null,isDemo=false,localBlob=null;
 const video=byId('awrVideo'),empty=byId('playerEmpty');
 function playerMessage(title,details,showDemo=false){
  video.hidden=true;empty.hidden=false;byId('playerStatusTitle').textContent=title;byId('playerStatusDetail').textContent=details;byId('playerDemo').hidden=!showDemo;
@@ -56,7 +56,7 @@ function externalScript(url,globalName){
 async function setStream(stream){
  if(!activeMedia)return;
  clearEngines();const current=activeMedia.id;
- const url=new URL(stream.url);if(url.protocol!=='https:')throw Error('Invalid media URL');
+ const url=new URL(stream.url);if(url.protocol!=='https:'&&!(isDemo&&url.protocol==='blob:'))throw Error('Invalid media URL');
  empty.hidden=true;video.hidden=false;
  const mime=stream.type;
  if(mime==='hls'&&!video.canPlayType('application/vnd.apple.mpegurl')){
