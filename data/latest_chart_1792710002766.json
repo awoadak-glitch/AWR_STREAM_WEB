@@ -760,7 +760,7 @@
           "name": "한우열",
           "original_name": "한우열",
           "popularity": 1.011,
-          "profile_path": "/xFZ7vSyvxcHDSuhg6G0MXpNsjcT.jpg",
+          "profile_path": "/fxiZl6AiNyG1cJSYVC7mSEQTjXK.jpg",
           "cast_id": 45,
           "character": "Wan-seob",
           "credit_id": "6a5a3b18000d6ce5362b9f25",
@@ -1791,7 +1791,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg"
       }
     ],
-    "date_added": 1792698447583
+    "date_added": 1792710019001
   },
   {
     "adult": false,
@@ -2915,7 +2915,7 @@
           "popularity": 1.1291,
           "profile_path": "/k7dRRifFikVwwjxZQYnAS9qG7Lx.jpg",
           "cast_id": 87,
-          "character": "",
+          "character": "Bison's inmate",
           "credit_id": "6ad3f7e2fc4a6f53f520c3aa",
           "order": 37
         },
@@ -2929,7 +2929,7 @@
           "popularity": 0.6638,
           "profile_path": "/1z58xzhEHKxoUi3X2XQgHCwMeoD.jpg",
           "cast_id": 88,
-          "character": "",
+          "character": "Bison's inmate",
           "credit_id": "6ad3f7ffbe6735963a796643",
           "order": 38
         }
@@ -4221,7 +4221,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
       }
     ],
-    "date_added": 1792698447593
+    "date_added": 1792710019023
   },
   {
     "adult": false,
@@ -9109,7 +9109,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
       }
     ],
-    "date_added": 1792698447608
+    "date_added": 1792710019045
   },
   {
     "adult": false,
@@ -9864,6 +9864,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 232626,
+          "known_for_department": "Writing",
+          "name": "Jonathan Frank",
+          "original_name": "Jonathan Frank",
+          "popularity": 1.0406,
+          "profile_path": null,
+          "credit_id": "66463098bddee40c2e410010",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 56501,
           "known_for_department": "Directing",
           "name": "Michael Spierig",
@@ -9871,19 +9884,6 @@
           "popularity": 1.0482,
           "profile_path": "/hDj7wXT937jZZjU7lJ8aTuKoBg5.jpg",
           "credit_id": "6646307039a681446b7844d6",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 56502,
-          "known_for_department": "Directing",
-          "name": "Peter Spierig",
-          "original_name": "Peter Spierig",
-          "popularity": 1.2092,
-          "profile_path": "/1M1FX7YR9Dq0DhawzQ0vT0tx678.jpg",
-          "credit_id": "66463079cb5dde890f45037d",
           "department": "Directing",
           "job": "Director"
         },
@@ -9903,15 +9903,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 232626,
-          "known_for_department": "Writing",
-          "name": "Jonathan Frank",
-          "original_name": "Jonathan Frank",
-          "popularity": 1.0406,
-          "profile_path": null,
-          "credit_id": "66463098bddee40c2e410010",
-          "department": "Writing",
-          "job": "Writer"
+          "id": 56502,
+          "known_for_department": "Directing",
+          "name": "Peter Spierig",
+          "original_name": "Peter Spierig",
+          "popularity": 1.2092,
+          "profile_path": "/1M1FX7YR9Dq0DhawzQ0vT0tx678.jpg",
+          "credit_id": "66463079cb5dde890f45037d",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -10249,7 +10249,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aokiUcwDJlZcTditvVfkRaSLG98.jpg"
       }
     ],
-    "date_added": 1792698447630
+    "date_added": 1792710019115
   },
   {
     "adult": false,
@@ -11143,19 +11143,6 @@
           "credit_id": "68ecbd314119ea56cba215db",
           "department": "Writing",
           "job": "Story"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 4752212,
-          "known_for_department": "Writing",
-          "name": "Marco Rosini",
-          "original_name": "Marco Rosini",
-          "popularity": 0.5027,
-          "profile_path": null,
-          "credit_id": "696404380a1b0f90dc28431b",
-          "department": "Production",
-          "job": "Producer"
         },
         {
           "adult": false,
@@ -12456,6 +12443,201 @@
           "credit_id": "6ad1f56a64c44b98ccd791f2",
           "department": "Crew",
           "job": "Compositor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 935703,
+          "known_for_department": "Production",
+          "name": "Sidonie Dumas",
+          "original_name": "Sidonie Dumas",
+          "popularity": 1.0233,
+          "profile_path": "/5wjOToV9ykOWtenMRY4QMgFPTWH.jpg",
+          "credit_id": "6ada22e6c70471ec8085bc3f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6567910,
+          "known_for_department": "Production",
+          "name": "Marine Forde",
+          "original_name": "Marine Forde",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "6ada2351be3a8c8072729aa5",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1640899,
+          "known_for_department": "Production",
+          "name": "Maria Panicucci",
+          "original_name": "Maria Panicucci",
+          "popularity": 0.4369,
+          "profile_path": null,
+          "credit_id": "6ada237c7934d6e6d4570742",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6567917,
+          "known_for_department": "Production",
+          "name": "Marco Rosi",
+          "original_name": "Marco Rosi",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "6ada23f2164b85014a143347",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72269,
+          "known_for_department": "Production",
+          "name": "Marc Vade",
+          "original_name": "Marc Vade",
+          "popularity": 0.5319,
+          "profile_path": null,
+          "credit_id": "6ada2436beebd9e81b72978a",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3619603,
+          "known_for_department": "Production",
+          "name": "Nicolas Borowsky",
+          "original_name": "Nicolas Borowsky",
+          "popularity": 0.3341,
+          "profile_path": null,
+          "credit_id": "6ada2449e7f4d5685e63baf6",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3750025,
+          "known_for_department": "Production",
+          "name": "Rémi Cervoni",
+          "original_name": "Rémi Cervoni",
+          "popularity": 0.3394,
+          "profile_path": null,
+          "credit_id": "6ada2460799aae1d0157083b",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1455026,
+          "known_for_department": "Directing",
+          "name": "Giacomo Durzi",
+          "original_name": "Giacomo Durzi",
+          "popularity": 0.8968,
+          "profile_path": null,
+          "credit_id": "6ada247856baa06922729a16",
+          "department": "Writing",
+          "job": "Creative Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2195406,
+          "known_for_department": "Production",
+          "name": "Cédric Iland",
+          "original_name": "Cédric Iland",
+          "popularity": 0.578,
+          "profile_path": "/aBF7qMxRKKWjbpSuFHzleUHEQhR.jpg",
+          "credit_id": "6ada24bb957159156001f8d4",
+          "department": "Production",
+          "job": "Co-Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3837999,
+          "known_for_department": "Production",
+          "name": "Laurent Jacobs",
+          "original_name": "Laurent Jacobs",
+          "popularity": 0.5698,
+          "profile_path": null,
+          "credit_id": "6ada24cd7e556ac2c701f5b3",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2828021,
+          "known_for_department": "Production",
+          "name": "Maurizio Milo",
+          "original_name": "Maurizio Milo",
+          "popularity": 0.335,
+          "profile_path": null,
+          "credit_id": "6ada24e4f90c684bc7143532",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1866739,
+          "known_for_department": "Production",
+          "name": "David Ragonig",
+          "original_name": "David Ragonig",
+          "popularity": 0.4826,
+          "profile_path": null,
+          "credit_id": "6ada250cdff0875cd501f735",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1542345,
+          "known_for_department": "Production",
+          "name": "Bastien Sirodot",
+          "original_name": "Bastien Sirodot",
+          "popularity": 0.7288,
+          "profile_path": "/3ymfiOrLiygU3tv8V8fhJWfBEGZ.jpg",
+          "credit_id": "6ada2524e81164807985b656",
+          "department": "Production",
+          "job": "Co-Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5231600,
+          "known_for_department": "Production",
+          "name": "Candice Vigneron",
+          "original_name": "Candice Vigneron",
+          "popularity": 0.6113,
+          "profile_path": null,
+          "credit_id": "6ada25359e67b3194785b7c4",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5692455,
+          "known_for_department": "Crew",
+          "name": "Franck Weber",
+          "original_name": "Franck Weber",
+          "popularity": 0.4103,
+          "profile_path": null,
+          "credit_id": "6ada2550957159156001f8d7",
+          "department": "Writing",
+          "job": "Creative Producer"
         }
       ]
     },
@@ -12508,7 +12690,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pvmoRAjGVcoOgR6h6wg1ZhyvWxO.jpg"
       }
     ],
-    "date_added": 1792698447641
+    "date_added": 1792710019137
   },
   {
     "adult": false,
@@ -13024,6 +13206,19 @@
             "runtime": 0,
             "tagline": "",
             "title": "Друга мама"
+          }
+        },
+        {
+          "iso_3166_1": "SI",
+          "iso_639_1": "sl",
+          "name": "Slovenščina",
+          "english_name": "Slovenian",
+          "data": {
+            "homepage": "",
+            "overview": "Zgodba spremlja 8-letno deklico Belo, ki živi v družini z zakonskimi težavami. V svoji omari začne videvati skrivnostno postavo, ki jo poimenuje \"Druga mamica\". Ta temačna prisotnost sprva deluje nedolžno, a postaja vedno močnejša in bolj grozeča. Ko prevzame podobo njene resnične matere, se družinski dom spremeni v neizbežno nočno moro.",
+            "runtime": 0,
+            "tagline": "Mamica te ne bo rešila.",
+            "title": "Druga mamica"
           }
         }
       ]
@@ -16119,7 +16314,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jE3zEMEYflS3adHtF11YqLAwlVI.jpg"
       }
     ],
-    "date_added": 1792698448017
+    "date_added": 1792710019159
   },
   {
     "adult": false,
@@ -18000,7 +18195,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1792698448028
+    "date_added": 1792710019180
   },
   {
     "adult": false,
@@ -18673,7 +18868,7 @@
           "name": "Tom Rhys Harries",
           "original_name": "Tom Rhys Harries",
           "popularity": 3.9705,
-          "profile_path": "/elxvpHPqOxGcKe6U2hcArIcpyWo.jpg",
+          "profile_path": "/rSmdo0YnGHUL5sua6jg3YlWWGL4.jpg",
           "cast_id": 17,
           "character": "Matt Hagen / Clayface",
           "credit_id": "685183c3662e4cee015ea3e1",
@@ -19389,7 +19584,7 @@
       {
         "name": "Tom Rhys Harries",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/elxvpHPqOxGcKe6U2hcArIcpyWo.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/rSmdo0YnGHUL5sua6jg3YlWWGL4.jpg"
       },
       {
         "name": "ناعومي آكي",
@@ -19427,7 +19622,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
       }
     ],
-    "date_added": 1792698448038
+    "date_added": 1792710019239
   },
   {
     "adult": false,
@@ -20770,6 +20965,58 @@
         },
         {
           "adult": false,
+          "gender": 2,
+          "id": 145612,
+          "known_for_department": "Writing",
+          "name": "Guy Moshe",
+          "original_name": "Guy Moshe",
+          "popularity": 1.2762,
+          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+          "credit_id": "659dbcdd24b33300961b9c6e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1018715,
+          "known_for_department": "Writing",
+          "name": "Mark Bacci",
+          "original_name": "Mark Bacci",
+          "popularity": 0.8359,
+          "profile_path": null,
+          "credit_id": "659dbce59bcd0f01481ad1ba",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1664023,
+          "known_for_department": "Acting",
+          "name": "Bazzel Baz",
+          "original_name": "Bazzel Baz",
+          "popularity": 0.7251,
+          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+          "credit_id": "659dbcf724b333014c14a878",
+          "department": "Writing",
+          "job": "Idea"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1664023,
+          "known_for_department": "Acting",
+          "name": "Bazzel Baz",
+          "original_name": "Bazzel Baz",
+          "popularity": 0.7251,
+          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+          "credit_id": "659dbd0a24b33301a629d1f8",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
           "gender": 0,
           "id": 4472963,
           "known_for_department": "Production",
@@ -20778,6 +21025,19 @@
           "popularity": 0.3434,
           "profile_path": null,
           "credit_id": "659dbd27d6590b025cb23a62",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1319608,
+          "known_for_department": "Production",
+          "name": "Matthew G. Zamias",
+          "original_name": "Matthew G. Zamias",
+          "popularity": 0.478,
+          "profile_path": null,
+          "credit_id": "659dbd3a1d78f201a5b9928f",
           "department": "Production",
           "job": "Producer"
         },
@@ -20797,28 +21057,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 19689,
+          "id": 4472964,
           "known_for_department": "Production",
-          "name": "Paul Schnee",
-          "original_name": "Paul Schnee",
-          "popularity": 0.8628,
+          "name": "Harel Kodesh",
+          "original_name": "Harel Kodesh",
+          "popularity": 0.3208,
           "profile_path": null,
-          "credit_id": "659dbd926728a80201abc28a",
+          "credit_id": "659dbd5eeb64f100f24e2257",
           "department": "Production",
-          "job": "Casting"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1319608,
-          "known_for_department": "Production",
-          "name": "Matthew G. Zamias",
-          "original_name": "Matthew G. Zamias",
-          "popularity": 0.478,
-          "profile_path": null,
-          "credit_id": "659dbd3a1d78f201a5b9928f",
-          "department": "Production",
-          "job": "Producer"
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -20849,15 +21096,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1664023,
-          "known_for_department": "Acting",
-          "name": "Bazzel Baz",
-          "original_name": "Bazzel Baz",
-          "popularity": 0.7251,
-          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
-          "credit_id": "659dbcf724b333014c14a878",
-          "department": "Writing",
-          "job": "Idea"
+          "id": 19689,
+          "known_for_department": "Production",
+          "name": "Paul Schnee",
+          "original_name": "Paul Schnee",
+          "popularity": 0.8628,
+          "profile_path": null,
+          "credit_id": "659dbd926728a80201abc28a",
+          "department": "Production",
+          "job": "Casting"
         },
         {
           "adult": false,
@@ -20871,58 +21118,6 @@
           "credit_id": "659dbda591b530025960290f",
           "department": "Production",
           "job": "Casting"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1664023,
-          "known_for_department": "Acting",
-          "name": "Bazzel Baz",
-          "original_name": "Bazzel Baz",
-          "popularity": 0.7251,
-          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
-          "credit_id": "659dbd0a24b33301a629d1f8",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 145612,
-          "known_for_department": "Writing",
-          "name": "Guy Moshe",
-          "original_name": "Guy Moshe",
-          "popularity": 1.2762,
-          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
-          "credit_id": "659dbcdd24b33300961b9c6e",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1018715,
-          "known_for_department": "Writing",
-          "name": "Mark Bacci",
-          "original_name": "Mark Bacci",
-          "popularity": 0.8359,
-          "profile_path": null,
-          "credit_id": "659dbce59bcd0f01481ad1ba",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 4472964,
-          "known_for_department": "Production",
-          "name": "Harel Kodesh",
-          "original_name": "Harel Kodesh",
-          "popularity": 0.3208,
-          "profile_path": null,
-          "credit_id": "659dbd5eeb64f100f24e2257",
-          "department": "Production",
-          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -21183,7 +21378,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg"
       }
     ],
-    "date_added": 1792698448061
+    "date_added": 1792710019306
   },
   {
     "adult": false,
@@ -25357,7 +25552,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eai64zk7gMEyqOnK28r7P26oO9d.jpg"
       }
     ],
-    "date_added": 1792698448073
+    "date_added": 1792710019327
   },
   {
     "adult": false,
@@ -27352,7 +27547,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
       }
     ],
-    "date_added": 1792698448085
+    "date_added": 1792710019348
   },
   {
     "adult": false,
@@ -28857,7 +29052,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cMzkT78ZH4qluKg2VumKkF3eTia.jpg"
       }
     ],
-    "date_added": 1792698448111
+    "date_added": 1792710019414
   },
   {
     "adult": false,
@@ -28969,10 +29164,10 @@
           "english_name": "Russian",
           "data": {
             "homepage": "",
-            "overview": "Группа детей живёт в ярком и сказочном мире детского телешоу «Это Бадди!», где весёлый оранжевый единорог Бадди учит дружбе, доброте и послушанию, распевая песни вместе со своими маленькими друзьями. Однако за красочными декорациями и притворным весельем скрывается нечто ужасное. Когда один из детей пропадает после отказа следовать правилам шоу, остальные начинают подозревать, что их любимый ведущий далеко не так добр, как кажется. Постепенно иллюзия идеального мира рушится, а попытки сопротивляться превращают беззаботное приключение в кошмарную борьбу за выживание. Тем временем Грейс, мать 2-их детей, сталкивается с тайной зловещей телепередачи, которая оказывается гораздо ближе к её собственной жизни, чем она могла представить.",
-            "runtime": 95,
-            "tagline": "«Это Бадди!»",
-            "title": "Приятель"
+            "overview": "Компания весёлых детей живёт в волшебном мире детской телепередачи 1999 года. Их лучший друг — оранжевый единорог Бадди, который всегда готов научить ребят новому и спеть с ними песенку. Когда один мальчик бесследно исчезает, а вместо него появляется новая девочка, ребята с ужасом узнают, что Бадди — хладнокровный убийца. Тем временем обычную домохозяйку, мать двоих сыновей, начинает терзать необъяснимое беспокойство.",
+            "runtime": 96,
+            "tagline": "",
+            "title": "Бадди"
           }
         },
         {
@@ -31531,7 +31726,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nWqwqhsLKj3bMjKNzdf38TpWg3v.jpg"
       }
     ],
-    "date_added": 1792698448122
+    "date_added": 1792710019436
   },
   {
     "adult": false,
@@ -35135,7 +35330,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pCpRhGfErWK0jkagdmGQGpy0hLl.jpg"
       }
     ],
-    "date_added": 1792698448137
+    "date_added": 1792710019483
   },
   {
     "adult": false,
@@ -38938,7 +39133,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
       }
     ],
-    "date_added": 1792698448148
+    "date_added": 1792710019504
   },
   {
     "adult": false,
@@ -42422,7 +42617,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
       }
     ],
-    "date_added": 1792698448160
+    "date_added": 1792710019525
   },
   {
     "adult": false,
@@ -43324,7 +43519,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1792698448171
+    "date_added": 1792710019546
   },
   {
     "adult": false,
@@ -44757,7 +44952,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vFcVgkew7ign5utNWycKvUiBb75.jpg"
       }
     ],
-    "date_added": 1792698448195
+    "date_added": 1792710019618
   },
   {
     "adult": false,
@@ -46488,7 +46683,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1792698448219
+    "date_added": 1792710019684
   },
   {
     "adult": false,
@@ -48858,7 +49053,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eitUc8e045y8dDfBSm681hU471g.jpg"
       }
     ],
-    "date_added": 1792698448238
+    "date_added": 1792710019749
   },
   {
     "adult": false,
@@ -53395,7 +53590,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
       }
     ],
-    "date_added": 1792698448283
+    "date_added": 1792710019888
   },
   {
     "adult": false,
@@ -56302,7 +56497,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1792698448293
+    "date_added": 1792710019910
   },
   {
     "adult": false,
@@ -59093,7 +59288,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1792698448328
+    "date_added": 1792710019977
   },
   {
     "adult": false,
@@ -59425,7 +59620,7 @@
             "overview": "Nadat de mysterieuze 'One Wish Willow' gebroken wordt om het hart van zijn geliefde te winnen, krijgt een hopeloze romanticus precies wat hij heeft gevraagd. Maar al snel ontdekt hij dat sommige verlangens een duistere, sinistere prijs hebben.",
             "runtime": 109,
             "tagline": "",
-            "title": "Obsessie"
+            "title": ""
           }
         },
         {
@@ -60815,7 +61010,7 @@
           "name": "Vivian Gray",
           "original_name": "Vivian Gray",
           "popularity": 0.3767,
-          "profile_path": null,
+          "profile_path": "/xmY1zQJOfIgnsUnVAWK1jp0htKk.jpg",
           "credit_id": "68bb628f74c5e036819bfc32",
           "department": "Art",
           "job": "Production Design"
@@ -61989,7 +62184,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1792698448401
+    "date_added": 1792710020041
   },
   {
     "adult": false,
@@ -63459,7 +63654,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/l4bmtLBuBPEE2Pg3qh5NTdmKFYP.jpg"
       }
     ],
-    "date_added": 1792698448414
+    "date_added": 1792710020062
   },
   {
     "adult": false,
@@ -65971,7 +66166,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
       }
     ],
-    "date_added": 1792698448437
+    "date_added": 1792710020139
   },
   {
     "adult": false,
@@ -67042,7 +67237,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jT7p3USLXvuQexPvEBfGJSTlJ0T.jpg"
       }
     ],
-    "date_added": 1792698448460
+    "date_added": 1792710020205
   },
   {
     "adult": false,
@@ -68723,7 +68918,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1792698448481
+    "date_added": 1792710020286
   },
   {
     "adult": false,
@@ -71546,7 +71741,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v3X5nAuS9IXf43OXU2Giz3Um4Sz.jpg"
       }
     ],
-    "date_added": 1792698448504
+    "date_added": 1792710020343
   },
   {
     "adult": false,
@@ -72343,7 +72538,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg"
       }
     ],
-    "date_added": 1792698448523
+    "date_added": 1792710020405
   },
   {
     "adult": false,
@@ -73497,7 +73692,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tYgRyRGtDRyo5LBVv7McaRNY7LX.jpg"
       }
     ],
-    "date_added": 1792698448875
+    "date_added": 1792710021434
   },
   {
     "adult": false,
@@ -74620,7 +74815,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/26jv3dcS5Us8Ut13Tu9PmvT7uPh.jpg"
       }
     ],
-    "date_added": 1792698450356
+    "date_added": 1792710023696
   },
   {
     "adult": false,
@@ -75047,7 +75242,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1792698451547
+    "date_added": 1792710025997
   },
   {
     "adult": false,
@@ -76290,7 +76485,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/308ot27uQ7tSCJCPYgZR0L5XApe.jpg"
       }
     ],
-    "date_added": 1792698453361
+    "date_added": 1792710028374
   },
   {
     "adult": false,
@@ -76413,7 +76608,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1792698453518
+    "date_added": 1792710028620
   },
   {
     "adult": false,
@@ -76536,7 +76731,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m1u1jCvYeaqbzJijlavj2wKXIK2.jpg"
       }
     ],
-    "date_added": 1792698453550
+    "date_added": 1792710028664
   },
   {
     "adult": false,
@@ -77756,7 +77951,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
       }
     ],
-    "date_added": 1792698455292
+    "date_added": 1792710030654
   },
   {
     "adult": false,
@@ -79413,7 +79608,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg"
       }
     ],
-    "date_added": 1792698455759
+    "date_added": 1792710031755
   },
   {
     "adult": false,
@@ -79540,7 +79735,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
       }
     ],
-    "date_added": 1792698455811
+    "date_added": 1792710031958
   },
   {
     "adult": false,
@@ -80806,7 +81001,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dUaUfI29UIsq0jqCEdNlTsvAFjC.jpg"
       }
     ],
-    "date_added": 1792698457145
+    "date_added": 1792710033840
   },
   {
     "adult": false,
@@ -81080,7 +81275,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1792698457653
+    "date_added": 1792710034969
   },
   {
     "adult": false,
@@ -81613,7 +81808,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1792698459589
+    "date_added": 1792710037385
   },
   {
     "adult": false,
@@ -82822,7 +83017,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/koYjDuTL1XSh7VfFmaYSIp91PnD.jpg"
       }
     ],
-    "date_added": 1792698460533
+    "date_added": 1792710039322
   },
   {
     "adult": false,
@@ -83050,7 +83245,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1792698460936
+    "date_added": 1792710039647
   },
   {
     "adult": false,
@@ -83459,7 +83654,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1792698463300
+    "date_added": 1792710042876
   },
   {
     "adult": false,
@@ -83635,7 +83830,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
       }
     ],
-    "date_added": 1792698463341
+    "date_added": 1792710042942
   },
   {
     "adult": false,
@@ -85439,7 +85634,7 @@
     "title_en": "Kamen Rider",
     "overview_en": "Takeshi Hongo is a promising young man with a passion for motorcycle racing However his dreams are suddenly ruined when he gets kidnapped by Shocker the evil secret organization planning to dominate the world After being remodeled into a cyborg Takeshi escapes and swears to protect the world from the inhuman monsters",
     "cast": [],
-    "date_added": 1792698464915
+    "date_added": 1792710045937
   },
   {
     "adult": false,
@@ -85719,7 +85914,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
       }
     ],
-    "date_added": 1792698464982
+    "date_added": 1792710046070
   },
   {
     "adult": false,
@@ -89091,7 +89286,7 @@
     "title_en": "Coronation Street",
     "overview_en": "The residents of Coronation Street are ordinary working class people and the show follows them through regular social and family interactions at home in the workplace and in their local pub the Rovers Return Inn Britain s longest running soap",
     "cast": [],
-    "date_added": 1792698468927
+    "date_added": 1792710051180
   },
   {
     "adult": false,
@@ -89750,153 +89945,234 @@
     "title_en": "Scene of the Crime",
     "overview_en": "Tatort is a long running German Austrian Swiss crime television series set in various parts of these countries The show is broadcast on the channels of ARD in Germany ORF in Austria and SF1 in Switzerland",
     "cast": [],
-    "date_added": 1792698471733
+    "date_added": 1792710055933
   },
   {
     "adult": false,
-    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
     "genre_ids": [
-      10759,
-      16,
-      10765
+      10766,
+      18
     ],
-    "id": 30984,
+    "id": 112470,
     "origin_country": [
-      "JP"
+      "FR"
     ],
-    "original_language": "ja",
-    "original_name": "BLEACH",
-    "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
-    "popularity": 187.9157,
-    "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
-    "first_air_date": "2004-10-05",
+    "original_language": "fr",
+    "original_name": "Ici tout commence",
+    "overview": "",
+    "popularity": 203.1493,
+    "poster_path": "/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+    "first_air_date": "2020-11-02",
     "softcore": false,
-    "name": "المطهر",
-    "vote_average": 8.35,
-    "vote_count": 2306,
+    "name": "Ici tout commence",
+    "vote_average": 6.8,
+    "vote_count": 92,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2004-10-05",
-        "episode_count": 366,
-        "id": 42567,
+        "air_date": "2020-11-02",
+        "episode_count": 1252,
+        "id": 167388,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
+        "poster_path": "/qNpmpvN875N8jmIFjY9KwWnYQQc.jpg",
         "season_number": 1,
-        "vote_average": 7.3,
+        "vote_average": 3.5,
         "cast": [
           {
-            "name": "森田成一",
+            "name": "Aurélie Pons",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
           },
           {
-            "name": "فوميكو أوريكاسا",
+            "name": "Julie Sassoust",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
           },
           {
-            "name": "安元洋貴",
+            "name": "Rébecca Benhamour",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+            "photo_url": null
           },
           {
-            "name": "松岡由貴",
+            "name": "Nicolas Anselmo",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+            "photo_url": null
           },
           {
-            "name": "杉山紀彰",
+            "name": "Catherine Davydzenka",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
           },
           {
-            "name": "伊藤健太郎",
+            "name": "Alizée Bochet",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fIoreUBVEWcRLZanJlHUSQAjpeE.jpg"
+            "photo_url": null
           },
           {
-            "name": "置鮎龍太郎",
+            "name": "Sidney Cadot Sambosi",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg"
+            "photo_url": null
           },
           {
-            "name": "真殿光昭",
+            "name": "Marvin Pellegrino",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/j2zw5q1tqfFoMhEbolca6Sqrjbk.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
           }
         ]
       },
       {
-        "air_date": "2022-10-11",
-        "episode_count": 50,
-        "id": 295738,
-        "name": "حرب الدم التي دامت ألف عام",
-        "overview": "الفصل الأخير من سلسلة بليتش، حيث يواجه إيتشيغو كوروساكي وحاصدو الأرواح جيش الكوينسي القوي بقيادة يوهاخ، في معركة تهدد توازن جميع العوالم",
-        "poster_path": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+        "air_date": "2025-09-01",
+        "episode_count": 260,
+        "id": 475477,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
         "season_number": 2,
-        "vote_average": 7.5,
+        "vote_average": 9,
         "cast": [
           {
-            "name": "森田成一",
+            "name": "Aurélie Pons",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
           },
           {
-            "name": "فوميكو أوريكاسا",
+            "name": "Julie Sassoust",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
           },
           {
-            "name": "安元洋貴",
+            "name": "Rébecca Benhamour",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+            "photo_url": null
           },
           {
-            "name": "松岡由貴",
+            "name": "Nicolas Anselmo",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+            "photo_url": null
           },
           {
-            "name": "杉山紀彰",
+            "name": "Catherine Davydzenka",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
+          },
+          {
+            "name": "Alizée Bochet",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Sidney Cadot Sambosi",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Marvin Pellegrino",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-08-31",
+        "episode_count": 45,
+        "id": 539597,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "Aurélie Pons",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
+          },
+          {
+            "name": "Julie Sassoust",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
+          },
+          {
+            "name": "Rébecca Benhamour",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Nicolas Anselmo",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Catherine Davydzenka",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
+          },
+          {
+            "name": "Alizée Bochet",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Sidney Cadot Sambosi",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "Marvin Pellegrino",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
           }
         ]
       }
     ],
-    "title": "المطهر",
-    "title_en": "Bleach",
-    "overview_en": "For as long as he can remember Ichigo Kurosaki has been able to see ghosts But when he meets Rukia a Soul Reaper who battles evil spirits known as Hollows he finds his life is changed forever Now with a newfound wealth of spiritual energy Ichigo discovers his true calling to protect the living and the dead from evil",
+    "title": "Ici tout commence",
+    "title_en": "Ici tout commence",
+    "overview_en": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world delving into their personal and professional lives revealing secrets rivalries and complex relationships",
     "cast": [
       {
-        "name": "森田成一",
+        "name": "Aurélie Pons",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
       },
       {
-        "name": "فوميكو أوريكاسا",
+        "name": "Julie Sassoust",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
       },
       {
-        "name": "安元洋貴",
+        "name": "Rébecca Benhamour",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+        "photo_url": null
       },
       {
-        "name": "松岡由貴",
+        "name": "Nicolas Anselmo",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+        "photo_url": null
       },
       {
-        "name": "杉山紀彰",
+        "name": "Catherine Davydzenka",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
+      },
+      {
+        "name": "Alizée Bochet",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "Sidney Cadot Sambosi",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "Marvin Pellegrino",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
       }
     ],
-    "date_added": 1792698471804
+    "date_added": 1792710056379
   },
   {
     "adult": false,
@@ -89918,8 +90194,8 @@
     "first_air_date": "2011-10-05",
     "softcore": false,
     "name": "قصة رعب امريكية",
-    "vote_average": 8.1,
-    "vote_count": 6259,
+    "vote_average": 8.08,
+    "vote_count": 6261,
     "media_type": "tv",
     "seasons": [
       {
@@ -90599,7 +90875,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zvFXKr0U6hFrOEkV7ZFVNhJ9m9X.jpg"
       }
     ],
-    "date_added": 1792698472793
+    "date_added": 1792710057437
   },
   {
     "adult": false,
@@ -91449,356 +91725,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9CHXT3NKUZDPUyNMkwDj5zLMUTT.jpg"
       }
     ],
-    "date_added": 1792698473680
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 65282,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "나 혼자 산다",
-    "overview": "",
-    "popularity": 158.1,
-    "poster_path": "/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
-    "first_air_date": "2013-03-22",
-    "softcore": false,
-    "name": "나 혼자 산다",
-    "vote_average": 7.5,
-    "vote_count": 18,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2013-03-22",
-        "episode_count": 671,
-        "id": 73861,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/erlStRPzGNGEljuh3tRsTQwpVJO.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "박나래",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dUqQeDICulymBkia4eqQ40LKHPa.jpg"
-          },
-          {
-            "name": "전현무",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
-          },
-          {
-            "name": "키",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2f2n3A2cDtc8lgKfkd1NdsvEKhB.jpg"
-          },
-          {
-            "name": "화사",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zfIgRBmgxUZB5ASKfKWw30KEsQm.jpg"
-          },
-          {
-            "name": "코드 쿤스트",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jrNqyZRJpNfYypaChI5yFZkhp3g.jpg"
-          },
-          {
-            "name": "기안84",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wjNKFnCPaEEuhXVmgWUbi4qgdWq.jpg"
-          },
-          {
-            "name": "이장우",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bZq5YpRBgtVflLvoDQU8nivrpCz.jpg"
-          },
-          {
-            "name": "이주승",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "나 혼자 산다",
-    "title_en": "Home Alone",
-    "overview_en": "It can be a badge of honor to be single I Live Alone is a documentary style South Korean reality series that follows the members of a self formed club called Rainbow which is comprised of celebrities who are single and live alone",
-    "cast": [
-      {
-        "name": "박나래",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dUqQeDICulymBkia4eqQ40LKHPa.jpg"
-      },
-      {
-        "name": "전현무",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
-      },
-      {
-        "name": "키",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/2f2n3A2cDtc8lgKfkd1NdsvEKhB.jpg"
-      },
-      {
-        "name": "화사",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zfIgRBmgxUZB5ASKfKWw30KEsQm.jpg"
-      },
-      {
-        "name": "코드 쿤스트",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jrNqyZRJpNfYypaChI5yFZkhp3g.jpg"
-      },
-      {
-        "name": "기안84",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wjNKFnCPaEEuhXVmgWUbi4qgdWq.jpg"
-      },
-      {
-        "name": "이장우",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bZq5YpRBgtVflLvoDQU8nivrpCz.jpg"
-      },
-      {
-        "name": "이주승",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
-      }
-    ],
-    "date_added": 1792698473739
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 112470,
-    "origin_country": [
-      "FR"
-    ],
-    "original_language": "fr",
-    "original_name": "Ici tout commence",
-    "overview": "",
-    "popularity": 203.1493,
-    "poster_path": "/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-    "first_air_date": "2020-11-02",
-    "softcore": false,
-    "name": "Ici tout commence",
-    "vote_average": 6.8,
-    "vote_count": 92,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2020-11-02",
-        "episode_count": 1252,
-        "id": 167388,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/qNpmpvN875N8jmIFjY9KwWnYQQc.jpg",
-        "season_number": 1,
-        "vote_average": 3.5,
-        "cast": [
-          {
-            "name": "Aurélie Pons",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
-          },
-          {
-            "name": "Julie Sassoust",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
-          },
-          {
-            "name": "Rébecca Benhamour",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Nicolas Anselmo",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Catherine Davydzenka",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
-          },
-          {
-            "name": "Alizée Bochet",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Sidney Cadot Sambosi",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Marvin Pellegrino",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2025-09-01",
-        "episode_count": 260,
-        "id": 475477,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
-        "vote_average": 9,
-        "cast": [
-          {
-            "name": "Aurélie Pons",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
-          },
-          {
-            "name": "Julie Sassoust",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
-          },
-          {
-            "name": "Rébecca Benhamour",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Nicolas Anselmo",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Catherine Davydzenka",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
-          },
-          {
-            "name": "Alizée Bochet",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Sidney Cadot Sambosi",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Marvin Pellegrino",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-08-31",
-        "episode_count": 40,
-        "id": 539597,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "Aurélie Pons",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
-          },
-          {
-            "name": "Julie Sassoust",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
-          },
-          {
-            "name": "Rébecca Benhamour",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Nicolas Anselmo",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Catherine Davydzenka",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
-          },
-          {
-            "name": "Alizée Bochet",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Sidney Cadot Sambosi",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "Marvin Pellegrino",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "Ici tout commence",
-    "title_en": "Ici tout commence",
-    "overview_en": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world delving into their personal and professional lives revealing secrets rivalries and complex relationships",
-    "cast": [
-      {
-        "name": "Aurélie Pons",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/w7xp9Z9cFS3gcBhCeEpep814Fuz.jpg"
-      },
-      {
-        "name": "Julie Sassoust",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/ARU4Wi5yh61sehpF9LtWgBP9Z7.jpg"
-      },
-      {
-        "name": "Rébecca Benhamour",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Nicolas Anselmo",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Catherine Davydzenka",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/r9vI3qItHvfDwbK9RoT84hrdZOv.jpg"
-      },
-      {
-        "name": "Alizée Bochet",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Sidney Cadot Sambosi",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "Marvin Pellegrino",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
-      }
-    ],
-    "date_added": 1792698473874
+    "date_added": 1792710058766
   },
   {
     "adult": false,
@@ -92547,120 +92474,339 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2qLHQpxvFMlMKf7qeBKGRTsJF4S.jpg"
       }
     ],
-    "date_added": 1792698474830
+    "date_added": 1792710060009
   },
   {
     "adult": false,
-    "backdrop_path": "/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
     "genre_ids": [
-      10764,
-      35
+      10759,
+      16,
+      10765
     ],
-    "id": 70672,
+    "id": 30984,
     "origin_country": [
-      "KR"
+      "JP"
     ],
-    "original_language": "ko",
-    "original_name": "아는 형님",
-    "overview": "يلعب المشاهير الذكور دورا خياليا كطلاب في المدارس الثانوية ويرحبون بطلاب نقل النجوم كل أسبوع وينخرطون في معارك من الفكاهة البارعة والتهريج",
-    "popularity": 156.9174,
-    "poster_path": "/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
-    "first_air_date": "2015-12-05",
+    "original_language": "ja",
+    "original_name": "BLEACH",
+    "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
+    "popularity": 187.9157,
+    "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
+    "first_air_date": "2004-10-05",
     "softcore": false,
-    "name": "رجال في مهمة",
-    "vote_average": 7.4,
-    "vote_count": 42,
+    "name": "المطهر",
+    "vote_average": 8.35,
+    "vote_count": 2306,
     "media_type": "tv",
     "seasons": [
       {
-        "air_date": "2015-12-05",
-        "episode_count": 549,
-        "id": 86084,
+        "air_date": "2004-10-05",
+        "episode_count": 366,
+        "id": 42567,
         "name": "الموسم 1",
         "overview": "",
-        "poster_path": "/sXJoNC4nTGOCxrre0MrZ0HP3uQI.jpg",
+        "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
         "season_number": 1,
-        "vote_average": 8.1,
+        "vote_average": 7.3,
         "cast": [
           {
-            "name": "김영철",
+            "name": "森田成一",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f0O90cm6qFi8PvBKYuD2ugRLNlD.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
           },
           {
-            "name": "민경훈",
+            "name": "فوميكو أوريكاسا",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/pRaOrGX36dTTnnxrswegaCoSCYI.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
           },
           {
-            "name": "강호동",
+            "name": "安元洋貴",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
           },
           {
-            "name": "이수근",
+            "name": "松岡由貴",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zwEmEAS7CAuJLwhLhvSB09La1QM.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
           },
           {
-            "name": "김희철",
+            "name": "杉山紀彰",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w521FQ30VXdvjEfj0sZcn1sON5b.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
           },
           {
-            "name": "서장훈",
+            "name": "伊藤健太郎",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/fIoreUBVEWcRLZanJlHUSQAjpeE.jpg"
           },
           {
-            "name": "이상민",
+            "name": "置鮎龍太郎",
             "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
+            "photo_url": "https://image.tmdb.org/t/p/w185/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg"
+          },
+          {
+            "name": "真殿光昭",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/j2zw5q1tqfFoMhEbolca6Sqrjbk.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2022-10-11",
+        "episode_count": 50,
+        "id": 295738,
+        "name": "حرب الدم التي دامت ألف عام",
+        "overview": "الفصل الأخير من سلسلة بليتش، حيث يواجه إيتشيغو كوروساكي وحاصدو الأرواح جيش الكوينسي القوي بقيادة يوهاخ، في معركة تهدد توازن جميع العوالم",
+        "poster_path": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+        "season_number": 2,
+        "vote_average": 7.5,
+        "cast": [
+          {
+            "name": "森田成一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+          },
+          {
+            "name": "فوميكو أوريكاسا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+          },
+          {
+            "name": "安元洋貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+          },
+          {
+            "name": "松岡由貴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
+          },
+          {
+            "name": "杉山紀彰",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
           }
         ]
       }
     ],
-    "title": "رجال في مهمة",
-    "title_en": "Men on a Mission",
-    "overview_en": "Male celebs play make believe as high schoolers welcoming star transfer students every week and engaging in battles of witty humor and slapstick",
+    "title": "المطهر",
+    "title_en": "Bleach",
+    "overview_en": "For as long as he can remember Ichigo Kurosaki has been able to see ghosts But when he meets Rukia a Soul Reaper who battles evil spirits known as Hollows he finds his life is changed forever Now with a newfound wealth of spiritual energy Ichigo discovers his true calling to protect the living and the dead from evil",
     "cast": [
       {
-        "name": "김영철",
+        "name": "森田成一",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/f0O90cm6qFi8PvBKYuD2ugRLNlD.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
       },
       {
-        "name": "민경훈",
+        "name": "فوميكو أوريكاسا",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/pRaOrGX36dTTnnxrswegaCoSCYI.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
       },
       {
-        "name": "강호동",
+        "name": "安元洋貴",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
       },
       {
-        "name": "이수근",
+        "name": "松岡由貴",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zwEmEAS7CAuJLwhLhvSB09La1QM.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg"
       },
       {
-        "name": "김희철",
+        "name": "杉山紀彰",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/w521FQ30VXdvjEfj0sZcn1sON5b.jpg"
-      },
-      {
-        "name": "서장훈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg"
-      },
-      {
-        "name": "이상민",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
       }
     ],
-    "date_added": 1792698474904
+    "date_added": 1792710060095
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 57775,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちびまる子ちゃん",
+    "overview": "يحكي المسلسل الحياة اليومية البسيطة للطفلة ماروكو مع عائلتها وأصدقائها في ضواحي إحدى مدن اليابان أواخر السبعينيات ماروكو ابنة التسع سنوات نشأت في عائلة متوسطة الثراء تتألف من أبيها وأمها ربة البيت المثالية وجدها الخرف وجدتها المهووسة بصحتها وأختها التي تكبرها بسنتين تدرس ماروكو في المرحلة الإبتدائية في المدرسة و تحب بشغف المغنية اليابانية الشهيرة مونوي ياماغوتشي كما تحب قراءة المانغا غالباً ما يناديها أصدقاؤها بـ ماروكو الصغيرة وذلك لصغر حجمها وعمرها من أصدقائها المشهورين تاما صديقة ماروكو المقربة ومارو الذي هو عريف الصف وعضو المجلس الطلابي الفخور",
+    "popularity": 179.6538,
+    "poster_path": "/iJIvAkD105tyUA2fyfR6Y410PRI.jpg",
+    "first_air_date": "1990-01-07",
+    "softcore": false,
+    "name": "ماروكو الصغيرة",
+    "vote_average": 7.8,
+    "vote_count": 24,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1990-01-07",
+        "episode_count": 142,
+        "id": 58922,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/mFsWHBzW0sj4iPHHcECKFEQiwEw.jpg",
+        "season_number": 1,
+        "vote_average": 6,
+        "cast": [
+          {
+            "name": "TARAKO",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
+          },
+          {
+            "name": "يوكو ميزوتاني",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
+          },
+          {
+            "name": "屋良有作",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+          },
+          {
+            "name": "一龍斎貞友",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+          },
+          {
+            "name": "富山敬",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d0ZWVc1fGF6JYJ6hpkK6ciwjQqk.jpg"
+          },
+          {
+            "name": "佐々木優子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
+          },
+          {
+            "name": "渡辺菜生子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+          },
+          {
+            "name": "ماسامي كيكوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "1995-01-08",
+        "episode_count": 1553,
+        "id": 202266,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/4ZrxeLJW3Ar7fiQ6NJbztqP8bt9.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "TARAKO",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
+          },
+          {
+            "name": "يوكو ميزوتاني",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
+          },
+          {
+            "name": "屋良有作",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+          },
+          {
+            "name": "一龍斎貞友",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+          },
+          {
+            "name": "青野武",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
+          },
+          {
+            "name": "佐々木優子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
+          },
+          {
+            "name": "渡辺菜生子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+          },
+          {
+            "name": "ماسامي كيكوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": null,
+        "episode_count": 59,
+        "id": 551026,
+        "name": "الموسم 99",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 99,
+        "vote_average": 0,
+        "cast": []
+      }
+    ],
+    "title": "ماروكو الصغيرة",
+    "title_en": "Chibi Maruko chan",
+    "overview_en": "Meet Maruko a sweet schoolgirl with a hefty dose of curiosity and occasional laziness She sails through life in a cozy town alongside her loving parents grandparents and sister Maruko has a band of loyal friends including her closest pal Tama chan but her playful and doting grandpa is at the heart of it all Life is never dull in this charming series",
+    "cast": [
+      {
+        "name": "TARAKO",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
+      },
+      {
+        "name": "يوكو ميزوتاني",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
+      },
+      {
+        "name": "屋良有作",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+      },
+      {
+        "name": "一龍斎貞友",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
+      },
+      {
+        "name": "青野武",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
+      },
+      {
+        "name": "佐々木優子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
+      },
+      {
+        "name": "渡辺菜生子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+      },
+      {
+        "name": "ماسامي كيكوتشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
+      }
+    ],
+    "date_added": 1792710060365
   },
   {
     "adult": false,
@@ -94606,193 +94752,7 @@
     "title_en": "EastEnders",
     "overview_en": "The everyday lives of working class residents of Albert Square a traditional Victorian square of terrace houses surrounding a park in the East End of London s Walford borough",
     "cast": [],
-    "date_added": 1792698476891
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-    "genre_ids": [
-      16,
-      35
-    ],
-    "id": 57775,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ちびまる子ちゃん",
-    "overview": "يحكي المسلسل الحياة اليومية البسيطة للطفلة ماروكو مع عائلتها وأصدقائها في ضواحي إحدى مدن اليابان أواخر السبعينيات ماروكو ابنة التسع سنوات نشأت في عائلة متوسطة الثراء تتألف من أبيها وأمها ربة البيت المثالية وجدها الخرف وجدتها المهووسة بصحتها وأختها التي تكبرها بسنتين تدرس ماروكو في المرحلة الإبتدائية في المدرسة و تحب بشغف المغنية اليابانية الشهيرة مونوي ياماغوتشي كما تحب قراءة المانغا غالباً ما يناديها أصدقاؤها بـ ماروكو الصغيرة وذلك لصغر حجمها وعمرها من أصدقائها المشهورين تاما صديقة ماروكو المقربة ومارو الذي هو عريف الصف وعضو المجلس الطلابي الفخور",
-    "popularity": 179.6538,
-    "poster_path": "/iJIvAkD105tyUA2fyfR6Y410PRI.jpg",
-    "first_air_date": "1990-01-07",
-    "softcore": false,
-    "name": "ماروكو الصغيرة",
-    "vote_average": 7.8,
-    "vote_count": 24,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1990-01-07",
-        "episode_count": 142,
-        "id": 58922,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/mFsWHBzW0sj4iPHHcECKFEQiwEw.jpg",
-        "season_number": 1,
-        "vote_average": 6,
-        "cast": [
-          {
-            "name": "TARAKO",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
-          },
-          {
-            "name": "يوكو ميزوتاني",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
-          },
-          {
-            "name": "屋良有作",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
-          },
-          {
-            "name": "一龍斎貞友",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
-          },
-          {
-            "name": "富山敬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d0ZWVc1fGF6JYJ6hpkK6ciwjQqk.jpg"
-          },
-          {
-            "name": "佐々木優子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
-          },
-          {
-            "name": "渡辺菜生子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
-          },
-          {
-            "name": "ماسامي كيكوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "1995-01-08",
-        "episode_count": 1553,
-        "id": 202266,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/4ZrxeLJW3Ar7fiQ6NJbztqP8bt9.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "TARAKO",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
-          },
-          {
-            "name": "يوكو ميزوتاني",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
-          },
-          {
-            "name": "屋良有作",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
-          },
-          {
-            "name": "一龍斎貞友",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
-          },
-          {
-            "name": "青野武",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
-          },
-          {
-            "name": "佐々木優子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
-          },
-          {
-            "name": "渡辺菜生子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
-          },
-          {
-            "name": "ماسامي كيكوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": null,
-        "episode_count": 59,
-        "id": 551026,
-        "name": "الموسم 99",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 99,
-        "vote_average": 0,
-        "cast": []
-      }
-    ],
-    "title": "ماروكو الصغيرة",
-    "title_en": "Chibi Maruko chan",
-    "overview_en": "Meet Maruko a sweet schoolgirl with a hefty dose of curiosity and occasional laziness She sails through life in a cozy town alongside her loving parents grandparents and sister Maruko has a band of loyal friends including her closest pal Tama chan but her playful and doting grandpa is at the heart of it all Life is never dull in this charming series",
-    "cast": [
-      {
-        "name": "TARAKO",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dIju4JSkZem6Yaep5RYLWfTmp1P.jpg"
-      },
-      {
-        "name": "يوكو ميزوتاني",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wjuj1u5aqjHEGqDo6FMScwWFKqP.jpg"
-      },
-      {
-        "name": "屋良有作",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
-      },
-      {
-        "name": "一龍斎貞友",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
-      },
-      {
-        "name": "青野武",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/e3IaulH39g31sTIZuiUsXXc5iZj.jpg"
-      },
-      {
-        "name": "佐々木優子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/acaWGcmtdPC1Q0NmHcy7fvdjmUO.jpg"
-      },
-      {
-        "name": "渡辺菜生子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
-      },
-      {
-        "name": "ماسامي كيكوتشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
-      }
-    ],
-    "date_added": 1792698477298
+    "date_added": 1792710063895
   },
   {
     "adult": false,
@@ -95222,6 +95182,222 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qTbSpmvbrbOKRzgo3LxmuQ0yxkp.jpg"
       }
     ],
-    "date_added": 1792698477622
+    "date_added": 1792710064695
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 312359,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンボール超 ビルス",
+    "overview": "مرت سنوات عديدة منذ المعركة الضارية ضد ماجين بو واستعادت الأرض أخيرًا لحظات من السلام في الوقت نفسه يستيقظ بيروس إله الدمار من سباته الطويل والعميق حتى الملك كاي والكايو الأعلى على دراية بقوة بيروس الهائلة في تدمير كواكب بأكملها يراقبان استيقاظه برعب شديد في هذه الأثناء يسمع بيروس شائعات عن سايان هزم فريزا ويظهر فجأة أمام غوكو الأرض التي استهدفها بيروس أقوى كائن في الكون في خطر جسيم وهكذا تبدأ معركة كونية مدمرة بين إله الدمار وغوكو وحلفائه صراع سيهز الكون بأسره",
+    "popularity": 167.1138,
+    "poster_path": "/gecTQKFZVh6UasL2RAqWmSyNXfH.jpg",
+    "first_air_date": "2026-10-11",
+    "softcore": false,
+    "name": "ドラゴンボール超 ビルス",
+    "vote_average": 9.7,
+    "vote_count": 273,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-10-11",
+        "episode_count": 19,
+        "id": 497113,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+        "season_number": 1,
+        "vote_average": 8.8,
+        "cast": [
+          {
+            "name": "野沢雅子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+          },
+          {
+            "name": "堀川りょう",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+          },
+          {
+            "name": "渡辺菜生子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+          },
+          {
+            "name": "石塚運昇",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg"
+          },
+          {
+            "name": "كويتشي ياماديرا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "ドラゴンボール超 ビルス",
+    "title_en": "Dragon Ball Super Beerus",
+    "overview_en": "When Beerus the God of Destruction awakens in search of a worthy rival Goku and his friends face an epic battle to stop him from destroying Earth Remastered and re edited version of Dragon Ball Super",
+    "cast": [
+      {
+        "name": "野沢雅子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+      },
+      {
+        "name": "堀川りょう",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
+      },
+      {
+        "name": "渡辺菜生子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
+      },
+      {
+        "name": "石塚運昇",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg"
+      },
+      {
+        "name": "كويتشي ياماديرا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+      }
+    ],
+    "date_added": 1792710064762
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 65282,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "나 혼자 산다",
+    "overview": "",
+    "popularity": 158.1,
+    "poster_path": "/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+    "first_air_date": "2013-03-22",
+    "softcore": false,
+    "name": "나 혼자 산다",
+    "vote_average": 7.5,
+    "vote_count": 18,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2013-03-22",
+        "episode_count": 671,
+        "id": 73861,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/erlStRPzGNGEljuh3tRsTQwpVJO.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "박나래",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dUqQeDICulymBkia4eqQ40LKHPa.jpg"
+          },
+          {
+            "name": "전현무",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
+          },
+          {
+            "name": "키",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2f2n3A2cDtc8lgKfkd1NdsvEKhB.jpg"
+          },
+          {
+            "name": "화사",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zfIgRBmgxUZB5ASKfKWw30KEsQm.jpg"
+          },
+          {
+            "name": "코드 쿤스트",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jrNqyZRJpNfYypaChI5yFZkhp3g.jpg"
+          },
+          {
+            "name": "기안84",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wjNKFnCPaEEuhXVmgWUbi4qgdWq.jpg"
+          },
+          {
+            "name": "이장우",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bZq5YpRBgtVflLvoDQU8nivrpCz.jpg"
+          },
+          {
+            "name": "이주승",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "나 혼자 산다",
+    "title_en": "Home Alone",
+    "overview_en": "It can be a badge of honor to be single I Live Alone is a documentary style South Korean reality series that follows the members of a self formed club called Rainbow which is comprised of celebrities who are single and live alone",
+    "cast": [
+      {
+        "name": "박나래",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dUqQeDICulymBkia4eqQ40LKHPa.jpg"
+      },
+      {
+        "name": "전현무",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/rJ1890Fh0ln5IQ4JywD3pkdlALY.jpg"
+      },
+      {
+        "name": "키",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/2f2n3A2cDtc8lgKfkd1NdsvEKhB.jpg"
+      },
+      {
+        "name": "화사",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zfIgRBmgxUZB5ASKfKWw30KEsQm.jpg"
+      },
+      {
+        "name": "코드 쿤스트",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jrNqyZRJpNfYypaChI5yFZkhp3g.jpg"
+      },
+      {
+        "name": "기안84",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wjNKFnCPaEEuhXVmgWUbi4qgdWq.jpg"
+      },
+      {
+        "name": "이장우",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bZq5YpRBgtVflLvoDQU8nivrpCz.jpg"
+      },
+      {
+        "name": "이주승",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
+      }
+    ],
+    "date_added": 1792710064938
   }
 ]
