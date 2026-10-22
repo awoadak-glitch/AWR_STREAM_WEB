@@ -120,7 +120,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1792646038734
+    "date_added": 1792664957361
   },
   {
     "adult": false,
@@ -242,7 +242,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6yJqT18fiQDEPtMEoU2OWU5x4tG.jpg"
       }
     ],
-    "date_added": 1792646038760
+    "date_added": 1792664957440
   },
   {
     "adult": false,
@@ -355,100 +355,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9is5HFbPIyZtUpuKlbWyJPMlFn.jpg"
       }
     ],
-    "date_added": 1792646038812
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-    "genre_ids": [
-      10767
-    ],
-    "id": 65270,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "라디오스타",
-    "overview": "",
-    "popularity": 146.9129,
-    "poster_path": "/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
-    "first_air_date": "2007-05-30",
-    "softcore": false,
-    "name": "라디오스타",
-    "vote_average": 5.5,
-    "vote_count": 6,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2007-05-30",
-        "episode_count": 988,
-        "id": 73838,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/leUHS0LdVB0eXB5XDsocXmIp1On.jpg",
-        "season_number": 1,
-        "vote_average": 1,
-        "cast": [
-          {
-            "name": "김구라",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
-          },
-          {
-            "name": "김국진",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
-          },
-          {
-            "name": "유세윤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
-          },
-          {
-            "name": "장도연",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": null,
-        "episode_count": 0,
-        "id": 137519,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": null,
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": []
-      }
-    ],
-    "title": "라디오스타",
-    "title_en": "Radio Star",
-    "overview_en": "Radio Star is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives their pasts and their work It is part of Munhwa Broadcasting Corporation s Golden Fishery programming block",
-    "cast": [
-      {
-        "name": "김구라",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
-      },
-      {
-        "name": "김국진",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
-      },
-      {
-        "name": "유세윤",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
-      },
-      {
-        "name": "장도연",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
-      }
-    ],
-    "date_added": 1792646038944
+    "date_added": 1792664957458
   },
   {
     "adult": false,
@@ -650,7 +557,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tQ4E9MhTkPnsOnuAxD2TQWjrc5L.jpg"
       }
     ],
-    "date_added": 1792646039126
+    "date_added": 1792664957830
   },
   {
     "adult": false,
@@ -713,7 +620,100 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/w0sGoIEqQE1cKAgL7vlBxwbNDSd.jpg"
       }
     ],
-    "date_added": 1792646039215
+    "date_added": 1792664957982
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "genre_ids": [
+      10767
+    ],
+    "id": 65270,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "라디오스타",
+    "overview": "",
+    "popularity": 146.9129,
+    "poster_path": "/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
+    "first_air_date": "2007-05-30",
+    "softcore": false,
+    "name": "라디오스타",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2007-05-30",
+        "episode_count": 988,
+        "id": 73838,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/leUHS0LdVB0eXB5XDsocXmIp1On.jpg",
+        "season_number": 1,
+        "vote_average": 1,
+        "cast": [
+          {
+            "name": "김구라",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
+          },
+          {
+            "name": "김국진",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
+          },
+          {
+            "name": "유세윤",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
+          },
+          {
+            "name": "장도연",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": null,
+        "episode_count": 0,
+        "id": 137519,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": null,
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": []
+      }
+    ],
+    "title": "라디오스타",
+    "title_en": "Radio Star",
+    "overview_en": "Radio Star is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives their pasts and their work It is part of Munhwa Broadcasting Corporation s Golden Fishery programming block",
+    "cast": [
+      {
+        "name": "김구라",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
+      },
+      {
+        "name": "김국진",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg"
+      },
+      {
+        "name": "유세윤",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg"
+      },
+      {
+        "name": "장도연",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
+      }
+    ],
+    "date_added": 1792664958214
   },
   {
     "adult": false,
@@ -765,7 +765,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg"
       }
     ],
-    "date_added": 1792646039298
+    "date_added": 1792664958468
   },
   {
     "adult": false,
@@ -833,7 +833,7 @@
     "title_en": "Inkigayo",
     "overview_en": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea Every week they ask viewers to vote and select the most popular song of the week",
     "cast": [],
-    "date_added": 1792646039489
+    "date_added": 1792664958701
   },
   {
     "adult": false,
@@ -956,7 +956,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oDHFWR6JHmQnmNbl73et1G4KzGc.jpg"
       }
     ],
-    "date_added": 1792646039571
+    "date_added": 1792664958862
   },
   {
     "adult": false,
@@ -1970,7 +1970,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rEZ4LALVCDh6RXvd3l3SzYbzKlb.jpg"
       }
     ],
-    "date_added": 1792646042662
+    "date_added": 1792664963553
   },
   {
     "adult": false,
@@ -2353,7 +2353,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nnbCQ5nNo81lHZrWB8QVPXD9gIC.jpg"
       }
     ],
-    "date_added": 1792646042993
+    "date_added": 1792664964120
   },
   {
     "adult": false,
@@ -2602,7 +2602,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bF3Zg2vzl4wUnFgcPhcS1J3Csxe.jpg"
       }
     ],
-    "date_added": 1792646043191
+    "date_added": 1792664964503
   },
   {
     "adult": false,
@@ -2830,7 +2830,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
       }
     ],
-    "date_added": 1792646043366
+    "date_added": 1792664964803
   },
   {
     "adult": false,
@@ -2892,7 +2892,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg"
       }
     ],
-    "date_added": 1792646043449
+    "date_added": 1792664965015
   },
   {
     "adult": false,
@@ -2945,7 +2945,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
       }
     ],
-    "date_added": 1792646043533
+    "date_added": 1792664965191
   },
   {
     "adult": false,
@@ -3081,7 +3081,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vHDof1Pl8L8vGXTqECnk5m8z6Dg.jpg"
       }
     ],
-    "date_added": 1792646044185
+    "date_added": 1792664965645
   },
   {
     "adult": false,
@@ -3164,7 +3164,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4S14P69iASzrsAPaSJqBlh07hj0.jpg"
       }
     ],
-    "date_added": 1792646044283
+    "date_added": 1792664965798
   },
   {
     "adult": false,
@@ -3187,8 +3187,8 @@
     "first_air_date": "2026-10-19",
     "softcore": false,
     "name": "حب متنكر",
-    "vote_average": 7.25,
-    "vote_count": 8,
+    "vote_average": 7.333,
+    "vote_count": 9,
     "media_type": "tv",
     "seasons": [
       {
@@ -3289,7 +3289,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aj6K7PfdgmZN6SyQBFFvMeewGyf.jpg"
       }
     ],
-    "date_added": 1792646044292
+    "date_added": 1792664965810
   },
   {
     "adult": false,
@@ -3396,7 +3396,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/byV2UFSUJg39LPJyOutL1z0v2HY.jpg"
       }
     ],
-    "date_added": 1792646044552
+    "date_added": 1792664966126
   },
   {
     "adult": false,
@@ -3539,7 +3539,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9L4RG3cujCgTHjtDhFAG88gZiOX.jpg"
       }
     ],
-    "date_added": 1792646044834
+    "date_added": 1792664966628
   },
   {
     "adult": false,
@@ -3641,7 +3641,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/egMmX5YaltrE86tH6ywukCWoeqS.jpg"
       }
     ],
-    "date_added": 1792646045460
+    "date_added": 1792664966893
   },
   {
     "adult": false,
@@ -4856,7 +4856,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1792646046523
+    "date_added": 1792664968673
   },
   {
     "adult": false,
@@ -4979,7 +4979,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rCQvBbAAkw6n3JW9Xni3T80mOl3.jpg"
       }
     ],
-    "date_added": 1792646046599
+    "date_added": 1792664968822
   },
   {
     "adult": false,
@@ -5101,81 +5101,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kv1KMZfz34fjmHt7E1HRwWnnhl7.jpg"
       }
     ],
-    "date_added": 1792646047169
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "genre_ids": [
-      10765,
-      35,
-      18
-    ],
-    "id": 289423,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "나를 충전해줘",
-    "overview": "يلتقي وريث ثري لإحدى الشركات يملك قلبًا صناعيًا بامرأة تسري الكهرباء في جسدها حرفيًا فيبرمان صفقة لا تكتفي بتشغيل قلبه بل تجعله يخفق بحرارة ولوعة",
-    "popularity": 47.7784,
-    "poster_path": "/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
-    "first_air_date": "2026-10-09",
-    "softcore": false,
-    "name": "حبك يشحن قلبي",
-    "vote_average": 8.8,
-    "vote_count": 39,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2026-10-09",
-        "episode_count": 10,
-        "id": 452643,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/eOuhRwFUaKpUdpnaN4dY6wlVklL.jpg",
-        "season_number": 1,
-        "vote_average": 8.3,
-        "cast": [
-          {
-            "name": "김영광",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
-          },
-          {
-            "name": "채수빈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg"
-          },
-          {
-            "name": "차우민",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "حبك يشحن قلبي",
-    "title_en": "Take Charge of My Heart",
-    "overview_en": "A corporate heir with an artificial heart meets a woman who s literally electric They strike a deal that makes his heart beat in more ways than one",
-    "cast": [
-      {
-        "name": "김영광",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
-      },
-      {
-        "name": "채수빈",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg"
-      },
-      {
-        "name": "차우민",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
-      }
-    ],
-    "date_added": 1792646047253
+    "date_added": 1792664968970
   },
   {
     "adult": false,
@@ -5267,7 +5193,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aGW2XzxjIz8egikXY2OoU6A3crM.jpg"
       }
     ],
-    "date_added": 1792646047334
+    "date_added": 1792664969114
   },
   {
     "adult": false,
@@ -5351,7 +5277,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
       }
     ],
-    "date_added": 1792646047405
+    "date_added": 1792664969262
   },
   {
     "adult": false,
@@ -5890,7 +5816,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tfOh64A3XptRzyKrJsxCRDbbgq4.jpg"
       }
     ],
-    "date_added": 1792646047843
+    "date_added": 1792664970084
   },
   {
     "adult": false,
@@ -6076,7 +6002,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6ijMroYuyWbsKncARMPc1bhmD7x.jpg"
       }
     ],
-    "date_added": 1792646048467
+    "date_added": 1792664970505
   },
   {
     "adult": false,
@@ -6151,7 +6077,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/udcxh8bqXLy9rGpqE9S994JdQEP.jpg"
       }
     ],
-    "date_added": 1792646048619
+    "date_added": 1792664970866
   },
   {
     "adult": false,
@@ -6253,7 +6179,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/x9Gk7WwAxwpCVuoGLP8z7T8ac5e.jpg"
       }
     ],
-    "date_added": 1792646048730
+    "date_added": 1792664971022
   },
   {
     "adult": false,
@@ -7987,7 +7913,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3oZcRnI0CGdHB0ZgVAMJTE7g3ig.jpg"
       }
     ],
-    "date_added": 1792646050522
+    "date_added": 1792664973674
   },
   {
     "adult": false,
@@ -8027,7 +7953,7 @@
     "title_en": "MBC Bests Theater",
     "overview_en": "",
     "cast": [],
-    "date_added": 1792646050601
+    "date_added": 1792664973821
   },
   {
     "adult": false,
@@ -8305,7 +8231,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sGFYYeV2WeM1wHZFFJCrXDfq014.jpg"
       }
     ],
-    "date_added": 1792646050852
+    "date_added": 1792664974211
   },
   {
     "adult": false,
@@ -8390,7 +8316,7 @@
     "title_en": "Great Minds",
     "overview_en": "A current affairs program that began airing on EBS in August 2021 Co produced by the Ministry of Education the National Institute for Lifelong Learning and EBS the program is part of the Korean MOOC Korean Massive Open Online Course program which aims to disseminate world class knowledge to the public amid the prolonged COVID 19 pandemic which has widened the knowledge gap between classes and spread fake information on social media Hear great thoughts from some of the world s leading minds right now including Nobel Prize winning economist Paul Krugman Michael Sandel of What is Justice and world renowned conductor and pianist Daniel Barenboim",
     "cast": [],
-    "date_added": 1792646051542
+    "date_added": 1792664974690
   },
   {
     "adult": false,
@@ -8514,7 +8440,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9XwjdLbetDegQdolJA91Wykkqdy.jpg"
       }
     ],
-    "date_added": 1792646051570
+    "date_added": 1792664974700
   },
   {
     "adult": false,
@@ -8730,7 +8656,81 @@
     "title_en": "KBS Drama Special",
     "overview_en": "Forget the existing one act dramas Short but impactive KBS Drama Special presents high quality single episode dramas Dramas are the broadcast content with the widest public appeal KBS Drama Special will produce short dramas of far reaching impact involving at times a serious social message unique emotions or perspectives It will stay abreast of modern viewership",
     "cast": [],
-    "date_added": 1792646052351
+    "date_added": 1792664976137
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "genre_ids": [
+      10765,
+      35,
+      18
+    ],
+    "id": 289423,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "나를 충전해줘",
+    "overview": "يلتقي وريث ثري لإحدى الشركات يملك قلبًا صناعيًا بامرأة تسري الكهرباء في جسدها حرفيًا فيبرمان صفقة لا تكتفي بتشغيل قلبه بل تجعله يخفق بحرارة ولوعة",
+    "popularity": 47.7784,
+    "poster_path": "/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
+    "first_air_date": "2026-10-09",
+    "softcore": false,
+    "name": "حبك يشحن قلبي",
+    "vote_average": 8.8,
+    "vote_count": 39,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2026-10-09",
+        "episode_count": 10,
+        "id": 452643,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/eOuhRwFUaKpUdpnaN4dY6wlVklL.jpg",
+        "season_number": 1,
+        "vote_average": 8.3,
+        "cast": [
+          {
+            "name": "김영광",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
+          },
+          {
+            "name": "채수빈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg"
+          },
+          {
+            "name": "차우민",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "حبك يشحن قلبي",
+    "title_en": "Take Charge of My Heart",
+    "overview_en": "A corporate heir with an artificial heart meets a woman who s literally electric They strike a deal that makes his heart beat in more ways than one",
+    "cast": [
+      {
+        "name": "김영광",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
+      },
+      {
+        "name": "채수빈",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg"
+      },
+      {
+        "name": "차우민",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
+      }
+    ],
+    "date_added": 1792664976287
   },
   {
     "adult": false,
@@ -8852,7 +8852,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2vBAQc9BKRAePO0NQcSp90KHMpk.jpg"
       }
     ],
-    "date_added": 1792646052413
+    "date_added": 1792664976445
   },
   {
     "adult": false,
@@ -8967,7 +8967,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg"
       }
     ],
-    "date_added": 1792646052547
+    "date_added": 1792664976716
   },
   {
     "adult": false,
@@ -9460,7 +9460,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vO40MBk2zqUko0OV25jBvt4Abli.jpg"
       }
     ],
-    "date_added": 1792646053483
+    "date_added": 1792664977900
   },
   {
     "adult": false,
@@ -9637,7 +9637,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9acPcttWXPT2UwTjlxv5lHVscU3.jpg"
       }
     ],
-    "date_added": 1792646053642
+    "date_added": 1792664978213
   },
   {
     "adult": false,
@@ -9838,7 +9838,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aDNcLCWs7KHToiXxfG7ACwvne3l.jpg"
       }
     ],
-    "date_added": 1792646053837
+    "date_added": 1792664978525
   },
   {
     "adult": false,
@@ -10012,7 +10012,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1792646053986
+    "date_added": 1792664978780
   },
   {
     "adult": false,
@@ -10135,7 +10135,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kI7CWglpYbUzfUMpStH1k06XsJL.jpg"
       }
     ],
-    "date_added": 1792646054074
+    "date_added": 1792664978927
   },
   {
     "adult": false,
@@ -10198,7 +10198,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg"
       }
     ],
-    "date_added": 1792646054142
+    "date_added": 1792664979088
   },
   {
     "adult": false,
@@ -10684,7 +10684,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sXL5kBPzHalc9oxgn8pAPlXx1ze.jpg"
       }
     ],
-    "date_added": 1792646054556
+    "date_added": 1792664979842
   },
   {
     "adult": false,
@@ -10859,7 +10859,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/naGmBR3zAx7u8htEvu4RML6ODi8.jpg"
       }
     ],
-    "date_added": 1792646054691
+    "date_added": 1792664980064
   },
   {
     "adult": false,
@@ -10951,7 +10951,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iMzzz78MnoBpzrVyjMnG6DqkfmZ.jpg"
       }
     ],
-    "date_added": 1792646054816
+    "date_added": 1792664980256
   },
   {
     "adult": false,
@@ -11034,7 +11034,7 @@
     "title_en": "The Delicious Guys",
     "overview_en": "Four comedians who are famous for their love of food visit restaurants all over Korea to try the popular menus",
     "cast": [],
-    "date_added": 1792646055346
+    "date_added": 1792664980706
   },
   {
     "adult": false,
@@ -13413,7 +13413,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jZgDHy9GVkF0mtLC8UNIcF8vxuZ.jpg"
       }
     ],
-    "date_added": 1792646059264
+    "date_added": 1792664986131
   },
   {
     "adult": false,
@@ -13475,7 +13475,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tceyY4cqTxkiar4jFjPnEaZ6QRZ.jpg"
       }
     ],
-    "date_added": 1792646059348
+    "date_added": 1792664986295
   },
   {
     "adult": false,
@@ -13601,7 +13601,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uZytd3dXQdBpOAiJNOl7S1eIn8u.jpg"
       }
     ],
-    "date_added": 1792646059451
+    "date_added": 1792664986587
   },
   {
     "adult": false,
@@ -13704,7 +13704,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gjEHjHqRiYW8VN5EGRGDk6dlN8q.jpg"
       }
     ],
-    "date_added": 1792646059696
+    "date_added": 1792664986985
   },
   {
     "adult": false,
@@ -13922,7 +13922,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/myYb08yxlgMC2H032XfSAGB1BeO.jpg"
       }
     ],
-    "date_added": 1792646060269
+    "date_added": 1792664987303
   },
   {
     "adult": false,
@@ -14004,7 +14004,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
       }
     ],
-    "date_added": 1792646060360
+    "date_added": 1792664987469
   },
   {
     "adult": false,
@@ -14162,7 +14162,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3blQZpmbPuxQ9iMTkV0oaOnrd0s.jpg"
       }
     ],
-    "date_added": 1792646060614
+    "date_added": 1792664987874
   },
   {
     "adult": false,
@@ -14338,7 +14338,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wQjOvAFqCItwMw7dxa486KnGgEE.jpg"
       }
     ],
-    "date_added": 1792646060722
+    "date_added": 1792664988119
   },
   {
     "adult": false,
@@ -14359,8 +14359,8 @@
     "first_air_date": "2026-04-10",
     "softcore": false,
     "name": "التاج المثالي",
-    "vote_average": 8.97,
-    "vote_count": 232,
+    "vote_average": 8.974,
+    "vote_count": 233,
     "media_type": "tv",
     "seasons": [
       {
@@ -14441,7 +14441,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uTZMewSjjx4MxDYAaZrhbl1fAGX.jpg"
       }
     ],
-    "date_added": 1792646061126
+    "date_added": 1792664988274
   },
   {
     "adult": false,
@@ -15033,7 +15033,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oMg7XU6R2zrWIPVY66PuWVTfM7M.jpg"
       }
     ],
-    "date_added": 1792646061620
+    "date_added": 1792664989119
   },
   {
     "adult": false,
@@ -15085,6 +15085,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
       }
     ],
-    "date_added": 1792646061718
+    "date_added": 1792664989273
   }
 ]
