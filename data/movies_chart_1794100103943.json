@@ -64,7 +64,7 @@
       }
     ],
     "release_date": "2026-03-15",
-    "revenue": 684586806,
+    "revenue": 684639091,
     "runtime": 156,
     "softcore": false,
     "spoken_languages": [
@@ -1179,19 +1179,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 75088,
-          "known_for_department": "Directing",
-          "name": "Dan Channing-Williams",
-          "original_name": "Dan Channing-Williams",
-          "popularity": 0.4978,
-          "profile_path": null,
-          "credit_id": "660acb060b5fd6017c36b88d",
-          "department": "Directing",
-          "job": "First Assistant Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1724979,
           "known_for_department": "Production",
           "name": "Will Allegra",
@@ -1214,6 +1201,19 @@
           "credit_id": "660acaf21fd36f016399ba52",
           "department": "Art",
           "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 75088,
+          "known_for_department": "Directing",
+          "name": "Dan Channing-Williams",
+          "original_name": "Dan Channing-Williams",
+          "popularity": 0.4978,
+          "profile_path": null,
+          "credit_id": "660acb060b5fd6017c36b88d",
+          "department": "Directing",
+          "job": "First Assistant Director"
         },
         {
           "adult": false,
@@ -1373,19 +1373,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 1320090,
-          "known_for_department": "Production",
-          "name": "Aditya Sood",
-          "original_name": "Aditya Sood",
-          "popularity": 1.2821,
-          "profile_path": "/kPumbiCdRWWkmLG5yROqd2plfBK.jpg",
-          "credit_id": "5ebf2a2fbc8abc0022c51e97",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
           "gender": 1,
           "id": 1425616,
           "known_for_department": "Production",
@@ -1433,6 +1420,19 @@
           "popularity": 0.6417,
           "profile_path": "/e5QyrLpEBwE6qhPERT9aDvRF66x.jpg",
           "credit_id": "5ebf2a02d2147c0021b026cb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1320090,
+          "known_for_department": "Production",
+          "name": "Aditya Sood",
+          "original_name": "Aditya Sood",
+          "popularity": 1.2821,
+          "profile_path": "/kPumbiCdRWWkmLG5yROqd2plfBK.jpg",
+          "credit_id": "5ebf2a2fbc8abc0022c51e97",
           "department": "Production",
           "job": "Producer"
         },
@@ -8247,7 +8247,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bU4Twfk4as290gPFouByj7Wjd2.jpg"
       }
     ],
-    "date_added": 1794087154673
+    "date_added": 1794100187126
   },
   {
     "adult": false,
@@ -9278,6 +9278,19 @@
             "runtime": 0,
             "tagline": "",
             "title": ""
+          }
+        },
+        {
+          "iso_3166_1": "ZA",
+          "iso_639_1": "af",
+          "name": "Afrikaans",
+          "english_name": "Afrikaans",
+          "data": {
+            "homepage": "",
+            "overview": "Bruce Wayne, oftewel Batman, en luitenant James Gordon span kragte saam met die pas aangestelde distriksprokureur, Harvey Dent. Saam probeer hulle die chaos wat Gotham tans teister, die hoof te bied – chaos wat ontketen is deur niemand anders nie as Batman se ergste vyand, Die Joker.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Die Donker Ridder"
           }
         }
       ]
@@ -13207,7 +13220,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
       }
     ],
-    "date_added": 1794087154720
+    "date_added": 1794100187230
   },
   {
     "adult": false,
@@ -15683,7 +15696,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
       }
     ],
-    "date_added": 1794087154758
+    "date_added": 1794100187238
   },
   {
     "adult": false,
@@ -17314,19 +17327,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1033661,
-          "known_for_department": "Directing",
-          "name": "ترافيس ونايت",
-          "original_name": "Travis Knight",
-          "popularity": 1.7479,
-          "profile_path": "/5JmhiYsF0H1geSwbX5NtByZuJjC.jpg",
-          "credit_id": "6142816d2bcf6700926357f2",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1194157,
           "known_for_department": "Acting",
           "name": "Colin Meloy",
@@ -17340,15 +17340,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 8750,
-          "known_for_department": "Camera",
-          "name": "كالب ديشانيل",
-          "original_name": "Caleb Deschanel",
-          "popularity": 0.9338,
-          "profile_path": "/sY2ZKhy94GRy7CK2xseLtC67QjN.jpg",
-          "credit_id": "63079415b7d352007bc926c2",
-          "department": "Camera",
-          "job": "Director of Photography"
+          "id": 1033661,
+          "known_for_department": "Directing",
+          "name": "ترافيس ونايت",
+          "original_name": "Travis Knight",
+          "popularity": 1.7479,
+          "profile_path": "/5JmhiYsF0H1geSwbX5NtByZuJjC.jpg",
+          "credit_id": "6142816d2bcf6700926357f2",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -17375,6 +17375,19 @@
           "credit_id": "6307945dca7ec6007efc4f82",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8750,
+          "known_for_department": "Camera",
+          "name": "كالب ديشانيل",
+          "original_name": "Caleb Deschanel",
+          "popularity": 0.9338,
+          "profile_path": "/sY2ZKhy94GRy7CK2xseLtC67QjN.jpg",
+          "credit_id": "63079415b7d352007bc926c2",
+          "department": "Camera",
+          "job": "Director of Photography"
         },
         {
           "adult": false,
@@ -18000,7 +18013,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
       }
     ],
-    "date_added": 1794087154772
+    "date_added": 1794100187245
   },
   {
     "adult": false,
@@ -20994,7 +21007,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/xzEjSgLCkrwQ1HZ7OY6CbSNM9wM.jpg"
       }
     ],
-    "date_added": 1794087154785
+    "date_added": 1794100187253
   },
   {
     "adult": false,
@@ -22495,7 +22508,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
       }
     ],
-    "date_added": 1794087154830
+    "date_added": 1794100187355
   },
   {
     "adult": false,
@@ -24340,7 +24353,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg"
       }
     ],
-    "date_added": 1794087154873
+    "date_added": 1794100187363
   },
   {
     "adult": false,
@@ -24348,8 +24361,8 @@
     "belongs_to_collection": {
       "id": 531241,
       "name": "مجموعة الرجل العنكبوت (المنتقمون)",
-      "poster_path": "/yeba3Y820OjApZO9aJevDsNeMEd.jpg",
-      "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+      "poster_path": "/k0tziBEwyqzeH8Gw4o4ZTTMJltw.jpg",
+      "backdrop_path": "/kPzNNNvdcXfQHqa8wf2pHT5rYs5.jpg"
     },
     "budget": 225000000,
     "genres": [
@@ -30382,7 +30395,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
       }
     ],
-    "date_added": 1794087154888
+    "date_added": 1794100187382
   },
   {
     "adult": false,
@@ -33417,7 +33430,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1794087154901
+    "date_added": 1794100187389
   },
   {
     "adult": false,
@@ -37746,7 +37759,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aVLX3sRMZp1qIfqCRHgjjy2NfGI.jpg"
       }
     ],
-    "date_added": 1794087154955
+    "date_added": 1794100187478
   },
   {
     "adult": false,
@@ -41745,7 +41758,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
       }
     ],
-    "date_added": 1794087154969
+    "date_added": 1794100187486
   },
   {
     "adult": false,
@@ -43125,7 +43138,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zogTGGsLvQCxvuwkyOtwtbKAz3o.jpg"
       }
     ],
-    "date_added": 1794087154982
+    "date_added": 1794100187493
   },
   {
     "adult": false,
@@ -44068,7 +44081,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fUxP97lr48yA8nEElT0exoAuOGm.jpg"
       }
     ],
-    "date_added": 1794087154995
+    "date_added": 1794100187501
   },
   {
     "adult": false,
@@ -49315,7 +49328,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
       }
     ],
-    "date_added": 1794087155010
+    "date_added": 1794100187519
   },
   {
     "adult": false,
@@ -52185,7 +52198,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hQvZKknETtr4eTuK5I27f6jdRUY.jpg"
       }
     ],
-    "date_added": 1794087155023
+    "date_added": 1794100187527
   },
   {
     "adult": false,
@@ -53396,7 +53409,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6FkzcacM6wCKovrE7OIvN74KPMZ.jpg"
       }
     ],
-    "date_added": 1794087155064
+    "date_added": 1794100187534
   },
   {
     "adult": false,
@@ -54553,7 +54566,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aokiUcwDJlZcTditvVfkRaSLG98.jpg"
       }
     ],
-    "date_added": 1794087155077
+    "date_added": 1794100187542
   },
   {
     "adult": false,
@@ -55149,7 +55162,7 @@
           "popularity": 4.9248,
           "profile_path": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg",
           "cast_id": 12,
-          "character": "Noriko Oishi",
+          "character": "Noriko Shikishima",
           "credit_id": "69def4cc9bf9f4cfd0f93aba",
           "order": 1
         },
@@ -55289,9 +55302,23 @@
           "popularity": 0.923,
           "profile_path": "/qiIizEalCI14Ztt9uXFVXqxecEO.jpg",
           "cast_id": 20,
-          "character": "Akiko",
+          "character": "Akiko Shikishina",
           "credit_id": "6a1e388008c533b066059b36",
           "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 43667,
+          "known_for_department": "Acting",
+          "name": "飯田基祐",
+          "original_name": "飯田基祐",
+          "popularity": 0.7809,
+          "profile_path": "/iPz9FYCpT1XdUtBCE7qTiOD9dFx.jpg",
+          "cast_id": 56,
+          "character": "Akio Itagaki",
+          "credit_id": "6aef5e5d080a96719637ca3a",
+          "order": 12
         },
         {
           "adult": false,
@@ -55303,9 +55330,9 @@
           "popularity": 0.1442,
           "profile_path": null,
           "cast_id": 25,
-          "character": "Major Harlan Gilbert",
+          "character": "Harlan Gilbert",
           "credit_id": "6a671ab33cffcf2e5cafa0ee",
-          "order": 12
+          "order": 13
         },
         {
           "adult": false,
@@ -55319,7 +55346,7 @@
           "cast_id": 52,
           "character": "Man on Train",
           "credit_id": "6ae993fd1b346155cbff91fa",
-          "order": 13
+          "order": 14
         },
         {
           "adult": false,
@@ -55333,7 +55360,7 @@
           "cast_id": 53,
           "character": "US Soldier",
           "credit_id": "6aed351b70f6d3b6b1a69cf7",
-          "order": 14
+          "order": 15
         },
         {
           "adult": false,
@@ -55347,7 +55374,371 @@
           "cast_id": 54,
           "character": "Soldier",
           "credit_id": "6aed3577f1604083302dea8e",
-          "order": 15
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2090099,
+          "known_for_department": "Acting",
+          "name": "前原滉",
+          "original_name": "前原滉",
+          "popularity": 0.8259,
+          "profile_path": "/fpcOA4a1kJ5lFK8iUaWIEhoenhk.jpg",
+          "cast_id": 57,
+          "character": "Akira Hagiwara",
+          "credit_id": "6aef7c3719a57a212d14f85c",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 79006,
+          "known_for_department": "Acting",
+          "name": "水橋研二",
+          "original_name": "水橋研二",
+          "popularity": 1.1063,
+          "profile_path": "/2ydE4b4j3gFmx7kPPrGOuVyM4DX.jpg",
+          "cast_id": 58,
+          "character": "Kunio Tsuruno",
+          "credit_id": "6aef7cb5d1a42ef32114f7d1",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1168936,
+          "known_for_department": "Acting",
+          "name": "إيتا أوكونو",
+          "original_name": "奥野瑛太",
+          "popularity": 0.9843,
+          "profile_path": "/fgtXphm3vU3MYulHbmTTObJQQON.jpg",
+          "cast_id": 59,
+          "character": "Heikichi Tokiwa",
+          "credit_id": "6aef7d4c080a96719637ce30",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 991978,
+          "known_for_department": "Acting",
+          "name": "Jake O'Connor",
+          "original_name": "Jake O'Connor",
+          "popularity": 0.555,
+          "profile_path": "/1hqeHgDa6QZmXjgfbYs2E03brqn.jpg",
+          "cast_id": 60,
+          "character": "Jenkins",
+          "credit_id": "6aef7dc18593b6d96737cc5d",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 46365,
+          "known_for_department": "Acting",
+          "name": "石垣佑磨",
+          "original_name": "石垣佑磨",
+          "popularity": 0.8455,
+          "profile_path": "/xyTh2U2Cm9mVc4wdcCL2jS85cpp.jpg",
+          "cast_id": 61,
+          "character": "Shoji Tanabe",
+          "credit_id": "6aef7de6a632e4c1ef14f8ee",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1129848,
+          "known_for_department": "Acting",
+          "name": "矢柴俊博",
+          "original_name": "矢柴俊博",
+          "popularity": 0.7497,
+          "profile_path": "/spZDzLdREY66MMUVzGV7GnOWA1j.jpg",
+          "cast_id": 62,
+          "character": "",
+          "credit_id": "6aef7e0c5d60f604f7e74203",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1968939,
+          "known_for_department": "Acting",
+          "name": "谷口翔太",
+          "original_name": "谷口翔太",
+          "popularity": 0.5062,
+          "profile_path": "/2A5yar5CEvd7t9FSLioUazpRdeG.jpg",
+          "cast_id": 63,
+          "character": "",
+          "credit_id": "6aef7e14d3d7513000263d3e",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4344356,
+          "known_for_department": "Acting",
+          "name": "山田将之",
+          "original_name": "山田将之",
+          "popularity": 0.2477,
+          "profile_path": null,
+          "cast_id": 64,
+          "character": "",
+          "credit_id": "6aef7e6b3272bc3853e73e43",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1102680,
+          "known_for_department": "Acting",
+          "name": "佐々木一平",
+          "original_name": "佐々木一平",
+          "popularity": 0.6311,
+          "profile_path": "/9LSoZVDd6xeAaXJbyg8FTBWEfYu.jpg",
+          "cast_id": 65,
+          "character": "",
+          "credit_id": "6aef7e7cbfadbbf1ab14f82e",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689808,
+          "known_for_department": "Acting",
+          "name": "長島慎治",
+          "original_name": "長島慎治",
+          "popularity": 0.171,
+          "profile_path": "/mrqTCabOBwoCa2SAbjy4TSu9ZrN.jpg",
+          "cast_id": 66,
+          "character": "",
+          "credit_id": "6aef7f21d1a42ef32114f83c",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689814,
+          "known_for_department": "Acting",
+          "name": "山本晃大",
+          "original_name": "山本晃大",
+          "popularity": 0.444,
+          "profile_path": "/ciRe2qv6AkbFeMMPIvryDZIoy4r.jpg",
+          "cast_id": 67,
+          "character": "",
+          "credit_id": "6aef7f560ab5eccb1f34f8b7",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4631781,
+          "known_for_department": "Acting",
+          "name": "山田英彦",
+          "original_name": "山田英彦",
+          "popularity": 0.2236,
+          "profile_path": null,
+          "cast_id": 68,
+          "character": "",
+          "credit_id": "6aef7f6a6f1030c1f6e74349",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4294829,
+          "known_for_department": "Acting",
+          "name": "高尾悠希",
+          "original_name": "高尾悠希",
+          "popularity": 0.3031,
+          "profile_path": "/i6WZYK5uHmq0JVGTefgUNzaGjJE.jpg",
+          "cast_id": 69,
+          "character": "",
+          "credit_id": "6aef7fa4fd315182551a2b33",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689800,
+          "known_for_department": "Acting",
+          "name": "松本誠",
+          "original_name": "松本誠",
+          "popularity": 0.1379,
+          "profile_path": null,
+          "cast_id": 70,
+          "character": "",
+          "credit_id": "6aef7facc4507395c234f913",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689818,
+          "known_for_department": "Acting",
+          "name": "伊藤亜斗武",
+          "original_name": "伊藤亜斗武",
+          "popularity": 0.1453,
+          "profile_path": null,
+          "cast_id": 71,
+          "character": "",
+          "credit_id": "6aef7fdb6f1030c1f6e74358",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3213098,
+          "known_for_department": "Acting",
+          "name": "山田ジャンゴ",
+          "original_name": "山田ジャンゴ",
+          "popularity": 0.2217,
+          "profile_path": null,
+          "cast_id": 72,
+          "character": "",
+          "credit_id": "6aef7ffb5087203e43263f4b",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6608905,
+          "known_for_department": "Acting",
+          "name": "Gomesu Horigome",
+          "original_name": "Gomesu Horigome",
+          "popularity": 0,
+          "profile_path": null,
+          "cast_id": 73,
+          "character": "",
+          "credit_id": "6aef801019a57a212d14f8f8",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1311485,
+          "known_for_department": "Acting",
+          "name": "中村織央",
+          "original_name": "中村織央",
+          "popularity": 0.4096,
+          "profile_path": "/pXmHVdMhyP801KhvMofOxz2zN3h.jpg",
+          "cast_id": 74,
+          "character": "",
+          "credit_id": "6aef8045ea22c6a9f21a2ccd",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3043735,
+          "known_for_department": "Acting",
+          "name": "藤田啓介",
+          "original_name": "藤田啓介",
+          "popularity": 0.1687,
+          "profile_path": null,
+          "cast_id": 75,
+          "character": "",
+          "credit_id": "6aef80723272bc3853e73e8b",
+          "order": 35
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689766,
+          "known_for_department": "Acting",
+          "name": "土橋竜太",
+          "original_name": "土橋竜太",
+          "popularity": 0.1985,
+          "profile_path": null,
+          "cast_id": 76,
+          "character": "",
+          "credit_id": "6aef809f60f84842f8e74083",
+          "order": 36
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689783,
+          "known_for_department": "Acting",
+          "name": "杉崎シュンペーター",
+          "original_name": "杉崎シュンペーター",
+          "popularity": 0.1286,
+          "profile_path": null,
+          "cast_id": 77,
+          "character": "",
+          "credit_id": "6aef80d4c0dab02f4414fa90",
+          "order": 37
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689789,
+          "known_for_department": "Acting",
+          "name": "苅田裕介",
+          "original_name": "苅田裕介",
+          "popularity": 0.123,
+          "profile_path": null,
+          "cast_id": 78,
+          "character": "",
+          "credit_id": "6aef80e22ddd3c400b34f9a8",
+          "order": 38
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4515741,
+          "known_for_department": "Acting",
+          "name": "中台あきお",
+          "original_name": "中台あきお",
+          "popularity": 0.2162,
+          "profile_path": null,
+          "cast_id": 79,
+          "character": "",
+          "credit_id": "6aef8114d3d7513000263d84",
+          "order": 39
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3704269,
+          "known_for_department": "Acting",
+          "name": "佐藤五郎",
+          "original_name": "佐藤五郎",
+          "popularity": 0.2641,
+          "profile_path": "/mw8POLI7qXtxVKJAVUC6HJQCX7C.jpg",
+          "cast_id": 80,
+          "character": "",
+          "credit_id": "6aef811ba9d54ef52934f957",
+          "order": 40
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4689319,
+          "known_for_department": "Acting",
+          "name": "鰐渕将市",
+          "original_name": "鰐渕将市",
+          "popularity": 0.1641,
+          "profile_path": null,
+          "cast_id": 81,
+          "character": "",
+          "credit_id": "6aef81e4fa34c9608637ce09",
+          "order": 41
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2044227,
+          "known_for_department": "Acting",
+          "name": "福田航也",
+          "original_name": "福田航也",
+          "popularity": 0.2592,
+          "profile_path": "/A7bElkydBLIDTReM0LnVrxV3wJN.jpg",
+          "cast_id": 82,
+          "character": "",
+          "credit_id": "6aef81f019a57a212d14f93f",
+          "order": 42
         }
       ],
       "crew": [
@@ -55767,7 +56158,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
       }
     ],
-    "date_added": 1794087155090
+    "date_added": 1794100187549
   },
   {
     "adult": false,
@@ -58493,7 +58884,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
       }
     ],
-    "date_added": 1794087155104
+    "date_added": 1794100187557
   },
   {
     "adult": false,
@@ -60832,7 +61223,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/veMvq4qfmVriQpk7SicCk6tEIKa.jpg"
       }
     ],
-    "date_added": 1794087155117
+    "date_added": 1794100187642
   },
   {
     "adult": false,
@@ -60922,7 +61313,7 @@
     "tagline": "",
     "title": "La bola negra",
     "video": false,
-    "vote_average": 8.1,
+    "vote_average": 8.093,
     "vote_count": 188,
     "translations": {
       "translations": [
@@ -62910,7 +63301,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oveoXN7fZFIeL5G1fJ7Dk5SJeNc.jpg"
       }
     ],
-    "date_added": 1794087155173
+    "date_added": 1794100187747
   },
   {
     "adult": false,
@@ -62997,8 +63388,8 @@
     "tagline": "",
     "title": "رامايانا",
     "video": false,
-    "vote_average": 7.778,
-    "vote_count": 18,
+    "vote_average": 7.842,
+    "vote_count": 19,
     "translations": {
       "translations": [
         {
@@ -63009,7 +63400,7 @@
           "data": {
             "homepage": "http://ramayanariseofalegend.com",
             "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-            "runtime": 208,
+            "runtime": 197,
             "tagline": "Our truth. Our history",
             "title": "Ramayana: Rise of a Legend"
           }
@@ -65591,7 +65982,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fbN5eUSX9UjizTfotFh8Ka6NyqV.jpg"
       }
     ],
-    "date_added": 1794087155186
+    "date_added": 1794100187756
   },
   {
     "adult": false,
@@ -65683,7 +66074,7 @@
     "tagline": "",
     "title": "Beware Boiúna",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6.238,
     "vote_count": 42,
     "translations": {
       "translations": [
@@ -66938,7 +67329,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1794087155200
+    "date_added": 1794100187763
   },
   {
     "adult": false,
@@ -67004,8 +67395,8 @@
     "tagline": "",
     "title": "بينوكيو بلا خيط",
     "video": false,
-    "vote_average": 6.4,
-    "vote_count": 161,
+    "vote_average": 6.401,
+    "vote_count": 162,
     "translations": {
       "translations": [
         {
@@ -67171,9 +67562,9 @@
           "english_name": "Korean",
           "data": {
             "homepage": "",
-            "overview": "“진짜가 되고 싶었던 인형의 소원은, 곧 악몽이 된다” 소중한 친구를 잃고 깊은 슬픔에 잠긴 소년 제임스. 손자의 아픔을 지켜보던 할아버지 제페토는 그를 위해 손수 깎아 만든 특별한 나무 인형 피노키오를 선물한다. 신비롭게 살아 움직이는 피노키오는 제임스와 둘도 없는 단짝이 되고, 두 소년 사이에는 순수한 우정이 피어난다. 그러나 세상 물정을 모르는 순진한 피노키오가 바깥세상에 발을 들이는 순간, 모든 것이 어긋나기 시작한다. 사악한 목소리에 이끌린 피노키오는 제임스 곁의 ‘나쁜’ 존재들을 모조리 없애겠다는 뒤틀린 사명에 사로잡힌다. 진짜 사람이 되고 싶다는 간절한 소망마저 끔찍한 광기로 물들어 가고, 나무 인형의 손끝에서 피비린내 나는 살육의 밤이 열린다. 누구나 알고 있던 동화가 잔혹한 슬래셔로 다시 태어난다. 거짓말을 할 때마다 자라나던 코 대신, 이제 피노키오는 훨씬 더 무시무시한 방식으로 진짜가 되려 한다.",
+            "overview": "소중한 친구를 잃고 깊은 슬픔에 잠긴 소년 제임스. 손자의 아픔을 지켜보던 할아버지 제페토는 그를 위해 손수 깎아 만든 특별한 나무 인형 피노키오를 선물한다. 신비롭게 살아 움직이는 피노키오는 제임스와 둘도 없는 단짝이 되고, 두 소년 사이에는 순수한 우정이 피어난다. 그러나 세상 물정을 모르는 순진한 피노키오가 바깥세상에 발을 들이는 순간, 모든 것이 어긋나기 시작한다. 사악한 목소리에 이끌린 피노키오는 제임스 곁의 ‘나쁜’ 존재들을 모조리 없애겠다는 뒤틀린 사명에 사로잡힌다. 진짜 사람이 되고 싶다는 간절한 소망마저 끔찍한 광기로 물들어 가고, 나무 인형의 손끝에서 피비린내 나는 살육의 밤이 열린다. 누구나 알고 있던 동화가 잔혹한 슬래셔로 다시 태어난다. 거짓말을 할 때마다 자라나던 코 대신, 이제 피노키오는 훨씬 더 무시무시한 방식으로 진짜가 되려 한다.",
             "runtime": 0,
-            "tagline": "",
+            "tagline": "진짜가 되고 싶었던 인형의 소원은, 곧 악몽이 된다",
             "title": "피노키오: 언스트렁"
           }
         },
@@ -68700,7 +69091,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1794087155214
+    "date_added": 1794100187780
   },
   {
     "adult": false,
@@ -68775,8 +69166,8 @@
     "tagline": "",
     "title": "وقت الذروة",
     "video": false,
-    "vote_average": 6.799,
-    "vote_count": 348,
+    "vote_average": 6.8,
+    "vote_count": 351,
     "translations": {
       "translations": [
         {
@@ -73305,7 +73696,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/z3GdHd9fJni93zvqpIyLJvKKH99.jpg"
       }
     ],
-    "date_added": 1794087155227
+    "date_added": 1794100187920
   },
   {
     "adult": false,
@@ -74103,7 +74494,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/x1p0hxdmGNG2XIjUpBB5ws8De3A.jpg"
       }
     ],
-    "date_added": 1794087155270
+    "date_added": 1794100188001
   },
   {
     "adult": false,
@@ -75921,7 +76312,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg"
       }
     ],
-    "date_added": 1794087155286
+    "date_added": 1794100188021
   },
   {
     "adult": false,
@@ -76013,8 +76404,8 @@
     "tagline": "",
     "title": "Insidious Out of the Further",
     "video": false,
-    "vote_average": 7.708,
-    "vote_count": 1024,
+    "vote_average": 7.704,
+    "vote_count": 1027,
     "translations": {
       "translations": [
         {
@@ -78605,7 +78996,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/meXi83rata9p6LqRiRhqI8MPLvj.jpg"
       }
     ],
-    "date_added": 1794087155336
+    "date_added": 1794100188132
   },
   {
     "adult": false,
@@ -79175,7 +79566,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lKollsJc72yC9M5Oe1bCS8H77UF.jpg"
       }
     ],
-    "date_added": 1794087155349
+    "date_added": 1794100188140
   },
   {
     "adult": false,
@@ -79246,7 +79637,7 @@
       }
     ],
     "release_date": "2026-10-19",
-    "revenue": 91766064,
+    "revenue": 98357567,
     "runtime": 109,
     "softcore": false,
     "spoken_languages": [
@@ -79260,8 +79651,8 @@
     "tagline": "انظر إلى الخوف في وجهه.",
     "title": "كلايفيس",
     "video": false,
-    "vote_average": 7.4,
-    "vote_count": 400,
+    "vote_average": 7.431,
+    "vote_count": 403,
     "translations": {
       "translations": [
         {
@@ -81059,6 +81450,214 @@
           "credit_id": "6ae81bc753139f832ba6e384",
           "department": "Costume & Make-Up",
           "job": "Special Effects Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1992668,
+          "known_for_department": "Crew",
+          "name": "Justin Pearson",
+          "original_name": "Justin Pearson",
+          "popularity": 0.2043,
+          "profile_path": null,
+          "credit_id": "6aef6d24e98888da4f14f56b",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1988193,
+          "known_for_department": "Crew",
+          "name": "Nathan Aldous",
+          "original_name": "Nathan Aldous",
+          "popularity": 0.248,
+          "profile_path": "/2b6sSnV7L7KFRNZ5ZV4oFCE33wd.jpg",
+          "credit_id": "6aef6d2d13a2113da734f7ac",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4262442,
+          "known_for_department": "Acting",
+          "name": "Aaron-Jon North",
+          "original_name": "Aaron-Jon North",
+          "popularity": 0.2543,
+          "profile_path": "/huMrIlsRRJ0shxxs99xGuUlFOJ5.jpg",
+          "credit_id": "6aef6d40d3d7513000263b2b",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5617324,
+          "known_for_department": "Crew",
+          "name": "Dale White",
+          "original_name": "Dale White",
+          "popularity": 0.0968,
+          "profile_path": null,
+          "credit_id": "6aef6d48bfadbbf1ab14f603",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123503,
+          "known_for_department": "Crew",
+          "name": "Ray Nicholas",
+          "original_name": "Ray Nicholas",
+          "popularity": 0.4704,
+          "profile_path": "/4HRqgCn3jD6neCkya7jE2pMHhha.jpg",
+          "credit_id": "6aef6d5b69165f45dbe742ee",
+          "department": "Crew",
+          "job": "Fight Choreographer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25451,
+          "known_for_department": "Acting",
+          "name": "Spencer Wilding",
+          "original_name": "Spencer Wilding",
+          "popularity": 0.6382,
+          "profile_path": "/4NMcve4Nckpi653znyYOnoS4Mci.jpg",
+          "credit_id": "6aef6d6919a57a212d14f6a1",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3539065,
+          "known_for_department": "Crew",
+          "name": "Jon Slayer",
+          "original_name": "Jon Slayer",
+          "popularity": 0.1347,
+          "profile_path": null,
+          "credit_id": "6aef6d6efd315182551a2916",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1359416,
+          "known_for_department": "Crew",
+          "name": "Laura Swift",
+          "original_name": "Laura Swift",
+          "popularity": 0.4092,
+          "profile_path": "/eMYeKkEYIQ2MCdw4puoHWo65xnn.jpg",
+          "credit_id": "6aef6d772d9295bd2e263b35",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58920,
+          "known_for_department": "Crew",
+          "name": "Jamie Edgell",
+          "original_name": "Jamie Edgell",
+          "popularity": 0.2821,
+          "profile_path": null,
+          "credit_id": "6aef6d83e43986c88d37cb38",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1486976,
+          "known_for_department": "Crew",
+          "name": "Christina Low",
+          "original_name": "Christina Low",
+          "popularity": 0.2259,
+          "profile_path": null,
+          "credit_id": "6aef6d88e164836a6d37caa4",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3352762,
+          "known_for_department": "Crew",
+          "name": "Nikita Mitchell",
+          "original_name": "Nikita Mitchell",
+          "popularity": 0.2123,
+          "profile_path": "/iiEJr0ajXtex55ABkmTAlW1lx2K.jpg",
+          "credit_id": "6aef6d926f1030c1f6e74068",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2801965,
+          "known_for_department": "Crew",
+          "name": "Miguel Ángel Luque",
+          "original_name": "Miguel Ángel Luque",
+          "popularity": 0.1206,
+          "profile_path": null,
+          "credit_id": "6aef6d96e164836a6d37caaa",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2151840,
+          "known_for_department": "Crew",
+          "name": "Matt Da Silva",
+          "original_name": "Matt Da Silva",
+          "popularity": 0.3665,
+          "profile_path": null,
+          "credit_id": "6aef6da0e98888da4f14f580",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4503687,
+          "known_for_department": "Crew",
+          "name": "Noelia Gil Cristobal",
+          "original_name": "Noelia Gil Cristobal",
+          "popularity": 0.3056,
+          "profile_path": "/mdiOH8pm50DpIgvAEtABj5ku7bs.jpg",
+          "credit_id": "6aef6da5c0dab02f4414f7c2",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2789454,
+          "known_for_department": "Crew",
+          "name": "Mike Snow",
+          "original_name": "Mike Snow",
+          "popularity": 0.1837,
+          "profile_path": "/cvInpzuBhQ33X6lvZbEQgG43LYu.jpg",
+          "credit_id": "6aef6db65087203e43263cd6",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2292187,
+          "known_for_department": "Crew",
+          "name": "Matt Sherren",
+          "original_name": "Matt Sherren",
+          "popularity": 0.2582,
+          "profile_path": null,
+          "credit_id": "6aef6dbaa9d54ef52934f752",
+          "department": "Crew",
+          "job": "Stunts"
         }
       ]
     },
@@ -81112,11 +81711,11 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
       }
     ],
-    "date_added": 1794087155362
+    "date_added": 1794100188147
   },
   {
     "adult": false,
-    "backdrop_path": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+    "backdrop_path": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
     "belongs_to_collection": {
       "id": 86311,
       "name": "مجموعة المنتقمون",
@@ -82757,7 +83356,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/a8a9U00KL2JJkkekzhNnueIGKKF.jpg"
       }
     ],
-    "date_added": 1794087155387
+    "date_added": 1794100188156
   },
   {
     "adult": false,
@@ -82814,7 +83413,7 @@
     "tagline": "",
     "title": "أروع عيد ميلاد مجيد يقضيه جرو",
     "video": false,
-    "vote_average": 8.31,
+    "vote_average": 8.3,
     "vote_count": 21,
     "translations": {
       "translations": [
@@ -85648,7 +86247,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zuZC4J2bZQ4b89eRjI7b70hhfWi.jpg"
       }
     ],
-    "date_added": 1794087155400
+    "date_added": 1794100188163
   },
   {
     "adult": false,
@@ -85728,7 +86327,7 @@
     "title": "هوس",
     "video": false,
     "vote_average": 8.171,
-    "vote_count": 6532,
+    "vote_count": 6534,
     "translations": {
       "translations": [
         {
@@ -87249,9 +87848,9 @@
           "original_name": "Curry Barker",
           "popularity": 4.4901,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3ce46f680bc91897d416",
-          "department": "Writing",
-          "job": "Writer"
+          "credit_id": "66ce3c9dd8f4fa10a363a57c",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -87262,9 +87861,9 @@
           "original_name": "Curry Barker",
           "popularity": 4.4901,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3c9dd8f4fa10a363a57c",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "66ce3ce46f680bc91897d416",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -88565,7 +89164,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1794087155413
+    "date_added": 1794100188171
   },
   {
     "adult": false,
@@ -88632,8 +89231,8 @@
     "tagline": "في نهاية العالم، لا أحد ينجو بمفرده.",
     "title": "نجوم الكلاب",
     "video": false,
-    "vote_average": 7.212,
-    "vote_count": 907,
+    "vote_average": 7.197,
+    "vote_count": 914,
     "translations": {
       "translations": [
         {
@@ -92056,7 +92655,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5xQOHz3uUy20zsUMABaIsAXKFcI.jpg"
       }
     ],
-    "date_added": 1794087155427
+    "date_added": 1794100188259
   },
   {
     "adult": false,
@@ -92124,7 +92723,7 @@
     "title": "كابوس ما قبل عيد الميلاد",
     "video": false,
     "vote_average": 7.86,
-    "vote_count": 10908,
+    "vote_count": 10909,
     "translations": {
       "translations": [
         {
@@ -94847,7 +95446,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1794087155441
+    "date_added": 1794100188268
   },
   {
     "adult": false,
@@ -94928,8 +95527,8 @@
     "tagline": "",
     "title": "Crawlers",
     "video": false,
-    "vote_average": 6.123,
-    "vote_count": 53,
+    "vote_average": 6.102,
+    "vote_count": 54,
     "translations": {
       "translations": [
         {
@@ -95747,7 +96346,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
       }
     ],
-    "date_added": 1794087155455
+    "date_added": 1794100188282
   },
   {
     "adult": false,
@@ -95814,8 +96413,8 @@
     "tagline": "أنقذ العالم، واجمع أصدقاءك.",
     "title": "Matchbox the Movie",
     "video": false,
-    "vote_average": 7.602,
-    "vote_count": 598,
+    "vote_average": 7.596,
+    "vote_count": 600,
     "translations": {
       "translations": [
         {
@@ -100661,7 +101260,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
       }
     ],
-    "date_added": 1794087155468
+    "date_added": 1794100188291
   },
   {
     "adult": false,
@@ -100730,8 +101329,8 @@
     "tagline": "",
     "title": "حرب العوالم",
     "video": false,
-    "vote_average": 4.039,
-    "vote_count": 1191,
+    "vote_average": 4.036,
+    "vote_count": 1192,
     "translations": {
       "translations": [
         {
@@ -101494,15 +102093,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 1634181,
-          "known_for_department": "Directing",
-          "name": "Rich Lee",
-          "original_name": "Rich Lee",
-          "popularity": 0.2854,
-          "profile_path": "/r7WIjhtHWcnRJO3nlao6jwsrWG6.jpg",
-          "credit_id": "5f904f83383df20036ad4276",
-          "department": "Directing",
-          "job": "Director"
+          "id": 964093,
+          "known_for_department": "Production",
+          "name": "Patrick Aiello",
+          "original_name": "Patrick Aiello",
+          "popularity": 0.1681,
+          "profile_path": null,
+          "credit_id": "5f904fa34581990033a5bd0f",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -101520,15 +102119,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 964093,
-          "known_for_department": "Production",
-          "name": "Patrick Aiello",
-          "original_name": "Patrick Aiello",
-          "popularity": 0.1681,
-          "profile_path": null,
-          "credit_id": "5f904fa34581990033a5bd0f",
-          "department": "Production",
-          "job": "Producer"
+          "id": 1634181,
+          "known_for_department": "Directing",
+          "name": "Rich Lee",
+          "original_name": "Rich Lee",
+          "popularity": 0.2854,
+          "profile_path": "/r7WIjhtHWcnRJO3nlao6jwsrWG6.jpg",
+          "credit_id": "5f904f83383df20036ad4276",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -102764,7 +103363,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/XcJAw0P7bPE9ET52P4fZ2hdokk.jpg"
       }
     ],
-    "date_added": 1794087155522
+    "date_added": 1794100188375
   },
   {
     "adult": false,
@@ -102839,8 +103438,8 @@
     "tagline": "",
     "title": "ネバーアフターダーク",
     "video": false,
-    "vote_average": 7,
-    "vote_count": 28,
+    "vote_average": 7.1,
+    "vote_count": 30,
     "translations": {
       "translations": [
         {
@@ -103049,6 +103648,32 @@
             "runtime": 105,
             "tagline": "När de levande är farligare än de döda.",
             "title": "Never After Dark"
+          }
+        },
+        {
+          "iso_3166_1": "IL",
+          "iso_639_1": "he",
+          "name": "עִבְרִית",
+          "english_name": "Hebrew",
+          "data": {
+            "homepage": "",
+            "overview": "העלילה עוקבת אחר איירי (מואקה הושי), מדיום רוחנית נודדת שמטיילת בכפרי יפן ומסייעת לרוחות רפאים לנוע הלאה, כשהיא מלווה ברוח רפאים של אחותה המנוחה מיקו (קורומי אינאגאקי). היא נקראת על ידי בעלת בית בשם טאיקו (טאה קימורה) לביצוע גירוש שדים בבית אחוזות מבודד ביער. במהלך הטקס היא נתקלת בישות מעוותת ומאיימת בעלת כוחות שחורגים מכל מה שהכירה, ומגלה סוד אפל ומעוות בזמן שקשור לעבר של המקום – ומתחילה להבין שהאיום המסוכן ביותר מגיע דווקא מהאנשים החיים.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "מעבר לחשיכה"
+          }
+        },
+        {
+          "iso_3166_1": "UA",
+          "iso_639_1": "uk",
+          "name": "Український",
+          "english_name": "Ukrainian",
+          "data": {
+            "homepage": "",
+            "overview": "Мандрівна ясновидиця, яка допомагає заблукалим душам перейти в інший світ, стикається з могутньою сутністю в усамітненому будинку. Розслідуючи її походження, вона розкриває похмурі таємниці й стикається зі смертельною загрозою з несподіваного боку.",
+            "runtime": 0,
+            "tagline": "",
+            "title": "Демонолог"
           }
         }
       ]
@@ -103519,7 +104144,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vgNIMaP8XiPEFqGb8p2fIXAZno1.jpg"
       }
     ],
-    "date_added": 1794087155536
+    "date_added": 1794100188470
   },
   {
     "adult": false,
@@ -103602,8 +104227,8 @@
     "tagline": "",
     "title": "كايوتي ضد أكمي",
     "video": false,
-    "vote_average": 8.218,
-    "vote_count": 1384,
+    "vote_average": 8.22,
+    "vote_count": 1387,
     "translations": {
       "translations": [
         {
@@ -106008,7 +106633,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/A2rAUU5PDj1AdMSWQ65SuVoTGS3.jpg"
       }
     ],
-    "date_added": 1794087155549
+    "date_added": 1794100188478
   },
   {
     "adult": false,
@@ -107112,7 +107737,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/czHifXFFsCoJp8VPcXc22EJjblx.jpg"
       }
     ],
-    "date_added": 1794087155634
+    "date_added": 1794100188565
   },
   {
     "adult": false,
@@ -107179,8 +107804,8 @@
     "tagline": "هناك دماء في الماء.",
     "title": "تمرد",
     "video": false,
-    "vote_average": 7.636,
-    "vote_count": 1040,
+    "vote_average": 7.638,
+    "vote_count": 1041,
     "translations": {
       "translations": [
         {
@@ -108806,7 +109431,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1794087155680
+    "date_added": 1794100188651
   },
   {
     "adult": false,
@@ -108881,7 +109506,7 @@
     "tagline": "مرحبًا! هيا بنا نلعب!",
     "title": "حكاية لعبة ٥",
     "video": false,
-    "vote_average": 8.276,
+    "vote_average": 8.3,
     "vote_count": 2822,
     "translations": {
       "translations": [
@@ -111397,7 +112022,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4TvVJYo8gEks8cegfNoZogXJgp2.jpg"
       }
     ],
-    "date_added": 1794087155693
+    "date_added": 1794100188659
   },
   {
     "adult": false,
@@ -115876,7 +116501,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
       }
     ],
-    "date_added": 1794087155707
+    "date_added": 1794100188670
   },
   {
     "adult": false,
@@ -115973,7 +116598,7 @@
     "title": "السحر العملي 2",
     "video": false,
     "vote_average": 7.213,
-    "vote_count": 375,
+    "vote_count": 376,
     "translations": {
       "translations": [
         {
@@ -117568,7 +118193,7 @@
           "name": "Noelia Gil Cristobal",
           "original_name": "Noelia Gil Cristobal",
           "popularity": 0.3056,
-          "profile_path": null,
+          "profile_path": "/mdiOH8pm50DpIgvAEtABj5ku7bs.jpg",
           "credit_id": "6acd072eb677e49a581c8429",
           "department": "Crew",
           "job": "Stunts"
@@ -119679,7 +120304,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
       }
     ],
-    "date_added": 1794087155752
+    "date_added": 1794100188811
   },
   {
     "adult": false,
@@ -119744,8 +120369,8 @@
     "tagline": "",
     "title": "يمكنك رؤية كل شيء",
     "video": false,
-    "vote_average": 8.9,
-    "vote_count": 93,
+    "vote_average": 8.884,
+    "vote_count": 95,
     "translations": {
       "translations": [
         {
@@ -120257,7 +120882,7 @@
           "name": "أماندا سيفريد",
           "original_name": "Amanda Seyfried",
           "popularity": 6.972,
-          "profile_path": "/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg",
+          "profile_path": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg",
           "cast_id": 22,
           "character": "Self / Elizabeth Holmes",
           "credit_id": "6a9f0f82ee9c3cdf1399755e",
@@ -120727,7 +121352,7 @@
       {
         "name": "أماندا سيفريد",
         "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
+        "photo_url": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       {
         "name": "كريستوفر آبوت",
@@ -120750,7 +121375,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1794087155798
+    "date_added": 1794100188829
   },
   {
     "adult": false,
@@ -120809,8 +121434,8 @@
     "tagline": "",
     "title": "Other Mommy",
     "video": false,
-    "vote_average": 5.8,
-    "vote_count": 194,
+    "vote_average": 5.783,
+    "vote_count": 196,
     "translations": {
       "translations": [
         {
@@ -124387,7 +125012,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jE3zEMEYflS3adHtF11YqLAwlVI.jpg"
       }
     ],
-    "date_added": 1794087155845
+    "date_added": 1794100188922
   },
   {
     "adult": false,
@@ -124755,7 +125380,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gmWgyf4nhRYopLvcnThpcqVetPG.jpg"
       }
     ],
-    "date_added": 1794087155892
+    "date_added": 1794100189010
   },
   {
     "adult": false,
@@ -124823,8 +125448,8 @@
     "tagline": "",
     "title": "مقاتل الشوارع",
     "video": false,
-    "vote_average": 6.3,
-    "vote_count": 220,
+    "vote_average": 6.327,
+    "vote_count": 222,
     "translations": {
       "translations": [
         {
@@ -127277,7 +127902,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
       }
     ],
-    "date_added": 1794087155939
+    "date_added": 1794100189094
   },
   {
     "adult": false,
@@ -127399,8 +128024,8 @@
     "tagline": "",
     "title": "العداء",
     "video": false,
-    "vote_average": 8.268,
-    "vote_count": 801,
+    "vote_average": 8.263,
+    "vote_count": 802,
     "translations": {
       "translations": [
         {
@@ -128823,7 +129448,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cMzkT78ZH4qluKg2VumKkF3eTia.jpg"
       }
     ],
-    "date_added": 1794087155984
+    "date_added": 1794100189173
   },
   {
     "adult": false,
@@ -128897,8 +129522,8 @@
     "tagline": "",
     "title": "علي جي من أنا",
     "video": false,
-    "vote_average": 5.724,
-    "vote_count": 156,
+    "vote_average": 5.731,
+    "vote_count": 160,
     "translations": {
       "translations": [
         {
@@ -128934,10 +129559,10 @@
           "english_name": "Lithuanian",
           "data": {
             "homepage": "",
-            "overview": "",
+            "overview": "Po dvidešimties metų, praleistų „ramiai leidžiant laiką, rūkant žolę ir mylintis“, Ali G su šoku sužino, kad jo ilgametė mergina Džulė jau aštuntą mėnesį nėščia. Supratęs, kad šeimoje atsiras dar vienas išlaikytinis, jis pagaliau pakelia užpakalį nuo sofos ir iškeliauja į Ameriką susigrąžinti buvusios šlovės… Tačiau netrukus jis susiduria su priešininkais, kurie galiausiai gali sukelti grėsmę jo ir jo vaiko gyvybei.",
             "runtime": 0,
             "tagline": "",
-            "title": ""
+            "title": "Ali G: Kas aš toks?"
           }
         },
         {
@@ -128950,7 +129575,7 @@
             "overview": "Nach zwanzig Jahren „chillen, kiffen und bumsen“ muss Ali G schockiert feststellen, dass seine langjährige Freundin Julie im achten Monat schwanger ist. Da es nun ein zusätzliches Maul zu stopfen gilt, schwingt er seinen Allerwertesten vom Sofa und macht sich auf den Weg nach Amerika, um an seinen früheren Ruhm anzuknüpfen. Dort stößt er jedoch bald auf Gegner, die sein Leben und das seines Kindes bedrohen.",
             "runtime": 89,
             "tagline": "",
-            "title": "Ali G - Who Iz I?"
+            "title": ""
           }
         },
         {
@@ -130288,7 +130913,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7k1zF7LAn4QgG5HdVBrLmscLMif.jpg"
       }
     ],
-    "date_added": 1794087155997
+    "date_added": 1794100189181
   },
   {
     "adult": false,
@@ -130368,8 +130993,8 @@
     "tagline": "",
     "title": "Your Mother Your Mother Your Mother",
     "video": false,
-    "vote_average": 7,
-    "vote_count": 32,
+    "vote_average": 6.875,
+    "vote_count": 36,
     "translations": {
       "translations": [
         {
@@ -132754,7 +133379,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
       }
     ],
-    "date_added": 1794087156039
+    "date_added": 1794100189266
   },
   {
     "adult": false,
@@ -132833,8 +133458,8 @@
     "tagline": "",
     "title": "العقل والعاطفة",
     "video": false,
-    "vote_average": 7.2,
-    "vote_count": 148,
+    "vote_average": 7.3,
+    "vote_count": 150,
     "translations": {
       "translations": [
         {
@@ -135202,7 +135827,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
       }
     ],
-    "date_added": 1794087156082
+    "date_added": 1794100189348
   },
   {
     "adult": false,
@@ -135276,7 +135901,7 @@
     "title": "يوم الإفصاح",
     "video": false,
     "vote_average": 7.426,
-    "vote_count": 3960,
+    "vote_count": 3964,
     "translations": {
       "translations": [
         {
@@ -139836,7 +140461,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
       }
     ],
-    "date_added": 1794087156133
+    "date_added": 1794100189510
   },
   {
     "adult": false,
@@ -139919,8 +140544,8 @@
     "tagline": "‏اختارها المحيط لسبب.‏",
     "title": "فلم موانا",
     "video": false,
-    "vote_average": 7.456,
-    "vote_count": 1021,
+    "vote_average": 7.454,
+    "vote_count": 1022,
     "translations": {
       "translations": [
         {
@@ -143454,7 +144079,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fDqCryVbJGSb6CPLCIxmfbN8wsV.jpg"
       }
     ],
-    "date_added": 1794087156147
+    "date_added": 1794100189541
   },
   {
     "adult": false,
@@ -143965,7 +144590,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hWox4CZP5RiMsuWRLXxVEXgmdx3.jpg"
       }
     ],
-    "date_added": 1794087156191
+    "date_added": 1794100189627
   },
   {
     "adult": false,
@@ -144047,8 +144672,8 @@
     "tagline": "",
     "title": "غريزة حيوانية",
     "video": false,
-    "vote_average": 6.927,
-    "vote_count": 710,
+    "vote_average": 6.921,
+    "vote_count": 715,
     "translations": {
       "translations": [
         {
@@ -145213,26 +145838,13 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 880,
-          "known_for_department": "Acting",
-          "name": "بن أفليك",
-          "original_name": "Ben Affleck",
-          "popularity": 6.5904,
-          "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
-          "credit_id": "65b2a656e267de0163086add",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1892,
-          "known_for_department": "Acting",
-          "name": "مات ديمون",
-          "original_name": "Matt Damon",
-          "popularity": 6.9227,
-          "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
-          "credit_id": "65b2a669b7b69d0146f41501",
+          "id": 15756,
+          "known_for_department": "Production",
+          "name": "Brad Weston",
+          "original_name": "Brad Weston",
+          "popularity": 0.2547,
+          "profile_path": null,
+          "credit_id": "65b2a695a1a9ba01633f85d8",
           "department": "Production",
           "job": "Producer"
         },
@@ -145252,13 +145864,26 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 15756,
-          "known_for_department": "Production",
-          "name": "Brad Weston",
-          "original_name": "Brad Weston",
-          "popularity": 0.2547,
-          "profile_path": null,
-          "credit_id": "65b2a695a1a9ba01633f85d8",
+          "id": 21807,
+          "known_for_department": "Writing",
+          "name": "Billy Ray",
+          "original_name": "Billy Ray",
+          "popularity": 1.892,
+          "profile_path": "/AuDx9rBNUqRosFqePSHjVkVZNzK.jpg",
+          "credit_id": "65b2a9471c6329018493ec5d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 880,
+          "known_for_department": "Acting",
+          "name": "بن أفليك",
+          "original_name": "Ben Affleck",
+          "popularity": 6.5904,
+          "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+          "credit_id": "65b2a656e267de0163086add",
           "department": "Production",
           "job": "Producer"
         },
@@ -145278,15 +145903,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 21807,
-          "known_for_department": "Writing",
-          "name": "Billy Ray",
-          "original_name": "Billy Ray",
-          "popularity": 1.892,
-          "profile_path": "/AuDx9rBNUqRosFqePSHjVkVZNzK.jpg",
-          "credit_id": "65b2a9471c6329018493ec5d",
-          "department": "Writing",
-          "job": "Writer"
+          "id": 95849,
+          "known_for_department": "Production",
+          "name": "Kevin Halloran",
+          "original_name": "Kevin Halloran",
+          "popularity": 0.4062,
+          "profile_path": null,
+          "credit_id": "65b2a992fd140b0185a148f8",
+          "department": "Production",
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -145304,15 +145929,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 95849,
-          "known_for_department": "Production",
-          "name": "Kevin Halloran",
-          "original_name": "Kevin Halloran",
-          "popularity": 0.4062,
-          "profile_path": null,
-          "credit_id": "65b2a992fd140b0185a148f8",
+          "id": 1892,
+          "known_for_department": "Acting",
+          "name": "مات ديمون",
+          "original_name": "Matt Damon",
+          "popularity": 6.9227,
+          "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+          "credit_id": "65b2a669b7b69d0146f41501",
           "department": "Production",
-          "job": "Executive Producer"
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -146356,7 +146981,7 @@
         },
         {
           "adult": false,
-          "gender": 0,
+          "gender": 2,
           "id": 2080041,
           "known_for_department": "Camera",
           "name": "Daniel Satinoff",
@@ -148188,7 +148813,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/l7WNpp1IoMCZC1QyxY5ifpMEjBW.jpg"
       }
     ],
-    "date_added": 1794087156242
+    "date_added": 1794100189704
   },
   {
     "adult": false,
@@ -148271,8 +148896,8 @@
     "tagline": "",
     "title": "الخطة الرئيسية",
     "video": false,
-    "vote_average": 6.8,
-    "vote_count": 233,
+    "vote_average": 6.803,
+    "vote_count": 236,
     "translations": {
       "translations": [
         {
@@ -150655,7 +151280,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pvmoRAjGVcoOgR6h6wg1ZhyvWxO.jpg"
       }
     ],
-    "date_added": 1794087156290
+    "date_added": 1794100189788
   },
   {
     "adult": false,
@@ -150752,8 +151377,8 @@
     "tagline": "",
     "title": "القط ذو القبعة",
     "video": false,
-    "vote_average": 7,
-    "vote_count": 13,
+    "vote_average": 7.2,
+    "vote_count": 14,
     "translations": {
       "translations": [
         {
@@ -152346,7 +152971,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aQZsAcaac2zzLBMhb15O2mrSrpx.jpg"
       }
     ],
-    "date_added": 1794087156304
+    "date_added": 1794100189805
   },
   {
     "adult": false,
@@ -152434,8 +153059,8 @@
     "tagline": "",
     "title": "Wild Horse Nine",
     "video": false,
-    "vote_average": 8.333,
-    "vote_count": 51,
+    "vote_average": 8.254,
+    "vote_count": 61,
     "translations": {
       "translations": [
         {
@@ -153829,6 +154454,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7ljKqWLdp95ys1VL9i2eubUiDwP.jpg"
       }
     ],
-    "date_added": 1794087156327
+    "date_added": 1794100189885
   }
 ]
