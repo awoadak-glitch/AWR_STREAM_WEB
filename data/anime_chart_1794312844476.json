@@ -1,133 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      35,
-      10765,
-      10762,
-      10751
-    ],
-    "id": 65733,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ドラえもん",
-    "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات وهو صبي كسول وغير منسق يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها",
-    "popularity": 324.0307,
-    "poster_path": "/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
-    "first_air_date": "2005-04-22",
-    "softcore": false,
-    "name": "دورايمون",
-    "vote_average": 8.094,
-    "vote_count": 261,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2005-04-22",
-        "episode_count": 1464,
-        "id": 74968,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/AdJjCFieCCyOpRSGDo4XJfSfQTT.jpg",
-        "season_number": 1,
-        "vote_average": 8.5,
-        "cast": [
-          {
-            "name": "大原めぐみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-          },
-          {
-            "name": "水田わさび",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-          },
-          {
-            "name": "かかずゆみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-          },
-          {
-            "name": "関智一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-          },
-          {
-            "name": "سوبارو كيمورا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-          },
-          {
-            "name": "千秋",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
-          },
-          {
-            "name": "كوتونو ميتسويشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/dRqbE5D3uqfKnAPsHp9etsvO1Gg.jpg"
-          },
-          {
-            "name": "ياسونوري ماتسموتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "دورايمون",
-    "title_en": "Doraemon",
-    "overview_en": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10 year old Noby a lazy and uncoordinated boy who is destined to have a tragic future Doraemon can create secret gadgets from a pocket on his stomach but they usually cause more bad than good because of Noby s propensity to misuse them",
-    "cast": [
-      {
-        "name": "大原めぐみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-      },
-      {
-        "name": "水田わさび",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-      },
-      {
-        "name": "かかずゆみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-      },
-      {
-        "name": "関智一",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-      },
-      {
-        "name": "سوبارو كيمورا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-      },
-      {
-        "name": "千秋",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
-      },
-      {
-        "name": "كوتونو ميتسويشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/dRqbE5D3uqfKnAPsHp9etsvO1Gg.jpg"
-      },
-      {
-        "name": "ياسونوري ماتسموتو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
-      }
-    ],
-    "date_added": 1794282354888
-  },
-  {
-    "adult": false,
     "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
     "genre_ids": [
       10759,
@@ -141,13 +14,13 @@
     "original_language": "ja",
     "original_name": "ワンピース",
     "overview": "قبل سنوات عديدة تم إعدام ملك القراصنة جول دي روجر تاركا وراءه كومة ضخمة من الكنوز و الون بيس القطعه الواحده الشهيرة من يجدها سيكون اسمه ملك القراصنة الجديد مونكي دي لوفي وهو صبي الذي استهلك واحدة من فواكه الشيطان يعتقد أنه سوف يسير على خطى القرصان شانكس ويجد الون بيس محاط بسرب من المقاتلين الماهرين واللصوص على طول الطريق يحضر مونكي دي لوفي حفنة من طاقمه يتبعونه رورونوا زورو نامي اوسوب سانجي تشوبر نيكو روبن فرانكي وبروك سوف يفعلون أي شيء للحصول على الون بيس",
-    "popularity": 310.3115,
+    "popularity": 214.8233,
     "poster_path": "/zftx59xeJOJtsmRdwqo4rn6zNpj.jpg",
     "first_air_date": "1999-10-20",
     "softcore": false,
     "name": "ون بيس",
     "vote_average": 8.757,
-    "vote_count": 5639,
+    "vote_count": 5642,
     "media_type": "tv",
     "seasons": [
       {
@@ -1392,7 +1265,134 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
       }
     ],
-    "date_added": 1794282355120
+    "date_added": 1794312967220
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "id": 65733,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات وهو صبي كسول وغير منسق يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها",
+    "popularity": 298.7801,
+    "poster_path": "/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
+    "first_air_date": "2005-04-22",
+    "softcore": false,
+    "name": "دورايمون",
+    "vote_average": 8.094,
+    "vote_count": 261,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2005-04-22",
+        "episode_count": 1464,
+        "id": 74968,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/AdJjCFieCCyOpRSGDo4XJfSfQTT.jpg",
+        "season_number": 1,
+        "vote_average": 8.5,
+        "cast": [
+          {
+            "name": "大原めぐみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+          },
+          {
+            "name": "水田わさび",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+          },
+          {
+            "name": "かかずゆみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+          },
+          {
+            "name": "関智一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+          },
+          {
+            "name": "سوبارو كيمورا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+          },
+          {
+            "name": "千秋",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+          },
+          {
+            "name": "كوتونو ميتسويشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/dRqbE5D3uqfKnAPsHp9etsvO1Gg.jpg"
+          },
+          {
+            "name": "ياسونوري ماتسموتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "دورايمون",
+    "title_en": "Doraemon",
+    "overview_en": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10 year old Noby a lazy and uncoordinated boy who is destined to have a tragic future Doraemon can create secret gadgets from a pocket on his stomach but they usually cause more bad than good because of Noby s propensity to misuse them",
+    "cast": [
+      {
+        "name": "大原めぐみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+      },
+      {
+        "name": "水田わさび",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+      },
+      {
+        "name": "かかずゆみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+      },
+      {
+        "name": "関智一",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+      },
+      {
+        "name": "سوبارو كيمورا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+      },
+      {
+        "name": "千秋",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+      },
+      {
+        "name": "كوتونو ميتسويشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/dRqbE5D3uqfKnAPsHp9etsvO1Gg.jpg"
+      },
+      {
+        "name": "ياسونوري ماتسموتو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+      }
+    ],
+    "date_added": 1794312967252
   },
   {
     "adult": false,
@@ -1408,7 +1408,7 @@
     "original_language": "ja",
     "original_name": "ちびまる子ちゃん",
     "overview": "يحكي المسلسل الحياة اليومية البسيطة للطفلة ماروكو مع عائلتها وأصدقائها في ضواحي إحدى مدن اليابان أواخر السبعينيات ماروكو ابنة التسع سنوات نشأت في عائلة متوسطة الثراء تتألف من أبيها وأمها ربة البيت المثالية وجدها الخرف وجدتها المهووسة بصحتها وأختها التي تكبرها بسنتين تدرس ماروكو في المرحلة الإبتدائية في المدرسة و تحب بشغف المغنية اليابانية الشهيرة مونوي ياماغوتشي كما تحب قراءة المانغا غالباً ما يناديها أصدقاؤها بـ ماروكو الصغيرة وذلك لصغر حجمها وعمرها من أصدقائها المشهورين تاما صديقة ماروكو المقربة ومارو الذي هو عريف الصف وعضو المجلس الطلابي الفخور",
-    "popularity": 159.6774,
+    "popularity": 164.8535,
     "poster_path": "/iJIvAkD105tyUA2fyfR6Y410PRI.jpg",
     "first_air_date": "1990-01-07",
     "softcore": false,
@@ -1578,7 +1578,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
       }
     ],
-    "date_added": 1794282355461
+    "date_added": 1794312967331
   },
   {
     "adult": false,
@@ -1595,13 +1595,13 @@
     "original_language": "ja",
     "original_name": "BLEACH",
     "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً",
-    "popularity": 156.3578,
+    "popularity": 135.3792,
     "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
     "first_air_date": "2004-10-05",
     "softcore": false,
     "name": "المطهر",
     "vote_average": 8.351,
-    "vote_count": 2335,
+    "vote_count": 2336,
     "media_type": "tv",
     "seasons": [
       {
@@ -1724,7 +1724,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
       }
     ],
-    "date_added": 1794282355503
+    "date_added": 1794312967591
   },
   {
     "adult": false,
@@ -1742,7 +1742,7 @@
     "original_language": "ja",
     "original_name": "名探偵コナン",
     "overview": "كودو شينتشي هو متحرٍ في المدرسة الثانوية ذاع صيته لحله العديد من القضايا الصعبة وهو ابن مؤلف الروايات الغموض العالمي كودو يوساكو يتورط شينتشي في حادثة مع رجال منظمة غامضة ذوي رداء أسود ويجبرونه على تجرع عقار غريب بقلص جسده فيصبح إيدوغاوا كونان على شينتشي الآن الانتقال لمنزل صديقة طفولته موري ران حيث يعمل والدها متحرياً لإيجاد معلومات عن أولئك الرجال",
-    "popularity": 134.362,
+    "popularity": 143.1829,
     "poster_path": "/9BhczLWHd0O9qOgBzO9dWKKH01a.jpg",
     "first_air_date": "1996-01-08",
     "softcore": false,
@@ -1849,7 +1849,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
       }
     ],
-    "date_added": 1794282355516
+    "date_added": 1794312967624
   },
   {
     "adult": false,
@@ -1866,12 +1866,12 @@
     "original_language": "ja",
     "original_name": "ポケットモンスター",
     "overview": "انضم إلى اش كاتشم برفقه شريكه بيكاتشو وهو يسافر عبر العديد من المناطق ويلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه إلى أن يصبح بوكيمون ماستر",
-    "popularity": 121.9125,
+    "popularity": 294.9452,
     "poster_path": "/x7ISTLv6ijdNtCyPndyRV2eK6eg.jpg",
     "first_air_date": "1997-04-01",
     "softcore": false,
     "name": "بوكيمون",
-    "vote_average": 7.988,
+    "vote_average": 7.99,
     "vote_count": 2302,
     "media_type": "tv",
     "seasons": [
@@ -3116,7 +3116,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg"
       }
     ],
-    "date_added": 1794282357695
+    "date_added": 1794312969150
   },
   {
     "adult": false,
@@ -3133,13 +3133,13 @@
     "original_language": "ja",
     "original_name": "ドラゴンボール超 ビルス",
     "overview": "مرت سنوات عديدة منذ المعركة الضارية ضد ماجين بو واستعادت الأرض أخيرًا لحظات من السلام في الوقت نفسه يستيقظ بيروس إله الدمار من سباته الطويل والعميق حتى الملك كاي والكايو الأعلى على دراية بقوة بيروس الهائلة في تدمير كواكب بأكملها يراقبان استيقاظه برعب شديد في هذه الأثناء يسمع بيروس شائعات عن سايان هزم فريزا ويظهر فجأة أمام غوكو الأرض التي استهدفها بيروس أقوى كائن في الكون في خطر جسيم وهكذا تبدأ معركة كونية مدمرة بين إله الدمار وغوكو وحلفائه صراع سيهز الكون بأسره",
-    "popularity": 99.7408,
+    "popularity": 96.8143,
     "poster_path": "/gecTQKFZVh6UasL2RAqWmSyNXfH.jpg",
     "first_air_date": "2026-10-11",
     "softcore": false,
     "name": "ドラゴンボール超 ビルス",
     "vote_average": 9.6,
-    "vote_count": 404,
+    "vote_count": 405,
     "media_type": "tv",
     "seasons": [
       {
@@ -3210,7 +3210,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
       }
     ],
-    "date_added": 1794282357856
+    "date_added": 1794312969232
   },
   {
     "adult": false,
@@ -3229,7 +3229,7 @@
     "original_language": "ja",
     "original_name": "忍たま乱太郎",
     "overview": "",
-    "popularity": 99.0589,
+    "popularity": 110.7817,
     "poster_path": "/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
     "first_air_date": "1993-04-10",
     "softcore": false,
@@ -3797,7 +3797,7 @@
     "title_en": "Ninja Boy Rantaro",
     "overview_en": "Rantarō Shinbei and Kirimaru are ninja apprentices in the Ninja Gakuen where first grade ones are called Nintamas They must learn everything a ninja must know but as for our heroes money food or playing are more interesting The series show the everyday adventures of our heroes",
     "cast": [],
-    "date_added": 1794282360364
+    "date_added": 1794312969804
   },
   {
     "adult": false,
@@ -3814,13 +3814,13 @@
     "original_language": "ja",
     "original_name": "呪術廻戦",
     "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة لكنّه يعيش حياة مدرسية عادية تمامًا في أحد الأيّام ومن أجل إنقاذ صديق هاجمته لعنة يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو غوجو ساتورو",
-    "popularity": 97.8666,
+    "popularity": 84.5773,
     "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
     "first_air_date": "2020-10-03",
     "softcore": false,
     "name": "JUJUTSU KAISEN",
     "vote_average": 8.574,
-    "vote_count": 4738,
+    "vote_count": 4739,
     "media_type": "tv",
     "seasons": [
       {
@@ -3839,7 +3839,7 @@
     "title_en": "JUJUTSU KAISEN",
     "overview_en": "Yuji Itadori is a boy with tremendous physical strength though he lives a completely ordinary high school life One day to save a classmate who has been attacked by curses he eats the finger of Ryomen Sukuna taking the curse into his own soul From then on he shares one body with Ryomen Sukuna Guided by the most powerful of sorcerers Satoru Gojo Itadori is admitted to Tokyo Jujutsu High School an organization that fights the curses and thus begins the heroic tale of a boy who became a curse to exorcise a curse a life from which he could never turn back",
     "cast": [],
-    "date_added": 1794282360696
+    "date_added": 1794312970043
   },
   {
     "adult": false,
@@ -3856,13 +3856,13 @@
     "original_language": "ja",
     "original_name": "ナルト 疾風伝",
     "overview": "اوزوماكي ناروتو اصبح الآن اكثر نضجا واكبر عمرا يسعى لإنقاذ صديقه اوتشيها ساسكي من قبضة أوروتشيمارو بعد عامين ونصف يعود نارتو أخيراً إلى قريته كونوها ويبدأ في وضع طموحاته للعمل على الرغم من أنه لن يكون سهلاً حيث أنه جمع عددًا من الأعداء الأكثر خطورة مثل الاكاتسكي",
-    "popularity": 93.916,
+    "popularity": 94.8399,
     "poster_path": "/qOxedwaJzdms2alAmIEHEnDeDzg.jpg",
     "first_air_date": "2007-02-15",
     "softcore": false,
     "name": "ناروتو شيبودن",
     "vote_average": 8.529,
-    "vote_count": 8845,
+    "vote_count": 8846,
     "media_type": "tv",
     "seasons": [
       {
@@ -4951,7 +4951,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg"
       }
     ],
-    "date_added": 1794282362799
+    "date_added": 1794312971582
   },
   {
     "adult": false,
@@ -4968,13 +4968,13 @@
     "original_language": "ja",
     "original_name": "ジョジョの奇妙な冒険",
     "overview": "تواجه أجيال عديدة من عائلة جوستار يحمل جميع أفرادها اللقب نفسه أشرارًا قواهم خارقة للطبيعة على فترات من الزمن",
-    "popularity": 91.7223,
+    "popularity": 85.8443,
     "poster_path": "/k8iHQ2IU7j5FprP4oWrp03ClqJ9.jpg",
     "first_air_date": "2012-10-06",
     "softcore": false,
     "name": "مغامرات جوجو العجيبة",
-    "vote_average": 8.55,
-    "vote_count": 1702,
+    "vote_average": 8.551,
+    "vote_count": 1703,
     "media_type": "tv",
     "seasons": [
       {
@@ -5255,7 +5255,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
       }
     ],
-    "date_added": 1794282363656
+    "date_added": 1794312971987
   },
   {
     "adult": false,
@@ -5273,7 +5273,7 @@
     "original_language": "ja",
     "original_name": "モブサイコ100",
     "overview": "القصة تدور حول الفتى موب حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة وهو ينفجر إذا وصلت قدرته العاطفية إلى 100 هذا الفتى ذو القوة النفسية امتلك لقب موب و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف",
-    "popularity": 89.6742,
+    "popularity": 34.7304,
     "poster_path": "/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
     "first_air_date": "2016-07-12",
     "softcore": false,
@@ -5404,7 +5404,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
       }
     ],
-    "date_added": 1794282364089
+    "date_added": 1794312972200
   },
   {
     "adult": false,
@@ -5421,7 +5421,7 @@
     "original_language": "ja",
     "original_name": "薬屋のひとりごと",
     "overview": "عاشت ماوماو حياةً هانئةً مع والدها الصيدلي إلى أن بِيعَت ذات يومٍ كخادمةٍ متواضعةٍ لقصر الإمبراطور لكن لم يكن من المُقدَّر لها أن تعيش حياةً مُطيعةً بين أفراد العائلة المالكة لذا عندما مرض ورثة الإمبراطور قررت التدخل وإيجاد علاج لفت هذا انتباه جينشي مسؤول القصر الوسيم الذي رُقّيَتْه والآن تُصنِّع لنفسها اسمًا لامعًا في حلِّ الألغاز الطبية",
-    "popularity": 86.8115,
+    "popularity": 81.764,
     "poster_path": "/fR5F8lcs90wX9awzWPE8qjjlv3F.jpg",
     "first_air_date": "2023-10-22",
     "softcore": false,
@@ -5478,7 +5478,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
       }
     ],
-    "date_added": 1794282364273
+    "date_added": 1794312972232
   },
   {
     "adult": false,
@@ -5495,7 +5495,7 @@
     "original_language": "ja",
     "original_name": "SPY×FAMILY",
     "overview": "سلام العالم على المحكّ ويجب على العميل السّرّيّ الشّفق القيام بأصعب مهمّة له حتّى الآن التّظاهر أنّه رجل لديه عائلة بعد التّظاهر بأنّه أب وزوج محبوب عليه التّسلّل إلى مدرسة للنّخبة للتّقرّب من سياسيّ مهمّ لديه تنكّر مثاليّ لكنّ زوجته قاتلة محترفة ولا يعرف أيّ أحد منهما بهويّة الآخر السّرّيّة لكنّ هنالك من يعرف ابنته الّتي تبنّاها والّتي تستطيع قراءة الأفكار",
-    "popularity": 85.3726,
+    "popularity": 73.8161,
     "poster_path": "/zcH6eMaO8HNEnWXkU7eOzlRz1C6.jpg",
     "first_air_date": "2022-04-09",
     "softcore": false,
@@ -5616,7 +5616,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/YCEXgyl763zg62qhsjhWHRzGkL.jpg"
       }
     ],
-    "date_added": 1794282364671
+    "date_added": 1794312972495
   },
   {
     "adult": false,
@@ -5633,7 +5633,7 @@
     "original_language": "ja",
     "original_name": "ドラゴンボールゼット",
     "overview": "استمرار مغامرات غوكو وأصدقاؤة للدفاع ضد مجموعة متنوعة من الأشرار التي تسعى إلى تدمير أو حكم كوكب الأرض",
-    "popularity": 85.2375,
+    "popularity": 83.2187,
     "poster_path": "/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg",
     "first_air_date": "1989-04-26",
     "softcore": false,
@@ -6156,7 +6156,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg"
       }
     ],
-    "date_added": 1794282365534
+    "date_added": 1794312973096
   },
   {
     "adult": false,
@@ -6173,7 +6173,7 @@
     "original_language": "ja",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "overview": "عندما تدهس شاحنة شابًا يبلغ من العمر ٣٤ سنة لا تنتهي قصته هناك بل يعاد بعثه في عالم جديد كرضيع ينتهز رودي كلّ فرصة ليعيش الحياة التي لطالما أرادها مدعومًا بأصدقاء جُدد وبعض القدرات السحرية المكتسبة حديثًا والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا ينطلق في مغامرة ملحمية مع تذكره لكل تجربته السابقة",
-    "popularity": 80.8033,
+    "popularity": 72.02,
     "poster_path": "/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
     "first_air_date": "2021-01-11",
     "softcore": false,
@@ -6294,7 +6294,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
       }
     ],
-    "date_added": 1794282365954
+    "date_added": 1794312973331
   },
   {
     "adult": false,
@@ -6311,7 +6311,7 @@
     "original_language": "ja",
     "original_name": "ナルト",
     "overview": "القرية المخفيّة في الورق هي موطن لأكثر النينجا خفّة وسريّة لكن قبل اثنتي عشرة سنة ظهر الثعلب الشيطان ذو التسعة ذيول وبعث الرعب في ساكنيها قبل أن يتمّ كبته وختم روحه في داخل جسد طفلٍ رضيع",
-    "popularity": 80.7062,
+    "popularity": 77.7769,
     "poster_path": "/znUDLRYlfPEt7peusifvIXAc5GX.jpg",
     "first_air_date": "2002-10-03",
     "softcore": false,
@@ -6574,7 +6574,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sE664CcqM1pvoWsYsca7szlIzl5.jpg"
       }
     ],
-    "date_added": 1794282366483
+    "date_added": 1794312973664
   },
   {
     "adult": false,
@@ -6594,7 +6594,7 @@
     "original_language": "ja",
     "original_name": "ドラえもん",
     "overview": "روبرت آلي يشبه القط غذاءه المفضل معجون الفاصوليا والكعك المحلى أتى من المستقبل من القرن الثاني والعشرون لديه جيب بُعدي في بطنه يمكنه إستخراج أدوات كثيرة منه ليساعد الأطفال بكل الأدوات التي جلبها معه في جيبه البعدي يدخل في مغامرات كثيرة ويواجه مشاكل كثيرة تتعلق بأصدقائه الأطفال فكيف سيستطيع التعامل معها",
-    "popularity": 79.0075,
+    "popularity": 85.0675,
     "poster_path": "/ttigRndzMgaxuVc33rmEv5FrSwL.jpg",
     "first_air_date": "1979-04-02",
     "softcore": false,
@@ -8053,7 +8053,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6M6zQtO0reIv97oKUrVT084FUKv.jpg"
       }
     ],
-    "date_added": 1794282368948
+    "date_added": 1794312975327
   },
   {
     "adult": false,
@@ -8071,7 +8071,7 @@
     "original_language": "ja",
     "original_name": "Re:ゼロから始める異世界生活",
     "overview": "القصة تتحدث عن سوبارو ناتسوكي و هو طالب عادي فُقد في العالم البديل و تم إنقاذه من قِبل فتاة جميلة ذات شعر فضي بقي سوبارو بالقرب منها كي يرد لها الجميل لكن مصيرها ثقيل بشكل أكبر من أن يتخيله بطلنا يقوم الأعداء بمهاجمتهما و يتقلانهما بعدها يكتشف بطلنا أن لديه القدرة على العودة من الموت إلى الوقت الذي قدم فيه إلى هذا العالم أول مرة لكنه الوحيد الذي يتذكر ما حدث في ذلك الحين",
-    "popularity": 77.7378,
+    "popularity": 71.2989,
     "poster_path": "/x221LECWojgDTnXhWsaMIVmgM5h.jpg",
     "first_air_date": "2016-04-04",
     "softcore": false,
@@ -8158,7 +8158,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/v95wU1gpSLAOJS5yKFTxyheXAW2.jpg"
       }
     ],
-    "date_added": 1794282369204
+    "date_added": 1794312975492
   },
   {
     "adult": false,
@@ -8176,13 +8176,13 @@
     "original_language": "ja",
     "original_name": "葬送のフリーレン",
     "overview": "هُزم الملك الشيطان وعاد فريق الأبطال المنتصر إلى المنزل قبل أن يتفكك الأربعة الساحرة فريرين والبطل هيميل والكاهن هايتر والمحارب آيزن يتذكرون رحلتهم التي استمرت عقدًا من الزمان مع حلول لحظة وداع بعضهم البعض لكن مرور الوقت يختلف بالنسبة للجان وبالتالي تشهد فريرين رفاقها يموتون ببطء واحدًا تلو الآخر",
-    "popularity": 73.9317,
+    "popularity": 61.007,
     "poster_path": "/eHLecWYYPbcJOPuc1d2J0u2KfzD.jpg",
     "first_air_date": "2023-09-29",
     "softcore": false,
     "name": "فريرن: ما وراء نهاية الرحلة",
-    "vote_average": 8.827,
-    "vote_count": 1021,
+    "vote_average": 8.825,
+    "vote_count": 1022,
     "media_type": "tv",
     "seasons": [
       {
@@ -8263,7 +8263,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg"
       }
     ],
-    "date_added": 1794282369414
+    "date_added": 1794312975564
   },
   {
     "adult": false,
@@ -8280,13 +8280,13 @@
     "original_language": "ja",
     "original_name": "HUNTER×HUNTER",
     "overview": "لتحقيق أحلامه في أن يصبح صيّادًا أسطوريًّا مثل والده يتعيّن على فتًى صغير اجتياز اختبار صعب وقاسٍ والعثور على أبيه المفقود",
-    "popularity": 72.1377,
+    "popularity": 69.0545,
     "poster_path": "/uTP81XMRbAIRY3wH3w1r8NpR2wq.jpg",
     "first_air_date": "2011-10-02",
     "softcore": false,
     "name": "القناص",
     "vote_average": 8.667,
-    "vote_count": 2266,
+    "vote_count": 2267,
     "media_type": "tv",
     "seasons": [
       {
@@ -8401,7 +8401,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
       }
     ],
-    "date_added": 1794282369796
+    "date_added": 1794312975863
   },
   {
     "adult": false,
@@ -8417,7 +8417,7 @@
     "original_language": "ja",
     "original_name": "あたしンち",
     "overview": "",
-    "popularity": 71.7491,
+    "popularity": 79.4529,
     "poster_path": "/bQCZvbyTJFWt3majCn37ykJBpIf.jpg",
     "first_air_date": "2002-04-19",
     "softcore": false,
@@ -8568,7 +8568,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
       }
     ],
-    "date_added": 1794282370120
+    "date_added": 1794312976143
   },
   {
     "adult": false,
@@ -8586,7 +8586,7 @@
     "original_language": "ja",
     "original_name": "BLACK TORCH",
     "overview": "",
-    "popularity": 64.1812,
+    "popularity": 41.7151,
     "poster_path": "/m0Y86byoQXcxbYPdg4pQ8feEjE1.jpg",
     "first_air_date": "2026-07-04",
     "softcore": false,
@@ -8693,7 +8693,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
       }
     ],
-    "date_added": 1794282370272
+    "date_added": 1794312976173
   },
   {
     "adult": false,
@@ -8709,7 +8709,7 @@
     "original_language": "ja",
     "original_name": "であいもん",
     "overview": "",
-    "popularity": 63.7427,
+    "popularity": 54.6806,
     "poster_path": "/rekj4krsgGvmSLL0xMtrLQbAQUM.jpg",
     "first_air_date": "2022-04-06",
     "softcore": false,
@@ -8756,7 +8756,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/y9LuHQ4g9SWeN1qUMTSdmdhaKJD.jpg"
       }
     ],
-    "date_added": 1794282370444
+    "date_added": 1794312976271
   },
   {
     "adult": false,
@@ -8773,7 +8773,7 @@
     "original_language": "ja",
     "original_name": "ルパン三世",
     "overview": "تدور قصة هذا الأنمي حول لوبين الثالث اللص الذكي الذي يسرق أي شيء بماعدة جيجن دايسكي وإيشيكاوا الثالث وفوجيكو ويتعقب هذا اللص الشرطي زينيقاتا إلا أنه يفشل في إلقاء القبض عليه",
-    "popularity": 61.0902,
+    "popularity": 55.4655,
     "poster_path": "/8jLjAXdwn3BsMB4VpOa8PSplgfw.jpg",
     "first_air_date": "1971-10-24",
     "softcore": false,
@@ -8790,7 +8790,7 @@
         "overview": "",
         "poster_path": "/6UtnvDW0Ycob5oSUGw07OegJjgk.jpg",
         "season_number": 1,
-        "vote_average": 6.9,
+        "vote_average": 7,
         "cast": [
           {
             "name": "山田康雄",
@@ -9055,7 +9055,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
       }
     ],
-    "date_added": 1794282371068
+    "date_added": 1794312976720
   },
   {
     "adult": false,
@@ -9073,7 +9073,7 @@
     "original_language": "ja",
     "original_name": "らんま1/2",
     "overview": "أثناء رحلة تدريبية في منطقة جبال بايان كالا في مقاطعة تشينغهاي في الصين رانما ساوتومي ووالده جينما سقطا في ينابيع جوسنكيو عندما يسقط شخص ما في ينبوع ملعون فإنه يأخذ المظهر الشكلي لأي شيء غرق فيه منذ مئات أو آلاف السنين متى ما أصيبوا بالماء البارد اللعنة سوف تنعكس إذا تعرض للماء الحار حتى تعرض للماء البارد جينما سقط في ينبوع الباندا الغارق بينما سقط رانما في ينبوع الفتاة الغارقة",
-    "popularity": 60.0506,
+    "popularity": 60.57,
     "poster_path": "/s8W6r3nMJLquWxq4kXr7lTZXsvO.jpg",
     "first_air_date": "1989-04-15",
     "softcore": false,
@@ -9120,7 +9120,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
       }
     ],
-    "date_added": 1794282371269
+    "date_added": 1794312976783
   },
   {
     "adult": false,
@@ -9137,7 +9137,7 @@
     "original_language": "ja",
     "original_name": "Cutie Honey Universe",
     "overview": "",
-    "popularity": 59.5649,
+    "popularity": 28.3442,
     "poster_path": "/rh6bZ3aD1qVKeF8w21NewZH7jDM.jpg",
     "first_air_date": "2018-04-08",
     "softcore": false,
@@ -9154,7 +9154,7 @@
         "overview": "",
         "poster_path": "/mtVkU0Tf7eFakjwZOGGih29Ugp8.jpg",
         "season_number": 1,
-        "vote_average": 0,
+        "vote_average": 7,
         "cast": [
           {
             "name": "坂本真綾",
@@ -9244,7 +9244,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
       }
     ],
-    "date_added": 1794282371431
+    "date_added": 1794312976886
   },
   {
     "adult": false,
@@ -9260,7 +9260,7 @@
     "original_language": "ja",
     "original_name": "ちはやふる",
     "overview": "أمضت تشيهايا آياسي معظم حياتها في مساندة مسيرة أختها كعارضة لكنها تلتقي يوماً صبياً يدعى آراتا واتايا الذي يرى فيها موهبة لاعبة كاروتا بارعة بينما تحلم تشيهايا بأن تصبح أفضل لاعبة كاروتا في اليابان تنفصل عن أصدقائها في اللعب والآن في المرحلة الثانوية لا تزال تشيهايا تمارس الكاروتا وتحلم بلقاء أصدقائها مجدداً",
-    "popularity": 58.9311,
+    "popularity": 50.5365,
     "poster_path": "/w1oIhPunv4HIMPvMW8SJB04RNTS.jpg",
     "first_air_date": "2011-10-05",
     "softcore": false,
@@ -9361,7 +9361,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
       }
     ],
-    "date_added": 1794282371875
+    "date_added": 1794312977191
   },
   {
     "adult": false,
@@ -9379,7 +9379,7 @@
     "original_language": "ja",
     "original_name": "ポケットモンスター",
     "overview": "يخوض مغامران شابّان مهمة مثيرة تتمثل في زيارة أراضٍ جديدة ويكشفان أسرارًا قديمة ويواجهان البوكيمون و كرات البوكيمون التي لم يروها من قبل",
-    "popularity": 58.4413,
+    "popularity": 58.7625,
     "poster_path": "/qCRLHvSmjAzZlgtKBB2tMibYcxM.jpg",
     "first_air_date": "2023-04-14",
     "softcore": false,
@@ -9436,1547 +9436,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yPOprcT7tPKR3p79RMYtogTEXGr.jpg"
       }
     ],
-    "date_added": 1794282372179
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2vEu810kBAgeyEvIYsCbNpPl4mf.jpg",
-    "genre_ids": [
-      16,
-      35
-    ],
-    "id": 30623,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "クレヨンしんちゃん",
-    "overview": "شين تشان جارنا الصغير كارثة متنقلة يُثير الفوضى أينما حلّ بجسد طفل وعقل بالغ يُحدث شين تشان فوضى أكبر من أي طفل آخر شين تشان مرح متفائل ويتحمس لكل شيء هذا الطفل ذو الخمس سنوات يُحب أن يفعل الأشياء على طريقته",
-    "popularity": 57.0743,
-    "poster_path": "/hHEW7BZbufaM0erzk0jtW5bB3gn.jpg",
-    "first_air_date": "1992-04-13",
-    "softcore": false,
-    "name": "شين تشان",
-    "vote_average": 7.727,
-    "vote_count": 119,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1992-04-13",
-        "episode_count": 2484,
-        "id": 106483,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/7qJEhLlky9aZq0LdkXt98YLbITI.jpg",
-        "season_number": 1,
-        "vote_average": 7.3,
-        "cast": [
-          {
-            "name": "矢島晶子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
-          },
-          {
-            "name": "ريو ناتسوكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/wxiSwjEDMjgRH41PUiGzLplTBqA.jpg"
-          },
-          {
-            "name": "كيجي فوجيوارا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
-          },
-          {
-            "name": "こおろぎさとみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg"
-          },
-          {
-            "name": "真柴摩利",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
-          },
-          {
-            "name": "佐藤智恵",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
-          },
-          {
-            "name": "روكورو نايا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8mRUsy6nPOPEkbqfZ0HsaCj9U7N.jpg"
-          },
-          {
-            "name": "富沢美智恵",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "شين تشان",
-    "title_en": "Crayon Shin chan",
-    "overview_en": "Shin chan the boy next door is a walking disaster creating chaos wherever he goes With the body of a child and the mind of an adult Shinchan is wreaking more havoc than any child before Shin chan is carefree optimistic and gets excited about everything This 5 year old likes to do things his way",
-    "cast": [
-      {
-        "name": "矢島晶子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
-      },
-      {
-        "name": "ريو ناتسوكي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/wxiSwjEDMjgRH41PUiGzLplTBqA.jpg"
-      },
-      {
-        "name": "كيجي فوجيوارا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
-      },
-      {
-        "name": "こおろぎさとみ",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg"
-      },
-      {
-        "name": "真柴摩利",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
-      },
-      {
-        "name": "佐藤智恵",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
-      },
-      {
-        "name": "روكورو نايا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8mRUsy6nPOPEkbqfZ0HsaCj9U7N.jpg"
-      },
-      {
-        "name": "富沢美智恵",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
-      }
-    ],
-    "date_added": 1794282372365
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
-    "genre_ids": [
-      16,
-      35,
-      18,
-      9648
-    ],
-    "id": 46195,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "化物語",
-    "overview": "",
-    "popularity": 55.6327,
-    "poster_path": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
-    "first_air_date": "2009-07-03",
-    "softcore": false,
-    "name": "化物語",
-    "vote_average": 8.1,
-    "vote_count": 538,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2009-07-03",
-        "episode_count": 12,
-        "id": 54549,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/qfyqDAuERlN2afs8f56or1jSALn.jpg",
-        "season_number": 1,
-        "vote_average": 7.3,
-        "cast": [
-          {
-            "name": "神谷浩史",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-          },
-          {
-            "name": "تشيوا سايتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
-          },
-          {
-            "name": "堀江由衣",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
-          },
-          {
-            "name": "坂本真綾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
-          },
-          {
-            "name": "ゆきのさつき",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-01-08",
-        "episode_count": 11,
-        "id": 54547,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/hbLt05yzOMhvV4OcQzmhciFr3Fh.jpg",
-        "season_number": 2,
-        "vote_average": 6.7,
-        "cast": [
-          {
-            "name": "神谷浩史",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-          },
-          {
-            "name": "تشيوا سايتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
-          },
-          {
-            "name": "堀江由衣",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
-          },
-          {
-            "name": "坂本真綾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
-          },
-          {
-            "name": "شينيتشيرو ميكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
-          },
-          {
-            "name": "ゆきのさつき",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
-          },
-          {
-            "name": "白石涼子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9HiasuMo5zn0nOGLcFJGQ5VvjWy.jpg"
-          },
-          {
-            "name": "ميوكي ساواشيرو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-07-07",
-        "episode_count": 23,
-        "id": 54546,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/z0GPizkLzcx2pmyXJJQewg8EvhC.jpg",
-        "season_number": 3,
-        "vote_average": 7.7,
-        "cast": [
-          {
-            "name": "神谷浩史",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-          },
-          {
-            "name": "تشيوا سايتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
-          },
-          {
-            "name": "堀江由衣",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
-          },
-          {
-            "name": "坂本真綾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
-          },
-          {
-            "name": "شينيتشيرو ميكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
-          },
-          {
-            "name": "立木文彦",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9nHFGrvdT5c4klZOiFQElybNy7h.jpg"
-          },
-          {
-            "name": "ゆきのさつき",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
-          },
-          {
-            "name": "白石涼子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/9HiasuMo5zn0nOGLcFJGQ5VvjWy.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-10-04",
-        "episode_count": 12,
-        "id": 71107,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/xn2mGKbYX2SniGoI6iDmi07CMB1.jpg",
-        "season_number": 4,
-        "vote_average": 7.2,
-        "cast": [
-          {
-            "name": "神谷浩史",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-          },
-          {
-            "name": "تشيوا سايتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
-          },
-          {
-            "name": "堀江由衣",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
-          },
-          {
-            "name": "坂本真綾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
-          },
-          {
-            "name": "ゆきのさつき",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
-          },
-          {
-            "name": "ميوكي ساواشيرو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
-          },
-          {
-            "name": "井上麻里奈",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/f7PuEx1h2g4FLgMzk9wCrWuS9Eu.jpg"
-          },
-          {
-            "name": "ساوري هايامي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2024-07-06",
-        "episode_count": 15,
-        "id": 400986,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/gUQPpTYCZ18JpCKVFRIX1j4l8s1.jpg",
-        "season_number": 5,
-        "vote_average": 9.6,
-        "cast": [
-          {
-            "name": "神谷浩史",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-          },
-          {
-            "name": "تشيوا سايتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
-          },
-          {
-            "name": "堀江由衣",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
-          },
-          {
-            "name": "坂本真綾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
-          },
-          {
-            "name": "ゆきのさつき",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
-          },
-          {
-            "name": "ميوكي ساواشيرو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "化物語",
-    "title_en": "Monogatari",
-    "overview_en": "Koyomi Araragi a high school student finds himself constantly encountering girls afflicted by supernatural oddities He dedicates himself to helping them often with the aid of the eccentric specialist Meme Oshino Each arc talks about a different girl s unique struggle and the mysterious cause of their affliction The series explores themes of adolescence personal growth and the complexities of human relationships It s known for its witty dialogue stylistic animation and unique narrative structure",
-    "cast": [
-      {
-        "name": "神谷浩史",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
-      },
-      {
-        "name": "تشيوا سايتو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
-      },
-      {
-        "name": "堀江由衣",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
-      },
-      {
-        "name": "坂本真綾",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
-      },
-      {
-        "name": "ゆきのさつき",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
-      },
-      {
-        "name": "ميوكي ساواشيرو",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
-      }
-    ],
-    "date_added": 1794282372880
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
-    "genre_ids": [
-      16,
-      18,
-      9648,
-      80
-    ],
-    "id": 30981,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "MONSTER",
-    "overview": "تتكلم القصة عن جرائم وشخص يقف وراها وطبيب يقع ضحيه اتهام الشرطه له بأرتكاب الجرائم الطبيب اخطأ بالماضي ولكنه لم يترك خطأه وحاول اصلاحه بعد مرور عدة سنين وافنى نفسه لكي يصلح ما اخطأ به ينجرف جرّاح أعصاب ياباني لامع في عالم الظلام حين يحاول حلّ ألغاز سلسلة من جرائم القتل تتضمّن مريضًا قد عالجه ذات يوم وأنقذ حياته",
-    "popularity": 54.9155,
-    "poster_path": "/o38ptRl2CvMVb6HZnstFLPcveDK.jpg",
-    "first_air_date": "2004-04-07",
-    "softcore": false,
-    "name": "الوحش",
-    "vote_average": 8.513,
-    "vote_count": 871,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2004-04-07",
-        "episode_count": 74,
-        "id": 42537,
-        "name": "الموسم الأول",
-        "overview": "تتكلم القصة عن جرائم وشخص يقف وراها وطبيب يقع ضحيه اتهام الشرطه له بأرتكاب الجرائم الطبيب اخطأ بالماضي ولكنه لم يترك خطأه وحاول اصلاحه بعد مرور عدة سنين وافنى نفسه لكي يصلح ما اخطأ به ينجرف جرّاح أعصاب ياباني لامع في عالم الظلام حين يحاول حلّ ألغاز سلسلة من جرائم القتل تتضمّن مريضًا قد عالجه ذات يوم وأنقذ حياته.",
-        "poster_path": "/tzAJyuqJbUVvHUtJLAqmctJ7idr.jpg",
-        "season_number": 1,
-        "vote_average": 8.3,
-        "cast": [
-          {
-            "name": "هيدينوبو كيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d7MW4HQjMsZnX3cy2dF8QJETCbf.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "الوحش",
-    "title_en": "Monster",
-    "overview_en": "Kenzou Tenma a Japanese brain surgeon in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient",
-    "cast": [
-      {
-        "name": "هيدينوبو كيوتشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/d7MW4HQjMsZnX3cy2dF8QJETCbf.jpg"
-      }
-    ],
-    "date_added": 1794282373040
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gJYZBM200Flldo6im3EEdXslR1j.jpg",
-    "genre_ids": [
-      16,
-      10759
-    ],
-    "id": 902,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "遊☆戯☆王デュエルモンスターズ",
-    "overview": "غالبًا ما يستهدف المتنمرون شخصًا ضعيفًا وهزيلًا تمامًا مثل يوغي موتو إنه يعتز بلعبة أحجية الألفية وهي قطعة أثرية مصرية قديمة أحضرها جده إلى متجر الألعاب الخاص به",
-    "popularity": 53.6676,
-    "poster_path": "/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg",
-    "first_air_date": "2000-04-18",
-    "softcore": false,
-    "name": "يوغي اوه مبارزة الوحوش",
-    "vote_average": 8.3,
-    "vote_count": 1062,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2000-04-18",
-        "episode_count": 224,
-        "id": 64013,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/2LBNEJBetl5rVPz2mF9EqE8SyO7.jpg",
-        "season_number": 1,
-        "vote_average": 8.2,
-        "cast": [
-          {
-            "name": "كينجيرو تسودا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg"
-          },
-          {
-            "name": "高橋広樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lFwGUkR5Lj09FVz7s0xwFgQgeRi.jpg"
-          },
-          {
-            "name": "風間俊介",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4znMnThy7B1RDOXQLktw321Ot0J.jpg"
-          },
-          {
-            "name": "齊藤真紀",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "近藤孝行",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/80t01IkasGucNSqHCp5XEImYPY.jpg"
-          },
-          {
-            "name": "松本梨香",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
-          },
-          {
-            "name": "جونكو تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-          },
-          {
-            "name": "岩永哲哉",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/4IG4sg8dFOizFboBCfeftDzYslU.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "يوغي اوه مبارزة الوحوش",
-    "title_en": "Yu Gi Oh Duel Monsters",
-    "overview_en": "Bullies often target someone frail and weak someone exactly like Yûgi Muto He treasures his Millennium Puzzle an ancient Egyptian artifact that was brought into his grandfather s game shop Believing that solving the puzzle will grant him his wish he completes the puzzle unleashing a new personality within him the soul of the King of Games The new personality named Yami Yûgi is the exact opposite of Yûgi Upon any injustice toward him Yami Yûgi takes over Yûgi s body and forces the opponent into a Shadow Game",
-    "cast": [
-      {
-        "name": "كينجيرو تسودا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg"
-      },
-      {
-        "name": "高橋広樹",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/lFwGUkR5Lj09FVz7s0xwFgQgeRi.jpg"
-      },
-      {
-        "name": "風間俊介",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4znMnThy7B1RDOXQLktw321Ot0J.jpg"
-      },
-      {
-        "name": "齊藤真紀",
-        "role": "بطوله",
-        "photo_url": null
-      },
-      {
-        "name": "近藤孝行",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/80t01IkasGucNSqHCp5XEImYPY.jpg"
-      },
-      {
-        "name": "松本梨香",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
-      },
-      {
-        "name": "جونكو تاكيوتشي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
-      },
-      {
-        "name": "岩永哲哉",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/4IG4sg8dFOizFboBCfeftDzYslU.jpg"
-      }
-    ],
-    "date_added": 1794282373206
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1xlpfYGGFXOlYqQSUlFKEv4hqbt.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765,
-      10762
-    ],
-    "id": 46392,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "デュエル・マスターズ",
-    "overview": "تهتم منظمة غامضة بقدرة المبارز الناشئ شوبو كيريفودا على إحياء مخلوقات سيد المبارزة وبدعم من أصدقائه يخوض شوبو مبارزات بشغف وانضباط وإصرار ساعيًا لأن يكون مثل والده ويصبح سيد الكايجودو القادم",
-    "popularity": 52.7741,
-    "poster_path": "/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
-    "first_air_date": "2002-10-21",
-    "softcore": false,
-    "name": "أسياد المبارزة",
-    "vote_average": 6.2,
-    "vote_count": 21,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2002-10-21",
-        "episode_count": 26,
-        "id": 54651,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/9geJLGR0xCU3tDPBNlGmyCB0fpK.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "若本規夫",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sYHA1BlH2itS3XGv9K2xjqsTFcC.jpg"
-          },
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "田中完",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/57xCpM05FpiOr6bF033YTOYEDdc.jpg"
-          },
-          {
-            "name": "坂口候一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cdiTrNAAv6PXwZSxg2cO2ozldXs.jpg"
-          },
-          {
-            "name": "كاتسويوكي كونيشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-          },
-          {
-            "name": "吉野裕行",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg"
-          },
-          {
-            "name": "浜田賢二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
-          },
-          {
-            "name": "山口眞弓",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2004-04-19",
-        "episode_count": 52,
-        "id": 54653,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/igfp3mmrAahoxoSd29Y1Vjps0Ox.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "若本規夫",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sYHA1BlH2itS3XGv9K2xjqsTFcC.jpg"
-          },
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "田中完",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/57xCpM05FpiOr6bF033YTOYEDdc.jpg"
-          },
-          {
-            "name": "坂口候一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cdiTrNAAv6PXwZSxg2cO2ozldXs.jpg"
-          },
-          {
-            "name": "كاتسويوكي كونيشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-          },
-          {
-            "name": "吉野裕行",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg"
-          },
-          {
-            "name": "浜田賢二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
-          },
-          {
-            "name": "山口眞弓",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-04-09",
-        "episode_count": 12,
-        "id": 54652,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/jM6iKubxAqofjK6MMPOCtDpkj4X.jpg",
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "若本規夫",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/sYHA1BlH2itS3XGv9K2xjqsTFcC.jpg"
-          },
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "田中完",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/57xCpM05FpiOr6bF033YTOYEDdc.jpg"
-          },
-          {
-            "name": "坂口候一",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/cdiTrNAAv6PXwZSxg2cO2ozldXs.jpg"
-          },
-          {
-            "name": "كاتسويوكي كونيشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-          },
-          {
-            "name": "吉野裕行",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg"
-          },
-          {
-            "name": "浜田賢二",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
-          },
-          {
-            "name": "山口眞弓",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2007-10-06",
-        "episode_count": 25,
-        "id": 90191,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/dcUcMEpMCZj8El7kZUoDDLOcmV2.jpg",
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2008-04-05",
-        "episode_count": 100,
-        "id": 90192,
-        "name": "الموسم 5",
-        "overview": "",
-        "poster_path": "/p5WQbwz02JKqpxIoLMxSt5BlR6p.jpg",
-        "season_number": 5,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2010-04-03",
-        "episode_count": 50,
-        "id": 90195,
-        "name": "الموسم 6",
-        "overview": "",
-        "poster_path": "/fvMn1wh4zAD68wdO34WItYZrKE9.jpg",
-        "season_number": 6,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2011-04-02",
-        "episode_count": 52,
-        "id": 90196,
-        "name": "الموسم 7",
-        "overview": "",
-        "poster_path": "/bHzHn1Un3mz3hfzOBL43WhoEkBg.jpg",
-        "season_number": 7,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "かぬか光明",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mz730X1jKAnf5WCrIX2pGxYpqHw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2012-04-07",
-        "episode_count": 51,
-        "id": 90197,
-        "name": "الموسم 8",
-        "overview": "",
-        "poster_path": "/wMLuEAS5187HbzgsqFxoR61Coxh.jpg",
-        "season_number": 8,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "平田絵里子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "石野竜三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
-          },
-          {
-            "name": "中司ゆう花",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jn99uMXCBP7461WspQsqkkoIDku.jpg"
-          },
-          {
-            "name": "寺島拓篤",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/n5uCihb318AzQCT9gieMlI2ueYL.jpg"
-          },
-          {
-            "name": "شين آوموري",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/6Ij6wDZWWcduM7e3N8GT2s73Nto.jpg"
-          },
-          {
-            "name": "水野まりえ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rkWX2NaqfBDCQhDQjDneHhaotUU.jpg"
-          },
-          {
-            "name": "かぬか光明",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/mz730X1jKAnf5WCrIX2pGxYpqHw.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2013-04-06",
-        "episode_count": 51,
-        "id": 90199,
-        "name": "الموسم 9",
-        "overview": "",
-        "poster_path": "/e5ReUfhpEox1JbEHqUmMRomTeto.jpg",
-        "season_number": 9,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "平田絵里子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "石野竜三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
-          },
-          {
-            "name": "中司ゆう花",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/jn99uMXCBP7461WspQsqkkoIDku.jpg"
-          },
-          {
-            "name": "田中あいみ",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/7eeRCbeq7kzqzpOwhK9kgS30O4P.jpg"
-          },
-          {
-            "name": "伊達朱里紗",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/r3JwATG8Qr5fb0DuFz9LBXPOuyO.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2014-04-05",
-        "episode_count": 49,
-        "id": 90210,
-        "name": "الموسم 10",
-        "overview": "",
-        "poster_path": "/pppjkkUKF2p2kicLGcmAAbKwLhr.jpg",
-        "season_number": 10,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "平田絵里子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "石野竜三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
-          },
-          {
-            "name": "奈波果林",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/a3gLMJa2LNc7NrUIzHJTJQaWYqA.jpg"
-          },
-          {
-            "name": "三戸耕三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/k5ik8lQvFiWLiIQWdi4Oq5aZDTz.jpg"
-          },
-          {
-            "name": "菅原雅芳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tC6MzhJbVqJAb53U5nLtmLyKnLi.jpg"
-          },
-          {
-            "name": "سيتسوجي ساتو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/hBY5SAWLpkZXoaXhG6ukHgIeova.jpg"
-          },
-          {
-            "name": "優希知冴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1EkJLh2R2tL2u1Y3dmVkefGEuu.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-04-05",
-        "episode_count": 51,
-        "id": 90213,
-        "name": "الموسم 11",
-        "overview": "",
-        "poster_path": "/70tygdMZu9N1y7W0AzexztAnzui.jpg",
-        "season_number": 11,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "小林由美子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
-          },
-          {
-            "name": "平田絵里子",
-            "role": "بطوله",
-            "photo_url": null
-          },
-          {
-            "name": "石野竜三",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
-          },
-          {
-            "name": "中島沙樹",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/ake6EEG271NVtHviBftLNZyipDH.jpg"
-          },
-          {
-            "name": "菅原雅芳",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/tC6MzhJbVqJAb53U5nLtmLyKnLi.jpg"
-          },
-          {
-            "name": "内野孝聡",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2ll2XvDfM3NbiBQaF9Uh4SVAq9j.jpg"
-          },
-          {
-            "name": "優希知冴",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1EkJLh2R2tL2u1Y3dmVkefGEuu.jpg"
-          },
-          {
-            "name": "水沢史絵",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bFm7l1xR9gtqrOpfDWb2dK6ciUq.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2016-04-03",
-        "episode_count": 51,
-        "id": 121549,
-        "name": "الموسم 12",
-        "overview": "",
-        "poster_path": "/19JNrl6kxBcLFrsLsq5NLdQ0JGX.jpg",
-        "season_number": 12,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2017-04-02",
-        "episode_count": 51,
-        "id": 121693,
-        "name": "الموسم 13",
-        "overview": "",
-        "poster_path": "/z2JqMgU7wfzgD7s5BBwVrEaBz6l.jpg",
-        "season_number": 13,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2018-04-01",
-        "episode_count": 51,
-        "id": 183101,
-        "name": "الموسم 14",
-        "overview": "",
-        "poster_path": "/19xggMuFN2IPD92QmtZ1jS8wfx6.jpg",
-        "season_number": 14,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2019-04-07",
-        "episode_count": 51,
-        "id": 183102,
-        "name": "الموسم 15",
-        "overview": "",
-        "poster_path": "/3KeeH8jrXwuOi1nvOFTLJahnhHB.jpg",
-        "season_number": 15,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2020-04-05",
-        "episode_count": 47,
-        "id": 183103,
-        "name": "الموسم 16",
-        "overview": "",
-        "poster_path": "/zDxnBO0xTk3TQtflLMAJfmYh5So.jpg",
-        "season_number": 16,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2021-04-04",
-        "episode_count": 43,
-        "id": 306779,
-        "name": "الموسم 17",
-        "overview": "",
-        "poster_path": "/ibr2WaBRlEhS8KYiTloAYtwoTpW.jpg",
-        "season_number": 17,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2022-04-03",
-        "episode_count": 17,
-        "id": 306780,
-        "name": "الموسم 18",
-        "overview": "",
-        "poster_path": "/wAIZIUBw8H4UHfLbqTBErPBkNz8.jpg",
-        "season_number": 18,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2022-09-03",
-        "episode_count": 29,
-        "id": 306781,
-        "name": "الموسم 19",
-        "overview": "",
-        "poster_path": "/t6bdL1Y4RNBO36OIRsUGV05izZf.jpg",
-        "season_number": 19,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2023-04-02",
-        "episode_count": 49,
-        "id": 332435,
-        "name": "الموسم 20",
-        "overview": "",
-        "poster_path": "/khRHXHiUlMOaG5lRWxP3HfXDpvJ.jpg",
-        "season_number": 20,
-        "vote_average": 0,
-        "cast": []
-      },
-      {
-        "air_date": "2024-10-04",
-        "episode_count": 12,
-        "id": 400127,
-        "name": "الموسم 21",
-        "overview": "",
-        "poster_path": "/ruei4qKoyLCVhKDaVzrLXvhmRFA.jpg",
-        "season_number": 21,
-        "vote_average": 0,
-        "cast": []
-      }
-    ],
-    "title": "أسياد المبارزة",
-    "title_en": "Duel Masters",
-    "overview_en": "A mysterious organization is interested in fledging duelist Shobu Kirifuda s ability to bring Duel Master creatures to life With the support of his friends Shobu duels with passion discipline and heart as he strives to be like his father and become the next Kaijudo master",
-    "cast": [],
-    "date_added": 1794282375273
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wq5ZykCAFrboIpz36O8pbrJG2dF.jpg",
-    "genre_ids": [
-      16
-    ],
-    "id": 60761,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ダイヤのA",
-    "overview": "بعد أن تم اكتشاف موهبته ينضم الرامي الأيسر الجريء إيجون ساوامورا إلى فريق البيسبول القوي سيدو هاي ليصبح النجم بلا منازع في الفريق",
-    "popularity": 52.4629,
-    "poster_path": "/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg",
-    "first_air_date": "2013-10-06",
-    "softcore": false,
-    "name": "دايا نو إيس",
-    "vote_average": 7.8,
-    "vote_count": 78,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "2013-10-06",
-        "episode_count": 75,
-        "id": 60625,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/mECs764uUvRPqlylYqkZcoeAbXr.jpg",
-        "season_number": 1,
-        "vote_average": 7,
-        "cast": [
-          {
-            "name": "逢坂良太",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
-          },
-          {
-            "name": "تاكاهيرو ساكوراي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-          },
-          {
-            "name": "نوبوناغا شيمازاكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
-          },
-          {
-            "name": "ناتسوكي هاناي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-          },
-          {
-            "name": "細谷佳正",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
-          },
-          {
-            "name": "浅沼晋太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
-          },
-          {
-            "name": "يوكي أونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oEx13CbNLsHzURdYafkFJYXDjfm.jpg"
-          },
-          {
-            "name": "河西健吾",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2015-04-06",
-        "episode_count": 51,
-        "id": 71148,
-        "name": "الموسم 2",
-        "overview": "",
-        "poster_path": "/hoNOVp9437crJmhhoG6YTtSNQ5s.jpg",
-        "season_number": 2,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "逢坂良太",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
-          },
-          {
-            "name": "تاكاهيرو ساكوراي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-          },
-          {
-            "name": "نوبوناغا شيمازاكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
-          },
-          {
-            "name": "ناتسوكي هاناي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-          },
-          {
-            "name": "細谷佳正",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
-          },
-          {
-            "name": "浅沼晋太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
-          },
-          {
-            "name": "يوكي أونو",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/oEx13CbNLsHzURdYafkFJYXDjfm.jpg"
-          },
-          {
-            "name": "浪川大輔",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2019-04-02",
-        "episode_count": 52,
-        "id": 120127,
-        "name": "الموسم 3",
-        "overview": "",
-        "poster_path": "/daaP1posHgJcfnAhNwSA7ZUQttk.jpg",
-        "season_number": 3,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "逢坂良太",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
-          },
-          {
-            "name": "تاكاهيرو ساكوراي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-          },
-          {
-            "name": "نوبوناغا شيمازاكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
-          },
-          {
-            "name": "ناتسوكي هاناي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-          },
-          {
-            "name": "浅沼晋太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
-          },
-          {
-            "name": "دايكي ياماشيتا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
-          },
-          {
-            "name": "شونسكي تاكيوتشي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg"
-          },
-          {
-            "name": "内田雄馬",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
-          }
-        ]
-      },
-      {
-        "air_date": "2026-04-05",
-        "episode_count": 25,
-        "id": 491542,
-        "name": "الموسم 4",
-        "overview": "",
-        "poster_path": "/7ytRM3GH2b4OF0jNpwXfRuLTlHF.jpg",
-        "season_number": 4,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "逢坂良太",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
-          },
-          {
-            "name": "تاكاهيرو ساكوراي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-          },
-          {
-            "name": "نوبوناغا شيمازاكي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
-          },
-          {
-            "name": "ناتسوكي هاناي",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-          },
-          {
-            "name": "浅沼晋太郎",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "دايا نو إيس",
-    "title_en": "Ace of the Diamond",
-    "overview_en": "Scouted for his potential brash left handed pitcher Eijun Sawamura joins baseball powerhouse Seido High to become the undisputed ace of the team",
-    "cast": [
-      {
-        "name": "逢坂良太",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
-      },
-      {
-        "name": "تاكاهيرو ساكوراي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-      },
-      {
-        "name": "نوبوناغا شيمازاكي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
-      },
-      {
-        "name": "ناتسوكي هاناي",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-      },
-      {
-        "name": "浅沼晋太郎",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
-      }
-    ],
-    "date_added": 1794282375720
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tsCAhbrs3RIsHz5sdURsWxqTNAK.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751
-    ],
-    "id": 153485,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "サザエさん",
-    "overview": "",
-    "popularity": 52.3213,
-    "poster_path": "/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
-    "first_air_date": "1969-10-05",
-    "softcore": false,
-    "name": "サザエさん",
-    "vote_average": 7,
-    "vote_count": 7,
-    "media_type": "tv",
-    "seasons": [
-      {
-        "air_date": "1969-10-05",
-        "episode_count": 2650,
-        "id": 235898,
-        "name": "الموسم 1",
-        "overview": "",
-        "poster_path": "/uQ7VarmFJ4lLyHYRqaXg6BoDO9K.jpg",
-        "season_number": 1,
-        "vote_average": 0,
-        "cast": [
-          {
-            "name": "加藤みどり",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/z9EosEyw5lnYbO5cIz7IKNdaLQC.jpg"
-          },
-          {
-            "name": "近石真介",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/uIDZGQrMGX9OI3gUi2pLAMugPz7.jpg"
-          },
-          {
-            "name": "هيروشي ماسووكا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/bLa1MWREDrt29C8uKZxewnnUedE.jpg"
-          },
-          {
-            "name": "هيدييوكي تاناكا",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
-          },
-          {
-            "name": "نوبويو أوياما",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/b2NCEjqTtTmEFsFYLaGDbWQ4xAK.jpg"
-          },
-          {
-            "name": "高橋和枝",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/xN0V0E64BU2xx5nUMro4Z6FhuBS.jpg"
-          },
-          {
-            "name": "冨永みーな",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/A1MTkgqfy8UYkQTOLhv3oxo7eYA.jpg"
-          },
-          {
-            "name": "山本嘉子",
-            "role": "بطوله",
-            "photo_url": "https://image.tmdb.org/t/p/w185/fHMzCQdjj2FcrMppjIxXGwzlIOO.jpg"
-          }
-        ]
-      }
-    ],
-    "title": "サザエさん",
-    "title_en": "Sazae san",
-    "overview_en": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb",
-    "cast": [
-      {
-        "name": "加藤みどり",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/z9EosEyw5lnYbO5cIz7IKNdaLQC.jpg"
-      },
-      {
-        "name": "近石真介",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/uIDZGQrMGX9OI3gUi2pLAMugPz7.jpg"
-      },
-      {
-        "name": "هيروشي ماسووكا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/bLa1MWREDrt29C8uKZxewnnUedE.jpg"
-      },
-      {
-        "name": "هيدييوكي تاناكا",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
-      },
-      {
-        "name": "نوبويو أوياما",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/b2NCEjqTtTmEFsFYLaGDbWQ4xAK.jpg"
-      },
-      {
-        "name": "高橋和枝",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/xN0V0E64BU2xx5nUMro4Z6FhuBS.jpg"
-      },
-      {
-        "name": "冨永みーな",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/A1MTkgqfy8UYkQTOLhv3oxo7eYA.jpg"
-      },
-      {
-        "name": "山本嘉子",
-        "role": "بطوله",
-        "photo_url": "https://image.tmdb.org/t/p/w185/fHMzCQdjj2FcrMppjIxXGwzlIOO.jpg"
-      }
-    ],
-    "date_added": 1794282375889
+    "date_added": 1794312977230
   },
   {
     "adult": false,
@@ -10991,7 +9451,7 @@
     "original_language": "ja",
     "original_name": "クレヨンしんちゃん",
     "overview": "",
-    "popularity": 51.2437,
+    "popularity": 57.5688,
     "poster_path": "/qTW3lU85NG83hXWtAdC3qwOgeDO.jpg",
     "first_air_date": "1992-04-13",
     "softcore": false,
@@ -12866,7 +11326,1547 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/23NrErvp0tFXWJxKMumfDKhR0Ms.jpg"
       }
     ],
-    "date_added": 1794282379301
+    "date_added": 1794312979651
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2vEu810kBAgeyEvIYsCbNpPl4mf.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 30623,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クレヨンしんちゃん",
+    "overview": "شين تشان جارنا الصغير كارثة متنقلة يُثير الفوضى أينما حلّ بجسد طفل وعقل بالغ يُحدث شين تشان فوضى أكبر من أي طفل آخر شين تشان مرح متفائل ويتحمس لكل شيء هذا الطفل ذو الخمس سنوات يُحب أن يفعل الأشياء على طريقته",
+    "popularity": 53.608,
+    "poster_path": "/hHEW7BZbufaM0erzk0jtW5bB3gn.jpg",
+    "first_air_date": "1992-04-13",
+    "softcore": false,
+    "name": "شين تشان",
+    "vote_average": 7.727,
+    "vote_count": 119,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1992-04-13",
+        "episode_count": 2484,
+        "id": 106483,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/7qJEhLlky9aZq0LdkXt98YLbITI.jpg",
+        "season_number": 1,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "矢島晶子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+          },
+          {
+            "name": "ريو ناتسوكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/wxiSwjEDMjgRH41PUiGzLplTBqA.jpg"
+          },
+          {
+            "name": "كيجي فوجيوارا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+          },
+          {
+            "name": "こおろぎさとみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg"
+          },
+          {
+            "name": "真柴摩利",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
+          },
+          {
+            "name": "佐藤智恵",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+          },
+          {
+            "name": "روكورو نايا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8mRUsy6nPOPEkbqfZ0HsaCj9U7N.jpg"
+          },
+          {
+            "name": "富沢美智恵",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "شين تشان",
+    "title_en": "Crayon Shin chan",
+    "overview_en": "Shin chan the boy next door is a walking disaster creating chaos wherever he goes With the body of a child and the mind of an adult Shinchan is wreaking more havoc than any child before Shin chan is carefree optimistic and gets excited about everything This 5 year old likes to do things his way",
+    "cast": [
+      {
+        "name": "矢島晶子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/7b9jO2IYcSpBQRcmhXnlOIgwmRI.jpg"
+      },
+      {
+        "name": "ريو ناتسوكي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/wxiSwjEDMjgRH41PUiGzLplTBqA.jpg"
+      },
+      {
+        "name": "كيجي فوجيوارا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+      },
+      {
+        "name": "こおろぎさとみ",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg"
+      },
+      {
+        "name": "真柴摩利",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/RlkauVMbIofwYvwM9j5Hbb6SyJ.jpg"
+      },
+      {
+        "name": "佐藤智恵",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/x6A6uWJUI8HnhaYVXVZJKT2EA0r.jpg"
+      },
+      {
+        "name": "روكورو نايا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8mRUsy6nPOPEkbqfZ0HsaCj9U7N.jpg"
+      },
+      {
+        "name": "富沢美智恵",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
+      }
+    ],
+    "date_added": 1794312979683
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18,
+      9648
+    ],
+    "id": 46195,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "化物語",
+    "overview": "",
+    "popularity": 50.8785,
+    "poster_path": "/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+    "first_air_date": "2009-07-03",
+    "softcore": false,
+    "name": "化物語",
+    "vote_average": 8.1,
+    "vote_count": 538,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2009-07-03",
+        "episode_count": 12,
+        "id": 54549,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/qfyqDAuERlN2afs8f56or1jSALn.jpg",
+        "season_number": 1,
+        "vote_average": 7.3,
+        "cast": [
+          {
+            "name": "神谷浩史",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          },
+          {
+            "name": "تشيوا سايتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
+          },
+          {
+            "name": "堀江由衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+          },
+          {
+            "name": "坂本真綾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
+          },
+          {
+            "name": "ゆきのさつき",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2012-01-08",
+        "episode_count": 11,
+        "id": 54547,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/hbLt05yzOMhvV4OcQzmhciFr3Fh.jpg",
+        "season_number": 2,
+        "vote_average": 6.7,
+        "cast": [
+          {
+            "name": "神谷浩史",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          },
+          {
+            "name": "تشيوا سايتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
+          },
+          {
+            "name": "堀江由衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+          },
+          {
+            "name": "坂本真綾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
+          },
+          {
+            "name": "شينيتشيرو ميكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+          },
+          {
+            "name": "ゆきのさつき",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
+          },
+          {
+            "name": "白石涼子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9HiasuMo5zn0nOGLcFJGQ5VvjWy.jpg"
+          },
+          {
+            "name": "ميوكي ساواشيرو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2013-07-07",
+        "episode_count": 23,
+        "id": 54546,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/z0GPizkLzcx2pmyXJJQewg8EvhC.jpg",
+        "season_number": 3,
+        "vote_average": 7.7,
+        "cast": [
+          {
+            "name": "神谷浩史",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          },
+          {
+            "name": "تشيوا سايتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
+          },
+          {
+            "name": "堀江由衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+          },
+          {
+            "name": "坂本真綾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
+          },
+          {
+            "name": "شينيتشيرو ميكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
+          },
+          {
+            "name": "立木文彦",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9nHFGrvdT5c4klZOiFQElybNy7h.jpg"
+          },
+          {
+            "name": "ゆきのさつき",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
+          },
+          {
+            "name": "白石涼子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/9HiasuMo5zn0nOGLcFJGQ5VvjWy.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-10-04",
+        "episode_count": 12,
+        "id": 71107,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/xn2mGKbYX2SniGoI6iDmi07CMB1.jpg",
+        "season_number": 4,
+        "vote_average": 7.2,
+        "cast": [
+          {
+            "name": "神谷浩史",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          },
+          {
+            "name": "تشيوا سايتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
+          },
+          {
+            "name": "堀江由衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+          },
+          {
+            "name": "坂本真綾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
+          },
+          {
+            "name": "ゆきのさつき",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
+          },
+          {
+            "name": "ميوكي ساواشيرو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+          },
+          {
+            "name": "井上麻里奈",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/f7PuEx1h2g4FLgMzk9wCrWuS9Eu.jpg"
+          },
+          {
+            "name": "ساوري هايامي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2024-07-06",
+        "episode_count": 15,
+        "id": 400986,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/gUQPpTYCZ18JpCKVFRIX1j4l8s1.jpg",
+        "season_number": 5,
+        "vote_average": 9.6,
+        "cast": [
+          {
+            "name": "神谷浩史",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          },
+          {
+            "name": "تشيوا سايتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
+          },
+          {
+            "name": "堀江由衣",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+          },
+          {
+            "name": "坂本真綾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
+          },
+          {
+            "name": "ゆきのさつき",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
+          },
+          {
+            "name": "ميوكي ساواشيرو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "化物語",
+    "title_en": "Monogatari",
+    "overview_en": "Koyomi Araragi a high school student finds himself constantly encountering girls afflicted by supernatural oddities He dedicates himself to helping them often with the aid of the eccentric specialist Meme Oshino Each arc talks about a different girl s unique struggle and the mysterious cause of their affliction The series explores themes of adolescence personal growth and the complexities of human relationships It s known for its witty dialogue stylistic animation and unique narrative structure",
+    "cast": [
+      {
+        "name": "神谷浩史",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+      },
+      {
+        "name": "تشيوا سايتو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jxWuA4K0ZPkOQMeIgLlzaHSkgiV.jpg"
+      },
+      {
+        "name": "堀江由衣",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg"
+      },
+      {
+        "name": "坂本真綾",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg"
+      },
+      {
+        "name": "ゆきのさつき",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fb9LqdOZPNjlXq3uHriBOmIe2WP.jpg"
+      },
+      {
+        "name": "ميوكي ساواشيرو",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+      }
+    ],
+    "date_added": 1794312980055
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "genre_ids": [
+      16,
+      18,
+      9648,
+      80
+    ],
+    "id": 30981,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "MONSTER",
+    "overview": "تتكلم القصة عن جرائم وشخص يقف وراها وطبيب يقع ضحيه اتهام الشرطه له بأرتكاب الجرائم الطبيب اخطأ بالماضي ولكنه لم يترك خطأه وحاول اصلاحه بعد مرور عدة سنين وافنى نفسه لكي يصلح ما اخطأ به ينجرف جرّاح أعصاب ياباني لامع في عالم الظلام حين يحاول حلّ ألغاز سلسلة من جرائم القتل تتضمّن مريضًا قد عالجه ذات يوم وأنقذ حياته",
+    "popularity": 47.6197,
+    "poster_path": "/o38ptRl2CvMVb6HZnstFLPcveDK.jpg",
+    "first_air_date": "2004-04-07",
+    "softcore": false,
+    "name": "الوحش",
+    "vote_average": 8.515,
+    "vote_count": 872,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2004-04-07",
+        "episode_count": 74,
+        "id": 42537,
+        "name": "الموسم الأول",
+        "overview": "تتكلم القصة عن جرائم وشخص يقف وراها وطبيب يقع ضحيه اتهام الشرطه له بأرتكاب الجرائم الطبيب اخطأ بالماضي ولكنه لم يترك خطأه وحاول اصلاحه بعد مرور عدة سنين وافنى نفسه لكي يصلح ما اخطأ به ينجرف جرّاح أعصاب ياباني لامع في عالم الظلام حين يحاول حلّ ألغاز سلسلة من جرائم القتل تتضمّن مريضًا قد عالجه ذات يوم وأنقذ حياته.",
+        "poster_path": "/tzAJyuqJbUVvHUtJLAqmctJ7idr.jpg",
+        "season_number": 1,
+        "vote_average": 8.3,
+        "cast": [
+          {
+            "name": "هيدينوبو كيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d7MW4HQjMsZnX3cy2dF8QJETCbf.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "الوحش",
+    "title_en": "Monster",
+    "overview_en": "Kenzou Tenma a Japanese brain surgeon in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient",
+    "cast": [
+      {
+        "name": "هيدينوبو كيوتشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/d7MW4HQjMsZnX3cy2dF8QJETCbf.jpg"
+      }
+    ],
+    "date_added": 1794312980189
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gJYZBM200Flldo6im3EEdXslR1j.jpg",
+    "genre_ids": [
+      16,
+      10759
+    ],
+    "id": 902,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "遊☆戯☆王デュエルモンスターズ",
+    "overview": "غالبًا ما يستهدف المتنمرون شخصًا ضعيفًا وهزيلًا تمامًا مثل يوغي موتو إنه يعتز بلعبة أحجية الألفية وهي قطعة أثرية مصرية قديمة أحضرها جده إلى متجر الألعاب الخاص به",
+    "popularity": 53.9672,
+    "poster_path": "/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg",
+    "first_air_date": "2000-04-18",
+    "softcore": false,
+    "name": "يوغي اوه مبارزة الوحوش",
+    "vote_average": 8.3,
+    "vote_count": 1062,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2000-04-18",
+        "episode_count": 224,
+        "id": 64013,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/2LBNEJBetl5rVPz2mF9EqE8SyO7.jpg",
+        "season_number": 1,
+        "vote_average": 8.2,
+        "cast": [
+          {
+            "name": "كينجيرو تسودا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg"
+          },
+          {
+            "name": "高橋広樹",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lFwGUkR5Lj09FVz7s0xwFgQgeRi.jpg"
+          },
+          {
+            "name": "風間俊介",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4znMnThy7B1RDOXQLktw321Ot0J.jpg"
+          },
+          {
+            "name": "齊藤真紀",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "近藤孝行",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/80t01IkasGucNSqHCp5XEImYPY.jpg"
+          },
+          {
+            "name": "松本梨香",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
+          },
+          {
+            "name": "جونكو تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+          },
+          {
+            "name": "岩永哲哉",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/4IG4sg8dFOizFboBCfeftDzYslU.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "يوغي اوه مبارزة الوحوش",
+    "title_en": "Yu Gi Oh Duel Monsters",
+    "overview_en": "Bullies often target someone frail and weak someone exactly like Yûgi Muto He treasures his Millennium Puzzle an ancient Egyptian artifact that was brought into his grandfather s game shop Believing that solving the puzzle will grant him his wish he completes the puzzle unleashing a new personality within him the soul of the King of Games The new personality named Yami Yûgi is the exact opposite of Yûgi Upon any injustice toward him Yami Yûgi takes over Yûgi s body and forces the opponent into a Shadow Game",
+    "cast": [
+      {
+        "name": "كينجيرو تسودا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg"
+      },
+      {
+        "name": "高橋広樹",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/lFwGUkR5Lj09FVz7s0xwFgQgeRi.jpg"
+      },
+      {
+        "name": "風間俊介",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4znMnThy7B1RDOXQLktw321Ot0J.jpg"
+      },
+      {
+        "name": "齊藤真紀",
+        "role": "بطوله",
+        "photo_url": null
+      },
+      {
+        "name": "近藤孝行",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/80t01IkasGucNSqHCp5XEImYPY.jpg"
+      },
+      {
+        "name": "松本梨香",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg"
+      },
+      {
+        "name": "جونكو تاكيوتشي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+      },
+      {
+        "name": "岩永哲哉",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/4IG4sg8dFOizFboBCfeftDzYslU.jpg"
+      }
+    ],
+    "date_added": 1794312980301
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1xlpfYGGFXOlYqQSUlFKEv4hqbt.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765,
+      10762
+    ],
+    "id": 46392,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デュエル・マスターズ",
+    "overview": "تهتم منظمة غامضة بقدرة المبارز الناشئ شوبو كيريفودا على إحياء مخلوقات سيد المبارزة وبدعم من أصدقائه يخوض شوبو مبارزات بشغف وانضباط وإصرار ساعيًا لأن يكون مثل والده ويصبح سيد الكايجودو القادم",
+    "popularity": 56.4793,
+    "poster_path": "/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+    "first_air_date": "2002-10-21",
+    "softcore": false,
+    "name": "أسياد المبارزة",
+    "vote_average": 6.2,
+    "vote_count": 21,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2002-10-21",
+        "episode_count": 26,
+        "id": 54651,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/9geJLGR0xCU3tDPBNlGmyCB0fpK.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "若本規夫",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sYHA1BlH2itS3XGv9K2xjqsTFcC.jpg"
+          },
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "田中完",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/57xCpM05FpiOr6bF033YTOYEDdc.jpg"
+          },
+          {
+            "name": "坂口候一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cdiTrNAAv6PXwZSxg2cO2ozldXs.jpg"
+          },
+          {
+            "name": "كاتسويوكي كونيشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+          },
+          {
+            "name": "吉野裕行",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg"
+          },
+          {
+            "name": "浜田賢二",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
+          },
+          {
+            "name": "山口眞弓",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2004-04-19",
+        "episode_count": 52,
+        "id": 54653,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/igfp3mmrAahoxoSd29Y1Vjps0Ox.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "若本規夫",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sYHA1BlH2itS3XGv9K2xjqsTFcC.jpg"
+          },
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "田中完",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/57xCpM05FpiOr6bF033YTOYEDdc.jpg"
+          },
+          {
+            "name": "坂口候一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cdiTrNAAv6PXwZSxg2cO2ozldXs.jpg"
+          },
+          {
+            "name": "كاتسويوكي كونيشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+          },
+          {
+            "name": "吉野裕行",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg"
+          },
+          {
+            "name": "浜田賢二",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
+          },
+          {
+            "name": "山口眞弓",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-04-09",
+        "episode_count": 12,
+        "id": 54652,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/jM6iKubxAqofjK6MMPOCtDpkj4X.jpg",
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "若本規夫",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/sYHA1BlH2itS3XGv9K2xjqsTFcC.jpg"
+          },
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "田中完",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/57xCpM05FpiOr6bF033YTOYEDdc.jpg"
+          },
+          {
+            "name": "坂口候一",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/cdiTrNAAv6PXwZSxg2cO2ozldXs.jpg"
+          },
+          {
+            "name": "كاتسويوكي كونيشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+          },
+          {
+            "name": "吉野裕行",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg"
+          },
+          {
+            "name": "浜田賢二",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
+          },
+          {
+            "name": "山口眞弓",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uzkuXAZqQhbW03ELeLpmjcIzGpS.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2007-10-06",
+        "episode_count": 25,
+        "id": 90191,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/dcUcMEpMCZj8El7kZUoDDLOcmV2.jpg",
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2008-04-05",
+        "episode_count": 100,
+        "id": 90192,
+        "name": "الموسم 5",
+        "overview": "",
+        "poster_path": "/p5WQbwz02JKqpxIoLMxSt5BlR6p.jpg",
+        "season_number": 5,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2010-04-03",
+        "episode_count": 50,
+        "id": 90195,
+        "name": "الموسم 6",
+        "overview": "",
+        "poster_path": "/fvMn1wh4zAD68wdO34WItYZrKE9.jpg",
+        "season_number": 6,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2011-04-02",
+        "episode_count": 52,
+        "id": 90196,
+        "name": "الموسم 7",
+        "overview": "",
+        "poster_path": "/bHzHn1Un3mz3hfzOBL43WhoEkBg.jpg",
+        "season_number": 7,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "かぬか光明",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mz730X1jKAnf5WCrIX2pGxYpqHw.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2012-04-07",
+        "episode_count": 51,
+        "id": 90197,
+        "name": "الموسم 8",
+        "overview": "",
+        "poster_path": "/wMLuEAS5187HbzgsqFxoR61Coxh.jpg",
+        "season_number": 8,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "平田絵里子",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "石野竜三",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
+          },
+          {
+            "name": "中司ゆう花",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jn99uMXCBP7461WspQsqkkoIDku.jpg"
+          },
+          {
+            "name": "寺島拓篤",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/n5uCihb318AzQCT9gieMlI2ueYL.jpg"
+          },
+          {
+            "name": "شين آوموري",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/6Ij6wDZWWcduM7e3N8GT2s73Nto.jpg"
+          },
+          {
+            "name": "水野まりえ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rkWX2NaqfBDCQhDQjDneHhaotUU.jpg"
+          },
+          {
+            "name": "かぬか光明",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/mz730X1jKAnf5WCrIX2pGxYpqHw.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2013-04-06",
+        "episode_count": 51,
+        "id": 90199,
+        "name": "الموسم 9",
+        "overview": "",
+        "poster_path": "/e5ReUfhpEox1JbEHqUmMRomTeto.jpg",
+        "season_number": 9,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "平田絵里子",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "石野竜三",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
+          },
+          {
+            "name": "中司ゆう花",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/jn99uMXCBP7461WspQsqkkoIDku.jpg"
+          },
+          {
+            "name": "田中あいみ",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/7eeRCbeq7kzqzpOwhK9kgS30O4P.jpg"
+          },
+          {
+            "name": "伊達朱里紗",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/r3JwATG8Qr5fb0DuFz9LBXPOuyO.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2014-04-05",
+        "episode_count": 49,
+        "id": 90210,
+        "name": "الموسم 10",
+        "overview": "",
+        "poster_path": "/pppjkkUKF2p2kicLGcmAAbKwLhr.jpg",
+        "season_number": 10,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "平田絵里子",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "石野竜三",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
+          },
+          {
+            "name": "奈波果林",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/a3gLMJa2LNc7NrUIzHJTJQaWYqA.jpg"
+          },
+          {
+            "name": "三戸耕三",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/k5ik8lQvFiWLiIQWdi4Oq5aZDTz.jpg"
+          },
+          {
+            "name": "菅原雅芳",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tC6MzhJbVqJAb53U5nLtmLyKnLi.jpg"
+          },
+          {
+            "name": "سيتسوجي ساتو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/hBY5SAWLpkZXoaXhG6ukHgIeova.jpg"
+          },
+          {
+            "name": "優希知冴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1EkJLh2R2tL2u1Y3dmVkefGEuu.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-04-05",
+        "episode_count": 51,
+        "id": 90213,
+        "name": "الموسم 11",
+        "overview": "",
+        "poster_path": "/70tygdMZu9N1y7W0AzexztAnzui.jpg",
+        "season_number": 11,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "小林由美子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/83IuLRuKivjifdFwfsKhmhTJKzd.jpg"
+          },
+          {
+            "name": "平田絵里子",
+            "role": "بطوله",
+            "photo_url": null
+          },
+          {
+            "name": "石野竜三",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iHTQMY1JJEIMV8y94W8JNsjJbfm.jpg"
+          },
+          {
+            "name": "中島沙樹",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/ake6EEG271NVtHviBftLNZyipDH.jpg"
+          },
+          {
+            "name": "菅原雅芳",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/tC6MzhJbVqJAb53U5nLtmLyKnLi.jpg"
+          },
+          {
+            "name": "内野孝聡",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2ll2XvDfM3NbiBQaF9Uh4SVAq9j.jpg"
+          },
+          {
+            "name": "優希知冴",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1EkJLh2R2tL2u1Y3dmVkefGEuu.jpg"
+          },
+          {
+            "name": "水沢史絵",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bFm7l1xR9gtqrOpfDWb2dK6ciUq.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2016-04-03",
+        "episode_count": 51,
+        "id": 121549,
+        "name": "الموسم 12",
+        "overview": "",
+        "poster_path": "/19JNrl6kxBcLFrsLsq5NLdQ0JGX.jpg",
+        "season_number": 12,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2017-04-02",
+        "episode_count": 51,
+        "id": 121693,
+        "name": "الموسم 13",
+        "overview": "",
+        "poster_path": "/z2JqMgU7wfzgD7s5BBwVrEaBz6l.jpg",
+        "season_number": 13,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2018-04-01",
+        "episode_count": 51,
+        "id": 183101,
+        "name": "الموسم 14",
+        "overview": "",
+        "poster_path": "/19xggMuFN2IPD92QmtZ1jS8wfx6.jpg",
+        "season_number": 14,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2019-04-07",
+        "episode_count": 51,
+        "id": 183102,
+        "name": "الموسم 15",
+        "overview": "",
+        "poster_path": "/3KeeH8jrXwuOi1nvOFTLJahnhHB.jpg",
+        "season_number": 15,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2020-04-05",
+        "episode_count": 47,
+        "id": 183103,
+        "name": "الموسم 16",
+        "overview": "",
+        "poster_path": "/zDxnBO0xTk3TQtflLMAJfmYh5So.jpg",
+        "season_number": 16,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2021-04-04",
+        "episode_count": 43,
+        "id": 306779,
+        "name": "الموسم 17",
+        "overview": "",
+        "poster_path": "/ibr2WaBRlEhS8KYiTloAYtwoTpW.jpg",
+        "season_number": 17,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2022-04-03",
+        "episode_count": 17,
+        "id": 306780,
+        "name": "الموسم 18",
+        "overview": "",
+        "poster_path": "/wAIZIUBw8H4UHfLbqTBErPBkNz8.jpg",
+        "season_number": 18,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2022-09-03",
+        "episode_count": 29,
+        "id": 306781,
+        "name": "الموسم 19",
+        "overview": "",
+        "poster_path": "/t6bdL1Y4RNBO36OIRsUGV05izZf.jpg",
+        "season_number": 19,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2023-04-02",
+        "episode_count": 49,
+        "id": 332435,
+        "name": "الموسم 20",
+        "overview": "",
+        "poster_path": "/khRHXHiUlMOaG5lRWxP3HfXDpvJ.jpg",
+        "season_number": 20,
+        "vote_average": 0,
+        "cast": []
+      },
+      {
+        "air_date": "2024-10-04",
+        "episode_count": 12,
+        "id": 400127,
+        "name": "الموسم 21",
+        "overview": "",
+        "poster_path": "/ruei4qKoyLCVhKDaVzrLXvhmRFA.jpg",
+        "season_number": 21,
+        "vote_average": 0,
+        "cast": []
+      }
+    ],
+    "title": "أسياد المبارزة",
+    "title_en": "Duel Masters",
+    "overview_en": "A mysterious organization is interested in fledging duelist Shobu Kirifuda s ability to bring Duel Master creatures to life With the support of his friends Shobu duels with passion discipline and heart as he strives to be like his father and become the next Kaijudo master",
+    "cast": [],
+    "date_added": 1794312981730
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wq5ZykCAFrboIpz36O8pbrJG2dF.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 60761,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダイヤのA",
+    "overview": "بعد أن تم اكتشاف موهبته ينضم الرامي الأيسر الجريء إيجون ساوامورا إلى فريق البيسبول القوي سيدو هاي ليصبح النجم بلا منازع في الفريق",
+    "popularity": 51.7618,
+    "poster_path": "/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg",
+    "first_air_date": "2013-10-06",
+    "softcore": false,
+    "name": "دايا نو إيس",
+    "vote_average": 7.8,
+    "vote_count": 78,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "2013-10-06",
+        "episode_count": 75,
+        "id": 60625,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/mECs764uUvRPqlylYqkZcoeAbXr.jpg",
+        "season_number": 1,
+        "vote_average": 7,
+        "cast": [
+          {
+            "name": "逢坂良太",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
+          },
+          {
+            "name": "تاكاهيرو ساكوراي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+          },
+          {
+            "name": "نوبوناغا شيمازاكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+          },
+          {
+            "name": "ناتسوكي هاناي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+          },
+          {
+            "name": "細谷佳正",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+          },
+          {
+            "name": "浅沼晋太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+          },
+          {
+            "name": "يوكي أونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oEx13CbNLsHzURdYafkFJYXDjfm.jpg"
+          },
+          {
+            "name": "河西健吾",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2015-04-06",
+        "episode_count": 51,
+        "id": 71148,
+        "name": "الموسم 2",
+        "overview": "",
+        "poster_path": "/hoNOVp9437crJmhhoG6YTtSNQ5s.jpg",
+        "season_number": 2,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "逢坂良太",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
+          },
+          {
+            "name": "تاكاهيرو ساكوراي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+          },
+          {
+            "name": "نوبوناغا شيمازاكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+          },
+          {
+            "name": "ناتسوكي هاناي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+          },
+          {
+            "name": "細谷佳正",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+          },
+          {
+            "name": "浅沼晋太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+          },
+          {
+            "name": "يوكي أونو",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/oEx13CbNLsHzURdYafkFJYXDjfm.jpg"
+          },
+          {
+            "name": "浪川大輔",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2019-04-02",
+        "episode_count": 52,
+        "id": 120127,
+        "name": "الموسم 3",
+        "overview": "",
+        "poster_path": "/daaP1posHgJcfnAhNwSA7ZUQttk.jpg",
+        "season_number": 3,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "逢坂良太",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
+          },
+          {
+            "name": "تاكاهيرو ساكوراي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+          },
+          {
+            "name": "نوبوناغا شيمازاكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+          },
+          {
+            "name": "ناتسوكي هاناي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+          },
+          {
+            "name": "浅沼晋太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+          },
+          {
+            "name": "دايكي ياماشيتا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
+          },
+          {
+            "name": "شونسكي تاكيوتشي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg"
+          },
+          {
+            "name": "内田雄馬",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+          }
+        ]
+      },
+      {
+        "air_date": "2026-04-05",
+        "episode_count": 25,
+        "id": 491542,
+        "name": "الموسم 4",
+        "overview": "",
+        "poster_path": "/7ytRM3GH2b4OF0jNpwXfRuLTlHF.jpg",
+        "season_number": 4,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "逢坂良太",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
+          },
+          {
+            "name": "تاكاهيرو ساكوراي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+          },
+          {
+            "name": "نوبوناغا شيمازاكي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+          },
+          {
+            "name": "ناتسوكي هاناي",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+          },
+          {
+            "name": "浅沼晋太郎",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "دايا نو إيس",
+    "title_en": "Ace of the Diamond",
+    "overview_en": "Scouted for his potential brash left handed pitcher Eijun Sawamura joins baseball powerhouse Seido High to become the undisputed ace of the team",
+    "cast": [
+      {
+        "name": "逢坂良太",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg"
+      },
+      {
+        "name": "تاكاهيرو ساكوراي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+      },
+      {
+        "name": "نوبوناغا شيمازاكي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+      },
+      {
+        "name": "ناتسوكي هاناي",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+      },
+      {
+        "name": "浅沼晋太郎",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/5D2YC0c4zg9TXyOi0PpIXRugvzb.jpg"
+      }
+    ],
+    "date_added": 1794312981839
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tsCAhbrs3RIsHz5sdURsWxqTNAK.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 153485,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サザエさん",
+    "overview": "",
+    "popularity": 42.0531,
+    "poster_path": "/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+    "first_air_date": "1969-10-05",
+    "softcore": false,
+    "name": "サザエさん",
+    "vote_average": 7,
+    "vote_count": 7,
+    "media_type": "tv",
+    "seasons": [
+      {
+        "air_date": "1969-10-05",
+        "episode_count": 2650,
+        "id": 235898,
+        "name": "الموسم 1",
+        "overview": "",
+        "poster_path": "/uQ7VarmFJ4lLyHYRqaXg6BoDO9K.jpg",
+        "season_number": 1,
+        "vote_average": 0,
+        "cast": [
+          {
+            "name": "加藤みどり",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/z9EosEyw5lnYbO5cIz7IKNdaLQC.jpg"
+          },
+          {
+            "name": "近石真介",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/uIDZGQrMGX9OI3gUi2pLAMugPz7.jpg"
+          },
+          {
+            "name": "هيروشي ماسووكا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/bLa1MWREDrt29C8uKZxewnnUedE.jpg"
+          },
+          {
+            "name": "هيدييوكي تاناكا",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
+          },
+          {
+            "name": "نوبويو أوياما",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/b2NCEjqTtTmEFsFYLaGDbWQ4xAK.jpg"
+          },
+          {
+            "name": "高橋和枝",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/xN0V0E64BU2xx5nUMro4Z6FhuBS.jpg"
+          },
+          {
+            "name": "冨永みーな",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/A1MTkgqfy8UYkQTOLhv3oxo7eYA.jpg"
+          },
+          {
+            "name": "山本嘉子",
+            "role": "بطوله",
+            "photo_url": "https://image.tmdb.org/t/p/w185/fHMzCQdjj2FcrMppjIxXGwzlIOO.jpg"
+          }
+        ]
+      }
+    ],
+    "title": "サザエさん",
+    "title_en": "Sazae san",
+    "overview_en": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb",
+    "cast": [
+      {
+        "name": "加藤みどり",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/z9EosEyw5lnYbO5cIz7IKNdaLQC.jpg"
+      },
+      {
+        "name": "近石真介",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/uIDZGQrMGX9OI3gUi2pLAMugPz7.jpg"
+      },
+      {
+        "name": "هيروشي ماسووكا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/bLa1MWREDrt29C8uKZxewnnUedE.jpg"
+      },
+      {
+        "name": "هيدييوكي تاناكا",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
+      },
+      {
+        "name": "نوبويو أوياما",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/b2NCEjqTtTmEFsFYLaGDbWQ4xAK.jpg"
+      },
+      {
+        "name": "高橋和枝",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/xN0V0E64BU2xx5nUMro4Z6FhuBS.jpg"
+      },
+      {
+        "name": "冨永みーな",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/A1MTkgqfy8UYkQTOLhv3oxo7eYA.jpg"
+      },
+      {
+        "name": "山本嘉子",
+        "role": "بطوله",
+        "photo_url": "https://image.tmdb.org/t/p/w185/fHMzCQdjj2FcrMppjIxXGwzlIOO.jpg"
+      }
+    ],
+    "date_added": 1794312981936
   },
   {
     "adult": false,
@@ -12883,7 +12883,7 @@
     "original_language": "ja",
     "original_name": "俺だけレベルアップな件",
     "overview": "مضى أكثر من عقد على الظهور المفاجئ للسراديب المدعوة بالبوابات والتي تربط هذا العالم ببعد آخر واستفاقة الأشخاص ذوي القوى الخارقة المدعووين بالصيادين يستعمل الصيادون قواهم الخارقة لغزو الدياميس التي بداخل البوابات لكسب عيشهم وسون جينوو صياد من أقل درجة يُعتبر الصياد الأضعف في البشرية في أحد الأيام يجد نفسه في ديماس مزدوج وهو ديماس من درجة عالية مخفيّ في ديماس من درجة منخفضة أمام جينوو المصاب بجروح بليغة تظهر نافذة مهمة غامضة بينما هو على شفير الموت يقرر جينوو قبول المهمة ما يجعله الشخص الوحيد القادر على رفع مستواه",
-    "popularity": 50.7837,
+    "popularity": 48.4676,
     "poster_path": "/3hrI9aoEHWt3e4XM2g0jIcYGRB.jpg",
     "first_air_date": "2024-01-07",
     "softcore": false,
@@ -12990,7 +12990,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
       }
     ],
-    "date_added": 1794282379481
+    "date_added": 1794312982020
   },
   {
     "adult": false,
@@ -13007,7 +13007,7 @@
     "original_language": "ja",
     "original_name": "ようこそ実力至上主義の教室へ",
     "overview": "مدرسة كودو ايكوسي العاليا وهي مدرسة النخبة حيث تقوم بصقل الطلاب والمواهب لديهم حيث يكونوا الطلبة بعد التخرج قادرون على الالتحاق بالجامعة او الوظائف الحكومية تعطي هذه المدرسة حرية كاملة في كل شيء حتى تصفيفة الشعر او السماح للطلبة إحضار الأخرين للتأثير على المدرسة بمعنى آخر انها نعيم الطلبة ايانوكوجي كايوتاكا هو طالب بهذه المدرسة لكن تم وضعه في الفصل D حيث يتم وضع الطلبة الغير موهوبين او الغير مبالين وتم الحاقة بهذا الصف لأنه غير مكترث لامتحانات القبول وحصوله على اقل درجات للقبول يلتقي هاروكاتا سوزنو زميلته بالصف وزملائه في الصف شيئا فشيئا يتأثر بهم ويتغير ليغدو شخص أفضل",
-    "popularity": 50.1757,
+    "popularity": 46.4549,
     "poster_path": "/f6ch9DTaxsOarnNVLKzMLp2TyV4.jpg",
     "first_air_date": "2017-07-12",
     "softcore": false,
@@ -13281,7 +13281,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
       }
     ],
-    "date_added": 1794282379971
+    "date_added": 1794312982174
   },
   {
     "adult": false,
@@ -13299,7 +13299,7 @@
     "original_language": "ja",
     "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
     "overview": "بعدما تنتهي محاولتهما لإحياء والدتهما الراحلة بكارثة ينطلق شقيقان في رحلة بحث عن حجر الفلاسفة وقد تُركا في أجساد مشوّهة لا تُشبه ما كانا عليه",
-    "popularity": 49.5781,
+    "popularity": 45.0921,
     "poster_path": "/nY6dXYDto9rGUdq3eK8bg6AdnQ.jpg",
     "first_air_date": "2009-04-05",
     "softcore": false,
@@ -13376,7 +13376,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3gsw7BKhF70wCRDcnwavlz1U4FU.jpg"
       }
     ],
-    "date_added": 1794282380142
+    "date_added": 1794312982349
   },
   {
     "adult": false,
@@ -13544,7 +13544,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
       }
     ],
-    "date_added": 1794282380471
+    "date_added": 1794312982470
   },
   {
     "adult": false,
@@ -13784,7 +13784,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg"
       }
     ],
-    "date_added": 1794282380884
+    "date_added": 1794312982730
   },
   {
     "adult": false,
@@ -13890,7 +13890,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
       }
     ],
-    "date_added": 1794282381055
+    "date_added": 1794312982799
   },
   {
     "adult": false,
@@ -14224,7 +14224,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cxTyiRskkgUpQfZrCw7zpkocV5I.jpg"
       }
     ],
-    "date_added": 1794282381626
+    "date_added": 1794312983196
   },
   {
     "adult": false,
@@ -14443,7 +14443,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/s59Lip4dPC7rI3cz1pHs9vSmuvf.jpg"
       }
     ],
-    "date_added": 1794282382167
+    "date_added": 1794312983435
   },
   {
     "adult": false,
@@ -14578,7 +14578,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
       }
     ],
-    "date_added": 1794282382744
+    "date_added": 1794312983745
   },
   {
     "adult": false,
@@ -14703,7 +14703,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg"
       }
     ],
-    "date_added": 1794282382924
+    "date_added": 1794312983786
   },
   {
     "adult": false,
@@ -14879,7 +14879,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg"
       }
     ],
-    "date_added": 1794282383244
+    "date_added": 1794312983937
   },
   {
     "adult": false,
@@ -15107,7 +15107,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7Bs0mNo3nPOnsOLWVCFDdIpohUI.jpg"
       }
     ],
-    "date_added": 1794282383570
+    "date_added": 1794312984152
   },
   {
     "adult": false,
@@ -15283,7 +15283,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
       }
     ],
-    "date_added": 1794282383597
+    "date_added": 1794312984199
   },
   {
     "adult": false,
@@ -15558,7 +15558,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nj0DsfJ5tL96HlXvzThj7R022f2.jpg"
       }
     ],
-    "date_added": 1794282384192
+    "date_added": 1794312984511
   },
   {
     "adult": false,
@@ -15581,7 +15581,7 @@
     "softcore": false,
     "name": "هجوم العمالقة",
     "vote_average": 8.69,
-    "vote_count": 7813,
+    "vote_count": 7815,
     "media_type": "tv",
     "seasons": [
       {
@@ -15833,7 +15833,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
       }
     ],
-    "date_added": 1794282384637
+    "date_added": 1794312984791
   },
   {
     "adult": false,
@@ -16000,7 +16000,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b59PickRsrhT6kaUKN2dD8c7ip.jpg"
       }
     ],
-    "date_added": 1794282385219
+    "date_added": 1794312985140
   },
   {
     "adult": false,
@@ -16271,7 +16271,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/cuUqpOqZyzfJLzRa6syhOLUCvNW.jpg"
       }
     ],
-    "date_added": 1794282385645
+    "date_added": 1794312985369
   },
   {
     "adult": false,
@@ -16624,7 +16624,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1794282386831
+    "date_added": 1794312985595
   },
   {
     "adult": false,
@@ -17008,7 +17008,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iYnpn1e7Ba1oMK8ZdgAvqzxng9e.jpg"
       }
     ],
-    "date_added": 1794282387414
+    "date_added": 1794312985722
   },
   {
     "adult": false,
@@ -17154,7 +17154,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ntdMVGhBAnVdanQjJMoj50lAS1X.jpg"
       }
     ],
-    "date_added": 1794282387684
+    "date_added": 1794312985979
   },
   {
     "adult": false,
@@ -17280,7 +17280,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zcgbjwPHY9YV4UMpm6bvFXorWCJ.jpg"
       }
     ],
-    "date_added": 1794282387884
+    "date_added": 1794312986061
   },
   {
     "adult": false,
@@ -17715,7 +17715,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
       }
     ],
-    "date_added": 1794282388598
+    "date_added": 1794312986537
   },
   {
     "adult": false,
@@ -17838,6 +17838,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg"
       }
     ],
-    "date_added": 1794282388745
+    "date_added": 1794312986667
   }
 ]
