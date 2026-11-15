@@ -102,8 +102,8 @@
     "tagline": "عصرٌ جديد من الشر.",
     "title": "ريزدنت إيفل",
     "video": false,
-    "vote_average": 7.521,
-    "vote_count": 2150,
+    "vote_average": 7.522,
+    "vote_count": 2167,
     "translations": {
       "translations": [
         {
@@ -2473,11 +2473,11 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
       }
     ],
-    "date_added": 1794688113479
+    "date_added": 1794701364802
   },
   {
     "adult": false,
-    "backdrop_path": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+    "backdrop_path": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
     "belongs_to_collection": null,
     "budget": 82000000,
     "genres": [
@@ -2560,8 +2560,8 @@
     "tagline": "يعتمد بقاؤهم على الرابطة التي تجمعهم.",
     "title": "قلب الوحش",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 762,
+    "vote_average": 7.5,
+    "vote_count": 783,
     "translations": {
       "translations": [
         {
@@ -3215,6 +3215,19 @@
         {
           "adult": false,
           "gender": 2,
+          "id": 19769,
+          "known_for_department": "Directing",
+          "name": "ديفيد آير",
+          "original_name": "David Ayer",
+          "popularity": 2.3003,
+          "profile_path": "/7JmWK2wg2StEc9eYjY96s7OJgb7.jpg",
+          "credit_id": "65fe011004733f014ae70e1b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
           "id": 4609220,
           "known_for_department": "Writing",
           "name": "Cameron Alexander",
@@ -3224,19 +3237,6 @@
           "credit_id": "65fe02433520e8014bd52071",
           "department": "Writing",
           "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 1634328,
-          "known_for_department": "Acting",
-          "name": "Olivia Hamilton",
-          "original_name": "Olivia Hamilton",
-          "popularity": 0.6764,
-          "profile_path": "/jztRaobVg4YWiV0cIa6UbS8JymY.jpg",
-          "credit_id": "65fe01247f6c8d01636ddad2",
-          "department": "Production",
-          "job": "Producer"
         },
         {
           "adult": false,
@@ -3267,19 +3267,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 19769,
-          "known_for_department": "Directing",
-          "name": "ديفيد آير",
-          "original_name": "David Ayer",
-          "popularity": 2.3003,
-          "profile_path": "/7JmWK2wg2StEc9eYjY96s7OJgb7.jpg",
-          "credit_id": "65fe011004733f014ae70e1b",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 1030160,
           "known_for_department": "Directing",
           "name": "Richard Raymond",
@@ -3289,6 +3276,19 @@
           "credit_id": "65fe0278770700016308d789",
           "department": "Production",
           "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1634328,
+          "known_for_department": "Acting",
+          "name": "Olivia Hamilton",
+          "original_name": "Olivia Hamilton",
+          "popularity": 0.6764,
+          "profile_path": "/jztRaobVg4YWiV0cIa6UbS8JymY.jpg",
+          "credit_id": "65fe01247f6c8d01636ddad2",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -6472,7 +6472,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
       }
     ],
-    "date_added": 1794688113489
+    "date_added": 1794701364825
   },
   {
     "adult": false,
@@ -6545,8 +6545,8 @@
     "tagline": "هل هذه هي النهاية؟",
     "title": "أمل",
     "video": false,
-    "vote_average": 6.772,
-    "vote_count": 646,
+    "vote_average": 6.779,
+    "vote_count": 653,
     "translations": {
       "translations": [
         {
@@ -6634,7 +6634,7 @@
           "english_name": "Italian",
           "data": {
             "homepage": "",
-            "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
+            "overview": "Nel remoto villaggio sudcoreano di Hope Harbor, il capo della polizia Bum-seok e l'agente Sung-ae vengono chiamati a indagare su una creatura misteriosa che sta seminando il caos nella comunità. Tuttavia, non tutto è come sembra, e le percezioni possono essere fuorvianti. Ciò che si crede sia basato sull'ignoranza, semina il seme del disastro, che si trasforma attraverso il conflitto umano in una tragedia di proporzioni enormi.",
             "runtime": 0,
             "tagline": "",
             "title": "Hope"
@@ -8317,7 +8317,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg"
       }
     ],
-    "date_added": 1794688113498
+    "date_added": 1794701364848
   },
   {
     "adult": false,
@@ -8376,8 +8376,8 @@
     "tagline": "",
     "title": "Other Mommy",
     "video": false,
-    "vote_average": 6.282,
-    "vote_count": 380,
+    "vote_average": 6.313,
+    "vote_count": 393,
     "translations": {
       "translations": [
         {
@@ -12080,7 +12080,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jE3zEMEYflS3adHtF11YqLAwlVI.jpg"
       }
     ],
-    "date_added": 1794688113512
+    "date_added": 1794701364871
   },
   {
     "adult": false,
@@ -12177,8 +12177,8 @@
     "tagline": "",
     "title": "قصة ديري",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 119,
+    "vote_average": 6.76,
+    "vote_count": 121,
     "translations": {
       "translations": [
         {
@@ -15115,7 +15115,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/n5cvVnT2zMsVMOrzq0uLgJUpmO.jpg"
       }
     ],
-    "date_added": 1794688113535
+    "date_added": 1794701364941
   },
   {
     "adult": false,
@@ -15181,8 +15181,8 @@
     "tagline": "",
     "title": "نهاية العالم Z العالم الجديد",
     "video": false,
-    "vote_average": 6.192,
-    "vote_count": 209,
+    "vote_average": 6.174,
+    "vote_count": 211,
     "translations": {
       "translations": [
         {
@@ -18122,7 +18122,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/xzEjSgLCkrwQ1HZ7OY6CbSNM9wM.jpg"
       }
     ],
-    "date_added": 1794688113544
+    "date_added": 1794701365009
   },
   {
     "adult": false,
@@ -18214,8 +18214,8 @@
     "tagline": "",
     "title": "Beware Boiúna",
     "video": false,
-    "vote_average": 6.107,
-    "vote_count": 56,
+    "vote_average": 6.1,
+    "vote_count": 57,
     "translations": {
       "translations": [
         {
@@ -19469,7 +19469,7 @@
         "photo_url": null
       }
     ],
-    "date_added": 1794688113562
+    "date_added": 1794701365079
   },
   {
     "adult": false,
@@ -19552,8 +19552,8 @@
     "tagline": "",
     "title": "غودزيلا ناقص صفر",
     "video": false,
-    "vote_average": 7.769,
-    "vote_count": 193,
+    "vote_average": 7.78,
+    "vote_count": 198,
     "translations": {
       "translations": [
         {
@@ -21139,7 +21139,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
       }
     ],
-    "date_added": 1794688113571
+    "date_added": 1794701365101
   },
   {
     "adult": false,
@@ -21210,8 +21210,8 @@
     "tagline": "",
     "title": "لا تستسلم أبدًا",
     "video": false,
-    "vote_average": 7.306,
-    "vote_count": 18,
+    "vote_average": 7.068,
+    "vote_count": 22,
     "translations": {
       "translations": [
         {
@@ -23064,7 +23064,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/d82Wh6BsEHDu9CG9RFCNgvwk0jR.jpg"
       }
     ],
-    "date_added": 1794688113579
+    "date_added": 1794701365148
   },
   {
     "adult": false,
@@ -23151,8 +23151,8 @@
     "tagline": "",
     "title": "رامايانا",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 44,
+    "vote_average": 7.5,
+    "vote_count": 46,
     "translations": {
       "translations": [
         {
@@ -24051,7 +24051,7 @@
           "popularity": 1.8601,
           "profile_path": "/ncJa8IBYfDknQLpjeciaQy6dXkH.jpg",
           "cast_id": 201,
-          "character": "Meghanad",
+          "character": "Meghnad",
           "credit_id": "6aebf8787dcea78a6d63ea29",
           "order": 24
         },
@@ -25797,7 +25797,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fbN5eUSX9UjizTfotFh8Ka6NyqV.jpg"
       }
     ],
-    "date_added": 1794688113588
+    "date_added": 1794701365214
   },
   {
     "adult": false,
@@ -25860,8 +25860,8 @@
     "tagline": "",
     "title": "النمس",
     "video": false,
-    "vote_average": 6.266,
-    "vote_count": 158,
+    "vote_average": 6.182,
+    "vote_count": 165,
     "translations": {
       "translations": [
         {
@@ -27177,7 +27177,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zogTGGsLvQCxvuwkyOtwtbKAz3o.jpg"
       }
     ],
-    "date_added": 1794688113609
+    "date_added": 1794701365235
   },
   {
     "adult": false,
@@ -27252,8 +27252,8 @@
     "tagline": "",
     "title": "Ghost Soldier",
     "video": false,
-    "vote_average": 8.833,
-    "vote_count": 12,
+    "vote_average": 8.538,
+    "vote_count": 13,
     "translations": {
       "translations": [
         {
@@ -28059,7 +28059,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5vCz2eLp7eauaHLF1IA0nn7Yu1R.jpg"
       }
     ],
-    "date_added": 1794688113618
+    "date_added": 1794701365305
   },
   {
     "adult": false,
@@ -28152,8 +28152,8 @@
     "tagline": "لا يوجد بصيص أمل في طريقنا.",
     "title": "فيريتي",
     "video": false,
-    "vote_average": 6.991,
-    "vote_count": 690,
+    "vote_average": 6.987,
+    "vote_count": 694,
     "translations": {
       "translations": [
         {
@@ -30929,7 +30929,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hQvZKknETtr4eTuK5I27f6jdRUY.jpg"
       }
     ],
-    "date_added": 1794688113627
+    "date_added": 1794701365369
   },
   {
     "adult": false,
@@ -31024,8 +31024,8 @@
     "tagline": "",
     "title": "La bola negra",
     "video": false,
-    "vote_average": 8,
-    "vote_count": 218,
+    "vote_average": 7.989,
+    "vote_count": 220,
     "translations": {
       "translations": [
         {
@@ -31845,45 +31845,6 @@
         },
         {
           "adult": false,
-          "gender": 1,
-          "id": 1485142,
-          "known_for_department": "Costume & Make-Up",
-          "name": "Ana López Cobos",
-          "original_name": "Ana López Cobos",
-          "popularity": 0.1992,
-          "profile_path": "/tOyd7aIPZM1EeXDU3uVJ8vdU5ez.jpg",
-          "credit_id": "690e35145fb76ce1f8a0bd6f",
-          "department": "Costume & Make-Up",
-          "job": "Costume Designer"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 6530,
-          "known_for_department": "Production",
-          "name": "Eva Leira",
-          "original_name": "Eva Leira",
-          "popularity": 0.3095,
-          "profile_path": null,
-          "credit_id": "690e352c27297f2e379ab583",
-          "department": "Production",
-          "job": "Casting Director"
-        },
-        {
-          "adult": false,
-          "gender": 1,
-          "id": 6531,
-          "known_for_department": "Production",
-          "name": "Yolanda Serrano",
-          "original_name": "Yolanda Serrano",
-          "popularity": 0.2572,
-          "profile_path": null,
-          "credit_id": "690e353adc4f028746a0bccf",
-          "department": "Production",
-          "job": "Casting Director"
-        },
-        {
-          "adult": false,
           "gender": 2,
           "id": 1424796,
           "known_for_department": "Art",
@@ -32222,7 +32183,7 @@
         },
         {
           "adult": false,
-          "gender": 0,
+          "gender": 2,
           "id": 3337887,
           "known_for_department": "Writing",
           "name": "Alberto Conejero",
@@ -32248,7 +32209,7 @@
         },
         {
           "adult": false,
-          "gender": 0,
+          "gender": 2,
           "id": 3337887,
           "known_for_department": "Writing",
           "name": "Alberto Conejero",
@@ -32921,6 +32882,45 @@
           "credit_id": "6adadc293fb9ed3c5a5197c9",
           "department": "Sound",
           "job": "Sound Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1485142,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ana López Cobos",
+          "original_name": "Ana López Cobos",
+          "popularity": 0.1992,
+          "profile_path": "/tOyd7aIPZM1EeXDU3uVJ8vdU5ez.jpg",
+          "credit_id": "6af859a2098627b06d6dee8a",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6530,
+          "known_for_department": "Production",
+          "name": "Eva Leira",
+          "original_name": "Eva Leira",
+          "popularity": 0.3095,
+          "profile_path": null,
+          "credit_id": "6af859a467c59912cf642208",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6531,
+          "known_for_department": "Production",
+          "name": "Yolanda Serrano",
+          "original_name": "Yolanda Serrano",
+          "popularity": 0.2572,
+          "profile_path": null,
+          "credit_id": "6af859a5dee9e00e2c26ee28",
+          "department": "Production",
+          "job": "Casting"
         }
       ]
     },
@@ -32973,7 +32973,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/oveoXN7fZFIeL5G1fJ7Dk5SJeNc.jpg"
       }
     ],
-    "date_added": 1794688113635
+    "date_added": 1794701365390
   },
   {
     "adult": false,
@@ -33050,8 +33050,8 @@
     "tagline": "",
     "title": "السباق الحب الزائف",
     "video": false,
-    "vote_average": 7.613,
-    "vote_count": 172,
+    "vote_average": 7.582,
+    "vote_count": 176,
     "translations": {
       "translations": [
         {
@@ -34184,7 +34184,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/6FkzcacM6wCKovrE7OIvN74KPMZ.jpg"
       }
     ],
-    "date_added": 1794688113644
+    "date_added": 1794701365455
   },
   {
     "adult": false,
@@ -34269,8 +34269,8 @@
     "tagline": "",
     "title": "سقوط 2 النقطة المميته",
     "video": false,
-    "vote_average": 7.235,
-    "vote_count": 784,
+    "vote_average": 7.232,
+    "vote_count": 791,
     "translations": {
       "translations": [
         {
@@ -35368,7 +35368,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aokiUcwDJlZcTditvVfkRaSLG98.jpg"
       }
     ],
-    "date_added": 1794688113652
+    "date_added": 1794701365502
   },
   {
     "adult": false,
@@ -35455,7 +35455,7 @@
     "title": "إبنزر",
     "video": false,
     "vote_average": 7.9,
-    "vote_count": 48,
+    "vote_count": 57,
     "translations": {
       "translations": [
         {
@@ -36813,7 +36813,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
       }
     ],
-    "date_added": 1794688113662
+    "date_added": 1794701365523
   },
   {
     "adult": false,
@@ -38218,58 +38218,6 @@
         },
         {
           "adult": false,
-          "gender": 2,
-          "id": 145612,
-          "known_for_department": "Writing",
-          "name": "Guy Moshe",
-          "original_name": "Guy Moshe",
-          "popularity": 0.4266,
-          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
-          "credit_id": "659dbcdd24b33300961b9c6e",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 0,
-          "id": 1018715,
-          "known_for_department": "Writing",
-          "name": "Mark Bacci",
-          "original_name": "Mark Bacci",
-          "popularity": 0.3086,
-          "profile_path": null,
-          "credit_id": "659dbce59bcd0f01481ad1ba",
-          "department": "Writing",
-          "job": "Writer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1664023,
-          "known_for_department": "Acting",
-          "name": "Bazzel Baz",
-          "original_name": "Bazzel Baz",
-          "popularity": 0.1858,
-          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
-          "credit_id": "659dbcf724b333014c14a878",
-          "department": "Writing",
-          "job": "Idea"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1664023,
-          "known_for_department": "Acting",
-          "name": "Bazzel Baz",
-          "original_name": "Bazzel Baz",
-          "popularity": 0.1858,
-          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
-          "credit_id": "659dbd0a24b33301a629d1f8",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
           "gender": 0,
           "id": 4472963,
           "known_for_department": "Production",
@@ -38278,19 +38226,6 @@
           "popularity": 0.0993,
           "profile_path": null,
           "credit_id": "659dbd27d6590b025cb23a62",
-          "department": "Production",
-          "job": "Producer"
-        },
-        {
-          "adult": false,
-          "gender": 2,
-          "id": 1319608,
-          "known_for_department": "Production",
-          "name": "Matthew G. Zamias",
-          "original_name": "Matthew G. Zamias",
-          "popularity": 0.147,
-          "profile_path": null,
-          "credit_id": "659dbd3a1d78f201a5b9928f",
           "department": "Production",
           "job": "Producer"
         },
@@ -38310,15 +38245,28 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 4472964,
+          "id": 19689,
           "known_for_department": "Production",
-          "name": "Harel Kodesh",
-          "original_name": "Harel Kodesh",
-          "popularity": 0.0441,
+          "name": "Paul Schnee",
+          "original_name": "Paul Schnee",
+          "popularity": 0.4421,
           "profile_path": null,
-          "credit_id": "659dbd5eeb64f100f24e2257",
+          "credit_id": "659dbd926728a80201abc28a",
           "department": "Production",
-          "job": "Executive Producer"
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1319608,
+          "known_for_department": "Production",
+          "name": "Matthew G. Zamias",
+          "original_name": "Matthew G. Zamias",
+          "popularity": 0.147,
+          "profile_path": null,
+          "credit_id": "659dbd3a1d78f201a5b9928f",
+          "department": "Production",
+          "job": "Producer"
         },
         {
           "adult": false,
@@ -38349,15 +38297,15 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 19689,
-          "known_for_department": "Production",
-          "name": "Paul Schnee",
-          "original_name": "Paul Schnee",
-          "popularity": 0.4421,
-          "profile_path": null,
-          "credit_id": "659dbd926728a80201abc28a",
-          "department": "Production",
-          "job": "Casting"
+          "id": 1664023,
+          "known_for_department": "Acting",
+          "name": "Bazzel Baz",
+          "original_name": "Bazzel Baz",
+          "popularity": 0.1858,
+          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+          "credit_id": "659dbcf724b333014c14a878",
+          "department": "Writing",
+          "job": "Idea"
         },
         {
           "adult": false,
@@ -38371,6 +38319,58 @@
           "credit_id": "659dbda591b530025960290f",
           "department": "Production",
           "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1664023,
+          "known_for_department": "Acting",
+          "name": "Bazzel Baz",
+          "original_name": "Bazzel Baz",
+          "popularity": 0.1858,
+          "profile_path": "/AtPktMAzbsj2zeL2jT3wUlWVKhX.jpg",
+          "credit_id": "659dbd0a24b33301a629d1f8",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 145612,
+          "known_for_department": "Writing",
+          "name": "Guy Moshe",
+          "original_name": "Guy Moshe",
+          "popularity": 0.4266,
+          "profile_path": "/cihfkHFJyWxPi7irCNXVh8U7NCs.jpg",
+          "credit_id": "659dbcdd24b33300961b9c6e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1018715,
+          "known_for_department": "Writing",
+          "name": "Mark Bacci",
+          "original_name": "Mark Bacci",
+          "popularity": 0.3086,
+          "profile_path": null,
+          "credit_id": "659dbce59bcd0f01481ad1ba",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4472964,
+          "known_for_department": "Production",
+          "name": "Harel Kodesh",
+          "original_name": "Harel Kodesh",
+          "popularity": 0.0441,
+          "profile_path": null,
+          "credit_id": "659dbd5eeb64f100f24e2257",
+          "department": "Production",
+          "job": "Executive Producer"
         },
         {
           "adult": false,
@@ -38644,7 +38644,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vxW6iEHbuCcC7eFoQWoBAS7SYjM.jpg"
       }
     ],
-    "date_added": 1794688113677
+    "date_added": 1794701365591
   },
   {
     "adult": false,
@@ -41409,7 +41409,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
       }
     ],
-    "date_added": 1794688113689
+    "date_added": 1794701365661
   },
   {
     "adult": false,
@@ -41628,6 +41628,19 @@
             "runtime": 0,
             "tagline": "정글은 침입자를 결코 잊지 않는다",
             "title": "디스페르타르"
+          }
+        },
+        {
+          "iso_3166_1": "GE",
+          "iso_639_1": "ka",
+          "name": "ქართული",
+          "english_name": "Georgian",
+          "data": {
+            "homepage": "",
+            "overview": "",
+            "runtime": 0,
+            "tagline": "",
+            "title": "გამოღვიძება"
           }
         }
       ]
@@ -42378,7 +42391,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/fUxP97lr48yA8nEElT0exoAuOGm.jpg"
       }
     ],
-    "date_added": 1794688113699
+    "date_added": 1794701365756
   },
   {
     "adult": false,
@@ -45321,7 +45334,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/zuZC4J2bZQ4b89eRjI7b70hhfWi.jpg"
       }
     ],
-    "date_added": 1794688113723
+    "date_added": 1794701365882
   },
   {
     "adult": false,
@@ -48973,7 +48986,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/tfHWenV2BLQ7qfr6mbHIeFrETFT.jpg"
       }
     ],
-    "date_added": 1794688114279
+    "date_added": 1794701365955
   },
   {
     "adult": false,
@@ -51508,7 +51521,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
       }
     ],
-    "date_added": 1794688114289
+    "date_added": 1794701366025
   },
   {
     "adult": false,
@@ -53968,7 +53981,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/r6aPdJnGV2ZZkg6G55WOCicR39f.jpg"
       }
     ],
-    "date_added": 1794688114299
+    "date_added": 1794701366047
   },
   {
     "adult": false,
@@ -55730,7 +55743,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg"
       }
     ],
-    "date_added": 1794688114309
+    "date_added": 1794701366117
   },
   {
     "adult": false,
@@ -57331,9 +57344,9 @@
           "original_name": "Curry Barker",
           "popularity": 2.3779,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3ce46f680bc91897d416",
-          "department": "Writing",
-          "job": "Writer"
+          "credit_id": "66ce3c9dd8f4fa10a363a57c",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -57344,9 +57357,9 @@
           "original_name": "Curry Barker",
           "popularity": 2.3779,
           "profile_path": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg",
-          "credit_id": "66ce3c9dd8f4fa10a363a57c",
-          "department": "Directing",
-          "job": "Director"
+          "credit_id": "66ce3ce46f680bc91897d416",
+          "department": "Writing",
+          "job": "Writer"
         },
         {
           "adult": false,
@@ -58647,7 +58660,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
       }
     ],
-    "date_added": 1794688114317
+    "date_added": 1794701366177
   },
   {
     "adult": false,
@@ -60792,7 +60805,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
       }
     ],
-    "date_added": 1794688114327
+    "date_added": 1794701366201
   },
   {
     "adult": false,
@@ -61204,7 +61217,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/gmWgyf4nhRYopLvcnThpcqVetPG.jpg"
       }
     ],
-    "date_added": 1794688114348
+    "date_added": 1794701366267
   },
   {
     "adult": false,
@@ -65683,7 +65696,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
       }
     ],
-    "date_added": 1794688114358
+    "date_added": 1794701366314
   },
   {
     "adult": false,
@@ -66744,19 +66757,6 @@
         {
           "adult": false,
           "gender": 2,
-          "id": 58324,
-          "known_for_department": "Directing",
-          "name": "Jean-François Richet",
-          "original_name": "Jean-François Richet",
-          "popularity": 1.135,
-          "profile_path": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg",
-          "credit_id": "663e7d2b7413cf82ad3f978a",
-          "department": "Directing",
-          "job": "Director"
-        },
-        {
-          "adult": false,
-          "gender": 2,
           "id": 976,
           "known_for_department": "Acting",
           "name": "جيسون ستاثام",
@@ -66766,6 +66766,19 @@
           "credit_id": "663e7dd8ec544462166cc059",
           "department": "Production",
           "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58324,
+          "known_for_department": "Directing",
+          "name": "Jean-François Richet",
+          "original_name": "Jean-François Richet",
+          "popularity": 1.135,
+          "profile_path": "/21xIr5FKmP3QEyXsQodmGMszAQd.jpg",
+          "credit_id": "663e7d2b7413cf82ad3f978a",
+          "department": "Directing",
+          "job": "Director"
         },
         {
           "adult": false,
@@ -67377,7 +67390,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
       }
     ],
-    "date_added": 1794688114382
+    "date_added": 1794701366381
   },
   {
     "adult": false,
@@ -69034,7 +69047,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg"
       }
     ],
-    "date_added": 1794688115860
+    "date_added": 1794701369383
   },
   {
     "adult": false,
@@ -69171,7 +69184,7 @@
         "overview": "تبلغ الحرب بين الجان و\"ساورون\" ذروتها... لكن سيد الظلام يعمل سراً على صنع قوة مطلقة تمكنه من تحقيق النصر: خاتم واحد يحكمها جميعاً.",
         "poster_path": "/9gSNkJmf6A1uVKMcUhDn4WPKGLR.jpg",
         "season_number": 3,
-        "vote_average": 5.2,
+        "vote_average": 5.4,
         "cast": [
           {
             "name": "Charlie Vickers",
@@ -69261,7 +69274,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/sPDE7yH0TwbwEp12BU1g2ikS2IH.jpg"
       }
     ],
-    "date_added": 1794688115901
+    "date_added": 1794701369469
   },
   {
     "adult": false,
@@ -70451,7 +70464,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/pcNKk1FMyEsdHFipfLfEmhXQhZy.jpg"
       }
     ],
-    "date_added": 1794688117255
+    "date_added": 1794701371916
   },
   {
     "adult": false,
@@ -70895,7 +70908,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
       }
     ],
-    "date_added": 1794688118257
+    "date_added": 1794701374086
   },
   {
     "adult": false,
@@ -71071,7 +71084,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
       }
     ],
-    "date_added": 1794688118289
+    "date_added": 1794701374156
   },
   {
     "adult": false,
@@ -71194,7 +71207,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
       }
     ],
-    "date_added": 1794688118355
+    "date_added": 1794701374343
   },
   {
     "adult": false,
@@ -72370,7 +72383,7 @@
         "overview": "",
         "poster_path": "/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
         "season_number": 23,
-        "vote_average": 7.1,
+        "vote_average": 7.3,
         "cast": [
           {
             "name": "إلين بومبيو",
@@ -72460,7 +72473,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/dUaUfI29UIsq0jqCEdNlTsvAFjC.jpg"
       }
     ],
-    "date_added": 1794688119492
+    "date_added": 1794701376316
   },
   {
     "adult": false,
@@ -72993,7 +73006,7 @@
     "title_en": "The Daily Show",
     "overview_en": "The World s Fakest News Team tackle the biggest stories in news politics and pop culture",
     "cast": [],
-    "date_added": 1794688120208
+    "date_added": 1794701379122
   },
   {
     "adult": false,
@@ -74202,7 +74215,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/koYjDuTL1XSh7VfFmaYSIp91PnD.jpg"
       }
     ],
-    "date_added": 1794688120837
+    "date_added": 1794701381261
   },
   {
     "adult": false,
@@ -75422,7 +75435,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vAFLgUumouOOZ23zdEw5kmnmcZj.jpg"
       }
     ],
-    "date_added": 1794688121381
+    "date_added": 1794701383341
   },
   {
     "adult": false,
@@ -75696,7 +75709,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
       }
     ],
-    "date_added": 1794688121705
+    "date_added": 1794701384569
   },
   {
     "adult": false,
@@ -75886,7 +75899,7 @@
         "overview": "",
         "poster_path": "/aqvDey0veLcY7XkoDWGFOqRAD3I.jpg",
         "season_number": 4,
-        "vote_average": 8.6,
+        "vote_average": 8.4,
         "cast": [
           {
             "name": "سيلفستر ستالون",
@@ -75976,7 +75989,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
       }
     ],
-    "date_added": 1794688121748
+    "date_added": 1794701384736
   },
   {
     "adult": false,
@@ -77689,7 +77702,7 @@
     "title_en": "Goede Tijden Slechte Tijden",
     "overview_en": "Goede tijden slechte tijden also known as GTST is the longest running Dutch soap opera revolving around the lives of the families Alberts Sanders De Jong Van Houten and Bouwhuis It all takes place in the fictional town of Meerdijk",
     "cast": [],
-    "date_added": 1794688122981
+    "date_added": 1794701387865
   },
   {
     "adult": false,
@@ -77772,7 +77785,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/58jlu0lSO0rWEzsWPjGLoEI0NWr.jpg"
       }
     ],
-    "date_added": 1794688122998
+    "date_added": 1794701387905
   },
   {
     "adult": false,
@@ -78067,7 +78080,7 @@
     "title_en": "WWE NXT",
     "overview_en": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches",
     "cast": [],
-    "date_added": 1794688123489
+    "date_added": 1794701389532
   },
   {
     "adult": false,
@@ -78476,7 +78489,7 @@
     "title_en": "Raw",
     "overview_en": "A regularly scheduled live year round program featuring some of the biggest WWE Superstars",
     "cast": [],
-    "date_added": 1794688124672
+    "date_added": 1794701392631
   },
   {
     "adult": false,
@@ -81865,7 +81878,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/vMBxRSbIRwsGw7JA3ZxZKnWGotr.jpg"
       }
     ],
-    "date_added": 1794688127658
+    "date_added": 1794701397909
   },
   {
     "adult": false,
@@ -82093,7 +82106,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/c1t1omK78rr4ETivGyfrmufNxU4.jpg"
       }
     ],
-    "date_added": 1794688127751
+    "date_added": 1794701398198
   },
   {
     "adult": false,
@@ -82394,7 +82407,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg"
       }
     ],
-    "date_added": 1794688127954
+    "date_added": 1794701398775
   },
   {
     "adult": false,
@@ -83244,7 +83257,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/9CHXT3NKUZDPUyNMkwDj5zLMUTT.jpg"
       }
     ],
-    "date_added": 1794688128232
+    "date_added": 1794701400072
   },
   {
     "adult": false,
@@ -83430,7 +83443,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/K04o1MqKbw5Vxjwe2WoKKCsrcV.jpg"
       }
     ],
-    "date_added": 1794688128380
+    "date_added": 1794701400407
   },
   {
     "adult": false,
@@ -83657,7 +83670,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/yuSlH01DQKe9lNUfp9mb7wb3eDz.jpg"
       }
     ],
-    "date_added": 1794688128556
+    "date_added": 1794701400708
   },
   {
     "adult": false,
@@ -83782,7 +83795,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
       }
     ],
-    "date_added": 1794688128591
+    "date_added": 1794701400936
   },
   {
     "adult": false,
@@ -84268,7 +84281,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/b0b8yqMmhpXkVoeS7csqdSV9Cb4.jpg"
       }
     ],
-    "date_added": 1794688128844
+    "date_added": 1794701401707
   },
   {
     "adult": false,
@@ -86219,7 +86232,7 @@
     "title_en": "EastEnders",
     "overview_en": "The everyday lives of working class residents of Albert Square a traditional Victorian square of terrace houses surrounding a park in the East End of London s Walford borough",
     "cast": [],
-    "date_added": 1794688130495
+    "date_added": 1794701405863
   },
   {
     "adult": false,
@@ -86343,7 +86356,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/1VjsntY1kuOHLhTHd472w7fvm6i.jpg"
       }
     ],
-    "date_added": 1794688130523
+    "date_added": 1794701406051
   },
   {
     "adult": false,
@@ -89073,7 +89086,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
       }
     ],
-    "date_added": 1794688132217
+    "date_added": 1794701410548
   },
   {
     "adult": false,
@@ -89166,7 +89179,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg"
       }
     ],
-    "date_added": 1794688132269
+    "date_added": 1794701410854
   },
   {
     "adult": false,
@@ -89915,7 +89928,7 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/2qLHQpxvFMlMKf7qeBKGRTsJF4S.jpg"
       }
     ],
-    "date_added": 1794688133139
+    "date_added": 1794701411985
   },
   {
     "adult": false,
@@ -89950,7 +89963,7 @@
         "overview": "يُشتبه في تورط \"يون يي-جون\"، وريث مجموعة \"تايكانغ\"، في مقتل سكرتيره؛ إلا أن نفوذ المجموعة وغياب الأدلة يعرقلان سير التحقيقات. وللحصول على أدلة حاسمة، تتقدم \"كانغ جاي-هي\" -وهي محققة سابقة في القوات الخاصة- بطلب لشغل وظيفة السكرتير، لكنها لا تتقدم بصفتها امرأة، بل كرجل! تنجح \"جاي-هي\" في الحصول على الوظيفة، لكن \"يي-جون\" يظل متيقظاً وحذراً للغاية، مما يضع \"جاي-هي\" في خطر الانكشاف منذ يوم عملها الأول.",
         "poster_path": "/7P15iqRBSl0bfwRTbOHKS2JBpak.jpg",
         "season_number": 1,
-        "vote_average": 6.9,
+        "vote_average": 7.7,
         "cast": [
           {
             "name": "ايم سي وان",
@@ -90040,6 +90053,6 @@
         "photo_url": "https://image.tmdb.org/t/p/w185/aj6K7PfdgmZN6SyQBFFvMeewGyf.jpg"
       }
     ],
-    "date_added": 1794688133159
+    "date_added": 1794701412119
   }
 ]
